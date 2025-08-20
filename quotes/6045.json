@@ -1,8 +1,9 @@
 {
   "name": "Kimi ni Todoke",
   "anilistId": 6045,
-  "totalQuotes": 12,
+  "totalQuotes": 13,
   "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T14:40:26.955Z",
   "quotes": [
     {
       "id": "quote_406_1755681758111",
@@ -75,6 +76,13 @@
       "character": "Kazuichi Arai",
       "show": "Kimi ni Todoke",
       "quote": "Blaming others isn't going to resolve anything. There'll be a lot of things that are injust throughout your life. You will have to stand up by yourself."
+    },
+    {
+      "id": "quote_549_1755700826955",
+      "character": "Kento Miura",
+      "show": "Kimi ni Todoke",
+      "quote": "She was stolen away before I even realized I liked her.\n\n\n",
+      "originalIndex": "4212"
     }
   ]
 }
