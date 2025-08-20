@@ -1,0 +1,27 @@
+{
+  "name": "Sket Dance",
+  "anilistId": 9863,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:32:57.381Z",
+  "quotes": [
+    {
+      "id": "quote_121_1755685977381",
+      "character": "Fujisaki Yusuke",
+      "show": "Sket Dance",
+      "quote": "The bully always says it's a joke. But to the one being bullied, it's dead serious!"
+    },
+    {
+      "id": "quote_122_1755685977381",
+      "character": "Ryōsuke Kirishima",
+      "show": "Sket Dance",
+      "quote": "Friends are treasures, help each other and value the bonds you have. Even if someone betrays you, never betray anyone yourself. And if someone's in trouble, don't just walk on by."
+    },
+    {
+      "id": "quote_123_1755685977381",
+      "character": "Fujisaki Yusuke",
+      "show": "Sket Dance",
+      "quote": "I bet it's not easy to persevere in one's goal. I never tried, so I wouldn't know. But to achieve a goal, one must work hard even when no one is looking. Having a dream might not be all that great."
+    }
+  ]
+}
