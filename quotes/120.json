@@ -1,8 +1,9 @@
 {
   "name": "Fruits Basket",
   "anilistId": 120,
-  "totalQuotes": 178,
+  "totalQuotes": 179,
   "totalCharacters": 18,
+  "lastUpdated": "2025-08-20T14:40:58.244Z",
   "quotes": [
     {
       "id": "quote_1172_1755663493031",
@@ -1071,6 +1072,13 @@
       "character": "Sohma Hatori",
       "show": "Fruits Basket",
       "quote": "He's just...he's still a child. There are still a lot of things he can't give up. There's no rush. (To Ayame about Yuki)"
+    },
+    {
+      "id": "quote_754_1755700858244",
+      "character": "Kyoko Honda",
+      "show": "Fruits Basket",
+      "quote": "I love you!! Even if you go bald or like underage girls, I can handle it! I'm crazy with love!! (Young Kyoko talking to Tohru's father/her husband)",
+      "originalIndex": "5970"
     }
   ]
 }
