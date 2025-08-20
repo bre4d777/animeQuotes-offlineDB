@@ -1,9 +1,9 @@
 {
   "name": "Bokura ga Ita",
   "anilistId": 1222,
-  "totalQuotes": 22,
+  "totalQuotes": 25,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T14:40:38.968Z",
+  "lastUpdated": "2025-08-20T15:29:33.981Z",
   "quotes": [
     {
       "id": "quote_87_1755686314534",
@@ -140,6 +140,24 @@
       "show": "Bokura ga Ita",
       "quote": "Let's make our past fade into comparison with the present.",
       "originalIndex": "8605"
+    },
+    {
+      "id": "quote_8_1755703773981",
+      "character": "Masafumi Takeuchi",
+      "show": "Bokura ga Ita",
+      "quote": "After all this time, after being by your side and always looking after you I failed to make a place for myself deep within your heart. "
+    },
+    {
+      "id": "quote_9_1755703773981",
+      "character": "Nanami Takahashi",
+      "show": "Bokura ga Ita",
+      "quote": "I wonder why people make promises they won't be able to keep.\r\n\r\n"
+    },
+    {
+      "id": "quote_10_1755703773981",
+      "character": "Motoharu Yano",
+      "show": "Bokura ga Ita",
+      "quote": "Human memories aren't reliable. Your brain will add something or just glorify it, memories make you believe what happened was better than it actually was.\n"
     }
   ]
 }
