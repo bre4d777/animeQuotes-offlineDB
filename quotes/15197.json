@@ -1,9 +1,9 @@
 {
-  "name": "Code Geass: Akito the Exiled",
+  "name": "Code Geass: Boukoku No Akito",
   "anilistId": 15197,
-  "totalQuotes": 2,
-  "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:33:02.211Z",
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T10:36:47.517Z",
   "quotes": [
     {
       "id": "quote_134_1755685982211",
@@ -16,6 +16,12 @@
       "character": "Shin Hyuga Shaing",
       "show": "Code Geass: Akito the Exiled",
       "quote": "Belief in others is an illusion concocted by the clever to exploit the stupid."
+    },
+    {
+      "id": "quote_50_1755686207517",
+      "character": "Gene Smilas",
+      "show": "Code Geass: Boukoku No Akito",
+      "quote": "A skilled dictator is much more beneficial to humanity than a democracy of ignorant people."
     }
   ]
 }
