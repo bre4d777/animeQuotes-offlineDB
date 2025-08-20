@@ -1,0 +1,26 @@
+{
+  "name": "Outlaw Star",
+  "anilistId": 400,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_1_1755682527646",
+      "character": "Outlaw Star",
+      "show": "Outlaw Star",
+      "quote": "Believe in yourself and create your own destiny. Don't fear fate."
+    },
+    {
+      "id": "quote_2_1755682527646",
+      "character": "Hilda",
+      "show": "Outlaw Star",
+      "quote": "No one's going to give you a map. You've got to walk your own path."
+    },
+    {
+      "id": "quote_3_1755682527646",
+      "character": "Outlaw Star",
+      "show": "Outlaw Star",
+      "quote": "A man has the right to dream. There are endless possibilities stretched out before him."
+    }
+  ]
+}
