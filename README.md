@@ -4,8 +4,8 @@ An organized collection of anime quotes, automatically scraped and categorized b
 
 ## 📊 Statistics
 
-- **Total Quotes**: 7,564
-- **Total Anime Series**: 757
+- **Total Quotes**: 7,565
+- **Total Anime Series**: 758
 - **Total Characters**: 2,503
 - **Last Updated**: 8/20/2025
 
@@ -20,19 +20,25 @@ Quotes are organized in the `quotes/` directory, with each anime having its own 
 
 - **AniList Integration**: Automatic mapping to AniList anime database
 - **Rate Limiting**: Intelligent handling of API rate limits
-- **Duplicate Detection**: Automatic cleaning of duplicate quotes
+- **Global Duplicate Detection**: Advanced deduplication across all quotes
 - **Batch Processing**: Efficient processing in manageable batches
 - **Git Automation**: Automatic commits and version control
+- **GitHub Data Source**: Updated to use wolfgunblood/anime-quotes repository
 
 ## 🤖 Automation
 
 This repository uses an enhanced scraper that:
-1. Fetches quotes from external APIs
-2. Cleans duplicates automatically
-3. Maps anime to AniList IDs with rate limiting
-4. Processes in batches for optimal performance
-5. Handles API errors and retries gracefully
-6. Maintains comprehensive statistics
+1. Fetches quotes from GitHub data source
+2. Transforms data format automatically
+3. Performs comprehensive duplicate removal
+4. Maps anime to AniList IDs with rate limiting
+5. Processes in batches for optimal performance
+6. Handles API errors and retries gracefully
+7. Maintains comprehensive statistics
+
+## 📄 Data Source
+
+Quotes are sourced from: https://github.com/wolfgunblood/anime-quotes
 
 ---
-*Generated automatically by enhanced anime-quotes-scraper v2.0*
+*Generated automatically by enhanced anime-quotes-scraper v2.1*

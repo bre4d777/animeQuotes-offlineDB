@@ -1,8 +1,9 @@
 {
   "name": "Trigun",
   "anilistId": 6,
-  "totalQuotes": 44,
+  "totalQuotes": 45,
   "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T14:37:30.120Z",
   "quotes": [
     {
       "id": "quote_2651_1755663631672",
@@ -267,6 +268,13 @@
       "character": "Legato Bluesummers",
       "show": "Trigun",
       "quote": "And to think, I could kill every man, woman and child here in the blink of an eye if I wanted to. The power of death is intoxicating."
+    },
+    {
+      "id": "quote_1_1755700650120",
+      "character": "Vash the Stampede",
+      "show": "Trigun",
+      "quote": "When something is gained, something is lost. It's difficult to live after something like that. What is lost will never return. Important things, irreplaceable things. But what is needed to keep those things is in the firm will, packed into one bullet. Man knows... he knows that nothing will begin unless he speaks, and that nothing will change unless he moves.",
+      "originalIndex": "0"
     }
   ]
 }
