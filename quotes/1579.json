@@ -1,0 +1,20 @@
+{
+  "name": "La Corda D'Oro - primo passo",
+  "anilistId": 1579,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_830_1755663459061",
+      "character": "Kahoko Hino",
+      "show": "La Corda D'Oro - primo passo",
+      "quote": "\"If you close down the way to your own path, it will always open up. That's why this isn't a song of ending. It is a new encounter. A song of beginning.\""
+    },
+    {
+      "id": "quote_831_1755663459061",
+      "character": "Azuma Yunoki",
+      "show": "La Corda D'Oro - primo passo",
+      "quote": "It's harder to fool one's self than to fool others."
+    }
+  ]
+}
