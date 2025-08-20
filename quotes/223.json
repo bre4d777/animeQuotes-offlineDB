@@ -1,8 +1,9 @@
 {
   "name": "Dragon Ball",
   "anilistId": 223,
-  "totalQuotes": 44,
-  "totalCharacters": 10,
+  "totalQuotes": 47,
+  "totalCharacters": 11,
+  "lastUpdated": "2025-08-20T14:40:10.770Z",
   "quotes": [
     {
       "id": "quote_972_1755681835574",
@@ -267,6 +268,27 @@
       "character": "Son Goku",
       "show": "Dragon Ball",
       "quote": "How can androids have babies?"
+    },
+    {
+      "id": "quote_524_1755700810770",
+      "character": "Grand Elder Guru",
+      "show": "Dragon Ball",
+      "quote": "Death is simply another stage of our life.\n\n",
+      "originalIndex": "4129"
+    },
+    {
+      "id": "quote_525_1755700810770",
+      "character": "Son Goku",
+      "show": "Dragon Ball",
+      "quote": "My butt's on fire!",
+      "originalIndex": "8586"
+    },
+    {
+      "id": "quote_526_1755700810770",
+      "character": "Son Goku",
+      "show": "Dragon Ball",
+      "quote": "Why do women have butts on their chests?",
+      "originalIndex": "8588"
     }
   ]
 }
