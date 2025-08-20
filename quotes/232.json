@@ -1,9 +1,9 @@
 {
   "name": "Cardcaptor Sakura",
   "anilistId": 232,
-  "totalQuotes": 40,
+  "totalQuotes": 41,
   "totalCharacters": 12,
-  "lastUpdated": "2025-08-20T14:41:10.120Z",
+  "lastUpdated": "2025-08-20T15:31:00.906Z",
   "quotes": [
     {
       "id": "quote_128_1755686711580",
@@ -280,6 +280,12 @@
       "show": "Cardcaptor Sakura",
       "quote": "Girls are scary when they're angry!",
       "originalIndex": "7475"
+    },
+    {
+      "id": "quote_49_1755703860906",
+      "character": "Fujitaka Kinomoto",
+      "show": "Cardcaptor Sakura",
+      "quote": "The world you can see isn't all out there. In the world there are a lot of fascinating things that no living soul has ever seen! And just in knowing that is one cause for happiness. I'm sure you can find happiness meant for you! It might be something you might not quite understand yet. But you'll find it, that much is certain! "
     }
   ]
 }
