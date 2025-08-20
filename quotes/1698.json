@@ -1,9 +1,9 @@
 {
   "name": "Nodame Cantabile",
   "anilistId": 1698,
-  "totalQuotes": 7,
+  "totalQuotes": 8,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T10:31:33.868Z",
+  "lastUpdated": "2025-08-20T15:34:36.661Z",
   "quotes": [
     {
       "id": "quote_58_1755685893868",
@@ -46,6 +46,12 @@
       "character": "Noda Megumi",
       "show": "Nodame Cantabile",
       "quote": "Senpai, take me to the art museum again. Next time, I'll carefully listen to what you say. Please feed me worms!"
+    },
+    {
+      "id": "quote_78_1755704076661",
+      "character": "Chiaki Shinichi",
+      "show": "Nodame Cantabile",
+      "quote": "You can't sit around envying other peoples worlds. You have to go out and change your own. "
     }
   ]
 }
