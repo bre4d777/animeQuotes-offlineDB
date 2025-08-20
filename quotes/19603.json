@@ -1,8 +1,9 @@
 {
-  "name": "Fate Stay Night - Unlimited Blade Works",
+  "name": "Fate/stay night: Unlimited Blade Works",
   "anilistId": 19603,
-  "totalQuotes": 2,
-  "totalCharacters": 1,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:44:59.341Z",
   "quotes": [
     {
       "id": "quote_59_1755682376656",
@@ -15,6 +16,12 @@
       "character": "Gilgamesh",
       "show": "Fate Stay Night - Unlimited Blade Works",
       "quote": "The things we can't obtain are the most beautiful ones."
+    },
+    {
+      "id": "quote_121_1755686699341",
+      "character": "Emiya Kiritsugu",
+      "show": "Fate/stay night: Unlimited Blade Works",
+      "quote": "Unfortunately... being a hero is a limited-time thing. When you grow up, it becomes harder to call yourself one. I wish it hadn't taken me so long to realize that."
     }
   ]
 }
