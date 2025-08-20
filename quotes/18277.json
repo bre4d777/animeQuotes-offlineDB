@@ -1,0 +1,26 @@
+{
+  "name": "Strike the Blood",
+  "anilistId": 18277,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_1239_1755681898829",
+      "character": "Akatsuki Kojou",
+      "show": "Strike the Blood",
+      "quote": "I know, someone like me can't just go out and change the world on a whim."
+    },
+    {
+      "id": "quote_1240_1755681898829",
+      "character": "Yukina Himeragi",
+      "show": "Strike the Blood",
+      "quote": "Being too rigid makes you fragile. You'll end up breaking yourself and those around you."
+    },
+    {
+      "id": "quote_1241_1755681898829",
+      "character": "Akatsuki Kojou",
+      "show": "Strike the Blood",
+      "quote": "You probably weren't wrong, but you went about it the wrong way."
+    }
+  ]
+}
