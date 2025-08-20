@@ -1,8 +1,9 @@
 {
   "name": "Fairy Tail",
   "anilistId": 6702,
-  "totalQuotes": 160,
+  "totalQuotes": 162,
   "totalCharacters": 32,
+  "lastUpdated": "2025-08-20T14:39:49.255Z",
   "quotes": [
     {
       "id": "quote_175_1755681749594",
@@ -963,6 +964,20 @@
       "character": "Gajeel Redfox",
       "show": "Fairy Tail",
       "quote": "After everything I've faced.... Having a future with you snatched away from me ...is definitely the most terrifying thing I've ever had to endure...."
+    },
+    {
+      "id": "quote_232_1755700789255",
+      "character": "Erza Scarlet",
+      "show": "Fairy Tail",
+      "quote": "\"Time\" is proof that people have lived. Every person lives the time that has been given to them... that is life. ",
+      "originalIndex": "3353"
+    },
+    {
+      "id": "quote_233_1755700789255",
+      "character": "Lucy Heartfilia",
+      "show": "Fairy Tail",
+      "quote": "*To Gajeel Redfox* You guys are complete idiots! I feel so sorry for you, I think I\\'m tearing up. Phantom Lord? The spirit ruler? What a joke; I\\'m not afraid of you at all!",
+      "originalIndex": "5023"
     }
   ]
 }
