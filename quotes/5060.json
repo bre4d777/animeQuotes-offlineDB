@@ -1,9 +1,9 @@
 {
   "name": "Axis Powers: Hetalia",
   "anilistId": 5060,
-  "totalQuotes": 39,
+  "totalQuotes": 41,
   "totalCharacters": 13,
-  "lastUpdated": "2025-08-20T14:41:34.020Z",
+  "lastUpdated": "2025-08-20T15:30:41.645Z",
   "quotes": [
     {
       "id": "quote_1552_1755681984279",
@@ -265,6 +265,18 @@
       "show": "Axis Powers: Hetalia",
       "quote": "You moron! Why did you become allied with Italy?",
       "originalIndex": "8400"
+    },
+    {
+      "id": "quote_42_1755703841645",
+      "character": "England",
+      "show": "Axis Powers: Hetalia",
+      "quote": "No surprise...the meeting ended once again without any resolution. Blast all. I really do wish there was someone around here who I didn't always fight with. ... Flying Mint Bunny! Did you come to try to cheer me up, huh? ...This is great! All my magical friends at the same time! But let's have no murders go around, okay? I'm serious guys! Hey, no fair chewing on my sleeve, Uni! I'm too ticklish, so stop the snuggling! You're naughty, Captain Hook, Tinkerbell's not big enough. Take that big, goofy, kissy face back to your little leprechaun friends, since they're the only ones who care! Kidding! Seriously, you're all nutburgers! What am I to do with you?\r\n"
+    },
+    {
+      "id": "quote_43_1755703841645",
+      "character": "America",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Check it out yo, how kick ass is my new fighter plane of doom!? Dude, it blowin your mind yet or what?\r\n"
     }
   ]
 }
