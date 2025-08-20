@@ -1,8 +1,9 @@
 {
   "name": "Pandora Hearts",
   "anilistId": 5530,
-  "totalQuotes": 39,
-  "totalCharacters": 12,
+  "totalQuotes": 75,
+  "totalCharacters": 13,
+  "lastUpdated": "2025-08-20T14:41:12.521Z",
   "quotes": [
     {
       "id": "quote_3022_1755663651403",
@@ -237,6 +238,258 @@
       "character": "Xerxes Break",
       "show": "Pandora Hearts",
       "quote": "Don't try to excuse yourself by saying you're doing it for someone else's sake."
+    },
+    {
+      "id": "quote_884_1755700872521",
+      "character": "Will Of The Abyss",
+      "show": "Pandora Hearts",
+      "quote": "I always thought that red would suit Cheshire.",
+      "originalIndex": "7476"
+    },
+    {
+      "id": "quote_885_1755700872521",
+      "character": "Will Of The Abyss",
+      "show": "Pandora Hearts",
+      "quote": "Hey, hurry and come pick me up. I've prepared many different kinds of dolls for you. Let's play together. Let's chat until we feel sleepy. And also... and also... yeah... my beloved ones.",
+      "originalIndex": "7477"
+    },
+    {
+      "id": "quote_886_1755700872521",
+      "character": "Will Of The Abyss",
+      "show": "Pandora Hearts",
+      "quote": "Hurry. Hurry... come pick me up.",
+      "originalIndex": "7478"
+    },
+    {
+      "id": "quote_887_1755700872521",
+      "character": "Will Of The Abyss",
+      "show": "Pandora Hearts",
+      "quote": "You will definitely regret... choosing the Black Rabbit over me.",
+      "originalIndex": "7479"
+    },
+    {
+      "id": "quote_888_1755700872521",
+      "character": "Vincent Nightray",
+      "show": "Pandora Hearts",
+      "quote": "The sky, the people, and me... it's all so red.",
+      "originalIndex": "7480"
+    },
+    {
+      "id": "quote_889_1755700872521",
+      "character": "Vincent Nightray",
+      "show": "Pandora Hearts",
+      "quote": "No one needs to know what happened 100 years ago.",
+      "originalIndex": "7481"
+    },
+    {
+      "id": "quote_890_1755700872521",
+      "character": "Vincent Nightray",
+      "show": "Pandora Hearts",
+      "quote": "I... I could never hate you!",
+      "originalIndex": "7482"
+    },
+    {
+      "id": "quote_891_1755700872521",
+      "character": "Vincent Nightray",
+      "show": "Pandora Hearts",
+      "quote": "You don't remember?.. That's good.",
+      "originalIndex": "7483"
+    },
+    {
+      "id": "quote_892_1755700872521",
+      "character": "Jack Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "*to Glenn* I don't want to kill you!!",
+      "originalIndex": "7484"
+    },
+    {
+      "id": "quote_893_1755700872521",
+      "character": "Jack Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "Humans...are weak aren't they?",
+      "originalIndex": "7485"
+    },
+    {
+      "id": "quote_894_1755700872521",
+      "character": "Jack Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "Be careful. You're being watched by the Will of Abyss.",
+      "originalIndex": "7486"
+    },
+    {
+      "id": "quote_895_1755700872521",
+      "character": "Alice",
+      "show": "Pandora Hearts",
+      "quote": "She is me, and I am her. Our existence is both the same and different. Alice. That was the name we were given.",
+      "originalIndex": "7487"
+    },
+    {
+      "id": "quote_896_1755700872521",
+      "character": "Alice",
+      "show": "Pandora Hearts",
+      "quote": "In the book Sharon showed me, there was a man who became more energetic after his cheeks were bitten!",
+      "originalIndex": "7488"
+    },
+    {
+      "id": "quote_897_1755700872521",
+      "character": "Alice",
+      "show": "Pandora Hearts",
+      "quote": "What is jealousy? Can you eat it? Is it sweet?",
+      "originalIndex": "7489"
+    },
+    {
+      "id": "quote_898_1755700872521",
+      "character": "Alice",
+      "show": "Pandora Hearts",
+      "quote": "I'm in a contract with you. You are my manservant, and as a manservant, what were you thinking, leaving me behind!?",
+      "originalIndex": "7490"
+    },
+    {
+      "id": "quote_899_1755700872521",
+      "character": "Alice",
+      "show": "Pandora Hearts",
+      "quote": "I'm scared that I'm not human. I'm scared that I'm different from other chains... I fear the things I don't know. I fear the things I already knew... and at every moment... I always... more than anyone... fear myself the most!",
+      "originalIndex": "7491"
+    },
+    {
+      "id": "quote_900_1755700872521",
+      "character": "Alice",
+      "show": "Pandora Hearts",
+      "quote": "Shut up, Seaweed Head.",
+      "originalIndex": "7492"
+    },
+    {
+      "id": "quote_901_1755700872521",
+      "character": "Alice",
+      "show": "Pandora Hearts",
+      "quote": "Nobody touches my PROPERTY! And Oz is my manservant - therefore, he is my property!",
+      "originalIndex": "7493"
+    },
+    {
+      "id": "quote_902_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "*to Gilbert* Don't think that I will abandon you!",
+      "originalIndex": "7494"
+    },
+    {
+      "id": "quote_903_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "*to Break* Perhaps Break is a lot weaker than I always thought he was. However, I'm sure that he's a whole lot stronger than he thinks he is.",
+      "originalIndex": "7495"
+    },
+    {
+      "id": "quote_904_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "I feel so...warm. We know... This calm won't last for long, but...we can't help hoping... That this dreamlike moment... will last.. Forever..",
+      "originalIndex": "7496"
+    },
+    {
+      "id": "quote_905_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "There's no reason... I'm just merely, obeying what I believe within me!",
+      "originalIndex": "7497"
+    },
+    {
+      "id": "quote_906_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "So... Alice just has to remain Alice!",
+      "originalIndex": "7498"
+    },
+    {
+      "id": "quote_907_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "I was rejected, never given any expectations... Then at least, I won't be a burden to others. It's alright if the only one who hurts is me!",
+      "originalIndex": "7499"
+    },
+    {
+      "id": "quote_908_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "It's fine, dummy! Since you're the one wearing it! *to Gilbert, while giving him clothes for the coming of age ceremony*",
+      "originalIndex": "7500"
+    },
+    {
+      "id": "quote_909_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "I want to know what it is, this \"sin\" they say I've committed.",
+      "originalIndex": "7501"
+    },
+    {
+      "id": "quote_910_1755700872521",
+      "character": "Oz Vessalius",
+      "show": "Pandora Hearts",
+      "quote": "Alice is my sun.",
+      "originalIndex": "7502"
+    },
+    {
+      "id": "quote_911_1755700872521",
+      "character": "Cheshire Cat",
+      "show": "Pandora Hearts",
+      "quote": "He makes you unhappy?...well then, Cheshire will destroy him!",
+      "originalIndex": "7503"
+    },
+    {
+      "id": "quote_912_1755700872521",
+      "character": "Cheshire Cat",
+      "show": "Pandora Hearts",
+      "quote": "Liar, liar, LIAR!!!",
+      "originalIndex": "7504"
+    },
+    {
+      "id": "quote_913_1755700872521",
+      "character": "Cheshire Cat",
+      "show": "Pandora Hearts",
+      "quote": "You might as well let Cheshire eat you!",
+      "originalIndex": "7505"
+    },
+    {
+      "id": "quote_914_1755700872521",
+      "character": "Cheshire Cat",
+      "show": "Pandora Hearts",
+      "quote": "Everything that made you sad, everything that hurt you, Cheshire will destroy them!",
+      "originalIndex": "7506"
+    },
+    {
+      "id": "quote_915_1755700872521",
+      "character": "Gilbert Nightray",
+      "show": "Pandora Hearts",
+      "quote": "In other words, it's fine if you die.",
+      "originalIndex": "7507"
+    },
+    {
+      "id": "quote_916_1755700872521",
+      "character": "Gilbert Nightray",
+      "show": "Pandora Hearts",
+      "quote": "*to Alice* Shut up, you stupid rabbit.",
+      "originalIndex": "7508"
+    },
+    {
+      "id": "quote_917_1755700872521",
+      "character": "Gilbert Nightray",
+      "show": "Pandora Hearts",
+      "quote": "*to Oz* No matter what happens, I will be beside you.",
+      "originalIndex": "7509"
+    },
+    {
+      "id": "quote_918_1755700872521",
+      "character": "Gilbert Nightray",
+      "show": "Pandora Hearts",
+      "quote": "Protecting the master... is supposed to be my job!",
+      "originalIndex": "7510"
+    },
+    {
+      "id": "quote_919_1755700872521",
+      "character": "Gilbert Nightray",
+      "show": "Pandora Hearts",
+      "quote": "Young Master!",
+      "originalIndex": "7511"
     }
   ]
 }
