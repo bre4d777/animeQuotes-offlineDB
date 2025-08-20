@@ -1,9 +1,9 @@
 {
   "name": "Darker than Black",
   "anilistId": 2025,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:24:14.696Z",
+  "lastUpdated": "2025-08-20T14:43:38.825Z",
   "quotes": [
     {
       "id": "quote_59_1755685454696",
@@ -28,6 +28,13 @@
       "character": "Hei",
       "show": "Darker than Black",
       "quote": "Spilled water will never return to its container."
+    },
+    {
+      "id": "quote_29_1755701018825",
+      "character": "Hei",
+      "show": "Darker than Black",
+      "quote": "If you pretend to feel a certain way, the feeling can become genuine all by accident.",
+      "originalIndex": "8595"
     }
   ]
 }
