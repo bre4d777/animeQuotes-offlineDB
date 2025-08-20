@@ -1,7 +1,7 @@
 {
-  "name": "The Garden of Sinners",
+  "name": "Kara no Kyoukai",
   "anilistId": 6954,
-  "totalQuotes": 21,
+  "totalQuotes": 23,
   "totalCharacters": 5,
   "quotes": [
     {
@@ -129,6 +129,18 @@
       "character": "Ryougi Shiki",
       "show": "The Garden of Sinners",
       "quote": "Everything in existence has a flaw. Not to mention humans, but air, will, and even time. It's natural to have an end if it has a beginning."
+    },
+    {
+      "id": "quote_1355_1755681931434",
+      "character": "Aozaki Touko",
+      "show": "Kara no Kyoukai",
+      "quote": "The human psyche goes out of whack so easily with minor elements, such as wall colors and staircase placement. Those who use them every day would be affected more dramatically."
+    },
+    {
+      "id": "quote_1356_1755681931434",
+      "character": "Aozaki Touko",
+      "show": "Kara no Kyoukai",
+      "quote": "A rose will be born a rose. Different soil and water wouldn't change it into a different flower."
     }
   ]
 }
