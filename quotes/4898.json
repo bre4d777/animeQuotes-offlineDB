@@ -1,8 +1,9 @@
 {
   "name": "Kuroshitsuji",
   "anilistId": 4898,
-  "totalQuotes": 48,
-  "totalCharacters": 10,
+  "totalQuotes": 189,
+  "totalCharacters": 14,
+  "lastUpdated": "2025-08-20T14:40:53.434Z",
   "quotes": [
     {
       "id": "quote_1350_1755663496079",
@@ -291,6 +292,993 @@
       "character": "Alois Trancy",
       "show": "Kuroshitsuji",
       "quote": "I have a dream at last. The butterfly trapped in spiderweb has no wings. That butterfly is... me."
+    },
+    {
+      "id": "quote_612_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": " If you are still determined to take your own life, please do so outside... *To Grell*",
+      "originalIndex": "4953"
+    },
+    {
+      "id": "quote_613_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "If he made a ripple in the long, long lazy life of a demon, then Alois Trancy's soul also was worth cracking open, per...haps.",
+      "originalIndex": "7649"
+    },
+    {
+      "id": "quote_614_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "Passion to insincerity, lies to reality, a stray dog into an Earl. That is...'s but...ler.",
+      "originalIndex": "7650"
+    },
+    {
+      "id": "quote_615_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "Ciel Phantomhive, I will pierce your soft skin with my needle... and slowly suck out your sensual soul.",
+      "originalIndex": "7651"
+    },
+    {
+      "id": "quote_616_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* Say, have your demonic senses weakened after devoting too much to that human's soul?",
+      "originalIndex": "7652"
+    },
+    {
+      "id": "quote_617_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "Passion to calm, hesitation to resolve, love to gravestones. That is the Trancy butler.",
+      "originalIndex": "7653"
+    },
+    {
+      "id": "quote_618_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "I simply have a hell of a desire to devour you, Master.",
+      "originalIndex": "7654"
+    },
+    {
+      "id": "quote_619_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "For a mere butler, to go that far... Don't worry, Young Master. The menial soul that can give love to one is only a butler.",
+      "originalIndex": "7655"
+    },
+    {
+      "id": "quote_620_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "*teasing Sebastian* A demon and a butler... I am one too.",
+      "originalIndex": "7656"
+    },
+    {
+      "id": "quote_621_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "Master.. I will always stay by your side. Day and night, sugar and salt, living and dead, impure and pure.",
+      "originalIndex": "7657"
+    },
+    {
+      "id": "quote_622_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* To touch something that is meant to transport food with one's shoes is a disgrace for a butler!",
+      "originalIndex": "7658"
+    },
+    {
+      "id": "quote_623_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "*to Alois* I am your loyal servant. Even if you do not try to attract my attention, I want to greedily devour you to the very end.",
+      "originalIndex": "7659"
+    },
+    {
+      "id": "quote_624_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "Yes, Your Highness.",
+      "originalIndex": "7660"
+    },
+    {
+      "id": "quote_625_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "Everyone, everything is happy!",
+      "originalIndex": "7661"
+    },
+    {
+      "id": "quote_626_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* Oh, so we were not going to the restroom together?",
+      "originalIndex": "7662"
+    },
+    {
+      "id": "quote_627_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "*to Luka* They should all die! All of them! Everything, annihilated!",
+      "originalIndex": "7663"
+    },
+    {
+      "id": "quote_628_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "My heart was entwined in a spider web. You'll always be my Highness. I wanted your love.",
+      "originalIndex": "7664"
+    },
+    {
+      "id": "quote_629_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "How does my blood smell? Do you want to devour me now?",
+      "originalIndex": "7665"
+    },
+    {
+      "id": "quote_630_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "*to Claude* Then show me those eyes. Not the eyes of those villagers who looked as if they'd seen a pile of vomit. Not the old man's greedy, inflamed eyes. That day, those eyes. Those eyes that longed only for me, Claude.",
+      "originalIndex": "7666"
+    },
+    {
+      "id": "quote_631_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "*to Claude* You are...you yourself are...My Highness!",
+      "originalIndex": "7667"
+    },
+    {
+      "id": "quote_632_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "Hannah, don't you think a sunny-side-up egg is pitiable? Its shell is broken and it's forced to publicly show an indecorous appearance. Then it becomes an eyeball, internal organs, or a plume. And I rob it of any and all possibilities.",
+      "originalIndex": "7668"
+    },
+    {
+      "id": "quote_633_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "How pitiable.",
+      "originalIndex": "7669"
+    },
+    {
+      "id": "quote_634_1755700853434",
+      "character": "Lau",
+      "show": "Kuroshitsuji",
+      "quote": "In this world, Earl, there're people who can't survive because of the cruelty of reality. I sell those people dreams.",
+      "originalIndex": "7670"
+    },
+    {
+      "id": "quote_635_1755700853434",
+      "character": "Lau",
+      "show": "Kuroshitsuji",
+      "quote": "The spider's web has already been woven. The more you struggle, the harder it becomes to escape from those bonds. Whatever the prey, once they get involved with me, catching them is only a matter of time.",
+      "originalIndex": "7671"
+    },
+    {
+      "id": "quote_636_1755700853434",
+      "character": "Lau",
+      "show": "Kuroshitsuji",
+      "quote": "I've got to exterminate the bad rats infesting my city, don't I? So I keep a cat. Meow!",
+      "originalIndex": "7672"
+    },
+    {
+      "id": "quote_637_1755700853434",
+      "character": "Lau",
+      "show": "Kuroshitsuji",
+      "quote": "The earl said there's no point in going after the small fries, but someone who tries something once will try it again, right?",
+      "originalIndex": "7673"
+    },
+    {
+      "id": "quote_638_1755700853434",
+      "character": "Lau",
+      "show": "Kuroshitsuji",
+      "quote": "Meh, Ran-Mao is my little sister. Yeah, my sister. Even though we aren't related by blood.",
+      "originalIndex": "7674"
+    },
+    {
+      "id": "quote_639_1755700853434",
+      "character": "Lau",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* That means you will steadily sink into mud. Even if you step toward a place from which you can't return, you choose not to reveal your screaming for help to other people, eh?",
+      "originalIndex": "7675"
+    },
+    {
+      "id": "quote_640_1755700853434",
+      "character": "Madame Red",
+      "show": "Kuroshitsuji",
+      "quote": "*referring to Vincent Phantomhive* I came to love my red hair that was just like my father's. I came to love red. I came to love you.",
+      "originalIndex": "7676"
+    },
+    {
+      "id": "quote_641_1755700853434",
+      "character": "Madame Red",
+      "show": "Kuroshitsuji",
+      "quote": "I used to hate my red hair that was just like my father's. I used to hate red.",
+      "originalIndex": "7677"
+    },
+    {
+      "id": "quote_642_1755700853434",
+      "character": "Madame Red",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* You want to take revenge for my murdered sister? Sister would definitely have not... we would not have wanted you to be like this.",
+      "originalIndex": "7678"
+    },
+    {
+      "id": "quote_643_1755700853434",
+      "character": "Madame Red",
+      "show": "Kuroshitsuji",
+      "quote": "*when Ciel questions why he's dressed up as a female for Aleister's party* Because I've always wanted a daughter! A cute daughter who would look lovely in those long flowing dresses!",
+      "originalIndex": "7679"
+    },
+    {
+      "id": "quote_644_1755700853434",
+      "character": "Madame Red",
+      "show": "Kuroshitsuji",
+      "quote": "*referring to getting into Aleister Chamber's party* Aren't you underestimating me? Aren't I rather popular? A few words here and there and it'll be arranged.",
+      "originalIndex": "7680"
+    },
+    {
+      "id": "quote_645_1755700853434",
+      "character": "Maylene",
+      "show": "Kuroshitsuji",
+      "quote": "I'll keep to what the young master has told me. To face the master with a clean mansion every day. That is a maid's job. I wipe away the mansion's dirt.",
+      "originalIndex": "7681"
+    },
+    {
+      "id": "quote_646_1755700853434",
+      "character": "Maylene",
+      "show": "Kuroshitsuji",
+      "quote": "These are my precious glasses that the young master bought for me! These maid outfits as well. Before I'd come here, I'd never worn anything like a skirt. I'm so happy I'm a maid now.",
+      "originalIndex": "7682"
+    },
+    {
+      "id": "quote_647_1755700853434",
+      "character": "Finnian",
+      "show": "Kuroshitsuji",
+      "quote": "The young master doesn't give me injections every day. The young master doesn't kill my friends. The young master doesn't lock me up. I love it here. That's why I decided I'd protect it.",
+      "originalIndex": "7683"
+    },
+    {
+      "id": "quote_648_1755700853434",
+      "character": "Finnian",
+      "show": "Kuroshitsuji",
+      "quote": "*to Agni, who tells him to be nice to the trees* Treat them kindly,' huh? Before I came here, I don't think I would have understood. But now, I feel like I can do it!",
+      "originalIndex": "7684"
+    },
+    {
+      "id": "quote_649_1755700853434",
+      "character": "Finnian",
+      "show": "Kuroshitsuji",
+      "quote": "It used to be that I couldn't go outside like this. So now it's fun to do it every day. I can touch trees and bugs and people.",
+      "originalIndex": "7685"
+    },
+    {
+      "id": "quote_650_1755700853434",
+      "character": "Finnian",
+      "show": "Kuroshitsuji",
+      "quote": "*when Agni asks him to mash potatoes* It requires strength? Since that's the case, I might be able to do it! I wanna do it! Please allow me to do it!",
+      "originalIndex": "7686"
+    },
+    {
+      "id": "quote_651_1755700853434",
+      "character": "Finnian",
+      "show": "Kuroshitsuji",
+      "quote": "But my strength is too large, so Mr. Sebastian forbids me to touch anything in the kitchen.",
+      "originalIndex": "7687"
+    },
+    {
+      "id": "quote_652_1755700853434",
+      "character": "Finnian",
+      "show": "Kuroshitsuji",
+      "quote": "*after Sebastian tells him to design the garden* Then... then ... I'll make a cool garden that looks like a transforming robot! Can I?!",
+      "originalIndex": "7688"
+    },
+    {
+      "id": "quote_653_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "Do not-arrogant people exist?",
+      "originalIndex": "7689"
+    },
+    {
+      "id": "quote_654_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "I ... humiliated as a pet ... my house was burnt, my family was killed. I was such a... powerless kid. Therefore, I returned to this place in order to make those people who put me through such fate taste the same humiliation. The successors of the generations killed three years prior would come to me as long as I am the head of the Phantomhive family that stands in their way. I'm waiting ...for them to come and try to kill me here.",
+      "originalIndex": "7690"
+    },
+    {
+      "id": "quote_655_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "So what? You're another person, so of course you look different. What do you need to be ashamed for? Besides, I'm free to be with whoever I want. No one has the right to say anything about it.",
+      "originalIndex": "7691"
+    },
+    {
+      "id": "quote_656_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "Listen when people are talking to you!!!",
+      "originalIndex": "7692"
+    },
+    {
+      "id": "quote_657_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "He is nothing more than one of my pawns. However, he is not a normal pawn. He is a pawn that can get across the whole board in one move.",
+      "originalIndex": "7693"
+    },
+    {
+      "id": "quote_658_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "What are you lazily standing around for? You obtained me my revenge. This is an order! Come and eat my soul already! Until the very moment when you eat all my soul you are my butler - Sebastian Michaelis!",
+      "originalIndex": "7694"
+    },
+    {
+      "id": "quote_659_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* Let's go, you cat-obsessed moron.",
+      "originalIndex": "7695"
+    },
+    {
+      "id": "quote_660_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "I'm sorry. Seeing Sebastian's corpse so many times... is just too much for me...",
+      "originalIndex": "7696"
+    },
+    {
+      "id": "quote_661_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "I'm a human being, Sebastian!",
+      "originalIndex": "7697"
+    },
+    {
+      "id": "quote_662_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "I'm arrogant, but not so much that I'd irresponsibly save someone just to brag about it.",
+      "originalIndex": "7698"
+    },
+    {
+      "id": "quote_663_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* I don't need your \"fawning\". It's disgusting.",
+      "originalIndex": "7699"
+    },
+    {
+      "id": "quote_664_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "*to Prince Sohma* Who's my best friend? Don't say such ridiculous things.",
+      "originalIndex": "7700"
+    },
+    {
+      "id": "quote_665_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "It's in bad taste to play games that make me feel like throwing up, Demon!",
+      "originalIndex": "7701"
+    },
+    {
+      "id": "quote_666_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "Enough already! I'm going to feel queer if I continue to live like this!",
+      "originalIndex": "7702"
+    },
+    {
+      "id": "quote_667_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "Father, Mother, God, please... Why? Why is there no one? No one comes to our rescue.",
+      "originalIndex": "7703"
+    },
+    {
+      "id": "quote_668_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* You shall never betray me. You shall never leave my side. No matter what!",
+      "originalIndex": "7704"
+    },
+    {
+      "id": "quote_669_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "I'm afraid today's game was quite uninteresting.",
+      "originalIndex": "7705"
+    },
+    {
+      "id": "quote_670_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "To smile happily, I've... forgotten.",
+      "originalIndex": "7706"
+    },
+    {
+      "id": "quote_671_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* You idiot!! Do you think I'd dance with a big, male partner like you?!",
+      "originalIndex": "7707"
+    },
+    {
+      "id": "quote_672_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "It's not like I became her fiancée. I was forced to do it.",
+      "originalIndex": "7708"
+    },
+    {
+      "id": "quote_673_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "Yes, \"kids\" have a great greed for games.",
+      "originalIndex": "7709"
+    },
+    {
+      "id": "quote_674_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* Ah, I can finally appear before you in my real form! Because isn't it embarrassing to appear before a handsome guy without makeup?",
+      "originalIndex": "7710"
+    },
+    {
+      "id": "quote_675_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* Such an ice king you are! A beautiful tyrant! An angelic devil! A raven with the wings of a dove! My little lamb with the appetite of a wolf... My very own Sebastian DARLING!!!",
+      "originalIndex": "7711"
+    },
+    {
+      "id": "quote_676_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "*to Claude* Ally? What's with that cliched word? Supreme love is always a battle to death!",
+      "originalIndex": "7712"
+    },
+    {
+      "id": "quote_677_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "I am the queen of all fruits!",
+      "originalIndex": "7713"
+    },
+    {
+      "id": "quote_678_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* This is great! I'm getting goosebumps all over my body, Little Sebas-chan! If I have your child, I will definitely give birth to it!",
+      "originalIndex": "7714"
+    },
+    {
+      "id": "quote_679_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "I'm going to use the heels of my shoes to step on this cold, uncaring face of yours! I want you to lick my shoes clean!",
+      "originalIndex": "7715"
+    },
+    {
+      "id": "quote_680_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "A good man's past makes people curious! But if he's a bad man, then it makes me wanna see even more!",
+      "originalIndex": "7716"
+    },
+    {
+      "id": "quote_681_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* Don't say that. I'm sure you'll become addicted to the taste of my \"death scythe\".",
+      "originalIndex": "7717"
+    },
+    {
+      "id": "quote_682_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "Even if I'm like this, I'm still the butler of death!",
+      "originalIndex": "7718"
+    },
+    {
+      "id": "quote_683_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "Lately, I've only been encountering unsophisticated prey. My scythe and I are unsatisfied.",
+      "originalIndex": "7719"
+    },
+    {
+      "id": "quote_684_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "Oh, Little Sebas-chan, I do love red the most. Hair, clothes, lipstick, I love them to be red. That's why I love using fresh blood to do make-up for those ugly women. The more flamboyant a woman is, the more she's as beautiful as a poisonous flower, right?",
+      "originalIndex": "7720"
+    },
+    {
+      "id": "quote_685_1755700853434",
+      "character": "Grell Sutcliff",
+      "show": "Kuroshitsuji",
+      "quote": "*to Sebastian* I really wanna do some vigorous exercise with you.",
+      "originalIndex": "7721"
+    },
+    {
+      "id": "quote_686_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Those round and innocent eyes that know no filth or foulness, those tails that lovingly swish as if they belong to nobility, those paws in the soft shade of warm light pink!",
+      "originalIndex": "7722"
+    },
+    {
+      "id": "quote_687_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Grell* You really have no standards.",
+      "originalIndex": "7723"
+    },
+    {
+      "id": "quote_688_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Yes...I am a demon. There's no way I could understand my prey, a human's sense of taste. What I understand is...only the taste of a human's soul.",
+      "originalIndex": "7724"
+    },
+    {
+      "id": "quote_689_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Grell* Isn't it a hot day?",
+      "originalIndex": "7725"
+    },
+    {
+      "id": "quote_690_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Hannah* I have a contract. Even if you steal him from me, he is still my Young Master. The lot of you aren't fit to even lick his soul.",
+      "originalIndex": "7726"
+    },
+    {
+      "id": "quote_691_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Forsake the future, sacrifice your dreams, while stained with deep despair, elude the past, fight the reality, and never relinquish your nobility. Just like that, Young Master. That is the soul I wish to consume.",
+      "originalIndex": "7727"
+    },
+    {
+      "id": "quote_692_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Claude, teasing him* This is your way, right? Day into night, sugar into salt, dark blue into gold. Then I will turn the gold... into black.",
+      "originalIndex": "7728"
+    },
+    {
+      "id": "quote_693_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Young Master... It's time to wake up.",
+      "originalIndex": "7729"
+    },
+    {
+      "id": "quote_694_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Now I can show you my true nature.",
+      "originalIndex": "7730"
+    },
+    {
+      "id": "quote_695_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Claude* How can you say that. I'm one hell of- wait, it's still early for that.",
+      "originalIndex": "7731"
+    },
+    {
+      "id": "quote_696_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "I do not need a thousand souls, I only need one, which is my master's.",
+      "originalIndex": "7732"
+    },
+    {
+      "id": "quote_697_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "I'm a butler. I can't let my master see the form that speaks badly of my reputation.",
+      "originalIndex": "7733"
+    },
+    {
+      "id": "quote_698_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* I shall make it as gentle as possible.",
+      "originalIndex": "7734"
+    },
+    {
+      "id": "quote_699_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Heaven? That has no hold over me.",
+      "originalIndex": "7735"
+    },
+    {
+      "id": "quote_700_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* I am your knight, after all.",
+      "originalIndex": "7736"
+    },
+    {
+      "id": "quote_701_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Unseemly... ugly... vicious... My true form.",
+      "originalIndex": "7737"
+    },
+    {
+      "id": "quote_702_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Cats are great. They don't talk about useless things. Or do them. Nothing is cuter. They are something that don't exist in my world. They have pets over there as well...but...it doesn't quite compare.",
+      "originalIndex": "7738"
+    },
+    {
+      "id": "quote_703_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Beast*  Wouldn't it be good to forget everything even if it's just for tonight? Indulge in pleasure...breathe a sweet poison deep into your lungs.",
+      "originalIndex": "7739"
+    },
+    {
+      "id": "quote_704_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel*  In your current state...you are even more like...My Lady.",
+      "originalIndex": "7740"
+    },
+    {
+      "id": "quote_705_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "For a king to survive it's good for him to be able to skillfully manipulate the other pieces using both the knight and the queen. Beneath the throne the bodies of your pieces will pile up along with your sins. You must not lose.",
+      "originalIndex": "7741"
+    },
+    {
+      "id": "quote_706_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* You're a child when it's convenient, huh.",
+      "originalIndex": "7742"
+    },
+    {
+      "id": "quote_707_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Any game becomes boring when it lacks thrills.",
+      "originalIndex": "7743"
+    },
+    {
+      "id": "quote_708_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "As long as there is the contract, I will protect your life. However, if you make a mistake of your own accord, you will possibly suffer a painful experience while alive. You already know that, don't you?",
+      "originalIndex": "7744"
+    },
+    {
+      "id": "quote_709_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to William Spears* My, my. How difficult to handle alone. But this large quantity of souls, shall a demon like me offer you assistance with them?",
+      "originalIndex": "7745"
+    },
+    {
+      "id": "quote_710_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "It has nothing to do with England or India. No matter where or when, it's the same. Humanity, that is.",
+      "originalIndex": "7746"
+    },
+    {
+      "id": "quote_711_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* Well, aren't you a very young master. You have summoned me. This fact will not change for all eternity. What has been sacrificed will never be returned. Now... choose.",
+      "originalIndex": "7747"
+    },
+    {
+      "id": "quote_712_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*talking to other servants* Why don't you all kneel down on the ground and beg for even a mere scrap of Agni's talents? Perhaps it would even improve you a little.",
+      "originalIndex": "7748"
+    },
+    {
+      "id": "quote_713_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "However, when trying to reach your goals, you need to learn how to eat some humble pie occasionally. If you don't, one small trip one day might mean your fall.",
+      "originalIndex": "7749"
+    },
+    {
+      "id": "quote_714_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Heaven? I don't have an affinity with that place.",
+      "originalIndex": "7751"
+    },
+    {
+      "id": "quote_715_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "*about Finnian* I have lived for a long time, but this is my first time meeting a space alien. What kind of counter-attack is that sparkly, smiley face expecting from me?",
+      "originalIndex": "7752"
+    },
+    {
+      "id": "quote_716_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "It seems your talent for dancing is non-existent. It must be crushing, young master.",
+      "originalIndex": "7753"
+    },
+    {
+      "id": "quote_717_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "Now... Earl, give me that!",
+      "originalIndex": "7754"
+    },
+    {
+      "id": "quote_718_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* You don't need to tell me, I know why you came, with just one look I can tell what's on your mind.",
+      "originalIndex": "7755"
+    },
+    {
+      "id": "quote_719_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "I wonder, if the butler isn't here, is the earl just a child who can't do anything?",
+      "originalIndex": "7756"
+    },
+    {
+      "id": "quote_720_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "Victoria, aye? I'm not a fan. She sits herself up so high above everyone else, and leaves the painful dirty work to the earl.",
+      "originalIndex": "7757"
+    },
+    {
+      "id": "quote_721_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "Today is a particular woman's special gala. The final great ceremony in each human's life. A funeral.",
+      "originalIndex": "7758"
+    },
+    {
+      "id": "quote_722_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "I don't want any of the queen's money!",
+      "originalIndex": "7759"
+    },
+    {
+      "id": "quote_723_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "*to Ciel* Welcome, Earl. Do you want to see how it feels to sleep in my custom-made coffin?",
+      "originalIndex": "7760"
+    },
+    {
+      "id": "quote_724_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "I won't let you touch him. Young master would be sullied if an inferior, dirty person like you were to touch him. *says to Alois*",
+      "originalIndex": "8115"
+    },
+    {
+      "id": "quote_725_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Under one of your orders, I am to be your pawn and your sword. So please, young master, move me into check.",
+      "originalIndex": "8117"
+    },
+    {
+      "id": "quote_726_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Even though I dislike being kicked by others, I do enjoy the feeling of kicking others.",
+      "originalIndex": "8118"
+    },
+    {
+      "id": "quote_727_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "I want you, Ciel Phantomhive. That's all there is to it.",
+      "originalIndex": "8124"
+    },
+    {
+      "id": "quote_728_1755700853434",
+      "character": "Claude Faustus",
+      "show": "Kuroshitsuji",
+      "quote": "Day into night, sugar into salt, living to dead, and dark blue into gold.",
+      "originalIndex": "8202"
+    },
+    {
+      "id": "quote_729_1755700853434",
+      "character": "Alois Trancy",
+      "show": "Kuroshitsuji",
+      "quote": "Hoheo taralna, rondero tarel!",
+      "originalIndex": "8203"
+    },
+    {
+      "id": "quote_730_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "If you are crying, fight against it! If you're regretting, walk forward! Only complaining on your misfortune, you're nothing but a common pig!",
+      "originalIndex": "8205"
+    },
+    {
+      "id": "quote_731_1755700853434",
+      "character": "Vincent Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "There is nothing shameful about being different from others. This is your character! Ann's red hair is really beautiful, just like the color of red spider lilies in their full bloom. Red really suits you. You should have more confidence in yourself.",
+      "originalIndex": "8206"
+    },
+    {
+      "id": "quote_732_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "The image reflected in a picture is but an illusion. However, even if it is an illusion, wishing to hold onto it is one of the hollow dreams humans have.",
+      "originalIndex": "8435"
+    },
+    {
+      "id": "quote_733_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "Make it hurt. Carve the pain of my life into my soul.",
+      "originalIndex": "8436"
+    },
+    {
+      "id": "quote_734_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "I thought that even if you died, somehow you would protect me.",
+      "originalIndex": "8437"
+    },
+    {
+      "id": "quote_735_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "The ring seems more like a collar to me. I hope that one day that collar chokes you.",
+      "originalIndex": "8438"
+    },
+    {
+      "id": "quote_736_1755700853434",
+      "character": "Undertaker",
+      "show": "Kuroshitsuji",
+      "quote": "Even though I told him to hold each and every soul dear. Because you hold great power you gradually fail to understand the importance of things that cannot be recovered. When it is realized and you lose your support...how many times have I given you and the others the same warning?",
+      "originalIndex": "8439"
+    },
+    {
+      "id": "quote_737_1755700853434",
+      "character": "Maylene",
+      "show": "Kuroshitsuji",
+      "quote": "It's useless. A tiny mouse can run anywhere...but they are always in my sight.",
+      "originalIndex": "8440"
+    },
+    {
+      "id": "quote_738_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "*Ciel to Prince Sohma* There are some things you can never get back, no matter how much effort you put in. And there are some feelings of despair, that you can never ever shake off.",
+      "originalIndex": "8443"
+    },
+    {
+      "id": "quote_739_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "I hate dogs... Actually, I detest them.",
+      "originalIndex": "8444"
+    },
+    {
+      "id": "quote_740_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Yes, my lord.",
+      "originalIndex": "8445"
+    },
+    {
+      "id": "quote_741_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Once one has rejected faith, it will become impossible for him to enter the gates of Heaven.",
+      "originalIndex": "8446"
+    },
+    {
+      "id": "quote_742_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "Friends... is it?That's the first time anyone has said that to me.",
+      "originalIndex": "8447"
+    },
+    {
+      "id": "quote_743_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "No, I won't abandon hate. If I did, then nothing would be left of me.",
+      "originalIndex": "8448"
+    },
+    {
+      "id": "quote_744_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "I knew it... No matter how I do it...there is always a smell. *after sleeping with a demon dog*",
+      "originalIndex": "8449"
+    },
+    {
+      "id": "quote_745_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "At this moment, my body and soul, to the last hair, belong to my master.",
+      "originalIndex": "8450"
+    },
+    {
+      "id": "quote_746_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "It's coming out~~~ *during the corset scene*",
+      "originalIndex": "8451"
+    },
+    {
+      "id": "quote_747_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "You aren't wrong. You fought to protect your world. What's wrong with that? In the end, \"justice\" is just an official line taken by those in power to serve their own ends. No one's looking out for others. If you're careless, you'll be robbed. There are only two kinds of people in this world. Those who steal, and those who are stolen from. And today, I steal your futures. That's all this is.",
+      "originalIndex": "8452"
+    },
+    {
+      "id": "quote_748_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "If it is your wish, I will follow you anywhere, even if your throne crumbles, and your shiny crown turns to rust. Even if the bodies pile up endlessly above the bottomless pile of corpses. Beside you as you lie down softly, I will be, until I hear the words \"Check Mate\"!",
+      "originalIndex": "8453"
+    },
+    {
+      "id": "quote_749_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "When something is gone, it will never return.",
+      "originalIndex": "8497"
+    },
+    {
+      "id": "quote_750_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "I'm just one hell of a butler...",
+      "originalIndex": "8553"
+    },
+    {
+      "id": "quote_751_1755700853434",
+      "character": "Ciel Phantomhive",
+      "show": "Kuroshitsuji",
+      "quote": "Kneel like a worm and beg the demon to do it.",
+      "originalIndex": "8572"
+    },
+    {
+      "id": "quote_752_1755700853434",
+      "character": "Sebastian Michaelis",
+      "show": "Kuroshitsuji",
+      "quote": "I can use my tongue to make a sakura branch into a butterfly knot.",
+      "originalIndex": "8584"
     }
   ]
 }
