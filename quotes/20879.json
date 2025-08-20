@@ -1,8 +1,9 @@
 {
-  "name": "Durarara!!×2",
+  "name": "Durarara!!×2 Ten",
   "anilistId": 20879,
-  "totalQuotes": 3,
+  "totalQuotes": 5,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:25:56.689Z",
   "quotes": [
     {
       "id": "quote_1114_1755681870741",
@@ -21,6 +22,18 @@
       "character": "Izaya Orihara",
       "show": "Durarara!!×2",
       "quote": "As a human, what kind of achievements will you leave behind?  I bet you'll leave behind a legacy as a psychotic killer, and that thrills me!"
+    },
+    {
+      "id": "quote_121_1755685556689",
+      "character": "Izaya Orihara",
+      "show": "Durarara!!×2 Ten",
+      "quote": "The harder you try to see the good in people the easier it is to fake you out."
+    },
+    {
+      "id": "quote_122_1755685556689",
+      "character": "Izaya Orihara",
+      "show": "Durarara!!×2 Ten",
+      "quote": "Oh, please. This world is so entertaining because it doesn't do anyone's bidding!"
     }
   ]
 }
