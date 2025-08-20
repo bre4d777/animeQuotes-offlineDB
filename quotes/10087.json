@@ -1,9 +1,9 @@
 {
   "name": "Fate/zero",
   "anilistId": 10087,
-  "totalQuotes": 78,
+  "totalQuotes": 79,
   "totalCharacters": 17,
-  "lastUpdated": "2025-08-20T14:37:59.876Z",
+  "lastUpdated": "2025-08-20T15:34:56.187Z",
   "quotes": [
     {
       "id": "quote_1686_1755663523585",
@@ -473,6 +473,12 @@
       "show": "Fate/zero",
       "quote": "There are two kinds of arrogance. One where you are unequal to the task and one where your dreams are too big. The former is commonplace stupidity... but the latter is a rare species that is difficult to find.\n",
       "originalIndex": "723"
+    },
+    {
+      "id": "quote_80_1755704096187",
+      "character": "Rider",
+      "show": "Fate/zero",
+      "quote": "  A king without greed is even worse than a figurehead! Saber, you said you would become a martyr for your ideals. In life, you must have been a pure saint. A proud and noble figure, certainly. But who can truly admire the martyr's thorny path? Who dreams of such an ending?\n\r\nA king... The king must be greedier than any other. He must laugh louder and rage harder. He must exemplify the extreme of all things, good and evil. That is why his retainers envy and adore him. And why the flames of aspiration, to be as the king is, can burn within his people.   \n\r\nProud king of chivalry... The righteousness and ideals you bore may indeed have saved your nation once. However, I'm certain you know what became of those who were saved, but left to themselves.\n\r\nYou saved them, but you never led them. You never showed them what a king should be. You abandoned your men when they lost their way. Then, alone and untroubled, you followed your own petty little ideals.\n\r\nThus, you are no true king. You are only a little girl, enraptured by a false idol of the king who serves others, but not themselves."
     }
   ]
 }
