@@ -1,8 +1,9 @@
 {
-  "name": "Magi - The Labyrinth of Magic",
+  "name": "MAGI: The Labyrinth Of Magic",
   "anilistId": 14513,
-  "totalQuotes": 8,
-  "totalCharacters": 8,
+  "totalQuotes": 15,
+  "totalCharacters": 9,
+  "lastUpdated": "2025-08-20T10:38:49.538Z",
   "quotes": [
     {
       "id": "quote_3348_1755663677460",
@@ -51,6 +52,48 @@
       "character": "Marga",
       "show": "Magi - The Labyrinth of Magic",
       "quote": "If you live after giving up on the things you want to do and the world around you doesn't sparkle, it's the same thing as being dead. If you don't give up, even if it's short, it'll be a fantastic life!"
+    },
+    {
+      "id": "quote_119_1755686329538",
+      "character": "Aladdin",
+      "show": "MAGI: The Labyrinth Of Magic",
+      "quote": "The bonds we have with those close to us, keep us connected always."
+    },
+    {
+      "id": "quote_120_1755686329538",
+      "character": "Aladdin",
+      "show": "MAGI: The Labyrinth Of Magic",
+      "quote": "If you follow your rage into battle, I have a feeling that terrible things can happen."
+    },
+    {
+      "id": "quote_121_1755686329538",
+      "character": "Ren Hakuryuu",
+      "show": "MAGI: The Labyrinth Of Magic",
+      "quote": "Hatred will never be erased! The only thing you can do... is erase the ones you hate!"
+    },
+    {
+      "id": "quote_122_1755686329538",
+      "character": "Aladdin",
+      "show": "MAGI: The Labyrinth Of Magic",
+      "quote": "Destiny isn't something to make you as you're told. By overcoming difficulties, life and this whole world can advance forward. That's what destiny is for. A world that has lost the power to advance forward, will be destroyed."
+    },
+    {
+      "id": "quote_123_1755686329538",
+      "character": "Alibaba Saluja",
+      "show": "MAGI: The Labyrinth Of Magic",
+      "quote": "If nobody cares to accept you and wants you in this world, accept yourself and you will see that you don't need them and their selfish ideas."
+    },
+    {
+      "id": "quote_124_1755686329538",
+      "character": "Aladdin",
+      "show": "MAGI: The Labyrinth Of Magic",
+      "quote": "Everything in the world is actually connected. That means, even if we get separated, we'll never be alone."
+    },
+    {
+      "id": "quote_125_1755686329538",
+      "character": "Aladdin",
+      "show": "MAGI: The Labyrinth Of Magic",
+      "quote": "I've learned that from a war ignited by revenge, nothing can be born, but sorrow."
     }
   ]
 }
