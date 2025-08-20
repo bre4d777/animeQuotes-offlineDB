@@ -1,8 +1,9 @@
 {
   "name": "Katekyo Hitman Reborn!",
   "anilistId": 1604,
-  "totalQuotes": 31,
-  "totalCharacters": 11,
+  "totalQuotes": 79,
+  "totalCharacters": 18,
+  "lastUpdated": "2025-08-20T14:40:43.855Z",
   "quotes": [
     {
       "id": "quote_1423_1755681954991",
@@ -189,6 +190,342 @@
       "character": "Reborn",
       "show": "Katekyo Hitman Reborn!",
       "quote": "The real me is super cool!"
+    },
+    {
+      "id": "quote_561_1755700843854",
+      "character": "Ryōhei Sasagawa",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "*To Lambo*  Smile... I said smile! Smile! Damn you! \n",
+      "originalIndex": "4917"
+    },
+    {
+      "id": "quote_562_1755700843854",
+      "character": "Belphegor",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "What a fierce fire.",
+      "originalIndex": "8255"
+    },
+    {
+      "id": "quote_563_1755700843854",
+      "character": "Hayato Gokudera",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "I got ran over a few times on my way here!",
+      "originalIndex": "8256"
+    },
+    {
+      "id": "quote_564_1755700843854",
+      "character": "Tsunayoshi Sawada",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "I don't need this kind of power. If you want me to inherit such mistakes then I will wipe out the Vongola!!",
+      "originalIndex": "8257"
+    },
+    {
+      "id": "quote_565_1755700843854",
+      "character": "Reborn",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "There's no time. Just do what he says for now. If he's lying, then we'll just blow his brains out.",
+      "originalIndex": "8258"
+    },
+    {
+      "id": "quote_566_1755700843854",
+      "character": "Hayato Gokudera",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Don't underestimate the Vongola!",
+      "originalIndex": "8259"
+    },
+    {
+      "id": "quote_567_1755700843854",
+      "character": "Superbi Squalo",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Don't think. Feel.",
+      "originalIndex": "8260"
+    },
+    {
+      "id": "quote_568_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Both hands to the front! Raise left hand!Raise right hand too!Haaaaa~~OPEN!",
+      "originalIndex": "8261"
+    },
+    {
+      "id": "quote_569_1755700843854",
+      "character": "Belphegor",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "*Fran asks if he can remove his hat* No way! You'll die wearing it!",
+      "originalIndex": "8262"
+    },
+    {
+      "id": "quote_570_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "But the thing is, I can't lift my arms because of this hat. So what I'm saying is, can I remove it?",
+      "originalIndex": "8263"
+    },
+    {
+      "id": "quote_571_1755700843854",
+      "character": "Belphegor",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "I'm going to kill you. Or better yet, commit suicide right here.",
+      "originalIndex": "8264"
+    },
+    {
+      "id": "quote_572_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "*talking about poses*  Don't all the heroes who transform and magicians who cast spells have those?I'm the type of person for whom doing that is necessary.",
+      "originalIndex": "8265"
+    },
+    {
+      "id": "quote_573_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "*Bel asks about Fran's box weapon* I did my best, but ... I couldn't think of a pose so I couldn't open it.",
+      "originalIndex": "8266"
+    },
+    {
+      "id": "quote_574_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Don't you ever spare a thought for the environmental crisis?",
+      "originalIndex": "8267"
+    },
+    {
+      "id": "quote_575_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Bel-senpai, can you pull the knives out of my back first? Your renowned knives have such a weird shape, it's kind of embarrassing to have them sticking out my back like this.",
+      "originalIndex": "8268"
+    },
+    {
+      "id": "quote_576_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Geh, please stop it, enough with the stabbing.",
+      "originalIndex": "8269"
+    },
+    {
+      "id": "quote_577_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "You know, I've been thinking, senpai, your head isn't really screwed on right. You were probably chased out of your homeland, right?",
+      "originalIndex": "8270"
+    },
+    {
+      "id": "quote_578_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Ahh, you made me cry. I'm reporting you to our long-haired, idiotic commander and asking for permission to kill you, senpai.",
+      "originalIndex": "8271"
+    },
+    {
+      "id": "quote_579_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Because I took Mammon's place, I was forced to wear this stupid hat. I didn't agree to wear this hat, you know.",
+      "originalIndex": "8272"
+    },
+    {
+      "id": "quote_580_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "The way you used 'but' there is all wrong, lightning pervert.",
+      "originalIndex": "8273"
+    },
+    {
+      "id": "quote_581_1755700843854",
+      "character": "Fran",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "In that case, Mr. Levi, why don't you go ahead and take them down yourself, please. I'll stay here and watch.",
+      "originalIndex": "8274"
+    },
+    {
+      "id": "quote_582_1755700843855",
+      "character": "Hayato Gokudera",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Anyone older than me is an enemy.",
+      "originalIndex": "8275"
+    },
+    {
+      "id": "quote_583_1755700843855",
+      "character": "Tsunayoshi Sawada",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Are you nothing without your wings?",
+      "originalIndex": "8276"
+    },
+    {
+      "id": "quote_584_1755700843855",
+      "character": "Colonello",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "One who loses their calm, loses the fight before it even starts.",
+      "originalIndex": "8277"
+    },
+    {
+      "id": "quote_585_1755700843855",
+      "character": "Hayato Gokudera",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Stupid cow.",
+      "originalIndex": "8278"
+    },
+    {
+      "id": "quote_586_1755700843855",
+      "character": "Hayato Gokudera",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Shouichi's a remarkable person and what's even more remarkable is that he doesn't look like one.",
+      "originalIndex": "8279"
+    },
+    {
+      "id": "quote_587_1755700843855",
+      "character": "Hayato Gokudera",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "You should just do as you please, like you always do.",
+      "originalIndex": "8280"
+    },
+    {
+      "id": "quote_588_1755700843855",
+      "character": "Vongola Primo Giotto",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Decimo, go scare the hell out of that Mare youngster.",
+      "originalIndex": "8281"
+    },
+    {
+      "id": "quote_589_1755700843855",
+      "character": "Ryōhei Sasagawa",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "This box is extremely yellow!",
+      "originalIndex": "8282"
+    },
+    {
+      "id": "quote_590_1755700843855",
+      "character": "XANXUS",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "In times of crisis, we stand united!",
+      "originalIndex": "8283"
+    },
+    {
+      "id": "quote_591_1755700843855",
+      "character": "Tsunayoshi Sawada",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Didn't you hear, we don't have time to play with you.",
+      "originalIndex": "8284"
+    },
+    {
+      "id": "quote_592_1755700843855",
+      "character": "Tsunayoshi Sawada",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Do I look the same as yesterday?",
+      "originalIndex": "8285"
+    },
+    {
+      "id": "quote_593_1755700843855",
+      "character": "Hibari Kyoya",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "It's not that I can't drink, I just choose not to.",
+      "originalIndex": "8286"
+    },
+    {
+      "id": "quote_594_1755700843855",
+      "character": "XANXUS",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Regardless of our internal strife, in times of Crisis, when we are attacked by scumbags from the outside... We, the Vongola, are always as one!",
+      "originalIndex": "8287"
+    },
+    {
+      "id": "quote_595_1755700843855",
+      "character": "Tsunayoshi Sawada",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "*training during the battle for the rings* Reborn! REST AS IF I WERE TO DIE!!",
+      "originalIndex": "8288"
+    },
+    {
+      "id": "quote_596_1755700843855",
+      "character": "Hibari Kyoya",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "To increase the flame of the ring is to be pissed off.",
+      "originalIndex": "8289"
+    },
+    {
+      "id": "quote_597_1755700843855",
+      "character": "Rokudou Mukuro",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "An illusionists illusion countered by another illusion, has already lost it's own perception.",
+      "originalIndex": "8290"
+    },
+    {
+      "id": "quote_598_1755700843855",
+      "character": "Dino Cavallone",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "What's with the tuna?..",
+      "originalIndex": "8291"
+    },
+    {
+      "id": "quote_599_1755700843855",
+      "character": "Takeshi Yamamoto",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "A game about mafias? Cool!",
+      "originalIndex": "8292"
+    },
+    {
+      "id": "quote_600_1755700843855",
+      "character": "Rokudou Mukuro",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "I only want you for your body.",
+      "originalIndex": "8293"
+    },
+    {
+      "id": "quote_601_1755700843855",
+      "character": "Reborn",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Do it with your dying will!",
+      "originalIndex": "8294"
+    },
+    {
+      "id": "quote_602_1755700843855",
+      "character": "Hibari Kyoya",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "I'll bite you to death!",
+      "originalIndex": "8295"
+    },
+    {
+      "id": "quote_603_1755700843855",
+      "character": "Rokudou Mukuro",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "The reason you lost, was because you had me as your opponent.",
+      "originalIndex": "8296"
+    },
+    {
+      "id": "quote_604_1755700843855",
+      "character": "Ryōhei Sasagawa",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "The dolphin has guts. I want him in my club!!!",
+      "originalIndex": "8297"
+    },
+    {
+      "id": "quote_605_1755700843855",
+      "character": "Reborn",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Wow Tsuna, you got some skills out there, getting yourself hurt in the hospital.",
+      "originalIndex": "8298"
+    },
+    {
+      "id": "quote_606_1755700843855",
+      "character": "Rokudou Mukuro",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Illusions... or real illusions. Hidden in an illusion is the real illusion. From one illusion will sprout another illusion. Hidden in truths lie lies, hidden in lies hides the truth.",
+      "originalIndex": "8299"
+    },
+    {
+      "id": "quote_607_1755700843855",
+      "character": "Takeshi Yamamoto",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "Yo, lambo, did u bathe?",
+      "originalIndex": "8300"
+    },
+    {
+      "id": "quote_608_1755700843855",
+      "character": "Hibari Kyoya",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "I will bite you to death!",
+      "originalIndex": "8549"
     }
   ]
 }
