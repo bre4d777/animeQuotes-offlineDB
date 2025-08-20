@@ -1,8 +1,9 @@
 {
-  "name": "Natsume Yuujinchou",
+  "name": "Natsume's Book of Friends",
   "anilistId": 188619,
-  "totalQuotes": 36,
+  "totalQuotes": 37,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T10:33:11.143Z",
   "quotes": [
     {
       "id": "quote_1949_1755663555672",
@@ -219,6 +220,12 @@
       "character": "Takashi Natsume",
       "show": "Natsume Yuujinchou",
       "quote": "If there's someone you wish to see, then you are no longer alone."
+    },
+    {
+      "id": "quote_136_1755685991143",
+      "character": "Takashi Natsume",
+      "show": "Natsume's Book of Friends",
+      "quote": "What's been troubling me lately are these small farewells that make me feel a bit lonely. Brief meetings and farewells. I want to treasure each and every moment."
     }
   ]
 }
