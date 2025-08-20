@@ -1,8 +1,9 @@
 {
-  "name": "Yojouhan Shinwa Taikei",
+  "name": "The Tatami Galaxy",
   "anilistId": 7785,
-  "totalQuotes": 2,
-  "totalCharacters": 1,
+  "totalQuotes": 5,
+  "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T11:01:18.934Z",
   "quotes": [
     {
       "id": "quote_2285_1755682218732",
@@ -15,6 +16,24 @@
       "character": "Higuchi Seitarou",
       "show": "Yojouhan Shinwa Taikei",
       "quote": "No one knows what the future holds in life.  We must take that endless bit of darkness and turn it to our advantage."
+    },
+    {
+      "id": "quote_130_1755687678934",
+      "character": "Watashi",
+      "show": "The Tatami Galaxy",
+      "quote": "If I could escape from here, I'd eat the tarako spaghetti at Café Collection, I'd slurp Neko Ramen, I'd dive into the large tub at the public bath, I'd go see movies at Kawaramachi, I'd haggle with the old bookstore owner on Gabino, I'd even listen during lectures at school! I'd become Master Higuchi's disciple and engage in lewd storytelling, I'd experience Hanuki-san's endless night of hell, I'd help Mr. Jougasaki with his passionate, meaningless films, I'd even try dabbling in the secret society. I had thought the days were all wasted, but they were such a bounty! Always dreaming of the unrealistic, I never looked at what I had right around me. That was the life I chose. And this is the result I wished for."
+    },
+    {
+      "id": "quote_131_1755687678934",
+      "character": "Watashi",
+      "show": "The Tatami Galaxy",
+      "quote": "I got to where I am by believing in my own potential! I'm not sure I'm saying it right... but why does my heart feel so cold? Maybe there's a choice I should have made that would have led to some other possibility?"
+    },
+    {
+      "id": "quote_132_1755687678934",
+      "character": "Seitaro Higuchi",
+      "show": "The Tatami Galaxy",
+      "quote": "You cannot use the word 'possibility' without limitations. Can you become a bunny girl? Can you become a pilot? Perhaps you could. But if you keep focusing your gaze on that which is unrealistic, you never will. The root of all your evil is in always relying on one of your other possibilities to get your wish. You must accept that you are the person here, now, and that you cannot become anyone else other than that person. There is no way that you can lead some worthwhile college life and feel satisfied. I guarantee it, so have confidence! There is no such thing as that rose-colored campus life. Why? Because there is nothing rose-colored in this world. Everything is all a bunch of colors mixed up, you see."
     }
   ]
 }
