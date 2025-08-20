@@ -1,9 +1,9 @@
 {
   "name": "Denpa Onna to Seishun Otoko",
   "anilistId": 9379,
-  "totalQuotes": 10,
+  "totalQuotes": 11,
   "totalCharacters": 5,
-  "lastUpdated": "2025-08-20T14:40:41.427Z",
+  "lastUpdated": "2025-08-20T15:34:24.426Z",
   "quotes": [
     {
       "id": "quote_1994_1755682104754",
@@ -65,6 +65,12 @@
       "show": "Denpa Onna to Seishun Otoko",
       "quote": "For questions where your chance of being correct is 50/50, it's best to go with your gut response.",
       "originalIndex": "4765"
+    },
+    {
+      "id": "quote_72_1755704064426",
+      "character": "Makoto Niwa",
+      "show": "Denpa Onna to Seishun Otoko",
+      "quote": "To have a name. To remove one layer of the unknown. To be painted in reality. If you have your feet firmly planted to the ground, you may have a chance to pull someone down.  "
     }
   ]
 }
