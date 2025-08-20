@@ -1,8 +1,9 @@
 {
   "name": "Avatar: The Last Airbender",
   "anilistId": null,
-  "totalQuotes": 118,
+  "totalQuotes": 119,
   "totalCharacters": 16,
+  "lastUpdated": "2025-08-20T14:41:03.034Z",
   "quotes": [
     {
       "id": "quote_1_1755681644647",
@@ -711,6 +712,13 @@
       "character": "Ty Lee",
       "show": "Avatar: The Last Airbender",
       "quote": "Nice speech, Azula! It was pretty and poetic, but also scary in a good way!"
+    },
+    {
+      "id": "quote_755_1755700863034",
+      "character": "Azula",
+      "show": "Avatar: The Last Airbender",
+      "quote": "[after winning a game of beach volleyball/\"Kuai Ball\"] Yes! We defeated you for all time! You will never rise from the ashes of your shame and humiliation! [pause] Well, that was fun.",
+      "originalIndex": "6549"
     }
   ]
 }
