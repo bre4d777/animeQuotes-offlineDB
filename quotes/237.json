@@ -1,8 +1,9 @@
 {
   "name": "Eureka Seven",
   "anilistId": 237,
-  "totalQuotes": 14,
+  "totalQuotes": 15,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T15:35:00.965Z",
   "quotes": [
     {
       "id": "quote_23_1755682358976",
@@ -87,6 +88,12 @@
       "character": "Anemone",
       "show": "Eureka Seven",
       "quote": "So many faces looking like they're thinking even though they're not. So disgusting."
+    },
+    {
+      "id": "quote_81_1755704100965",
+      "character": "Renton Thurston",
+      "show": "Eureka Seven",
+      "quote": "Don't beg for things, get them yourself or else you won't get anything. "
     }
   ]
 }
