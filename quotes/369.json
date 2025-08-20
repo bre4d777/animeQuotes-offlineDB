@@ -1,9 +1,9 @@
 {
   "name": "Boogiepop Phantom",
   "anilistId": 369,
-  "totalQuotes": 3,
+  "totalQuotes": 4,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:24:55.435Z",
+  "lastUpdated": "2025-08-20T14:39:27.581Z",
   "quotes": [
     {
       "id": "quote_102_1755685495435",
@@ -22,6 +22,13 @@
       "character": "Boogiepop",
       "show": "Boogiepop Phantom",
       "quote": "Human nature denies the past in order to justify the present. But do you believe there is anything in the present worth justifying?"
+    },
+    {
+      "id": "quote_214_1755700767581",
+      "character": "Boogiepop",
+      "show": "Boogiepop Phantom",
+      "quote": "Human nature denies the past in order to justify the present. But do you believe there is anything in the present worth justifying?\n",
+      "originalIndex": "1585"
     }
   ]
 }
