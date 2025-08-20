@@ -1,0 +1,26 @@
+{
+  "name": "Hibike! Euphonium",
+  "anilistId": 20912,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_1922_1755682076795",
+      "character": "Kawashima Sapphire",
+      "show": "Hibike! Euphonium",
+      "quote": "Music speaks to people's hearts, all throughout the world. I believe it's a powerful language."
+    },
+    {
+      "id": "quote_1923_1755682076795",
+      "character": "Kumiko Oumae",
+      "show": "Hibike! Euphonium",
+      "quote": "People aren't complicated. We work hard when we know that we'll get something in return, and we try to work even harder if that something is our own improvement."
+    },
+    {
+      "id": "quote_1924_1755682076795",
+      "character": "Noboru Taki",
+      "show": "Hibike! Euphonium",
+      "quote": "Music isn't supposed to be something you do to show off your abilities to your rivals."
+    }
+  ]
+}
