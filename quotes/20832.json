@@ -1,0 +1,26 @@
+{
+  "name": "Overlord",
+  "anilistId": 20832,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_86_1755682397923",
+      "character": "Ainz Ooal Gown",
+      "show": "Overlord",
+      "quote": "Death by sword. Death by broken bones. Death by crushing. There's not much difference, right? You die at the end."
+    },
+    {
+      "id": "quote_87_1755682397923",
+      "character": "Ainz Ooal Gown",
+      "show": "Overlord",
+      "quote": "It's fine. Everyone makes mistakes. You just need to make an effort not to make the same mistake again."
+    },
+    {
+      "id": "quote_88_1755682397923",
+      "character": "Dyne Woodwonder",
+      "show": "Overlord",
+      "quote": "The words you've said cannot be taken back. So you must take action to paint over what you have already said."
+    }
+  ]
+}
