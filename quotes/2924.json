@@ -1,14 +1,21 @@
 {
-  "name": "ef: a tale of memories",
+  "name": "ef - a tale of memories",
   "anilistId": 2924,
-  "totalQuotes": 1,
-  "totalCharacters": 1,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:48:17.426Z",
   "quotes": [
     {
       "id": "quote_2073_1755663569956",
       "character": "ef: a tale of memories",
       "show": "ef: a tale of memories",
       "quote": "“Miracles don't exist in this world. All that exists are accidents, inevitabilities and the actions that one takes.” That’s Himura’s favorite phrase, isn’t it? But sometimes the outcome of your actions, which becomes inevitable, will overlap with accidents, and fulfill your dream unexpectedly. I don’t know if that can be called a miracle, but there’s one thing I’m certain about. Nothing will happen if you don’t wish for it."
+    },
+    {
+      "id": "quote_3_1755686897426",
+      "character": "Himura Yuu",
+      "show": "ef - a tale of memories",
+      "quote": "This world revolves around two views on the same thing. In addition, it's about laughable miseries."
     }
   ]
 }
