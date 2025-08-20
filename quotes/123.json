@@ -1,15 +1,21 @@
 {
-  "name": "Fushigi Yugi",
+  "name": "Fushigi Yuugi",
   "anilistId": 123,
-  "totalQuotes": 1,
-  "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:41:34.625Z",
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:48:54.497Z",
   "quotes": [
     {
       "id": "quote_64_1755686494625",
       "character": "Tamahome",
       "show": "Fushigi Yugi",
       "quote": "Don't ever forget that with each step a person is able to take on their own, they have become that much stronger."
+    },
+    {
+      "id": "quote_20_1755686934497",
+      "character": "Chichiri",
+      "show": "Fushigi Yuugi",
+      "quote": "There is no such thing as a perfect person. That is why we cannot live alone."
     }
   ]
 }
