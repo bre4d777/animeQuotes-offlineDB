@@ -1,0 +1,26 @@
+{
+  "name": "Toriko",
+  "anilistId": 10033,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_1495_1755681960857",
+      "character": "Toriko",
+      "show": "Toriko",
+      "quote": "In this world, there's no such thing as \"failure\" in the first place. The one who knows the \"ways to win\" more than anyone is also the one who's experienced the most \"mistakes\". In other words... You could say \"failure\" is equal to \"success\"... Couldn't you?"
+    },
+    {
+      "id": "quote_1496_1755681960857",
+      "character": "Jiro",
+      "show": "Toriko",
+      "quote": "Life is like a playground swing, the higher and farther forward you go as you swing, it carries the risk of falling just as far back."
+    },
+    {
+      "id": "quote_1497_1755681960857",
+      "character": "Coco",
+      "show": "Toriko",
+      "quote": "Whether it's disappointing or not depends on the person. Things like uneasiness or indecision are in everyone's lives. What's important is to appreciate and grow from every kind of result. If you can grow from them, you can understand that all events are for the purpose of growing and you can appreciate them."
+    }
+  ]
+}
