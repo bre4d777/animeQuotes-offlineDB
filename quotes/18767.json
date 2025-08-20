@@ -1,0 +1,21 @@
+{
+  "name": "BlazBlue: Alter Memory",
+  "anilistId": 18767,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:53:05.334Z",
+  "quotes": [
+    {
+      "id": "quote_5_1755687185334",
+      "character": "Hakumen",
+      "show": "BlazBlue: Alter Memory",
+      "quote": "I am the white void, I am the cold steel, I am the just sword, with blade in hand shall I reap the sins of this world, and cleanse them in the fires of destruction! I am Hakumen! The end has come."
+    },
+    {
+      "id": "quote_6_1755687185334",
+      "character": "Hazama",
+      "show": "BlazBlue: Alter Memory",
+      "quote": "This whole world is nothing but lies, lies! Lemme show you what I like to call the truth, the truth called despair!"
+    }
+  ]
+}
