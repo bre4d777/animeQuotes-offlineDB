@@ -1,8 +1,9 @@
 {
   "name": "Gintama",
   "anilistId": 918,
-  "totalQuotes": 135,
+  "totalQuotes": 155,
   "totalCharacters": 20,
+  "lastUpdated": "2025-08-20T14:40:15.539Z",
   "quotes": [
     {
       "id": "quote_948_1755663484542",
@@ -813,6 +814,146 @@
       "character": "Gintoki Sakata",
       "show": "Gintama",
       "quote": "If we're unable to climb down the mountain, then we won't know whether there's another mountain to climb up."
+    },
+    {
+      "id": "quote_528_1755700815539",
+      "character": "Gintama",
+      "show": "Gintama",
+      "quote": "Do you have any idea how stupid we are? Don't underestimate us!!!\n",
+      "originalIndex": "4157"
+    },
+    {
+      "id": "quote_529_1755700815539",
+      "character": "Hijikata Toushirou",
+      "show": "Gintama",
+      "quote": "THERE'S NOT ENOUGH MAYONNAISE!",
+      "originalIndex": "8454"
+    },
+    {
+      "id": "quote_530_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "They have a one-eye bandaged member, so we'll be better and have a two-eye bandaged member!",
+      "originalIndex": "8455"
+    },
+    {
+      "id": "quote_531_1755700815539",
+      "character": "Okita Sougo",
+      "show": "Gintama",
+      "quote": "End your sentences in \"Woof\" please.",
+      "originalIndex": "8456"
+    },
+    {
+      "id": "quote_532_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "It may be tough now, but the worst is surely yet to come. Keep that in mind, and you'll be fine.",
+      "originalIndex": "8457"
+    },
+    {
+      "id": "quote_533_1755700815539",
+      "character": "Kagura",
+      "show": "Gintama",
+      "quote": "Kids these days just want to stuff their faces and make sweet love. At least that's what Gin-chan says.",
+      "originalIndex": "8458"
+    },
+    {
+      "id": "quote_534_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "Having no money is like having a sinus infection. You just ignore it and it goes away.",
+      "originalIndex": "8469"
+    },
+    {
+      "id": "quote_535_1755700815539",
+      "character": "Kotarō Katsura",
+      "show": "Gintama",
+      "quote": "Eyebrow Zombies... How about we call them Zombrows?",
+      "originalIndex": "8470"
+    },
+    {
+      "id": "quote_536_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "A life without gambling is like sushi without wasabi!",
+      "originalIndex": "8471"
+    },
+    {
+      "id": "quote_537_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "When a woman says something's cute, a man just can't trust it.",
+      "originalIndex": "8472"
+    },
+    {
+      "id": "quote_538_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "Listen up! Let's say you drink too much strawberry milk, and have to use the bathroom in the middle of the night. But it's cold outside your bed. You don't want to get up, but the urge to urinate is just too strong! You make up your mind to go! You run to the bathroom, stand in front of the toilet, and let loose! You think that all your life has led to this moment! But then you realize! It isn't the bathroom, you're still in bed! That feeling of lukewarm wetness spreads like wildfire! But you don't stop! You can't stop! That's what I'm talking about! THAT'S THE TRUTH OF THE STRAWBERRY MILK! DO YOU GET IT!?",
+      "originalIndex": "8473"
+    },
+    {
+      "id": "quote_539_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "*staring at his hand in the toilet* Do you know why people have two hands? That's because...",
+      "originalIndex": "8474"
+    },
+    {
+      "id": "quote_540_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "*Gintoki stopped by a metal detector* Could it be that this can even detect the blade of the soul?",
+      "originalIndex": "8475"
+    },
+    {
+      "id": "quote_541_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "Every since childhood we've dreamed of being pirates. We're looking for the fabled treasure they call \"One Pack\", right Zura? (One Piece parody)",
+      "originalIndex": "8476"
+    },
+    {
+      "id": "quote_542_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "Listen up! What we need is this! Yes, calcium! If we have enough calcium, we can do anything!",
+      "originalIndex": "8477"
+    },
+    {
+      "id": "quote_543_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "That's a good attitude. You should hate me more, curse me more, and detest me! Then you should take the power of that hatred and use it to survive in this rotten world. (parody of Naruto, Itachi)",
+      "originalIndex": "8478"
+    },
+    {
+      "id": "quote_544_1755700815539",
+      "character": "Kotarō Katsura",
+      "show": "Gintama",
+      "quote": "It's not Zura. IT'S KATSURA!",
+      "originalIndex": "8479"
+    },
+    {
+      "id": "quote_545_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "Oi, oi. Why do you have red eyes? Have you been playing Tetris all night?",
+      "originalIndex": "8480"
+    },
+    {
+      "id": "quote_546_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "Man, I wish I had a Bankai or something..",
+      "originalIndex": "8523"
+    },
+    {
+      "id": "quote_547_1755700815539",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "If you die, don't come crying to me about it.",
+      "originalIndex": "8558"
     }
   ]
 }
