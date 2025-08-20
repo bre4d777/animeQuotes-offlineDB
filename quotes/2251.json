@@ -1,8 +1,9 @@
 {
   "name": "Baccano!",
   "anilistId": 2251,
-  "totalQuotes": 22,
+  "totalQuotes": 23,
   "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T14:43:34.099Z",
   "quotes": [
     {
       "id": "quote_1518_1755681972776",
@@ -135,6 +136,13 @@
       "character": "Graham Specter",
       "show": "Baccano!",
       "quote": "Oh, life is fun! Try sayin' that ten times fast ten thousand times a minute every day for the rest of your life and it'll screw with your head so bad that all problems will disappear like MAGIC! Okay okay okay, I've gotten past the sadness and as of now I'm evolving to a HIGHER STAAAATE! Right? Tell me you all think so! Life is a magnificent beast, and it excites me!"
+    },
+    {
+      "id": "quote_27_1755701014099",
+      "character": "Graham Specter",
+      "show": "Baccano!",
+      "quote": "No, it's good, money is good. I'm not sure why, but everyone says money is good.",
+      "originalIndex": "8555"
     }
   ]
 }
