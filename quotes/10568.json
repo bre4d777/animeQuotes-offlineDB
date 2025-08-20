@@ -1,8 +1,9 @@
 {
   "name": "Kamisama No Memochou",
   "anilistId": 10568,
-  "totalQuotes": 20,
+  "totalQuotes": 21,
   "totalCharacters": 5,
+  "lastUpdated": "2025-08-20T14:40:08.361Z",
   "quotes": [
     {
       "id": "quote_2287_1755682221766",
@@ -123,6 +124,13 @@
       "character": "Shionji Yuuko",
       "show": "Kamisama No Memochou",
       "quote": "A detective must become nothing more than an advocate. We must never put words to the feelings that failed to take form."
+    },
+    {
+      "id": "quote_523_1755700808361",
+      "character": "Shionji Yuuko",
+      "show": "Kamisama No Memochou",
+      "quote": "What do you think killed the most people in history? It wasn't explosives or drugs. It was information. To know is to die.\n\n",
+      "originalIndex": "3988"
     }
   ]
 }
