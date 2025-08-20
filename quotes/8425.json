@@ -1,0 +1,50 @@
+{
+  "name": "Gosick",
+  "anilistId": 8425,
+  "totalQuotes": 7,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_1280_1755681913530",
+      "character": "Victorique de Blois",
+      "show": "Gosick",
+      "quote": "You were chosen as a single fragment with which I will fill up my boredom."
+    },
+    {
+      "id": "quote_1281_1755681913530",
+      "character": "Victorique de Blois",
+      "show": "Gosick",
+      "quote": "The gush from my fountain of wisdom told me."
+    },
+    {
+      "id": "quote_1282_1755681913530",
+      "character": "Victorique de Blois",
+      "show": "Gosick",
+      "quote": "*about Grevil* He's the owner of the oddest hair in all of Sauville."
+    },
+    {
+      "id": "quote_1283_1755681913530",
+      "character": "Kazuya Kujō",
+      "show": "Gosick",
+      "quote": "You've really got to hold on to what's important to you."
+    },
+    {
+      "id": "quote_1284_1755681913530",
+      "character": "Victorique de Blois",
+      "show": "Gosick",
+      "quote": "I'll take fragments from the chaos of this world... and using the fountain of wisdom inside me, will reconstruct them into truth."
+    },
+    {
+      "id": "quote_1285_1755681913530",
+      "character": "Kazuya Kujō",
+      "show": "Gosick",
+      "quote": "*after seeing Grevil's unicorn hairstyle for the first time* I've never seen such a creative hairstyle!"
+    },
+    {
+      "id": "quote_1286_1755681913530",
+      "character": "Victorique de Blois",
+      "show": "Gosick",
+      "quote": "On the one hand, humans seek out new stimuli with insatiable desire. On the other, they're also odd creatures that value old and very rare things."
+    }
+  ]
+}
