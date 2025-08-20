@@ -1,0 +1,26 @@
+{
+  "name": "Vampire Knight",
+  "anilistId": 3457,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_6_1755682457030",
+      "character": "Kaname Kuran",
+      "show": "Vampire Knight",
+      "quote": "Sometimes, forgetting is a type of happiness."
+    },
+    {
+      "id": "quote_7_1755682457030",
+      "character": "Kaname Kuran",
+      "show": "Vampire Knight",
+      "quote": "I’ve always been alone. The only one that can bring warmth into my life, is you."
+    },
+    {
+      "id": "quote_8_1755682457030",
+      "character": "Yuki Kuran",
+      "show": "Vampire Knight",
+      "quote": "If it's something I can only cry about in my heart, it's almost like a sin."
+    }
+  ]
+}
