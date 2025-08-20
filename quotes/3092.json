@@ -1,8 +1,9 @@
 {
-  "name": "Junjou Romantica",
+  "name": "Junjō Romantica",
   "anilistId": 3092,
-  "totalQuotes": 20,
-  "totalCharacters": 6,
+  "totalQuotes": 21,
+  "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T10:32:14.639Z",
   "quotes": [
     {
       "id": "quote_502_1755663436472",
@@ -123,6 +124,12 @@
       "character": "Akihiko Usami",
       "show": "Junjou Romantica",
       "quote": "To be able to stay beside a beloved one is the special privilege of a friend."
+    },
+    {
+      "id": "quote_77_1755685934639",
+      "character": "You Miyagi",
+      "show": "Junjō Romantica",
+      "quote": "I don't believe in destiny. I always thought that it was nothing more than an overlap of coincidences. But if a meeting changes from chance to inevitable, that's what we call destiny."
     }
   ]
 }
