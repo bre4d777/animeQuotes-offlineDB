@@ -1,9 +1,9 @@
 {
-  "name": "Kuroko's Basketball",
+  "name": "Kuroko No Basket",
   "anilistId": 11771,
-  "totalQuotes": 65,
+  "totalQuotes": 66,
   "totalCharacters": 16,
-  "lastUpdated": "2025-08-20T10:47:13.369Z",
+  "lastUpdated": "2025-08-20T14:40:31.736Z",
   "quotes": [
     {
       "id": "quote_650_1755663445177",
@@ -394,6 +394,13 @@
       "character": "Atsushi Murasakibara",
       "show": "Kuroko's Basketball",
       "quote": "All these things you guys seek....hard work, guts, faith....I'll crush them all."
+    },
+    {
+      "id": "quote_551_1755700831736",
+      "character": "Midorima Shintarou",
+      "show": "Kuroko No Basket",
+      "quote": "Don't give up! There's no shame in falling down! True shame is to not stand up again!\n",
+      "originalIndex": "4388"
     }
   ]
 }
