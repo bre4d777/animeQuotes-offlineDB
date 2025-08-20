@@ -1,15 +1,22 @@
 {
   "name": "Disgaea",
   "anilistId": 860,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:47:32.404Z",
+  "lastUpdated": "2025-08-20T14:40:13.164Z",
   "quotes": [
     {
       "id": "quote_216_1755686852404",
       "character": "Laharl",
       "show": "Disgaea",
       "quote": "You have no effect on me because you are flat chested!"
+    },
+    {
+      "id": "quote_527_1755700813164",
+      "character": "Laharl",
+      "show": "Disgaea",
+      "quote": "You have no effect on me because you are flat chested!\n\n",
+      "originalIndex": "4154"
     }
   ]
 }
