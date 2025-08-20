@@ -1,9 +1,9 @@
 {
   "name": "Shinsekai Yori",
   "anilistId": 13125,
-  "totalQuotes": 7,
+  "totalQuotes": 8,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:39:18.404Z",
+  "lastUpdated": "2025-08-20T14:39:34.775Z",
   "quotes": [
     {
       "id": "quote_145_1755686358404",
@@ -46,6 +46,13 @@
       "character": "Maria Akitsuki",
       "show": "Shinsekai Yori",
       "quote": "I think there are many things in this world we are better off not knowing. Sometimes the truth is the cruelest thing of all. Not everyone can bear it."
+    },
+    {
+      "id": "quote_223_1755700774775",
+      "character": "Maria Akitsuki",
+      "show": "Shinsekai Yori",
+      "quote": "I think there are many things in this world we are better off not knowing. Sometimes the truth is the cruelest thing of all. Not everyone can bear it.\n",
+      "originalIndex": "2496"
     }
   ]
 }
