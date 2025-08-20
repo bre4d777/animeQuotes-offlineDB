@@ -1,8 +1,9 @@
 {
   "name": "No Game No Life",
   "anilistId": 19815,
-  "totalQuotes": 28,
+  "totalQuotes": 29,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T14:38:06.826Z",
   "quotes": [
     {
       "id": "quote_1905_1755663550285",
@@ -171,6 +172,13 @@
       "character": "Sora",
       "show": "No Game No Life",
       "quote": "It's better for a man to be slow than fast."
+    },
+    {
+      "id": "quote_107_1755700686826",
+      "character": "Sora",
+      "show": "No Game No Life",
+      "quote": "Whats the probability of drawing the ace of spades from a deck with no jokers? Normaly it would be 1/50. But what if its a brand new deck? The position of cards in a new deck are typically identical, so that means if you take out the jokers and draw the card at the very bottom, it's the ace of spades almost 100% of the time. Oh that's right! I didn't say a word about it being a new deck. Rather, you didn't ask. Being in the \"no\" gives you the power to turn the probability of winning from 1.92% to 100%. The more knowledge of a party will be the inevitable victor.",
+      "originalIndex": "986"
     }
   ]
 }
