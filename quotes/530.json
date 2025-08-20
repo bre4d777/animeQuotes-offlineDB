@@ -1,0 +1,44 @@
+{
+  "name": "Sailor Moon",
+  "anilistId": 530,
+  "totalQuotes": 6,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_1512_1755681969746",
+      "character": "Sailor Chibi Moon",
+      "show": "Sailor Moon",
+      "quote": "Just 'cause you're a girl, it doesn't mean you have to wait for a prince to come along on a white horse. You can go out and find Prince Charming yourself. It is up to you to find the right boy."
+    },
+    {
+      "id": "quote_1513_1755681969746",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "I wasn't always fighting for love and justice. I was fighting for my friends and loved ones."
+    },
+    {
+      "id": "quote_1514_1755681969746",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "You - Idiot! Go ahead and cry! When I'm with you, you don't have to hold back. *Usagi runs into his arms, sobbing*"
+    },
+    {
+      "id": "quote_1515_1755681969746",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "If the pride of a senshi means hurting each other, I don't want it. Nothing will come out of fighting. Fighting isn't the only way to solve things."
+    },
+    {
+      "id": "quote_1516_1755681969746",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "You must believe in yourself, follow your path without fear."
+    },
+    {
+      "id": "quote_1517_1755681969746",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "One day, we will vanish. New senshi and new stars will be born. But you, Sailor Moon, you will forever be immortal. You will be the most beautiful star shining in the sky for eternity."
+    }
+  ]
+}
