@@ -1,8 +1,9 @@
 {
   "name": "Jinrui wa Suitai Shimashita",
   "anilistId": 10357,
-  "totalQuotes": 25,
+  "totalQuotes": 26,
   "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T15:37:01.446Z",
   "quotes": [
     {
       "id": "quote_2220_1755682191954",
@@ -153,6 +154,12 @@
       "character": "Watashi",
       "show": "Jinrui wa Suitai Shimashita",
       "quote": "Yes! One small candy for man, one giant candy for new mankind."
+    },
+    {
+      "id": "quote_98_1755704221446",
+      "character": "Watashi",
+      "show": "Jinrui wa Suitai Shimashita",
+      "quote": "The devil made me do it. It was all his fault. Yup, all him. Look at them shake. I don't blame them. The second I spotted them, I put a lid on the tin and ran away. In other words, I kidnapped them. Is there any way to spin this? I mean, any way to solve the problem? "
     }
   ]
 }
