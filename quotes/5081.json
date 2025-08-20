@@ -1,8 +1,9 @@
 {
   "name": "Bakemonogatari",
   "anilistId": 5081,
-  "totalQuotes": 65,
+  "totalQuotes": 67,
   "totalCharacters": 8,
+  "lastUpdated": "2025-08-20T15:33:34.227Z",
   "quotes": [
     {
       "id": "quote_1118_1755681877781",
@@ -393,6 +394,18 @@
       "character": "Koyomi Araragi",
       "show": "Bakemonogatari",
       "quote": "It's impossible for someone to replace someone else."
+    },
+    {
+      "id": "quote_57_1755704014227",
+      "character": "Senjougahara Hitagi",
+      "show": "Bakemonogatari",
+      "quote": "Different conclusions are reached when one fact is viewed from two separate points of view. When that happens, there is no immediate way to judge which point of view is the correct one. There is no way to conclude one's own conclusion is the correct one. But for that exact reason, it is also premature to decide one's own conclusion is wrong. "
+    },
+    {
+      "id": "quote_58_1755704014227",
+      "character": "Shinobu Oshino",
+      "show": "Bakemonogatari",
+      "quote": "The sun is my enemy, but the moon has been good to me. "
     }
   ]
 }
