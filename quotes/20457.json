@@ -1,0 +1,50 @@
+{
+  "name": "Black Bullet",
+  "anilistId": 20457,
+  "totalQuotes": 7,
+  "totalCharacters": 5,
+  "quotes": [
+    {
+      "id": "quote_2307_1755682224776",
+      "character": "Kayo Senju",
+      "show": "Black Bullet",
+      "quote": "If you're ever lost in the darkness, follow the compass in your heart."
+    },
+    {
+      "id": "quote_2308_1755682224776",
+      "character": "Rentaro Satomi",
+      "show": "Black Bullet",
+      "quote": "Just what is right and what is wrong...? To begin with, just who is the enemy I must defeat?"
+    },
+    {
+      "id": "quote_2309_1755682224776",
+      "character": "Tendou Kisara",
+      "show": "Black Bullet",
+      "quote": "Even if the world doesn't accept you, I'll always be right by your side!"
+    },
+    {
+      "id": "quote_2310_1755682224776",
+      "character": "Kayo Senju",
+      "show": "Black Bullet",
+      "quote": "Once you expect something in return, your good deed is no longer just a good deed."
+    },
+    {
+      "id": "quote_2311_1755682224776",
+      "character": "Sumire Muroto",
+      "show": "Black Bullet",
+      "quote": "Humans tend to think logically, but their actions are driven by emotions..."
+    },
+    {
+      "id": "quote_2312_1755682224776",
+      "character": "Tendou Kisara",
+      "show": "Black Bullet",
+      "quote": "It is not justice that can oppose evil. It is an absolute evil that overpowers evil itself."
+    },
+    {
+      "id": "quote_2313_1755682224776",
+      "character": "Satomi Rentarou",
+      "show": "Black Bullet",
+      "quote": "The scariest thing about killing people is getting used to it! When you kill someone and realize you won't be punished... That's when people forget all about punishment!"
+    }
+  ]
+}
