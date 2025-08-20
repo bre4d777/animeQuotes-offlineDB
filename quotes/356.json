@@ -1,8 +1,9 @@
 {
   "name": "Fate/stay night",
   "anilistId": 356,
-  "totalQuotes": 74,
+  "totalQuotes": 75,
   "totalCharacters": 11,
+  "lastUpdated": "2025-08-20T14:43:31.684Z",
   "quotes": [
     {
       "id": "quote_597_1755681790745",
@@ -447,6 +448,13 @@
       "character": "Archer",
       "show": "Fate/stay night",
       "quote": "That's right! I admired his desire to save people because it was beautiful! But none of that feeling is my own! What else can you call it but hypocrisy?! I was driven by my obsessive need to help someone. I kept running, neither noticing the pain nor how wrong I was! But it's all a fake. Such hypocrisy can not save anything. No, first of all, I didn't even know what I wanted to save!"
+    },
+    {
+      "id": "quote_26_1755701011684",
+      "character": "Archer",
+      "show": "Fate/stay night",
+      "quote": "Drown in your ideals and die!",
+      "originalIndex": "8554"
     }
   ]
 }
