@@ -1,0 +1,32 @@
+{
+  "name": "Tokyo Ghoul √A",
+  "anilistId": 20850,
+  "totalQuotes": 4,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_1370_1755681937567",
+      "character": "Kaneki Ken",
+      "show": "Tokyo Ghoul √A",
+      "quote": "\"Never trust anyone too much... Remember the devil was once an angel...\""
+    },
+    {
+      "id": "quote_1371_1755681937567",
+      "character": "Kaneki Ken",
+      "show": "Tokyo Ghoul √A",
+      "quote": "All the liabilities in this world are due to the inadequacies of the person involved."
+    },
+    {
+      "id": "quote_1372_1755681937567",
+      "character": "Juuzou Suzuya",
+      "show": "Tokyo Ghoul √A",
+      "quote": "Whether we die or not, isn't really that big a deal."
+    },
+    {
+      "id": "quote_1373_1755681937567",
+      "character": "Yoshimura",
+      "show": "Tokyo Ghoul √A",
+      "quote": "Life is a succession of committing sin. Life is evil itself. I'm conscious that I'm evil. And so are all of you."
+    }
+  ]
+}
