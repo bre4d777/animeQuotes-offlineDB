@@ -1,0 +1,32 @@
+{
+  "name": "Phantom: Requiem For The Phantom",
+  "anilistId": 5682,
+  "totalQuotes": 4,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_2223_1755663589825",
+      "character": "Cal Devens",
+      "show": "Phantom: Requiem For The Phantom",
+      "quote": "Please tell me, if I could never have happiness in real life, can't I at least get to dream about it sometimes?"
+    },
+    {
+      "id": "quote_2224_1755663589825",
+      "character": "Scythe Master",
+      "show": "Phantom: Requiem For The Phantom",
+      "quote": "This has nothing to do with will. There is neither an egg that refuses to hatch nor a seed that evades it's eventual sprouting."
+    },
+    {
+      "id": "quote_2225_1755663589825",
+      "character": "Ein",
+      "show": "Phantom: Requiem For The Phantom",
+      "quote": "If this world wasn't a complete hell for me, that's because you were alive."
+    },
+    {
+      "id": "quote_2226_1755663589825",
+      "character": "Ein",
+      "show": "Phantom: Requiem For The Phantom",
+      "quote": "Dreams are illusions. All they do is interfere with reality."
+    }
+  ]
+}
