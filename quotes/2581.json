@@ -1,8 +1,9 @@
 {
   "name": "Mobile Suit Gundam 00",
   "anilistId": 2581,
-  "totalQuotes": 17,
+  "totalQuotes": 18,
   "totalCharacters": 9,
+  "lastUpdated": "2025-08-20T14:39:39.691Z",
   "quotes": [
     {
       "id": "quote_2_1755682350209",
@@ -105,6 +106,13 @@
       "character": "Ribbons Almark",
       "show": "Mobile Suit Gundam 00",
       "quote": "Whether you like it or not, time will leave you behind. In the same way that your beauty will wither away with time. In order to cling to the glorious past, people achieve peace by hurting others. People know it isn't the right thing to do, but they're unable to stop any of it. Wouldn't you agree that someone needs to teach them a lesson?"
+    },
+    {
+      "id": "quote_228_1755700779691",
+      "character": "Lockon Stratos",
+      "show": "Mobile Suit Gundam 00",
+      "quote": "I came to believe that a world where people can understand each other isn't impossible. That's why even if the world rejects me... even if the world blames me... I'll keep on fighting.\n",
+      "originalIndex": "2920"
     }
   ]
 }
