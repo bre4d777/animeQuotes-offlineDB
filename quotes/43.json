@@ -1,8 +1,9 @@
 {
   "name": "Ghost in the Shell",
   "anilistId": 43,
-  "totalQuotes": 15,
+  "totalQuotes": 16,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T15:35:27.815Z",
   "quotes": [
     {
       "id": "quote_689_1755681796647",
@@ -93,6 +94,12 @@
       "character": "Puppet Master",
       "show": "Ghost in the Shell",
       "quote": "And can you offer me proof of your existence? How can you, when neither modern science nor philosophy can explain what life is?"
+    },
+    {
+      "id": "quote_82_1755704127815",
+      "character": "Batou",
+      "show": "Ghost in the Shell",
+      "quote": "I guess once you start doubting, there's no end to it.\n\n\n\n"
     }
   ]
 }
