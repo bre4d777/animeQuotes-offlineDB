@@ -1,9 +1,9 @@
 {
   "name": "Dragon Ball",
   "anilistId": 223,
-  "totalQuotes": 47,
+  "totalQuotes": 49,
   "totalCharacters": 11,
-  "lastUpdated": "2025-08-20T14:40:10.770Z",
+  "lastUpdated": "2025-08-20T15:29:55.501Z",
   "quotes": [
     {
       "id": "quote_972_1755681835574",
@@ -289,6 +289,18 @@
       "show": "Dragon Ball",
       "quote": "Why do women have butts on their chests?",
       "originalIndex": "8588"
+    },
+    {
+      "id": "quote_22_1755703795501",
+      "character": "Bulma",
+      "show": "Dragon Ball",
+      "quote": "Look Goku, you can go out in public and have your hair sticking out in every direction if you want to, but not me!"
+    },
+    {
+      "id": "quote_23_1755703795501",
+      "character": "Android 16",
+      "show": "Dragon Ball",
+      "quote": "Gohan, let it go. It is not a sin to fight for the right cause. There are those who words alone will not reach. "
     }
   ]
 }
