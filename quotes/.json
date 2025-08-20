@@ -1,9 +1,9 @@
 {
   "name": "",
   "anilistId": null,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T14:43:12.708Z",
+  "lastUpdated": "2025-08-20T15:36:34.530Z",
   "quotes": [
     {
       "id": "quote_508_1755700796291",
@@ -32,6 +32,12 @@
       "show": "",
       "quote": "Those who hurt her, put her in danger, those who caused her misfortune, I eliminate them. Even if the cause is me.",
       "originalIndex": "5204"
+    },
+    {
+      "id": "quote_94_1755704194530",
+      "character": "Mariemaia Khushrenada",
+      "show": "",
+      "quote": "You could say history is like an endless waltz. Three measures of war, peace, and revolution continue in an endless cycle. "
     }
   ]
 }
