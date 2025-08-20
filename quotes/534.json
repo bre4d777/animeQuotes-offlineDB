@@ -1,9 +1,9 @@
 {
   "name": "Slayers",
   "anilistId": 534,
-  "totalQuotes": 8,
+  "totalQuotes": 9,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T10:37:53.925Z",
+  "lastUpdated": "2025-08-20T15:35:52.311Z",
   "quotes": [
     {
       "id": "quote_24_1755686273925",
@@ -52,6 +52,12 @@
       "character": "Lina Inverse",
       "show": "Slayers",
       "quote": "Don’t tell me he wants to conquer the world? Can’t he come up with something more original?"
+    },
+    {
+      "id": "quote_83_1755704152311",
+      "character": "Lina Inverse",
+      "show": "Slayers",
+      "quote": "You guys are free to have a fight anywhere you want to, but interfering with an innocent girl’s meal is unforgivable. And, if it happens to be Lina Inverse’s meal, you’re lucky to be alive!\r\n "
     }
   ]
 }
