@@ -1,8 +1,9 @@
 {
   "name": "Ergo Proxy",
   "anilistId": 790,
-  "totalQuotes": 7,
+  "totalQuotes": 8,
   "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T14:39:42.091Z",
   "quotes": [
     {
       "id": "quote_1850_1755682053551",
@@ -45,6 +46,13 @@
       "character": "Hoody",
       "show": "Ergo Proxy",
       "quote": "A lie is truth, until you recognize it as a lie. To see the truth behind those lies is probably the right thing to do. However, it may not necessarily bring happiness. Lies are Happiness."
+    },
+    {
+      "id": "quote_229_1755700782091",
+      "character": "Ergo Proxy",
+      "show": "Ergo Proxy",
+      "quote": "We are the sum of our memories. Erasing the memories edged in oneself is the same as loosing oneself.\n",
+      "originalIndex": "3071"
     }
   ]
 }
