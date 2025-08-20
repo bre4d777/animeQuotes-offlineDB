@@ -1,8 +1,9 @@
 {
   "name": "Samurai Champloo",
   "anilistId": 205,
-  "totalQuotes": 22,
+  "totalQuotes": 24,
   "totalCharacters": 5,
+  "lastUpdated": "2025-08-20T14:43:29.326Z",
   "quotes": [
     {
       "id": "quote_1900_1755682073965",
@@ -135,6 +136,20 @@
       "character": "Jin",
       "show": "Samurai Champloo",
       "quote": "*to Mugen* Do you want to go through all the trouble of causing an uproar to expose the level of your idiocy? Try to moderate your self-importance."
+    },
+    {
+      "id": "quote_24_1755701009326",
+      "character": "Mugen",
+      "show": "Samurai Champloo",
+      "quote": "Is there a need for a reason to kill someone?",
+      "originalIndex": "8545"
+    },
+    {
+      "id": "quote_25_1755701009326",
+      "character": "Mugen",
+      "show": "Samurai Champloo",
+      "quote": "If living means that I must bow down to you guys, I will happily stand tall and die!",
+      "originalIndex": "8548"
     }
   ]
 }
