@@ -1,8 +1,9 @@
 {
   "name": "Cowboy Bebop",
   "anilistId": 1,
-  "totalQuotes": 29,
+  "totalQuotes": 34,
   "totalCharacters": 8,
+  "lastUpdated": "2025-08-20T15:34:34.177Z",
   "quotes": [
     {
       "id": "quote_223_1755681666566",
@@ -177,6 +178,36 @@
       "character": "Spike Spiegel",
       "show": "Cowboy Bebop",
       "quote": "I felt like I was watching a dream I'd never wake up from. Before I knew it, the dream was all over."
+    },
+    {
+      "id": "quote_73_1755704074177",
+      "character": "Vicious",
+      "show": "Cowboy Bebop",
+      "quote": "Angels banished from heaven have no choice but to become devils. "
+    },
+    {
+      "id": "quote_74_1755704074177",
+      "character": "Jet Black",
+      "show": "Cowboy Bebop",
+      "quote": "Men always seem to think about their past before they die, as though they were frantically searching for proof that they truly lived. "
+    },
+    {
+      "id": "quote_75_1755704074177",
+      "character": "Faye Valentine",
+      "show": "Cowboy Bebop",
+      "quote": "Survival of the fittest is the law of nature. We deceive or we are deceived. Thus, we flourish or perish. Nothing good ever happened to me when I trusted others. That is the lesson. "
+    },
+    {
+      "id": "quote_76_1755704074177",
+      "character": "Laughing Bull",
+      "show": "Cowboy Bebop",
+      "quote": "Do not fear Death. Death is always at our side. When we show fear, it jumps at us faster than light. But, if we do not show fear, it casts its eye upon us gently and then guides us into infinity. "
+    },
+    {
+      "id": "quote_77_1755704074177",
+      "character": "Faye Valentine",
+      "show": "Cowboy Bebop",
+      "quote": "The past is the past and the future is the future. A man is a man and a woman is a woman. The present is the present. I am who I am and you are who you are. That's all there is to it. Does it really matter? Or do we just think it does? "
     }
   ]
 }
