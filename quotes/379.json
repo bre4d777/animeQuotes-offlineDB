@@ -1,0 +1,27 @@
+{
+  "name": "Excel Saga",
+  "anilistId": 379,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:45:28.540Z",
+  "quotes": [
+    {
+      "id": "quote_137_1755686728540",
+      "character": "Excel",
+      "show": "Excel Saga",
+      "quote": "Please don't worry, Mister, I only came here to obliterate you – not rob you."
+    },
+    {
+      "id": "quote_138_1755686728540",
+      "character": "Excel",
+      "show": "Excel Saga",
+      "quote": "Come on, scribbles on the bathroom wall, please show me the path that I must follow!"
+    },
+    {
+      "id": "quote_139_1755686728540",
+      "character": "Cosette Sara",
+      "show": "Excel Saga",
+      "quote": "Things learned as a child stay with you forever."
+    }
+  ]
+}
