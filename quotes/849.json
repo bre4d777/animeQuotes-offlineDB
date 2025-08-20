@@ -1,8 +1,9 @@
 {
   "name": "The Melancholy of Haruhi Suzumiya",
   "anilistId": 849,
-  "totalQuotes": 54,
+  "totalQuotes": 72,
   "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T14:41:05.390Z",
   "quotes": [
     {
       "id": "quote_2695_1755663634427",
@@ -327,6 +328,132 @@
       "character": "Kyon",
       "show": "The Melancholy of Haruhi Suzumiya",
       "quote": "It's amazing how much you kiss your own ass."
+    },
+    {
+      "id": "quote_756_1755700865390",
+      "character": "Itsuki Koizumi",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "You're the new Adam and Eve. Go on, procreate, increase the population.",
+      "originalIndex": "7330"
+    },
+    {
+      "id": "quote_757_1755700865390",
+      "character": "Itsuki Koizumi",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "The top brass at the organization is seriously panicked, right now. Nobody knows what will happen to the \"real world\", now that we've lost our Deity. If Miss Suzimiya is feeling merciful, we might get to keep on living, on this side of the bubble.",
+      "originalIndex": "7331"
+    },
+    {
+      "id": "quote_758_1755700865390",
+      "character": "Itsuki Koizumi",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "I don't know how I know, I just know that I know, y'know?",
+      "originalIndex": "7332"
+    },
+    {
+      "id": "quote_759_1755700865390",
+      "character": "Itsuki Koizumi",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "Sometimes I get the feeling that we're all just a bunch of clowns standing on our tiptoes at the edge of a great abyss.",
+      "originalIndex": "7333"
+    },
+    {
+      "id": "quote_760_1755700865390",
+      "character": "Haruhi Suzumiya",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "If there's really that many people in the world, then there had to be someone who wasn't ordinary. There had to be someone who was living an interesting life. There just had to be. Why wasn't I that person?",
+      "originalIndex": "7334"
+    },
+    {
+      "id": "quote_761_1755700865390",
+      "character": "Haruhi Suzumiya",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "You know, Kyon...have you ever realized just how insignificant your existence on this planet really is?",
+      "originalIndex": "7335"
+    },
+    {
+      "id": "quote_762_1755700865390",
+      "character": "Asakura Ryouko",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "Oh please, won't you just give up? You're going to die no matter what, so let me kill you.",
+      "originalIndex": "7336"
+    },
+    {
+      "id": "quote_763_1755700865390",
+      "character": "Asakura Ryouko",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "You think it's a joke? Huh. You don't want to die? You don't want me to kill you? I'm sorry, but I just don't understand the concept of death regarding organic lifeforms.",
+      "originalIndex": "7337"
+    },
+    {
+      "id": "quote_764_1755700865390",
+      "character": "Kyon",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "Stop kidding around! You're gonna hurt someone with that! Even if that's a rubber knife, you're scaring the hell out of me!",
+      "originalIndex": "7338"
+    },
+    {
+      "id": "quote_765_1755700865390",
+      "character": "Asakura Ryouko",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "*to Kyon* I'm getting bored and just fed up watching something that doesn't seem to be changing at all. That's why...I'm going to kill you and see how Miss Suzumiya reacts.",
+      "originalIndex": "7339"
+    },
+    {
+      "id": "quote_766_1755700865390",
+      "character": "Haruhi Suzumiya",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "Listen! This isn't fun and games! You mess around and I'll kill ya!",
+      "originalIndex": "7340"
+    },
+    {
+      "id": "quote_767_1755700865390",
+      "character": "Yuki Nagato",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "I am not referring to the absence of universally accepted personality traits. What I mean is literal, that Haruhi and I are not like other organic lifeforms such as yourself.",
+      "originalIndex": "7341"
+    },
+    {
+      "id": "quote_768_1755700865390",
+      "character": "Haruhi Suzumiya",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "It's exactly what the SOS Brigade needs! We need something like a mysterious transfer student!",
+      "originalIndex": "7342"
+    },
+    {
+      "id": "quote_769_1755700865390",
+      "character": "Haruhi Suzumiya",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "Then I'll tell everyone at school that all you geeks ganged up on her and ed her.",
+      "originalIndex": "7343"
+    },
+    {
+      "id": "quote_770_1755700865390",
+      "character": "Haruhi Suzumiya",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "Feelings of love are just a temporary lapse in judgment. Like a mental illness.",
+      "originalIndex": "7344"
+    },
+    {
+      "id": "quote_771_1755700865390",
+      "character": "Haruhi Suzumiya",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "I'm Haruhi Suzumiya, from East Junior High. First off, I'm not interested in ordinary people. But, if any of you are aliens, time-travelers, or espers, please come see me. That is all!",
+      "originalIndex": "7345"
+    },
+    {
+      "id": "quote_772_1755700865390",
+      "character": "Mikuru Asahina",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "That's classified information.",
+      "originalIndex": "7346"
+    },
+    {
+      "id": "quote_773_1755700865390",
+      "character": "Haruhi Suzumiya",
+      "show": "The Melancholy of Haruhi Suzumiya",
+      "quote": "Even I get in the mood for that stuff now and then. I am a healthy girl, my body has its urges. But I won't let a momentary slip up leave me with a burden.",
+      "originalIndex": "8540"
     }
   ]
 }
