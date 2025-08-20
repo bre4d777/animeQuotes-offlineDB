@@ -1,15 +1,21 @@
 {
-  "name": "So Ra No Wo To",
+  "name": "Sora No Woto",
   "anilistId": 6802,
-  "totalQuotes": 1,
-  "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:23:54.310Z",
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:53:07.690Z",
   "quotes": [
     {
       "id": "quote_11_1755685434310",
       "character": "Rio Kazumiya",
       "show": "So Ra No Wo To",
       "quote": "A dream? That's right. Because there was the past, there is now the present. And because there is the present, we can believe in tomorrow and pursue our dreams."
+    },
+    {
+      "id": "quote_7_1755687187690",
+      "character": "Filicia Heideman",
+      "show": "Sora No Woto",
+      "quote": "There's no point in the world. But isn't that wonderful? Because if there isn't one, then you can decide what it is for yourself."
     }
   ]
 }
