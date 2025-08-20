@@ -1,14 +1,27 @@
 {
-  "name": "Legend of Zelda",
+  "name": "The Legend Of Zelda",
   "anilistId": 130696,
-  "totalQuotes": 1,
-  "totalCharacters": 1,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T10:33:25.498Z",
   "quotes": [
     {
       "id": "quote_1805_1755682042315",
       "character": "Link",
       "show": "Legend of Zelda",
       "quote": "A sword wields no strength, unless the hand that holds it has courage."
+    },
+    {
+      "id": "quote_149_1755686005498",
+      "character": "Sheik",
+      "show": "The Legend Of Zelda",
+      "quote": "Time passes, people move. Like a river's flow, it never ends. A childish mind will turn to noble ambition. Young love will become deep affection. The clear water's surface reflects growth. Now listen to the Serenade of water to reflect upon yourself."
+    },
+    {
+      "id": "quote_150_1755686005498",
+      "character": "Princess Zelda",
+      "show": "The Legend Of Zelda",
+      "quote": "Shadow and light are two sides of the same coin... One cannot exist without another."
     }
   ]
 }
