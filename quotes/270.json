@@ -1,8 +1,9 @@
 {
   "name": "Hellsing",
   "anilistId": 270,
-  "totalQuotes": 36,
+  "totalQuotes": 37,
   "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T15:33:56.976Z",
   "quotes": [
     {
       "id": "quote_794_1755663456385",
@@ -219,6 +220,12 @@
       "character": "Alucard",
       "show": "Hellsing",
       "quote": "The Bird of the Hermes is my name, eating my wings to make me tame."
+    },
+    {
+      "id": "quote_68_1755704036976",
+      "character": "Alucard",
+      "show": "Hellsing",
+      "quote": "To become a monster like me, is to admit you were too weak to remain a human"
     }
   ]
 }
