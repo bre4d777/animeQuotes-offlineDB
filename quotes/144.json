@@ -1,0 +1,38 @@
+{
+  "name": "Kanon",
+  "anilistId": 144,
+  "totalQuotes": 5,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_1498_1755681963797",
+      "character": "Shiori Misaka",
+      "show": "Kanon",
+      "quote": "It would be enough for the depressing things in life to only exist in reality. It is because that I think the birth of a story is from people dreaming of a happy ending."
+    },
+    {
+      "id": "quote_1499_1755681963797",
+      "character": "Sayuri Kurata",
+      "show": "Kanon",
+      "quote": "The same melody repeats itself as the song grows richer and more beautiful. Wouldn't it be wonderful if we could live seemingly constant lives while experiencing changes bit by bit?"
+    },
+    {
+      "id": "quote_1500_1755681963797",
+      "character": "Shiori Misaka",
+      "show": "Kanon",
+      "quote": "It's called a miracle because it doesn't happen."
+    },
+    {
+      "id": "quote_1501_1755681963797",
+      "character": "Aizawa Yuuichi",
+      "show": "Kanon",
+      "quote": "In this world, there are things you’re better off not knowing."
+    },
+    {
+      "id": "quote_1502_1755681963797",
+      "character": "Aizawa Yuuichi",
+      "show": "Kanon",
+      "quote": "Every dream has an end...No matter how nice the dream might be, or how scary it is. Under your warm blanket, the dream comes to an abrupt end, when mother shakes you awake. Forever and ever, the morning scene remains the same. But now I... I wonder... when the dreams began to never end."
+    }
+  ]
+}
