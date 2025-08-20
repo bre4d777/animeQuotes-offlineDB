@@ -1,9 +1,9 @@
 {
   "name": "Fullmetal Alchemist",
   "anilistId": 121,
-  "totalQuotes": 153,
+  "totalQuotes": 159,
   "totalCharacters": 24,
-  "lastUpdated": "2025-08-20T14:40:03.447Z",
+  "lastUpdated": "2025-08-20T15:30:14.843Z",
   "quotes": [
     {
       "id": "quote_1518_1755663515440",
@@ -929,6 +929,42 @@
       "show": "Fullmetal Alchemist",
       "quote": "Stand up and walk... Move on... After all, you have perfect legs to stand on...",
       "originalIndex": "8547"
+    },
+    {
+      "id": "quote_33_1755703814843",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "*Ed crawling through an air vent* Che. It's so tight, it makes me glad that I have a small body. \r\n........................ \r\nShit! I just admitted I'm small!"
+    },
+    {
+      "id": "quote_34_1755703814843",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I'm not short! I'm fun-sized!\r\n"
+    },
+    {
+      "id": "quote_35_1755703814843",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Even when our eyes are closed, there's a whole world out there that lives outside ourselves and our dreams.\r\n"
+    },
+    {
+      "id": "quote_36_1755703814843",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "Master Sergeant Fuery, during your last physical it was discovered you have Athletes Foot, and we now believe it is affecting your brain.\r\n  "
+    },
+    {
+      "id": "quote_37_1755703814843",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "In general, men prefer to let their actions speak instead of words. When they're in pain, they don't want to burden anyone with it, not if they can help it. They don't want anyone to worry about them. That's how they are. Even so, there may come a time when they'll ask for your help. And when they do, I know that you'll be there for them. Isn't that enough?\n\n"
+    },
+    {
+      "id": "quote_38_1755703814843",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "Okay, here's the plan: We go in, start hitting people, and see where it takes us.\n\n"
     }
   ]
 }
