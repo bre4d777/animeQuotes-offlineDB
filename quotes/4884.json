@@ -1,0 +1,33 @@
+{
+  "name": "Tales of the Abyss",
+  "anilistId": 4884,
+  "totalQuotes": 4,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:24:00.940Z",
+  "quotes": [
+    {
+      "id": "quote_24_1755685440940",
+      "character": "Guy Cecil",
+      "show": "Tales of the Abyss",
+      "quote": "It's so much easier to believe that only your own thoughts and beliefs are absolutely correct."
+    },
+    {
+      "id": "quote_25_1755685440940",
+      "character": "Luke Fon Fabre",
+      "show": "Tales of the Abyss",
+      "quote": "Helping people has nothing to do with being royalty or nobility or whatever."
+    },
+    {
+      "id": "quote_26_1755685440940",
+      "character": "Guy Cecil",
+      "show": "Tales of the Abyss",
+      "quote": "People aren't so simple that they can accept anything and everything."
+    },
+    {
+      "id": "quote_27_1755685440940",
+      "character": "Luke Fon Fabre",
+      "show": "Tales of the Abyss",
+      "quote": "All I ever did was pay attention to myself. And I'm not even sure I saw myself clearly."
+    }
+  ]
+}
