@@ -1,8 +1,9 @@
 {
   "name": "Berserk",
   "anilistId": 33,
-  "totalQuotes": 45,
+  "totalQuotes": 46,
   "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T14:37:52.468Z",
   "quotes": [
     {
       "id": "quote_1401_1755663501465",
@@ -273,6 +274,13 @@
       "character": "Guts",
       "show": "Berserk",
       "quote": "Look, look around carefully. Strain your eyes. At the darkness around us... At the darkness... around me. You said, \"anywhere but here\". This is where. Here at the border. Gathered by the winds. Those who've met their final destiny hanging between jealousy and regret. Those who failed, swept together here. You say \"It doesn't matter where\". If you follow me, this is where you'll go! This is your Eden!\n\nYou run from it. It is no Eden.\nIf you follow me... to this place... the entire world... is a battlefield."
+    },
+    {
+      "id": "quote_102_1755700672468",
+      "character": "Guts",
+      "show": "Berserk",
+      "quote": "If you're alone... if it's just your life, you can use it however you please/ Wear yourself out, get cut to ribbons, doesn't matter. But when there's two, the blade grows heavy. Fighting like death doesn't concern you becomes a thing of the past. It's no longer just you. I threw away my way of life, relied on the strength of others, and somehow pushed on.",
+      "originalIndex": "102"
     }
   ]
 }
