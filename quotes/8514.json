@@ -1,0 +1,26 @@
+{
+  "name": "The Breaker",
+  "anilistId": 8514,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_2414_1755682272430",
+      "character": "Jin-Ie Kwon",
+      "show": "The Breaker",
+      "quote": "When people get close to death they change."
+    },
+    {
+      "id": "quote_2415_1755682272430",
+      "character": "Chun-Woo Han",
+      "show": "The Breaker",
+      "quote": "Courage is the mindset of not surrendering even if you lack the strength."
+    },
+    {
+      "id": "quote_2416_1755682272430",
+      "character": "Chun-Woo Han",
+      "show": "The Breaker",
+      "quote": "In order to learn you may have to risk your life... no, even your soul."
+    }
+  ]
+}
