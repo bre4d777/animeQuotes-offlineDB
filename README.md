@@ -4,8 +4,8 @@ An organized collection of anime quotes with AniList integration.
 
 ## 📊 Statistics
 
-- **Total Quotes**: 8,791
-- **Total Anime Series**: 794
+- **Total Quotes**: 8,793
+- **Total Anime Series**: 795
 - **Total Characters**: 2,547
 - **Last Updated**: 8/20/2025
 

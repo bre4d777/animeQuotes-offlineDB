@@ -1,8 +1,9 @@
 {
   "name": "Neon Genesis Evangelion",
   "anilistId": 30,
-  "totalQuotes": 25,
+  "totalQuotes": 27,
   "totalCharacters": 10,
+  "lastUpdated": "2025-08-20T15:33:59.419Z",
   "quotes": [
     {
       "id": "quote_1571_1755681992989",
@@ -153,6 +154,18 @@
       "character": "Ryoji Kaji",
       "show": "Neon Genesis Evangelion",
       "quote": "Understanding 100% of everything is impossible. That's why we spend all our lives trying to understand the thinking of others. That's what makes life so interesting."
+    },
+    {
+      "id": "quote_69_1755704039419",
+      "character": "Kaworu Nagisa",
+      "show": "Neon Genesis Evangelion",
+      "quote": "The fact that you have a place where you can return home, will lead you to happiness. That is a good fact"
+    },
+    {
+      "id": "quote_70_1755704039419",
+      "character": "Gendou Ikari",
+      "show": "Neon Genesis Evangelion",
+      "quote": "Mankind's greatest fear is Mankind itself.  "
     }
   ]
 }
