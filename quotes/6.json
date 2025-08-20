@@ -1,9 +1,9 @@
 {
   "name": "Trigun",
   "anilistId": 6,
-  "totalQuotes": 45,
+  "totalQuotes": 46,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T14:37:30.120Z",
+  "lastUpdated": "2025-08-20T15:33:36.665Z",
   "quotes": [
     {
       "id": "quote_2651_1755663631672",
@@ -275,6 +275,12 @@
       "show": "Trigun",
       "quote": "When something is gained, something is lost. It's difficult to live after something like that. What is lost will never return. Important things, irreplaceable things. But what is needed to keep those things is in the firm will, packed into one bullet. Man knows... he knows that nothing will begin unless he speaks, and that nothing will change unless he moves.",
       "originalIndex": "0"
+    },
+    {
+      "id": "quote_59_1755704016665",
+      "character": "Vash the Stampede",
+      "show": "Trigun",
+      "quote": "My name is VASH THE STAMPEDE!! Forgive the lack of warning, but it's time for my daily massacre! If you do not believe I am the real thing, take a good look at me and start freaking out!! "
     }
   ]
 }
