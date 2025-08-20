@@ -1,0 +1,686 @@
+{
+  "name": "One Piece",
+  "anilistId": 21,
+  "totalQuotes": 113,
+  "totalCharacters": 35,
+  "quotes": [
+    {
+      "id": "quote_3083_1755663660339",
+      "character": "Sengoku the Buddha",
+      "show": "One Piece",
+      "quote": "Don't try to find a reason for somebody's love!!"
+    },
+    {
+      "id": "quote_3084_1755663660339",
+      "character": "One Piece",
+      "show": "One Piece",
+      "quote": "We cannot direct the wind, but we can adjust the sails."
+    },
+    {
+      "id": "quote_3085_1755663660339",
+      "character": "One Piece",
+      "show": "One Piece",
+      "quote": "Inherited will, the swelling of the changing times, and the dreams of people. These are things that cannot be stopped. As long as people seek the answer to freedom, these will never cease to be!"
+    },
+    {
+      "id": "quote_3086_1755663660339",
+      "character": "Kizaru",
+      "show": "One Piece",
+      "quote": "Without strength, you won't be able to save anyone."
+    },
+    {
+      "id": "quote_3087_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "Either in belief or doubt, if I lean to one of these sides, my reaction time will be dulled if my heart thinks the opposite of what I choose."
+    },
+    {
+      "id": "quote_3088_1755663660339",
+      "character": "Smoker",
+      "show": "One Piece",
+      "quote": "Don't ever think there's any perfect society made by humans!! If you think that way you'll overlook the enemy!! Don't be fooled by appearances!!"
+    },
+    {
+      "id": "quote_3089_1755663660339",
+      "character": "Nico Robin",
+      "show": "One Piece",
+      "quote": "They call me the \"demon child\"."
+    },
+    {
+      "id": "quote_3090_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "Only those who have suffered long, can see the light within the shadows"
+    },
+    {
+      "id": "quote_3091_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "If you hurt somebody... or if somebody hurts you, the same red blood will be shed"
+    },
+    {
+      "id": "quote_3092_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "You sure can talk the talk, but you're not quite ready to walk the walk. Time's up, it's my turn."
+    },
+    {
+      "id": "quote_3093_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "If I get reincarnated... I wanna become a clam."
+    },
+    {
+      "id": "quote_3094_1755663660339",
+      "character": "Dracule Mihawk",
+      "show": "One Piece",
+      "quote": "The world has too many heroes. It needs a monster."
+    },
+    {
+      "id": "quote_3095_1755663660339",
+      "character": "Gol D. Roger",
+      "show": "One Piece",
+      "quote": "The world...what a glorious place! Seek freedom, and it will lie stretched out before your eyes. If the endless dream guides your restless spirit, seize it! Raise your flag, and stand tall!"
+    },
+    {
+      "id": "quote_3096_1755663660339",
+      "character": "Eustass Kid",
+      "show": "One Piece",
+      "quote": "Compared to the \"righteous\" greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born."
+    },
+    {
+      "id": "quote_3097_1755663660339",
+      "character": "Trafalgar Law",
+      "show": "One Piece",
+      "quote": "The weak don't get to decide anything, not even how they die."
+    },
+    {
+      "id": "quote_3098_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "All for one, one for all! There are times when a man has no choice but to act!"
+    },
+    {
+      "id": "quote_3099_1755663660339",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Men who can't wipe away the tears from a women's eyes, aren't real men."
+    },
+    {
+      "id": "quote_3100_1755663660339",
+      "character": "Enel",
+      "show": "One Piece",
+      "quote": "I am lightning. No matter how hard they try, mankind can never overcome lightning. Since ancient times, mankind has labeled the unknowns of nature as God. And anything they could not understand, they feared. Everything which befalls mankind is said to be the work of God. Mankind accepts that it cannot defeat natural disasters. And I am one of them."
+    },
+    {
+      "id": "quote_3101_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "You came without fear. Don't have any regrets, no matter what happens. This is the duel you wanted."
+    },
+    {
+      "id": "quote_3102_1755663660339",
+      "character": "Boa Hancock",
+      "show": "One Piece",
+      "quote": "Whether I kick a kitten... Tear off your ears... Even slaughter innocent people... The world will never cease to forgive my actions! Why, you ask? That's right, it is because I am... Beautiful!!!"
+    },
+    {
+      "id": "quote_3103_1755663660339",
+      "character": "Tony Tony Chopper",
+      "show": "One Piece",
+      "quote": "I want a devil fruit."
+    },
+    {
+      "id": "quote_3104_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "An island from a dream within a dream? I could never pass up a great adventure like this!"
+    },
+    {
+      "id": "quote_3105_1755663660339",
+      "character": "Franky",
+      "show": "One Piece",
+      "quote": "I am crazy and stubborn."
+    },
+    {
+      "id": "quote_3106_1755663660339",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Black leg!"
+    },
+    {
+      "id": "quote_3107_1755663660339",
+      "character": "Crocodile",
+      "show": "One Piece",
+      "quote": "Wake up princess, I'm tired of your useless ideals. It's gotten pathetic. What good are your happy ideals if you can't do anything to make them a reality? They're nothing but dreams, and your dreams don't stand a chance."
+    },
+    {
+      "id": "quote_3108_1755663660339",
+      "character": "Arlong",
+      "show": "One Piece",
+      "quote": "Living is important! It is because one lives, one can enjoy things! Everyone has their own designated place and position in life! This man understands the futility of resisting against that fact! You see, not all living things, are born equal!"
+    },
+    {
+      "id": "quote_3109_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Hero? No! We're pirates! I love heroes, but I don't wanna be one! Do you know what heroes are? Say there is a chunk of meat. Pirates will have a banquet and eat it, but heroes will share it with other people. I want all the meat!"
+    },
+    {
+      "id": "quote_3110_1755663660339",
+      "character": "Portgas D. Ace",
+      "show": "One Piece",
+      "quote": "We have to live a life of no regrets."
+    },
+    {
+      "id": "quote_3111_1755663660339",
+      "character": "Whitebeard",
+      "show": "One Piece",
+      "quote": "About Whitebeard \"Even in death, his body did not fall. His figure, taking down enemies while losing half of his head, was truly monstrous. The total number of sword wounds he received in this battle was 267. He was shot by 152 bullets. And was hit by 46 cannonballs. And despite all this, his proud back, over the course of his entire life as a pirate, never received a single scar from running away!\""
+    },
+    {
+      "id": "quote_3112_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "You've underestimated me, snow woman. When you thought you couldn't beat me, you should have run. Of course, there are things that I don't wanna cut. But... let me ask you something.\nHave you ever seen a fierce animal you were sure would never bite? Because I haven't."
+    },
+    {
+      "id": "quote_3113_1755663660339",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "A real man is someone who forgives a woman for her lies!"
+    },
+    {
+      "id": "quote_3114_1755663660339",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Don't start a fight that you can't finish."
+    },
+    {
+      "id": "quote_3115_1755663660339",
+      "character": "Portgas D. Ace",
+      "show": "One Piece",
+      "quote": "Sometimes, the blood rushes to my head and I feel like, if I run, I'll lose something important."
+    },
+    {
+      "id": "quote_3116_1755663660339",
+      "character": "Jinbei",
+      "show": "One Piece",
+      "quote": "You can't bring back what you've lost, think about what you have now!"
+    },
+    {
+      "id": "quote_3117_1755663660339",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "I'm the sniper king, sogeking."
+    },
+    {
+      "id": "quote_3118_1755663660339",
+      "character": "Dracule Mihawk",
+      "show": "One Piece",
+      "quote": "You are defeated yet you will not step back, why not?"
+    },
+    {
+      "id": "quote_3119_1755663660339",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "I'm the smartest member in the Straw Hat group."
+    },
+    {
+      "id": "quote_3120_1755663660339",
+      "character": "Fujitora",
+      "show": "One Piece",
+      "quote": "If you were to be troubled over something as trivial as losing face, then it's better to not have it at all."
+    },
+    {
+      "id": "quote_3121_1755663660339",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Leave this guy's key to me, I'll do what you cant do; you do what I can't do. Think carefully! Read the situation. If you're here, there's got to be a way Robin-chan can be saved! Usopp!"
+    },
+    {
+      "id": "quote_3122_1755663660339",
+      "character": "Fujitora",
+      "show": "One Piece",
+      "quote": "If you lose credibility by just admitting fault, then you didn't have any in the first place."
+    },
+    {
+      "id": "quote_3123_1755663660339",
+      "character": "Trafalgar Law",
+      "show": "One Piece",
+      "quote": "You can't see the whole picture until you look at it from the outside."
+    },
+    {
+      "id": "quote_3124_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Being alone is more painful than getting hurt."
+    },
+    {
+      "id": "quote_3125_1755663660339",
+      "character": "Tony Tony Chopper",
+      "show": "One Piece",
+      "quote": "I realized that back then, the reason I wanted to become human, was that I really just wanted to have friends. Now, I just want to be a monster that can help Luffy."
+    },
+    {
+      "id": "quote_3126_1755663660339",
+      "character": "One Piece",
+      "show": "One Piece",
+      "quote": "Even if armed with hundreds of weapons... there are times when you just can't beat a man with a spear of conviction in his gut."
+    },
+    {
+      "id": "quote_3127_1755663660339",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "Man or Child, Strong or Weak, None of those matter once you are out at sea!"
+    },
+    {
+      "id": "quote_3128_1755663660339",
+      "character": "One Piece",
+      "show": "One Piece",
+      "quote": "They are more like “people who don’t follow rules…” There are different kinds of people in different worlds! … Between you two and them, what is the difference? It isn’t unusual… to put it to an extreme… A hero during a war would be just another murderer in peaceful times."
+    },
+    {
+      "id": "quote_3129_1755663660339",
+      "character": "Jinbei",
+      "show": "One Piece",
+      "quote": "Don't just think about the ones you have lost. You can't get back what you have lost. What is it that you still have ?"
+    },
+    {
+      "id": "quote_3130_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "Neither God nor the Devil can give aid to those without the will to fight…"
+    },
+    {
+      "id": "quote_3131_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "What do you know of death?!! Have you ever died?!! You think death will preserve your cause forever?!! Ridiculous!! Death leaves nothing behind!! Once a person passes on, nothing remains but dead bones!! If there is one thing I can’t stand, it is a person with no respect for life!!"
+    },
+    {
+      "id": "quote_3132_1755663660339",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "Life is like a pencil that will surely run out, but will leave the beautiful writing of life."
+    },
+    {
+      "id": "quote_3133_1755663660339",
+      "character": "Dr hiluluk",
+      "show": "One Piece",
+      "quote": "When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when... they are forgotten."
+    },
+    {
+      "id": "quote_3134_1755663660339",
+      "character": "Whitebeard",
+      "show": "One Piece",
+      "quote": "It doesn't matter who your parents were. Everyone is a child of the sea."
+    },
+    {
+      "id": "quote_3135_1755663660339",
+      "character": "Portgas D. Ace",
+      "show": "One Piece",
+      "quote": "Sometimes the blood rushes to my head and I feel like, if I run I'll lose something important."
+    },
+    {
+      "id": "quote_3136_1755663660339",
+      "character": "Silvers Rayleigh",
+      "show": "One Piece",
+      "quote": "Maybe nothing in this world happens by accident. As everything happens for a reason, our destiny slowly takes form..."
+    },
+    {
+      "id": "quote_3137_1755663660339",
+      "character": "Saul Jaguar D",
+      "show": "One Piece",
+      "quote": "There is no such thing as being born into the world to be alone."
+    },
+    {
+      "id": "quote_3138_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "You want to kill me? You couldn't even kill my boredom!"
+    },
+    {
+      "id": "quote_3139_1755663660339",
+      "character": "Donquixote Doflamingo",
+      "show": "One Piece",
+      "quote": "The weaker person is the more he gets hung up on other people's pain and then he self-destructs"
+    },
+    {
+      "id": "quote_3140_1755663660339",
+      "character": "Portgas D. Ace",
+      "show": "One Piece",
+      "quote": "Old man, everyone!! And you.. Luffy. Even though I've been good for nothing my whole life, even though I have the blood of a demon within me... You guys still loved me! Thank you so much!!"
+    },
+    {
+      "id": "quote_3141_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "I'm the afro-hair guy."
+    },
+    {
+      "id": "quote_3142_1755663660339",
+      "character": "Kuzan",
+      "show": "One Piece",
+      "quote": "The thing called \"justice\" changes its shape... Depending on where you stand."
+    },
+    {
+      "id": "quote_3143_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Power isn't determined by your size, but the size of your heart and dreams!"
+    },
+    {
+      "id": "quote_3144_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "So, are you stupid enough to fall for such a stupid trap that such stupid people set up?"
+    },
+    {
+      "id": "quote_3145_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Forgetting is like a wound. The wound may heal but it has already left a scar."
+    },
+    {
+      "id": "quote_3146_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "You want to keep everyone from dying? That's naive. It's war. People die."
+    },
+    {
+      "id": "quote_3147_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "It's over when you give up."
+    },
+    {
+      "id": "quote_3148_1755663660339",
+      "character": "Dracule Mihawk",
+      "show": "One Piece",
+      "quote": "My name is Dracule Mihawk! Find your self, true world, become stronger! No matter how long it may take, I will wait for you in my strongest form! Surpass this sword! Surpass me! Roronoa Zoro!"
+    },
+    {
+      "id": "quote_3149_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "No matter how hard or impossible it is, never lose sight of your goal."
+    },
+    {
+      "id": "quote_3150_1755663660339",
+      "character": "Trafalgar Law",
+      "show": "One Piece",
+      "quote": "There are things you can't see unless you change your standing."
+    },
+    {
+      "id": "quote_3151_1755663660339",
+      "character": "Dracule Mihawk",
+      "show": "One Piece",
+      "quote": "I'm not stupid enough to use a cannon to hunt a rabbit."
+    },
+    {
+      "id": "quote_3152_1755663660339",
+      "character": "Mr. 2 Bon Clay",
+      "show": "One Piece",
+      "quote": "Even in the depths of Hell... blooms a beautiful flower of friendship... leaving its petals as mementos... bobbing back and forth on the waves... may it one day bloom once more...the Okama Way."
+    },
+    {
+      "id": "quote_3153_1755663660339",
+      "character": "Smoker",
+      "show": "One Piece",
+      "quote": "Why did he smile? Why? Did he know he would be saved? No. In that instant, he must have understood that his life was going to end. Death. He accepted it. He was fully prepared for it and smiled."
+    },
+    {
+      "id": "quote_3154_1755663660339",
+      "character": "Donquixote Doflamingo",
+      "show": "One Piece",
+      "quote": "There is a difference in the look of the ordinary vagabond and that of a determined man."
+    },
+    {
+      "id": "quote_3155_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "If you don't take risks, you can't create a future."
+    },
+    {
+      "id": "quote_3156_1755663660339",
+      "character": "Shanks",
+      "show": "One Piece",
+      "quote": "By experiencing both, victory and defeat, running away and shedding tears, a man will become a man."
+    },
+    {
+      "id": "quote_3157_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "Being strong isn't just about having power or move, it about one's spirit"
+    },
+    {
+      "id": "quote_3158_1755663660339",
+      "character": "Nico Robin",
+      "show": "One Piece",
+      "quote": "Before the heart of truth, there is no need for words."
+    },
+    {
+      "id": "quote_3159_1755663660339",
+      "character": "Donquixote Doflamingo",
+      "show": "One Piece",
+      "quote": "That's ridiculous. People usually have a stereotypical idea, or an assumption like that and that's what creates a blind spot"
+    },
+    {
+      "id": "quote_3160_1755663660339",
+      "character": "Donquixote Doflamingo",
+      "show": "One Piece",
+      "quote": "Pirates are evil? The Marines are righteous? These terms have always changed throughout the course of history! Kids who have never seen peace and kids who have never seen war have different values! Those who stand at the top determine what's wrong and what's right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice!"
+    },
+    {
+      "id": "quote_3161_1755663660339",
+      "character": "Monkey D. Dragon",
+      "show": "One Piece",
+      "quote": "Someday, I promise you, they will all watch as I change the world."
+    },
+    {
+      "id": "quote_3162_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "*To Captain Kuro* So, you don’t like to get hit, huh? Well, you’re about to have a very bad day."
+    },
+    {
+      "id": "quote_3163_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "There is something mysterious about the life of a pirate."
+    },
+    {
+      "id": "quote_3164_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "If you don't risk your life, you can't create a future. Right?"
+    },
+    {
+      "id": "quote_3165_1755663660339",
+      "character": "Gol D. Roger",
+      "show": "One Piece",
+      "quote": "Destiny. Fate. Dreams. These unstoppable ideas are held deep in the heart of man. As long as there people who seek freedom in this life, These things shall not vanish from the Earth."
+    },
+    {
+      "id": "quote_3166_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "What keeps me alive in this world is neither bodily organs, nor muscles - it's my soul!"
+    },
+    {
+      "id": "quote_3167_1755663660339",
+      "character": "Crocodile",
+      "show": "One Piece",
+      "quote": "\"If I do this, I can stop the rebellion\", \"if I do that, I can stop the rebellion\"... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!"
+    },
+    {
+      "id": "quote_3168_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Are we friends? Or are we foes? That kind of thing you decide for yourselves!"
+    },
+    {
+      "id": "quote_3169_1755663660339",
+      "character": "Jinbei",
+      "show": "One Piece",
+      "quote": "It may be hard right now... But you must silence those thoughts! Stop counting only those things that you have lost! What is gone, is gone! So ask yourself this: What is there... that still remains to you?!"
+    },
+    {
+      "id": "quote_3170_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "\"Loneliness\" is no longer part of my vocabulary."
+    },
+    {
+      "id": "quote_3171_1755663660339",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Don't start a fight if you can't end it."
+    },
+    {
+      "id": "quote_3172_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "If I die here, then I'm a man that could only make it this far."
+    },
+    {
+      "id": "quote_3173_1755663660339",
+      "character": "Jimbei",
+      "show": "One Piece",
+      "quote": "It is a sad truth that greater the authority a person possesses, the more he tends to fear change."
+    },
+    {
+      "id": "quote_3174_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "You need to accept the fact that you're not the best and have all the will to strive to be better than anyone you face."
+    },
+    {
+      "id": "quote_3175_1755663660339",
+      "character": "Crocodile",
+      "show": "One Piece",
+      "quote": "\"If I do this, I can stop the rebellion”, “if I do that, I can stop the rebellion”... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!"
+    },
+    {
+      "id": "quote_3176_1755663660339",
+      "character": "Donquixote Rosinante",
+      "show": "One Piece",
+      "quote": "I'll die smiling! Because if you ever think of me in the future, I want you to remember me smiling."
+    },
+    {
+      "id": "quote_3177_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Then just become stronger. I have my ambition, you have your ambition too. Which means you should just keep walking forward towards that goal."
+    },
+    {
+      "id": "quote_3178_1755663660339",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "When I left Syrup Village, I left everything behind! Tranquility… Safety… They face hardships every day, and they laugh like they’re really having fun! That’s why I decided to go out to sea! I want to laugh ’til I cry, too! But if I don’t fight with everything I’ve got, there’s no way I deserve to be on the same boat as them! There’s no way I can laugh with them!"
+    },
+    {
+      "id": "quote_3179_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "No matter how deep the night, it always turns to day, eventually."
+    },
+    {
+      "id": "quote_3180_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "Bring on the hardship. It's preferred in a path of carnage."
+    },
+    {
+      "id": "quote_3181_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "When the world shoves you around, you just gotta stand up and shove back. It's not like somebody's gonna save you if you start babbling excuses."
+    },
+    {
+      "id": "quote_3182_1755663660339",
+      "character": "Donquixote Doflamingo",
+      "show": "One Piece",
+      "quote": "I lost my mother when I was 8...and killed my father when I was 10. Those with the title of \"Executive\" or above...are my \"family\", with whom I've shared my joys and sorrows. They're the only thing I have! I won't forgive anyone that laughs at my family. Understood?"
+    },
+    {
+      "id": "quote_3183_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "I'm a pirate hunter."
+    },
+    {
+      "id": "quote_3184_1755663660339",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "I don't care what the society says. I've regretted doing anything. I will survive and do what I want to."
+    },
+    {
+      "id": "quote_3185_1755663660339",
+      "character": "Donquixote Doflamingo",
+      "show": "One Piece",
+      "quote": "The time is almost here. Go and lay the groundwork. A world where only true pirates can survive will soon be upon us. Those without power, flee while you can. The tide will bring those of unmatched power and the New Era will begin!"
+    },
+    {
+      "id": "quote_3186_1755663660339",
+      "character": "Nico Robin",
+      "show": "One Piece",
+      "quote": "Fools who don't respect the past are likely to repeat it."
+    },
+    {
+      "id": "quote_3187_1755663660339",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "Death is never an apology."
+    },
+    {
+      "id": "quote_3188_1755663660339",
+      "character": "One Piece",
+      "show": "One Piece",
+      "quote": "If you hurt somebody or if someone hurts you, - the same red blood will be shed."
+    },
+    {
+      "id": "quote_3189_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "So, you don't like to get hit, huh? Well, you're about to have a very bad day."
+    },
+    {
+      "id": "quote_3190_1755663660339",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "I couldn't confess my feelings for you, so I watched you from afar, being happy with someone else."
+    },
+    {
+      "id": "quote_3191_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "I'm gonna kick your ***."
+    },
+    {
+      "id": "quote_3192_1755663660339",
+      "character": "Donquixote Doflamingo",
+      "show": "One Piece",
+      "quote": "That's right! Whatever the tragedy or the blunder is, only the things that actually happened are written in stone!"
+    },
+    {
+      "id": "quote_3193_1755663660339",
+      "character": "Portgas D. Ace",
+      "show": "One Piece",
+      "quote": "I don't wanna live a thousand years. If I just live through today, that'll be enough."
+    },
+    {
+      "id": "quote_3194_1755663660339",
+      "character": "Monkey D. Dragon",
+      "show": "One Piece",
+      "quote": "There can be no happiness in a world where the undesirables are thrown away."
+    },
+    {
+      "id": "quote_3195_1755663660339",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "We are NOT asking him where the treasure is hidden!!! We're not even asking him whether there IS any treasure or not!! I'm not sure, but... ...everybody set out to sea, risking their lives to search for it!!! If you ask this old man anything about it here and now... Then I'll quit being a pirate! I don't want to go on a boring adventure like that!"
+    }
+  ]
+}
