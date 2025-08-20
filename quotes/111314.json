@@ -1,0 +1,20 @@
+{
+  "name": "Spiral",
+  "anilistId": 111314,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_2235_1755663596238",
+      "character": "Ayumi Narumi",
+      "show": "Spiral",
+      "quote": "The melody of logic always plays the notes of truth."
+    },
+    {
+      "id": "quote_2236_1755663596238",
+      "character": "Hiyono Yuizaki",
+      "show": "Spiral",
+      "quote": "They say when you fall, it's best to fall straight to the bottom, and the farther you have to crawl back up, the stronger and greater you'll be as a result."
+    }
+  ]
+}
