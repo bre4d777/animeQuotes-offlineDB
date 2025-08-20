@@ -1,8 +1,9 @@
 {
-  "name": "Kuroshitsuji: Book of Circus",
+  "name": "Black Butler: Book of Circus",
   "anilistId": 20606,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:48:12.127Z",
   "quotes": [
     {
       "id": "quote_2210_1755663584230",
@@ -27,6 +28,12 @@
       "character": "Sebastian Michaelis",
       "show": "Kuroshitsuji: Book of Circus",
       "quote": "Unlike demons, you’re base, you harbor a complicated malice, you lie… You struggle desperately, knocking down others in your way… You steal and are stolen from, you make endless excuses… And still you strive to get over the hill and far away. I suppose that’s why humans are so interesting."
+    },
+    {
+      "id": "quote_1_1755686892127",
+      "character": "Sebastian Michaelis",
+      "show": "Black Butler: Book of Circus",
+      "quote": "The hungrier one is, the more satisfying one's dinner."
     }
   ]
 }
