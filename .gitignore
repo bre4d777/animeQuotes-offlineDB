@@ -9,7 +9,7 @@ package.json
 scrap.js
 index.js
 .replit
-
+clean.js
 # Runtime data
 pids
 *.pid
