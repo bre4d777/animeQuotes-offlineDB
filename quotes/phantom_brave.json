@@ -1,0 +1,23 @@
+{
+  "name": "Phantom Brave",
+  "anilistId": null,
+  "totalQuotes": 2,
+  "totalCharacters": 1,
+  "lastUpdated": "2025-08-20T14:43:17.273Z",
+  "quotes": [
+    {
+      "id": "quote_1_1755700997273",
+      "character": "Ash",
+      "show": "Phantom Brave",
+      "quote": "Become one without filth, one without heart, and one without life.",
+      "originalIndex": "8441"
+    },
+    {
+      "id": "quote_2_1755700997273",
+      "character": "Ash",
+      "show": "Phantom Brave",
+      "quote": "Unsheathe the pride of my sword, wisdom and point it at your beastly body. Let me be the one to push you towards hell.",
+      "originalIndex": "8442"
+    }
+  ]
+}
