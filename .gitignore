@@ -13,6 +13,7 @@ clean.js
 proxy.json
 source/
 temp-data/
+data.json
 # Runtime data
 pids
 *.pid
