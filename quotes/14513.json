@@ -1,9 +1,9 @@
 {
-  "name": "MAGI: The Labyrinth Of Magic",
+  "name": "Magi - The Labyrinth of Magic",
   "anilistId": 14513,
-  "totalQuotes": 15,
+  "totalQuotes": 16,
   "totalCharacters": 9,
-  "lastUpdated": "2025-08-20T10:38:49.538Z",
+  "lastUpdated": "2025-08-20T14:39:25.167Z",
   "quotes": [
     {
       "id": "quote_3348_1755663677460",
@@ -94,6 +94,13 @@
       "character": "Aladdin",
       "show": "MAGI: The Labyrinth Of Magic",
       "quote": "I've learned that from a war ignited by revenge, nothing can be born, but sorrow."
+    },
+    {
+      "id": "quote_213_1755700765167",
+      "character": "Koumei Ren",
+      "show": "Magi - The Labyrinth of Magic",
+      "quote": "Plainly speaking war is nothing other than \"wanting to impose your beliefs on your opponent.\" It only happens for that reason. You don't have any exception to that rule. ",
+      "originalIndex": "1285"
     }
   ]
 }
