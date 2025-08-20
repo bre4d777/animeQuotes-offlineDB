@@ -1,8 +1,9 @@
 {
-  "name": "Uta no Prince-sama",
+  "name": "Uta No Prince Sama",
   "anilistId": 10321,
-  "totalQuotes": 5,
+  "totalQuotes": 7,
   "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T10:32:21.816Z",
   "quotes": [
     {
       "id": "quote_2248_1755682197954",
@@ -33,6 +34,18 @@
       "character": "Ichinose Hayato",
       "show": "Uta no Prince-sama",
       "quote": "Maybe everything you wish for won't become stars, but if you have a dream to believe in, they'll be thousands of the most glittering jewels in the night sky."
+    },
+    {
+      "id": "quote_84_1755685941816",
+      "character": "Ichinose Hayato",
+      "show": "Uta No Prince Sama",
+      "quote": "Everyone loses sight of themselves sometimes. Don't worry about it."
+    },
+    {
+      "id": "quote_85_1755685941816",
+      "character": "Haruka Nanami",
+      "show": "Uta No Prince Sama",
+      "quote": "To me, friends are people who feel each other's passion up close."
     }
   ]
 }
