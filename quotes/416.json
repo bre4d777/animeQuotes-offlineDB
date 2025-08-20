@@ -1,0 +1,32 @@
+{
+  "name": "Porco Rosso",
+  "anilistId": 416,
+  "totalQuotes": 4,
+  "totalCharacters": 1,
+  "quotes": [
+    {
+      "id": "quote_2269_1755682206906",
+      "character": "Porco Rosso",
+      "show": "Porco Rosso",
+      "quote": "I'd rather be a pig than a fascist."
+    },
+    {
+      "id": "quote_2270_1755682206906",
+      "character": "Porco Rosso",
+      "show": "Porco Rosso",
+      "quote": "A pig who doesn't fly is just an ordinary pig."
+    },
+    {
+      "id": "quote_2271_1755682206906",
+      "character": "Porco Rosso",
+      "show": "Porco Rosso",
+      "quote": "Trust? I hate that word, but coming from you it sounds different."
+    },
+    {
+      "id": "quote_2272_1755682206906",
+      "character": "Porco Rosso",
+      "show": "Porco Rosso",
+      "quote": "A pig that doesn't fly is just a pig."
+    }
+  ]
+}
