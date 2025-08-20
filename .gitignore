@@ -5,6 +5,10 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 yarn.lock
+package.json
+scrap.js
+index.js
+.replit
 
 # Runtime data
 pids
@@ -129,12 +133,3 @@ main_quotes.json
 # - quotes/ directory
 # - README.md
 
-# This means everything else should be ignored by default
-*
-
-# But allow these specific files/directories
-!stats.json
-!quotes/
-!quotes/**
-!README.md
-!.gitignore
