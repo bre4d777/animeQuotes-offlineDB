@@ -1,9 +1,9 @@
 {
   "name": "Rurouni Kenshin",
   "anilistId": 45,
-  "totalQuotes": 48,
+  "totalQuotes": 53,
   "totalCharacters": 10,
-  "lastUpdated": "2025-08-20T14:40:34.097Z",
+  "lastUpdated": "2025-08-20T15:29:48.329Z",
   "quotes": [
     {
       "id": "quote_15_1755681735126",
@@ -295,6 +295,36 @@
       "show": "Rurouni Kenshin",
       "quote": "No matter how much you hurt inside, the dead can never return.",
       "originalIndex": "8594"
+    },
+    {
+      "id": "quote_17_1755703788329",
+      "character": "Kaoru Kamiya",
+      "show": "Rurouni Kenshin",
+      "quote": "Ugly? I'll have you know they call me The Rose of Martial Arts around here! \r\n "
+    },
+    {
+      "id": "quote_18_1755703788329",
+      "character": "Seijuro Hiko",
+      "show": "Rurouni Kenshin",
+      "quote": "The moon peers down on a diseased world... There is no cure for the disease, an entire race walks mindlessly into destruction. Not even a man of colossal power, would be able to prevent the inevitable.\r\n"
+    },
+    {
+      "id": "quote_19_1755703788329",
+      "character": "Kenshin Himura",
+      "show": "Rurouni Kenshin",
+      "quote": "The scar of my past will determine my future!\r\n"
+    },
+    {
+      "id": "quote_20_1755703788329",
+      "character": "Kenshin Himura",
+      "show": "Rurouni Kenshin",
+      "quote": "You believe that the strong exist to cull the weak. To use them as food. But you are mistaken... The strong exist, not to feed off of the weak, but to protect them! "
+    },
+    {
+      "id": "quote_21_1755703788329",
+      "character": "Kenshin Himura",
+      "show": "Rurouni Kenshin",
+      "quote": "We once fought together for an ideal with our swords. It wasn't for power or for glory, but to create a peaceful world where people could live without fear. And if you should forget about that, then what did we fight the revolution for? "
     }
   ]
 }
