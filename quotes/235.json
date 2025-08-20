@@ -1,8 +1,9 @@
 {
   "name": "Detective Conan",
   "anilistId": 235,
-  "totalQuotes": 70,
+  "totalQuotes": 77,
   "totalCharacters": 13,
+  "lastUpdated": "2025-08-20T14:39:32.355Z",
   "quotes": [
     {
       "id": "quote_57_1755663424317",
@@ -423,6 +424,55 @@
       "character": "Shinichi Kudou",
       "show": "Detective Conan",
       "quote": "There's no such thing as a perfect person in this world."
+    },
+    {
+      "id": "quote_216_1755700772355",
+      "character": "Hattori Heiji",
+      "show": "Detective Conan",
+      "quote": "Life is short so it will be appreciated. We live to our fullest due to that.\n",
+      "originalIndex": "2296"
+    },
+    {
+      "id": "quote_217_1755700772355",
+      "character": "Detective Conan",
+      "show": "Detective Conan",
+      "quote": "Be as swift as the wind. Be as quiet as the forest. Attack as fiercely as the fire. Be immovable like a mountain. Move like the lightning. Be as impenetrable as a shadow.\n",
+      "originalIndex": "2359"
+    },
+    {
+      "id": "quote_218_1755700772355",
+      "character": "Shinichi Kudou",
+      "show": "Detective Conan",
+      "quote": "If you let anger and revenge consume you... You'll find yourself unable to behold the beautiful sights right before your eyes.\n",
+      "originalIndex": "2381"
+    },
+    {
+      "id": "quote_219_1755700772355",
+      "character": "Shinichi Kudou",
+      "show": "Detective Conan",
+      "quote": "People’s feelings sometimes go astray and lead to irreversible consequences. \n",
+      "originalIndex": "2502"
+    },
+    {
+      "id": "quote_220_1755700772355",
+      "character": "Ai Haibara",
+      "show": "Detective Conan",
+      "quote": "Humans can’t reverse the flow of time. If you try to twist it against its will… You’ll be punished.\n",
+      "originalIndex": "2680"
+    },
+    {
+      "id": "quote_221_1755700772355",
+      "character": "Ai Haibara",
+      "show": "Detective Conan",
+      "quote": "Humans live behind masks. \n",
+      "originalIndex": "2682"
+    },
+    {
+      "id": "quote_222_1755700772355",
+      "character": "Shinichi Kudou",
+      "show": "Detective Conan",
+      "quote": "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+      "originalIndex": "7647"
     }
   ]
 }
