@@ -1,0 +1,62 @@
+{
+  "name": "Shugo Chara",
+  "anilistId": 2923,
+  "totalQuotes": 9,
+  "totalCharacters": 4,
+  "quotes": [
+    {
+      "id": "quote_1407_1755681946137",
+      "character": "Amu Hinamori",
+      "show": "Shugo Chara",
+      "quote": "No matter what changes, I'll still be me. And I can be whoever I want to be."
+    },
+    {
+      "id": "quote_1408_1755681946137",
+      "character": "Tsukasa Amakawa",
+      "show": "Shugo Chara",
+      "quote": "Nothing disappears from the heart."
+    },
+    {
+      "id": "quote_1409_1755681946137",
+      "character": "Amu Hinamori",
+      "show": "Shugo Chara",
+      "quote": "If you don't believe in yourself, who will!? You're the only one demeaning yourself!"
+    },
+    {
+      "id": "quote_1410_1755681946137",
+      "character": "Rima Mashiro",
+      "show": "Shugo Chara",
+      "quote": "How worthless. Why are you saying things are impossible? You just decided that to make yourself feel better! Sure, there are things you can't do, things that seem impossible, but that's what makes everyone unique!"
+    },
+    {
+      "id": "quote_1411_1755681946137",
+      "character": "Su",
+      "show": "Shugo Chara",
+      "quote": "Keep reinventing and polishing yourself, and who you want to be can be reborn over and over."
+    },
+    {
+      "id": "quote_1412_1755681946137",
+      "character": "Su",
+      "show": "Shugo Chara",
+      "quote": "You are from a world Su will never understand."
+    },
+    {
+      "id": "quote_1413_1755681946137",
+      "character": "Amu Hinamori",
+      "show": "Shugo Chara",
+      "quote": "No matter what changes, I'll still be me. And I can be whoever I want to be!"
+    },
+    {
+      "id": "quote_1414_1755681946137",
+      "character": "Su",
+      "show": "Shugo Chara",
+      "quote": "The prince's ice cream - it's an indirect kiss!"
+    },
+    {
+      "id": "quote_1415_1755681946137",
+      "character": "Rima Mashiro",
+      "show": "Shugo Chara",
+      "quote": "Sure there are things you can't do, things that seem impossible, but that's what makes everyone unique!"
+    }
+  ]
+}
