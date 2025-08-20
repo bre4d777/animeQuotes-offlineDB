@@ -1,8 +1,9 @@
 {
   "name": "Naruto",
   "anilistId": 20,
-  "totalQuotes": 234,
-  "totalCharacters": 44,
+  "totalQuotes": 508,
+  "totalCharacters": 48,
+  "lastUpdated": "2025-08-20T14:39:51.628Z",
   "quotes": [
     {
       "id": "quote_2788_1755663648658",
@@ -1407,6 +1408,1924 @@
       "character": "Tobirama Senju",
       "show": "Naruto",
       "quote": "Grown-ups are idiots. If they really want to bring an end to this endless fighting, they need to sit down with one another and reach a truce."
+    },
+    {
+      "id": "quote_234_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "I'm Hatake Kakashi. Things I like and things I hate? I don't feel like telling you that. My dreams for the future? Never really thought about that. As for my hobbies... I have lots of hobbies.\n\n\n",
+      "originalIndex": "3457"
+    },
+    {
+      "id": "quote_235_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "Real power is forged from the desire smoldering in the heart. It fans into a flame and begins to burn with an intensity scarcely imagined to be possible.\n",
+      "originalIndex": "3751"
+    },
+    {
+      "id": "quote_236_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "You're such a child. You talk of nothing but pipe dreams... there are times when people must make painful choices.",
+      "originalIndex": "7643"
+    },
+    {
+      "id": "quote_237_1755700791628",
+      "character": "Temari",
+      "show": "Naruto",
+      "quote": "*about Shikamaru* Amazing. This slacker-clown outsmarted me!",
+      "originalIndex": "7824"
+    },
+    {
+      "id": "quote_238_1755700791628",
+      "character": "Temari",
+      "show": "Naruto",
+      "quote": "Sharpen your kama at sunset.",
+      "originalIndex": "7825"
+    },
+    {
+      "id": "quote_239_1755700791628",
+      "character": "Temari",
+      "show": "Naruto",
+      "quote": "*to Lee* Get yourself and that loser out of my way.",
+      "originalIndex": "7826"
+    },
+    {
+      "id": "quote_240_1755700791628",
+      "character": "Temari",
+      "show": "Naruto",
+      "quote": "*to Shikamaru* You are awfully fragile. What kind of man are you?",
+      "originalIndex": "7827"
+    },
+    {
+      "id": "quote_241_1755700791628",
+      "character": "Temari",
+      "show": "Naruto",
+      "quote": "Wasn't much of a match...kinda boring.",
+      "originalIndex": "7828"
+    },
+    {
+      "id": "quote_242_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "There are no enemies here because we've all suffered at Akatsuki's hand! So there is no Suna, no Iwa, no Konoha, no Kiri, and no Kumo! There are only \"shinobi\"!",
+      "originalIndex": "7829"
+    },
+    {
+      "id": "quote_243_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "He was the one who taught me to deepen my bond with my people. Thanks to him, I was able to regain my true self. That village has him, the one who cherishes a friend's bond more than anyone I know. Naruto Uzumaki... Knowing him and the friends he holds so dear, they will overcome this disaster and grow even stronger from it.",
+      "originalIndex": "7830"
+    },
+    {
+      "id": "quote_244_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "This is where it all starts for me. Starting with this small bond. I too want to become someone who is needed, instead of a weapon that is feared. And as the Kazekage of Sunagakure.",
+      "originalIndex": "7831"
+    },
+    {
+      "id": "quote_245_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "I know him well. He takes too many risks when it comes to his friends...that's why.",
+      "originalIndex": "7832"
+    },
+    {
+      "id": "quote_246_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "*to Naruto* I think of you as a friend. I used to think \"friend\" was just another word... Nothing more, nothing less. But when I met you, I realized what was important was the word's meaning.",
+      "originalIndex": "7833"
+    },
+    {
+      "id": "quote_247_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "*to Naruto* If you're truly prepared to take up the mantle of a Kage, then as Sasuke's friend, you know what you have to do.",
+      "originalIndex": "7834"
+    },
+    {
+      "id": "quote_248_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "Peace under an illusion is not a true peace. It's only meaningful if the real world manages to accomplish it.",
+      "originalIndex": "7835"
+    },
+    {
+      "id": "quote_249_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "When did you forsake yourselves?",
+      "originalIndex": "7836"
+    },
+    {
+      "id": "quote_250_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "Up until now, my bonds with others have only been ones of hatred and murder. But, seeing him fight so hard made me wonder what a bond really is. I think I understand a little now. Suffering, sadness...and joy. To be able to share it with another person. Naruto Uzumaki...when I fought him, I feel that is what he taught me.",
+      "originalIndex": "7837"
+    },
+    {
+      "id": "quote_251_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "Perhaps the companionship of an evil person is preferable to loneliness.",
+      "originalIndex": "7838"
+    },
+    {
+      "id": "quote_252_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "You're the same then. When you feel the honor of your idol under scrutiny... you become enraged, as if it were your own honor being questioned. The more precious your idol is to you... the harder you fight for him.",
+      "originalIndex": "7839"
+    },
+    {
+      "id": "quote_253_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "I shall kill you. I will not cease to exist.",
+      "originalIndex": "7840"
+    },
+    {
+      "id": "quote_254_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "*to Sasuke* You have the same eyes as I do...the eyes, filled with hatred and death, that long for strength... Just like mine. Your eyes tell me how badly you wish to kill the one who put you through the hell called loneliness.",
+      "originalIndex": "7841"
+    },
+    {
+      "id": "quote_255_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "I am a relic they want to get rid of, so why do I exist and live? In order to exist you need a purpose, to exist for no reason is the same as being dead... I would love only myself and fight for only myself. If all other people exist to magnify that love, then there is no more a splendid universe than this one...",
+      "originalIndex": "7842"
+    },
+    {
+      "id": "quote_256_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "The corpse's bitter crimson tears flow and mingle with the endless sand, filling the chaos within me - and making me stronger.",
+      "originalIndex": "7843"
+    },
+    {
+      "id": "quote_257_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "I finally understand... I'm alone. I won't believe in anyone, or love anyone. I'm alone.",
+      "originalIndex": "7844"
+    },
+    {
+      "id": "quote_258_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "What does pain feel like?",
+      "originalIndex": "7845"
+    },
+    {
+      "id": "quote_259_1755700791628",
+      "character": "Anko Mitarashi",
+      "show": "Naruto",
+      "quote": "I wasn't cast aside. It was my choice, and mine alone.",
+      "originalIndex": "7846"
+    },
+    {
+      "id": "quote_260_1755700791628",
+      "character": "Anko Mitarashi",
+      "show": "Naruto",
+      "quote": "*to Orochimaru* But why? How could you do this!? I don't get it, I've looked up to you more than anyone in the world!",
+      "originalIndex": "7847"
+    },
+    {
+      "id": "quote_261_1755700791628",
+      "character": "Anko Mitarashi",
+      "show": "Naruto",
+      "quote": "*about Sasuke* I don't care what the heck he is! If he stays, he's a danger to everyone! Don't you see!? As he gets stronger, so does the Curse Mark! That thing is feeding off his chakra! It's a Forbidden Jutsu that devours the one who bears it! It's incredible the kid's still standing. By now, he...should be dead.",
+      "originalIndex": "7848"
+    },
+    {
+      "id": "quote_262_1755700791628",
+      "character": "Anko Mitarashi",
+      "show": "Naruto",
+      "quote": "*to Orochimaru* This is no time to reminisce, you're an S-class criminal, top of the most wanted list. You've got to be taken down, and it's only fitting that I'm the one to do it. 'Cause after all, you're the one that taught me everything, right, Sensei?",
+      "originalIndex": "7849"
+    },
+    {
+      "id": "quote_263_1755700791628",
+      "character": "Anko Mitarashi",
+      "show": "Naruto",
+      "quote": "*to Naruto* Tough guys like you usually leave their blood all over this forest.",
+      "originalIndex": "7850"
+    },
+    {
+      "id": "quote_264_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "He was a worthy opponent! A man who lived and died like a real shinobi! Kisame Hoshigaki! I'll remember that name for the rest of my life!",
+      "originalIndex": "7851"
+    },
+    {
+      "id": "quote_265_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "*to Kisame* A failure will win even at the cost of their own life!",
+      "originalIndex": "7852"
+    },
+    {
+      "id": "quote_266_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "That's it, Lee! Let the power of youth explode!!",
+      "originalIndex": "7853"
+    },
+    {
+      "id": "quote_267_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "When a man struts around like a peacock, acting like Mr. Big Stuff, he should keep his promises. Even if it kills him.",
+      "originalIndex": "7854"
+    },
+    {
+      "id": "quote_268_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "Gahh! Kakashi! You make me so mad! Why do you have to act so cool?!",
+      "originalIndex": "7855"
+    },
+    {
+      "id": "quote_269_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "You have the gift of perseverance, and that's what makes you a genius too!",
+      "originalIndex": "7856"
+    },
+    {
+      "id": "quote_270_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "Don't let anything stir you up the path you have drawn for yourself! Forge ahead in the end! Stick to it Lee! Make me proud! Be everything you can be!",
+      "originalIndex": "7857"
+    },
+    {
+      "id": "quote_271_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "You worked hard Lee, there's no doubt in my mind the surgery will be a success. You have the power to shape your own destiny. And on the one-in-one thousand, no, one in a million chance something to happen to go wrong, I will die right along with you. Since the day I met you, my nindō has been to train you to become the most splendid ninja possible. That's a promise!",
+      "originalIndex": "7858"
+    },
+    {
+      "id": "quote_272_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "*to Neji* I was a failure when I was your age, but now I can even beat Kakashi, the elite genius. It's only a matter of time until Lee finally surpasses you!",
+      "originalIndex": "7859"
+    },
+    {
+      "id": "quote_273_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "People call me the Leaf's Noble Gentleman!",
+      "originalIndex": "7860"
+    },
+    {
+      "id": "quote_274_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "That's it, Lee! Run...run towards the setting sun!... But don't mess up your hair!",
+      "originalIndex": "7861"
+    },
+    {
+      "id": "quote_275_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "Look deep into my eyes and accept my sincere apology! Also notice my handsome manly features.",
+      "originalIndex": "7862"
+    },
+    {
+      "id": "quote_276_1755700791628",
+      "character": "Might Guy",
+      "show": "Naruto",
+      "quote": "*to Kakashi* What is with your attitude?! We'll never be young like this again!",
+      "originalIndex": "7863"
+    },
+    {
+      "id": "quote_277_1755700791628",
+      "character": "Shino Aburame",
+      "show": "Naruto",
+      "quote": "I kind of hate him.",
+      "originalIndex": "7864"
+    },
+    {
+      "id": "quote_278_1755700791628",
+      "character": "Shino Aburame",
+      "show": "Naruto",
+      "quote": "If you fight me, you won't be able to recover. Forfeit and withdraw.",
+      "originalIndex": "7865"
+    },
+    {
+      "id": "quote_279_1755700791628",
+      "character": "Shino Aburame",
+      "show": "Naruto",
+      "quote": "Never underestimate your opponent, no matter how small they may seem.",
+      "originalIndex": "7866"
+    },
+    {
+      "id": "quote_280_1755700791628",
+      "character": "Shino Aburame",
+      "show": "Naruto",
+      "quote": "Even if it's been a while, you should remember your comrades faces. Why? Because otherwise you will hurt their feelings when they call out to you.",
+      "originalIndex": "7867"
+    },
+    {
+      "id": "quote_281_1755700791628",
+      "character": "Shino Aburame",
+      "show": "Naruto",
+      "quote": "I hate explaining the same thing twice.",
+      "originalIndex": "7868"
+    },
+    {
+      "id": "quote_282_1755700791628",
+      "character": "Shino Aburame",
+      "show": "Naruto",
+      "quote": "This is what a real trump card is.",
+      "originalIndex": "7869"
+    },
+    {
+      "id": "quote_283_1755700791628",
+      "character": "Kiba Inuzuka",
+      "show": "Naruto",
+      "quote": "If I kick enough asses I might even end up Hokage!",
+      "originalIndex": "7870"
+    },
+    {
+      "id": "quote_284_1755700791628",
+      "character": "Kiba Inuzuka",
+      "show": "Naruto",
+      "quote": "Let's die together.",
+      "originalIndex": "7871"
+    },
+    {
+      "id": "quote_285_1755700791628",
+      "character": "Kiba Inuzuka",
+      "show": "Naruto",
+      "quote": "*to Naruto* You? Hokage? You can't even beat me! No-one's deluded enough to think that you have what it takes to become the next Hokage, not even you! Tell you what, though... I'll become Hokage in your place!",
+      "originalIndex": "7872"
+    },
+    {
+      "id": "quote_286_1755700791628",
+      "character": "Kiba Inuzuka",
+      "show": "Naruto",
+      "quote": "Don't think you can run away from my nose.",
+      "originalIndex": "7873"
+    },
+    {
+      "id": "quote_287_1755700791628",
+      "character": "Kiba Inuzuka",
+      "show": "Naruto",
+      "quote": "Heh, I don't know what's going on, but I'm always up for getting wild.",
+      "originalIndex": "7874"
+    },
+    {
+      "id": "quote_288_1755700791628",
+      "character": "Kiba Inuzuka",
+      "show": "Naruto",
+      "quote": "Yahoo! Akamaru, let's do this!",
+      "originalIndex": "7875"
+    },
+    {
+      "id": "quote_289_1755700791628",
+      "character": "Chouji Akimichi",
+      "show": "Naruto",
+      "quote": "I'm gonna eat until I can eat no more!",
+      "originalIndex": "7876"
+    },
+    {
+      "id": "quote_290_1755700791628",
+      "character": "Chouji Akimichi",
+      "show": "Naruto",
+      "quote": "I can't forgive you for calling me fat! But even more than that... Not just for stealing the last chip... or calling me fat... most importantly I won't forgive anyone who insults my best friend!",
+      "originalIndex": "7877"
+    },
+    {
+      "id": "quote_291_1755700791628",
+      "character": "Chouji Akimichi",
+      "show": "Naruto",
+      "quote": "Fat!? I'm big boned!",
+      "originalIndex": "7878"
+    },
+    {
+      "id": "quote_292_1755700791628",
+      "character": "Chouji Akimichi",
+      "show": "Naruto",
+      "quote": "*to Shikamaru* I won't let even YOU eat the last barbecue chip!",
+      "originalIndex": "7879"
+    },
+    {
+      "id": "quote_293_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "My master entrusted me with a lot, from big things to little things. It's the same for you an unlimited number of things, don't you think it's about time for us, to be the ones who entrust not the entrusted, it's a pain in the ass but I can't say that. Someday you'll be the one to treat others to ramen and you'll be called Master Naruto... We can't stay kids forever, like Asuma and Jiraiya, I wanna be as cool as them.",
+      "originalIndex": "7880"
+    },
+    {
+      "id": "quote_294_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "*about Temari* Subtle as a rhino... she might even be scarier than my mom.",
+      "originalIndex": "7881"
+    },
+    {
+      "id": "quote_295_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "*about women, to his father* If women made you a better person, I wouldn't want to know what you were like before.",
+      "originalIndex": "7882"
+    },
+    {
+      "id": "quote_296_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "*about girls* C'mon. You know what they're like. You can never figure them out. You never know where you could stand with them. The smallest things could put you in their bad side. Always playing little mind games with you. Trying to make you do what they want. They're just a big pain basically.",
+      "originalIndex": "7883"
+    },
+    {
+      "id": "quote_297_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "When you have that kid, I'll have to protect it. So I've gotta grow up to be a cool adult too!",
+      "originalIndex": "7884"
+    },
+    {
+      "id": "quote_298_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "We're not stupid enough to go out there planning to die.",
+      "originalIndex": "7885"
+    },
+    {
+      "id": "quote_299_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "*to Hidan* That pathetic Lord Jashin or whatever isn't your God anymore. I am. The only one bringing down vengeance is me.",
+      "originalIndex": "7886"
+    },
+    {
+      "id": "quote_300_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "*to Hidan* See, you and I have different beliefs. I believe in the Will of Fire.",
+      "originalIndex": "7887"
+    },
+    {
+      "id": "quote_301_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "Ughh. Great. What's the point in setting the alarm if I'm going to wake up before it goes off? What a total waste. Now I've gotta shut it off but I don't feel like moving. But if I don't shut it off it will just keep ringing and ringing. Sigh. It makes me tired just thinking about the whole thing. Some mornings are such a drag...",
+      "originalIndex": "7888"
+    },
+    {
+      "id": "quote_302_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "You would think just this once, when it was life or death, I could pull through.",
+      "originalIndex": "7889"
+    },
+    {
+      "id": "quote_303_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "How many times do I have to tell you? The first move is always a feint.",
+      "originalIndex": "7890"
+    },
+    {
+      "id": "quote_304_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "I never really liked Sasuke, but all the same, he's a member of the Hidden Leaf village, he's a comrade and I'll put my life on the line to help him, that's the way of our village. I know I usually seem like a pretty lazy guy, but not today. Because now, I'm responsible for your lives too.",
+      "originalIndex": "7891"
+    },
+    {
+      "id": "quote_305_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "Sometimes I wish I was just a cloud, floating along.",
+      "originalIndex": "7892"
+    },
+    {
+      "id": "quote_306_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "*about Ino* What a drag... I say a single thing against Sasuke, and I have to get that evil look from her eyes.",
+      "originalIndex": "7893"
+    },
+    {
+      "id": "quote_307_1755700791628",
+      "character": "Ino Yamanaka",
+      "show": "Naruto",
+      "quote": "Who're you calling \"pig\", you billboard brow?!",
+      "originalIndex": "7894"
+    },
+    {
+      "id": "quote_308_1755700791628",
+      "character": "Ino Yamanaka",
+      "show": "Naruto",
+      "quote": "*to Sakura* You bloomed into a beautiful flower.",
+      "originalIndex": "7895"
+    },
+    {
+      "id": "quote_309_1755700791628",
+      "character": "Ino Yamanaka",
+      "show": "Naruto",
+      "quote": "*talking about Naruto* I could almost fall for him.",
+      "originalIndex": "7896"
+    },
+    {
+      "id": "quote_310_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "Wise words, Guy sensei! So simple but filled with such profound meaning!",
+      "originalIndex": "7897"
+    },
+    {
+      "id": "quote_311_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "The lotus of the Leaf Village blooms twice.",
+      "originalIndex": "7898"
+    },
+    {
+      "id": "quote_312_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "I want to show I can be a splendid ninja as well even if I don't have ninjutsu or genjutsu... I want to prove it to the whole world!",
+      "originalIndex": "7899"
+    },
+    {
+      "id": "quote_313_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "Sakura, please go out with me! I'll protect you with my life!",
+      "originalIndex": "7900"
+    },
+    {
+      "id": "quote_314_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "A rock thrown at a pole will not hit, but if one does not aim at the pole, it will hit! That is the law I used!",
+      "originalIndex": "7901"
+    },
+    {
+      "id": "quote_315_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "Amazing... The brilliance of the blade... the design. They're all beautiful! I want to take them all home!",
+      "originalIndex": "7902"
+    },
+    {
+      "id": "quote_316_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "Three members of Team Guy specializes in Close-Contact battles so I often render aid from the distance. I don't mind providing back up, but I was hoping to find new ninja tools that would enable me to fight on the front lines.",
+      "originalIndex": "7903"
+    },
+    {
+      "id": "quote_317_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "You're gonna fight Sasuke alone? And you think all of us are just gonna stand here and let you?!",
+      "originalIndex": "7904"
+    },
+    {
+      "id": "quote_318_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "Let's just say I don't like being kept in the dark!",
+      "originalIndex": "7905"
+    },
+    {
+      "id": "quote_319_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "I'm not running away and I'm not giving up. I will save this child.",
+      "originalIndex": "7906"
+    },
+    {
+      "id": "quote_320_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "I won't let that happen. You're not getting off that easy. No way! The people you and Raiga killed, they all wanted to live but you didn't leave them that choice! You decided for them! Well you don't get to decide this time, ok?! You're gonna live and you're going to take some responsibility for all those people's lives you cut short!",
+      "originalIndex": "7907"
+    },
+    {
+      "id": "quote_321_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "I can't stand weak and indecisive people!",
+      "originalIndex": "7908"
+    },
+    {
+      "id": "quote_322_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "I want to be a great and powerful ninja! To walk in the footsteps of the legendary kunoichi, Tsunade!",
+      "originalIndex": "7909"
+    },
+    {
+      "id": "quote_323_1755700791628",
+      "character": "Tenten",
+      "show": "Naruto",
+      "quote": "It's not because they're girls you know, Neji. It's just that those two are using kid gloves. It doesn't matter if you're a man or woman in battle.",
+      "originalIndex": "7910"
+    },
+    {
+      "id": "quote_324_1755700791628",
+      "character": "Hiruzen Sarutobi",
+      "show": "Naruto",
+      "quote": "*last words* When the tree leaves dance, one shall find flames. The fire's shadow will illuminate the village, and once again, tree leaves shall bud anew.",
+      "originalIndex": "7911"
+    },
+    {
+      "id": "quote_325_1755700791628",
+      "character": "Hiruzen Sarutobi",
+      "show": "Naruto",
+      "quote": "It is a place where every year shinobi are born, raised, grow old, fight, and die to protect their home. These people are precious to me. We share a home, we share a life, and though we may not share ties of blood, they are precious to me. They are my family. And if I do fall, you still will fail. I am only one of a long line. I carry this title in trust for those Hokage who came before and those who will come after. I am the Third Hokage!",
+      "originalIndex": "7912"
+    },
+    {
+      "id": "quote_326_1755700791628",
+      "character": "Hiruzen Sarutobi",
+      "show": "Naruto",
+      "quote": "I wonder...do you have it, young as you are... the Will of Fire?",
+      "originalIndex": "7913"
+    },
+    {
+      "id": "quote_327_1755700791628",
+      "character": "Hiruzen Sarutobi",
+      "show": "Naruto",
+      "quote": "He has combined Shadow Clone with his own invention, the Sexy Jutsu. What a foolish ninja technique...and he could probably get me with it, too.",
+      "originalIndex": "7914"
+    },
+    {
+      "id": "quote_328_1755700791628",
+      "character": "Tsunade",
+      "show": "Naruto",
+      "quote": "I am the Fifth Hokage... You've trampled on our ancestors treasure...their dream...and you will pay the price! As the Hokage, I will put a stop to you here and now!",
+      "originalIndex": "7915"
+    },
+    {
+      "id": "quote_329_1755700791628",
+      "character": "Tsunade",
+      "show": "Naruto",
+      "quote": "*talking to the advisers* People like Jiraiya...and Sarutobi, and Elder Chiyo of the Sand possessed something you two sorely lack. Do you know what that is!? ...Faith! My grandfather, the First Hokage, believed in you and entrusted you with the village. Now it's your turn to believe in these children and entrust it to them!",
+      "originalIndex": "7916"
+    },
+    {
+      "id": "quote_330_1755700791628",
+      "character": "Tsunade",
+      "show": "Naruto",
+      "quote": "Grow up... Death comes with being a shinobi. There are times when death is hard to accept, but if you don't get over it, there's no future...",
+      "originalIndex": "7917"
+    },
+    {
+      "id": "quote_331_1755700791628",
+      "character": "Tsunade",
+      "show": "Naruto",
+      "quote": "*to Orochimaru about Naruto* \"I will die before I let you touch him!",
+      "originalIndex": "7918"
+    },
+    {
+      "id": "quote_332_1755700791628",
+      "character": "Tsunade",
+      "show": "Naruto",
+      "quote": "Why am I putting my life on the line? Because now... I am the Fifth Hokage of the Village Hidden in the Leaves!",
+      "originalIndex": "7919"
+    },
+    {
+      "id": "quote_333_1755700791628",
+      "character": "Tsunade",
+      "show": "Naruto",
+      "quote": "Jiraiya, are you the one who taught him the Rasengan? Are you acting like a teacher by teaching him something he can't master? Don't give him any ideas! That's why this kid likes to daydream that he's going to become Hokage someday.",
+      "originalIndex": "7920"
+    },
+    {
+      "id": "quote_334_1755700791628",
+      "character": "Tsunade",
+      "show": "Naruto",
+      "quote": "*about to fight Naruto* One of the Legendary Sannin taking on a snot-nosed Genin... I oughta be ashamed of myself.",
+      "originalIndex": "7921"
+    },
+    {
+      "id": "quote_335_1755700791628",
+      "character": "Kisame Hoshigaki",
+      "show": "Naruto",
+      "quote": "*last words* Itachi-san... It seems that in the end... I'm not so terrible after all.",
+      "originalIndex": "7922"
+    },
+    {
+      "id": "quote_336_1755700791628",
+      "character": "Kisame Hoshigaki",
+      "show": "Naruto",
+      "quote": "I get stronger in direct proportion to how strong my opponent is. I do not tire, and cannot be defeated.",
+      "originalIndex": "7923"
+    },
+    {
+      "id": "quote_337_1755700791628",
+      "character": "Kisame Hoshigaki",
+      "show": "Naruto",
+      "quote": "*to Asuma* My massive blade, Samehada, doesn't slice... It shreds to ribbons!",
+      "originalIndex": "7924"
+    },
+    {
+      "id": "quote_338_1755700791628",
+      "character": "Kisame Hoshigaki",
+      "show": "Naruto",
+      "quote": "Sharks start out as eggs, but incubate and hatch in the womb. Sometimes the number of pups is less than the number of eggs that were fertilized. Do you know why? Cannibalism. The pups start eating each other within the mother's womb the moment they hatch. They start killing their siblings the moment they enter the world, viewing everything they see as nothing more than prey. As of today you and I are fellow members of Akatsuki. So be careful... of me.",
+      "originalIndex": "7925"
+    },
+    {
+      "id": "quote_339_1755700791628",
+      "character": "Kisame Hoshigaki",
+      "show": "Naruto",
+      "quote": "I knew that from the first time I had to kill my comrades... Kill a Kiri ninja as a Kiri ninja. What does that make me? Am I a friend or foe? What is my purpose and my position? Where do I go? Where can I go? I'm well aware that my entire life has been a one giant lie.",
+      "originalIndex": "7926"
+    },
+    {
+      "id": "quote_340_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "*to Kakashi* I died as a human!",
+      "originalIndex": "7927"
+    },
+    {
+      "id": "quote_341_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "*last words* You were always at my side, the least I can do is to be beside you at the end. I know it cannot be, but I wish I could go to where you have gone. How I wish I could join you there, Haku.",
+      "originalIndex": "7928"
+    },
+    {
+      "id": "quote_342_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "I can't think of a more fitting destination for a demon ninja, can you?! I'm told there are many demons down there - of all shapes and sizes! Oh yes, I should fit right in! You, on the other hand, Gatō... Well,I fear you're in for a long and very painful eternity!",
+      "originalIndex": "7929"
+    },
+    {
+      "id": "quote_343_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "Even the unremarkable Demon of the Hidden Mist can die and become a real Demon in hell!",
+      "originalIndex": "7930"
+    },
+    {
+      "id": "quote_344_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "Uh uh...I won't be joining Haku. Where he's gone I cannot follow. We wouldn't be welcome where Haku's gone to. Hell's where WE'RE going, Gatō!",
+      "originalIndex": "7931"
+    },
+    {
+      "id": "quote_345_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "Well? Cat got your tongue? Are you so surprised to discover that I'm human? Even shinobi are human. No matter how hard we try, we always fail to escape that simple fact. Well at least, I have failed.",
+      "originalIndex": "7932"
+    },
+    {
+      "id": "quote_346_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "*to Naruto* Your words cut deep, deeper than any blade.",
+      "originalIndex": "7933"
+    },
+    {
+      "id": "quote_347_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "When you've hovered between life and death so many times that it doesn't faze you, you may be called a ninja. When you've become so deadly that your profile has been entered into my bingo book, then you may have earned the title ninja.",
+      "originalIndex": "7934"
+    },
+    {
+      "id": "quote_348_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "You're right. Those little people and their little dreams, why should I care about them?! I have my own dream!",
+      "originalIndex": "7935"
+    },
+    {
+      "id": "quote_349_1755700791628",
+      "character": "Zabuza Momochi",
+      "show": "Naruto",
+      "quote": "When I was your age, my hands were already soaked in blood...",
+      "originalIndex": "7936"
+    },
+    {
+      "id": "quote_350_1755700791628",
+      "character": "Hinata Hyuuga",
+      "show": "Naruto",
+      "quote": "I used to always cry and give up... I made many wrong turns... But you... You helped me find the right path... I always chased after you... I wanted to catch up to you... I wanted to walk beside you all the time... I just wanted to be with you... You changed me! Your smile is what saved me! That is why I'm not afraid to die protecting you! Because... I love you...",
+      "originalIndex": "7937"
+    },
+    {
+      "id": "quote_351_1755700791628",
+      "character": "Hinata Hyuuga",
+      "show": "Naruto",
+      "quote": "I won't let you lay another finger on Naruto!",
+      "originalIndex": "7938"
+    },
+    {
+      "id": "quote_352_1755700791628",
+      "character": "Hinata Hyuuga",
+      "show": "Naruto",
+      "quote": "*to Naruto* You make mistakes... but... because of those mistakes... you get the strength to stand up to them. That's why I think you are truly strong.",
+      "originalIndex": "7939"
+    },
+    {
+      "id": "quote_353_1755700791628",
+      "character": "Hinata Hyuuga",
+      "show": "Naruto",
+      "quote": "*to Naruto* When I watch you, I feel strong, like I can do anything - that even I am worth something.",
+      "originalIndex": "7940"
+    },
+    {
+      "id": "quote_354_1755700791628",
+      "character": "Hinata Hyuuga",
+      "show": "Naruto",
+      "quote": "You're wrong, Neji... Because I can see that you are suffering more than me... You are the one who is confused and suffering inside the fate of the head and branch families.",
+      "originalIndex": "7941"
+    },
+    {
+      "id": "quote_355_1755700791628",
+      "character": "Hinata Hyuuga",
+      "show": "Naruto",
+      "quote": "Was I able to change myself...even a little, N-Naruto-kun?",
+      "originalIndex": "7942"
+    },
+    {
+      "id": "quote_356_1755700791628",
+      "character": "Hinata Hyuuga",
+      "show": "Naruto",
+      "quote": "I will never go back on my word, because that too is my ninja way!",
+      "originalIndex": "7943"
+    },
+    {
+      "id": "quote_357_1755700791628",
+      "character": "Haku",
+      "show": "Naruto",
+      "quote": "By the way, I'm a boy.",
+      "originalIndex": "7944"
+    },
+    {
+      "id": "quote_358_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "My name is Uzumaki Naruto. I like ramen. I hate the three minutes you have to wait while the water boils. And my dream is to one day become a Hokage. Then everyone will have to respect me at last.",
+      "originalIndex": "7945"
+    },
+    {
+      "id": "quote_359_1755700791628",
+      "character": "Kankuro",
+      "show": "Naruto",
+      "quote": "Sasori...your strength came because of your soul, not in spite of it. You tried to erase it, to become a puppet yourself, but couldn't change completely. Now you've got your immortal body, but you've fallen, sunk to the level of the puppets you used to control. You were supposed to be a top class ninja puppeteer, not a worthless nobody who lets someone else pull the strings.",
+      "originalIndex": "7946"
+    },
+    {
+      "id": "quote_360_1755700791628",
+      "character": "Kankuro",
+      "show": "Naruto",
+      "quote": "How well or poorly we execute our ambush will have a huge impact on this war and how many casualties we suffer. If you wanna protect your friends and family, the only thing you should be thinking about is how to make this operation a success!",
+      "originalIndex": "7947"
+    },
+    {
+      "id": "quote_361_1755700791628",
+      "character": "Kankuro",
+      "show": "Naruto",
+      "quote": "*to Naruto* Aww, don't sweat it. Women always go weak in the knees for that cool, elite type of guy. So what can you do, am I right?",
+      "originalIndex": "7948"
+    },
+    {
+      "id": "quote_362_1755700791628",
+      "character": "Kankuro",
+      "show": "Naruto",
+      "quote": "Naruto... please save my little brother.",
+      "originalIndex": "7949"
+    },
+    {
+      "id": "quote_363_1755700791628",
+      "character": "Kankuro",
+      "show": "Naruto",
+      "quote": "I'll show you the real power of the battle puppet Crow.",
+      "originalIndex": "7950"
+    },
+    {
+      "id": "quote_364_1755700791628",
+      "character": "Kankuro",
+      "show": "Naruto",
+      "quote": "I can't back down when they show me no respect.",
+      "originalIndex": "7951"
+    },
+    {
+      "id": "quote_365_1755700791628",
+      "character": "Kankuro",
+      "show": "Naruto",
+      "quote": "*thinking about Naruto* This brat...I'm going to kill him.",
+      "originalIndex": "7952"
+    },
+    {
+      "id": "quote_366_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "Growth occurs when one goes beyond one's limits. Realizing that is also part of training.",
+      "originalIndex": "7953"
+    },
+    {
+      "id": "quote_367_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "*last words* Forgive me Sasuke... It ends with this.",
+      "originalIndex": "7954"
+    },
+    {
+      "id": "quote_368_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "*to Kisame* Those who turn their hands against their comrades are sure to die a terrible death. Be prepared.",
+      "originalIndex": "7955"
+    },
+    {
+      "id": "quote_369_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "The people of this clan are all the same. You focus on the trivial, and lose sight of what's most important. Change is impossible, in this fog of ignorance. How can we evolve when regulation is all we know?",
+      "originalIndex": "7956"
+    },
+    {
+      "id": "quote_370_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "I've had enough, there's no hope left for this pathetic clan.",
+      "originalIndex": "7957"
+    },
+    {
+      "id": "quote_371_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "Don't cry, Sasuke. Your big brother is here to protect you, no matter what happens.",
+      "originalIndex": "7958"
+    },
+    {
+      "id": "quote_372_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "You and I are flesh and blood. I'm always going to be there for you, even if it's only as an obstacle for you to overcome. Even if you do hate me. That's what big brothers are for.",
+      "originalIndex": "7959"
+    },
+    {
+      "id": "quote_373_1755700791628",
+      "character": "Obito Uchiha",
+      "show": "Naruto",
+      "quote": "*last words* Just when me and Kakashi were becoming friends... I couldn't bring myself to confess to Rin... I wish I had more time with everyone...",
+      "originalIndex": "7960"
+    },
+    {
+      "id": "quote_374_1755700791628",
+      "character": "Obito Uchiha",
+      "show": "Naruto",
+      "quote": "*to Kakashi* I'm about to... die... but I'll become your eye.",
+      "originalIndex": "7961"
+    },
+    {
+      "id": "quote_375_1755700791628",
+      "character": "Obito Uchiha",
+      "show": "Naruto",
+      "quote": "I believe the \"White Fang\" is a true hero!",
+      "originalIndex": "7962"
+    },
+    {
+      "id": "quote_376_1755700791628",
+      "character": "Obito Uchiha",
+      "show": "Naruto",
+      "quote": "*to Kakashi* I am Uchiha Obito and I will surpass you once I awaken my Sharingan!",
+      "originalIndex": "7963"
+    },
+    {
+      "id": "quote_377_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "I have already awakened.",
+      "originalIndex": "7964"
+    },
+    {
+      "id": "quote_378_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "I don't understand what's going on, but I'll just pretend that I do. *nods head in agreement*",
+      "originalIndex": "7965"
+    },
+    {
+      "id": "quote_379_1755700791628",
+      "character": "Kabuto Yakushi",
+      "show": "Naruto",
+      "quote": "*to Naruto* Finding a new me, that is the lesson you taught me.",
+      "originalIndex": "7966"
+    },
+    {
+      "id": "quote_380_1755700791628",
+      "character": "Kabuto Yakushi",
+      "show": "Naruto",
+      "quote": "I decided I wished to be like you as well, Naruto-kun, and for that reason...with Orochimaru-sama now intregrated into this body, I plan on finding a new \"me\", one stronger than Orochimaru-sama himself!",
+      "originalIndex": "7967"
+    },
+    {
+      "id": "quote_381_1755700791628",
+      "character": "Kabuto Yakushi",
+      "show": "Naruto",
+      "quote": "Hehehe...you can't beat me. You have no skills, unlike Sasuke.",
+      "originalIndex": "7968"
+    },
+    {
+      "id": "quote_382_1755700791628",
+      "character": "Kabuto Yakushi",
+      "show": "Naruto",
+      "quote": "*to Naruto* You've just thrown it all away! Dreams don't come true when you're dead!",
+      "originalIndex": "7969"
+    },
+    {
+      "id": "quote_383_1755700791628",
+      "character": "Kabuto Yakushi",
+      "show": "Naruto",
+      "quote": "Little kids think life is so easy. That's why they go on and on about their dreams. That's why they never give up.",
+      "originalIndex": "7970"
+    },
+    {
+      "id": "quote_384_1755700791628",
+      "character": "Kabuto Yakushi",
+      "show": "Naruto",
+      "quote": "Oh you look so beautiful... We're not here for a picnic you know.",
+      "originalIndex": "7971"
+    },
+    {
+      "id": "quote_385_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "Don't worry, this will be over in five seconds.",
+      "originalIndex": "7972"
+    },
+    {
+      "id": "quote_386_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "We're just some normal ninja, we don't want to see what's under your mask.",
+      "originalIndex": "7973"
+    },
+    {
+      "id": "quote_387_1755700791628",
+      "character": "Iruka Umino",
+      "show": "Naruto",
+      "quote": "*to Naruto* Lord Jiraiya only had praise for you. He was always boasting about you, saying you were like his own grandchild. He had faith that you were the one who would inherit his will, and truly believed that you would one day be a great Hokage. Lord Jiraiya will always watch over you. Even this very minute, he's watching from somewhere. He wouldn't be happy seeing you sad like this. So...be your usual self, the one he praised so much. Don't stay depressed forever. For Lord Jiraiya himself, one of the Legendary Sannin...acknowledged you as his promising student!",
+      "originalIndex": "7974"
+    },
+    {
+      "id": "quote_388_1755700791628",
+      "character": "Iruka Umino",
+      "show": "Naruto",
+      "quote": "So I acted like an idiot. It was tough, has it been lonely for you Naruto, was it tough Naruto??",
+      "originalIndex": "7975"
+    },
+    {
+      "id": "quote_389_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "We are humans, not fish. We don't know what kind of people we truly are until the moment before our deaths. As death comes to embrace you, you will realize what you are. That's what death is, don't you think?",
+      "originalIndex": "7976"
+    },
+    {
+      "id": "quote_390_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "You are weak. Why are you so weak? Because you lack... hatred.",
+      "originalIndex": "7977"
+    },
+    {
+      "id": "quote_391_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "If I can't do 400 push-ups, I'll hit the dummy 800 times! If I can't hit the dummy 800 times, I'll do 2000 jump ropes!",
+      "originalIndex": "7978"
+    },
+    {
+      "id": "quote_392_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "I am the Handsome Devil of the Hidden Leaf Village! My name is Rock Lee!",
+      "originalIndex": "7979"
+    },
+    {
+      "id": "quote_393_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "Guy-sensei is the coolest! He practically GLOWS with cool!",
+      "originalIndex": "7980"
+    },
+    {
+      "id": "quote_394_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "Stop calling me Ero-sennin!!",
+      "originalIndex": "7981"
+    },
+    {
+      "id": "quote_395_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "Baka, baka, baka!! They found out I was peeking! Now my research is ruined!",
+      "originalIndex": "7982"
+    },
+    {
+      "id": "quote_396_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "The only thing that can keep a fire from dying and give it more power, is wind.",
+      "originalIndex": "7983"
+    },
+    {
+      "id": "quote_397_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "If I become as strong as you, will I really become like you? To die as a tool...that's...that's just too sad.",
+      "originalIndex": "7984"
+    },
+    {
+      "id": "quote_398_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "*last words* The Tale of Naruto Uzumaki... yes... that has a nice ring to it.",
+      "originalIndex": "7985"
+    },
+    {
+      "id": "quote_399_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "There, that ending...was a little better. The frog at the bottom of the well drifts off into the great ocean. Heh heh ...yep. Pretty damn honorable... pretty damn honorable...",
+      "originalIndex": "7986"
+    },
+    {
+      "id": "quote_400_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "*to Naruto* I think we all have to acknowledge you. Gamatatsu, Gamakichi, Sakura, Tsunade...and I... We all admit you've worked really hard. But I wonder what's pushing you forward.",
+      "originalIndex": "7987"
+    },
+    {
+      "id": "quote_401_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "Never go back on your word...and never give up. That's your ninja way...and as your mentor ... I have no business whining! Because the student's ninja way should be the master's too! Isn't that so, Naruto?!",
+      "originalIndex": "7988"
+    },
+    {
+      "id": "quote_402_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "The true measure of a shinobi is not how he lives, but how he dies.",
+      "originalIndex": "7989"
+    },
+    {
+      "id": "quote_403_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "*to Orochimaru about Sasuke* Because it's no fun to train a genius!",
+      "originalIndex": "7990"
+    },
+    {
+      "id": "quote_404_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "*to Orochimaru* You're wrong, that's not what makes a shinobi. You never did get it, a real ninja is one who endures no matter what gets thrown at him... Let me explain something to you, there is only one thing that matters if you are a shinobi, and it isn't the number of jutsu you possess. All you do need, is the guts to never give up.",
+      "originalIndex": "7991"
+    },
+    {
+      "id": "quote_405_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "*to Naruto* Even I can tell that hatred is spreading. I wanted to do something about it...but I don't know what. I believe... that someday the day will come when people truly understand one another!! If I can't find the answer, it will be up to you to do it!!",
+      "originalIndex": "7992"
+    },
+    {
+      "id": "quote_406_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "When people get hurt, they learn to hate... When people hurt others, they become hated and racked with guilt. But knowing that pain allows people to be kind. Pain allows people to grow... and how you grow is up to you.",
+      "originalIndex": "7993"
+    },
+    {
+      "id": "quote_407_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "Wherever someone thinks of you, that's where home is.",
+      "originalIndex": "7994"
+    },
+    {
+      "id": "quote_408_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "I'm not a pervert... I'm a super pervert!",
+      "originalIndex": "7995"
+    },
+    {
+      "id": "quote_409_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "Die! Just Die! You have no talent at all!!",
+      "originalIndex": "7996"
+    },
+    {
+      "id": "quote_410_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "Shut up you flat-chested bitch Tsunade!",
+      "originalIndex": "7997"
+    },
+    {
+      "id": "quote_411_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "You are the strongest enemy I have ever fought.",
+      "originalIndex": "7998"
+    },
+    {
+      "id": "quote_412_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "No one can determine another's destiny.",
+      "originalIndex": "7999"
+    },
+    {
+      "id": "quote_413_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "The heavens will not allow a pawn who can only seek victory at the cost of himself to advance...",
+      "originalIndex": "8000"
+    },
+    {
+      "id": "quote_414_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "*about Gai* He's so childish. He acts like a seven-year-old!",
+      "originalIndex": "8001"
+    },
+    {
+      "id": "quote_415_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "*about Lee and Gai* As usual, I can't keep up with their craziness.",
+      "originalIndex": "8002"
+    },
+    {
+      "id": "quote_416_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "Because Naruto... you saved me from the darkness.",
+      "originalIndex": "8003"
+    },
+    {
+      "id": "quote_417_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "All this time I've been called a genius, so I cannot lose.",
+      "originalIndex": "8004"
+    },
+    {
+      "id": "quote_418_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "Sasuke's out there right now, heading toward Orochimaru. We can't allow such evil to take someone from our village... that is not our way.",
+      "originalIndex": "8005"
+    },
+    {
+      "id": "quote_419_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "Naruto... Sometimes, your eyes are even better than mine.",
+      "originalIndex": "8006"
+    },
+    {
+      "id": "quote_420_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "Father, is a person's destiny a thing like a cloud flowing with an inescapable flow? Or can a person choose the flow he wishes... I still don't know the answer to this. Either way the destination may be the same in the end. However by choosing to live like the latter, a person can live and strive towards a goal. And in this match I have finally understood those who have that are truly strong. Father, I have but one goal, I want to become stronger... Enough not to lose to anyone... That's how I feel. Father, the birds are flying freely today... They look so happy.",
+      "originalIndex": "8007"
+    },
+    {
+      "id": "quote_421_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "There's no method but death to escape this horrible curse.",
+      "originalIndex": "8008"
+    },
+    {
+      "id": "quote_422_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "The curse represents a mark of the bird in a cage... It is... the symbol of being tied down to an inescapable destiny.",
+      "originalIndex": "8009"
+    },
+    {
+      "id": "quote_423_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "*to Naruto* These eyes of mine show me many things. One thing they've shown me...people's limitations are set, fixed, and unchangeable. Only a fool wastes his time trying to become something he can never be!",
+      "originalIndex": "8010"
+    },
+    {
+      "id": "quote_424_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "Do you understand now? You have no way of beating me!",
+      "originalIndex": "8011"
+    },
+    {
+      "id": "quote_425_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "Once a failure, always a failure. You can't change that.",
+      "originalIndex": "8012"
+    },
+    {
+      "id": "quote_426_1755700791628",
+      "character": "Neji Hyuuga",
+      "show": "Naruto",
+      "quote": "Right now, Sasuke is in the darkness. The only one who can save him is you, Naruto.",
+      "originalIndex": "8013"
+    },
+    {
+      "id": "quote_427_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "Try it trash! I'll return the pain a thousand times over!",
+      "originalIndex": "8014"
+    },
+    {
+      "id": "quote_428_1755700791628",
+      "character": "Jiraiya",
+      "show": "Naruto",
+      "quote": "I am, Jiraiya, the epitome of manliness! I shall fall for no woman's wiles! When you're me, you only need to flash that sexiness to have women fall at your feet.",
+      "originalIndex": "8015"
+    },
+    {
+      "id": "quote_429_1755700791628",
+      "character": "Ino Yamanaka",
+      "show": "Naruto",
+      "quote": "WHAT?! Why wasn't he affected by my sexiness?!",
+      "originalIndex": "8016"
+    },
+    {
+      "id": "quote_430_1755700791628",
+      "character": "Ino Yamanaka",
+      "show": "Naruto",
+      "quote": "SHIKAMARU! Beat her up with a 16 HIT COMBO!",
+      "originalIndex": "8017"
+    },
+    {
+      "id": "quote_431_1755700791628",
+      "character": "Ino Yamanaka",
+      "show": "Naruto",
+      "quote": "There's no meaning to a flower unless it blooms.",
+      "originalIndex": "8018"
+    },
+    {
+      "id": "quote_432_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "A soul needs a purpose to live...and so I concluded that my purpose was to kill everyone besides myself. I felt alive...",
+      "originalIndex": "8019"
+    },
+    {
+      "id": "quote_433_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "I fight for my sake only and live to love no one but myself.",
+      "originalIndex": "8020"
+    },
+    {
+      "id": "quote_434_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "*young Gaara attempts to slash his wrist* It's no use, the sand gets in the way.",
+      "originalIndex": "8021"
+    },
+    {
+      "id": "quote_435_1755700791628",
+      "character": "Madara Uchiha",
+      "show": "Naruto",
+      "quote": "The concept of hope is nothing more than giving up. A word that holds no true meaning.",
+      "originalIndex": "8022"
+    },
+    {
+      "id": "quote_436_1755700791628",
+      "character": "Madara Uchiha",
+      "show": "Naruto",
+      "quote": "The Uchiha is a clan destined for revenge...",
+      "originalIndex": "8023"
+    },
+    {
+      "id": "quote_437_1755700791628",
+      "character": "Madara Uchiha",
+      "show": "Naruto",
+      "quote": "*to Minato, about his reason for attacking Konoha* Oh, you know...it's fun, it's part of my plan...to start a war...to bring peace...",
+      "originalIndex": "8024"
+    },
+    {
+      "id": "quote_438_1755700791628",
+      "character": "Madara Uchiha",
+      "show": "Naruto",
+      "quote": "It will be a new world... A world of truth, not lies.",
+      "originalIndex": "8025"
+    },
+    {
+      "id": "quote_439_1755700791628",
+      "character": "Madara Uchiha",
+      "show": "Naruto",
+      "quote": "When a man learns to love, he must bear the risk of hatred.",
+      "originalIndex": "8026"
+    },
+    {
+      "id": "quote_440_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "*to Sasuke* No matter how far Orochimaru fell, he still loved him... Now I know how the Third Hokage felt.",
+      "originalIndex": "8027"
+    },
+    {
+      "id": "quote_441_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "*to Sakumo* Regardless of what happened, you did the best you could. I understand that now...you broke the rules for all our sakes - I'm proud of you now...",
+      "originalIndex": "8028"
+    },
+    {
+      "id": "quote_442_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "*to Pain* The people from this village are different from your average village. Even if it means dying, there's not a single one of us, who would sell out a comrade.",
+      "originalIndex": "8029"
+    },
+    {
+      "id": "quote_443_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "*to Naruto* You've become as strong...if not stronger than me.",
+      "originalIndex": "8030"
+    },
+    {
+      "id": "quote_444_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "Like the fate of the two who founded the village of Konoha... Naruto and Sasuke...your fates are like theirs.",
+      "originalIndex": "8031"
+    },
+    {
+      "id": "quote_445_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "This place makes me think about the mistakes I've made in the past... and I've made a lot.",
+      "originalIndex": "8032"
+    },
+    {
+      "id": "quote_446_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "*to Orochimaru* I don't care if you are one of the legendary Sannin, the great shinobi of legend, I swear take one more step towards Sasuke and one of us will die here!",
+      "originalIndex": "8033"
+    },
+    {
+      "id": "quote_447_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "I'm Kakashi Hatake. Things I like and things I hate...I don't feel like telling you that. My dreams for the future...never really thought about it. As for my hobbies...I have lots of hobbies.",
+      "originalIndex": "8034"
+    },
+    {
+      "id": "quote_448_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "A genius, huh? What does that mean? \"Genius\"? So I was not born with a whole lot of natural talent, not gifted like Neji ...but I work hard and I never give up! That is my gift, that is my ninja way!",
+      "originalIndex": "8035"
+    },
+    {
+      "id": "quote_449_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "*to Sasuke* I refuse...to let this happen! I am Orochimaru! I am immortal! I will not die here! Destined to discover the true meaning behind everything! Destined to take control of everything in this world!!",
+      "originalIndex": "8036"
+    },
+    {
+      "id": "quote_450_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "When there is a true desire in the heart and that desire is strong... That is when he finds real strength that even he did not know he had!",
+      "originalIndex": "8037"
+    },
+    {
+      "id": "quote_451_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "Everything will be mine.",
+      "originalIndex": "8038"
+    },
+    {
+      "id": "quote_452_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "*about Sasuke* When I watch this boy, I look back to the time I was called a genius, and think how ridiculous it was.",
+      "originalIndex": "8039"
+    },
+    {
+      "id": "quote_453_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "*to Sasuke* How impressive. A thousand foes stand before you and you don't even bat an eyelid.",
+      "originalIndex": "8040"
+    },
+    {
+      "id": "quote_454_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "*talking about Naruto* This child... intrigues me to no end!",
+      "originalIndex": "8041"
+    },
+    {
+      "id": "quote_455_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "Hate only gives birth to even more hate.",
+      "originalIndex": "8042"
+    },
+    {
+      "id": "quote_456_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "I want to obtain all the jutsu and gain a true understanding of everything in this world. The first one to mix blue and yellow called the new color \"green\". I want to do something similar to that. If blue is the chakra, then yellow is the seal, and green is the jutsu... Just as there is no end to the variety of colors, there are so many thousands...tens of thousands of jutsu in the world as well. But in order to obtain every possible jutsu and truth, it would require an eternity. Only one who understands everything after spending such time on this can be fittingly called the Ultimate Being.",
+      "originalIndex": "8043"
+    },
+    {
+      "id": "quote_457_1755700791628",
+      "character": "Orochimaru",
+      "show": "Naruto",
+      "quote": "*to Kabuto, talking about Tsunade) The best medicines always taste bitter.",
+      "originalIndex": "8044"
+    },
+    {
+      "id": "quote_458_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "Naruto's here because he's made up his mind. My resolve is nothing compared to his now! I'm supposed to be a ninja, but all I've ever done is lean on him and cry... I was supposed to change that... I came here and I thought I was ready. But I can't do anything... I can't say anything. The only thing that remains for me...is to believe in them!",
+      "originalIndex": "8046"
+    },
+    {
+      "id": "quote_459_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "*about killing Sasuke* I... Sasuke... I... I thought I could do this...",
+      "originalIndex": "8047"
+    },
+    {
+      "id": "quote_460_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "I'm the one who made Naruto suffer the most... I've just been getting it wrong. Just been messing it up... I don't want to get it wrong anymore...don't want to screw it up anymore.",
+      "originalIndex": "8048"
+    },
+    {
+      "id": "quote_461_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "*talking to Yamato* Same as always... I can only do the dumbest of things for Naruto...",
+      "originalIndex": "8049"
+    },
+    {
+      "id": "quote_462_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "A smile is the easiest way out of a difficult situation.",
+      "originalIndex": "8050"
+    },
+    {
+      "id": "quote_463_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "*to Sasuke* I... I love you with all my heart!.. If you were to stay here with me, there would be no regrets...because every day we'd do something fun, we'd be happy I swear..! I would do anything for you! So...please, just stay with me!",
+      "originalIndex": "8051"
+    },
+    {
+      "id": "quote_464_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "I've always considered myself to be a true ninja...but those were just empty words, because Sasuke and Naruto were always in the lead! But now it's my turn to take the lead, and all of you can watch me from the background!",
+      "originalIndex": "8052"
+    },
+    {
+      "id": "quote_465_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "*to Ino* Didn't you know? Women have to be strong in order to survive!",
+      "originalIndex": "8053"
+    },
+    {
+      "id": "quote_466_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "All I've been doing is watching you two from behind... Now, get a good look at MY back!",
+      "originalIndex": "8054"
+    },
+    {
+      "id": "quote_467_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "*talking to Sasuke* On that day, you taught me that solitude is painful! I understand that so well right now. I have family, and I have friends but if you're gone... To me... It will be the same as being alone.",
+      "originalIndex": "8055"
+    },
+    {
+      "id": "quote_468_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "In the ninja world, those who break the rules are scum, that's true, but those who abandon their friends are worse than scum.",
+      "originalIndex": "8056"
+    },
+    {
+      "id": "quote_469_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "I won't allow my comrades to die. I'll protect you with my life. Trust me.",
+      "originalIndex": "8057"
+    },
+    {
+      "id": "quote_470_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "The next generation will always surpass the previous one. It's one of the never-ending cycles in life.",
+      "originalIndex": "8058"
+    },
+    {
+      "id": "quote_471_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "*making excuses for being late, as usual* Hello students, today I got lost on the road of life.",
+      "originalIndex": "8059"
+    },
+    {
+      "id": "quote_472_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "*making excuses for being late, as usual* A cute girl stopped me on the way, so I danced.",
+      "originalIndex": "8060"
+    },
+    {
+      "id": "quote_473_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "Naruto, it's nice that you removed the poison so spiritedly, but you'll bleed to death if you lose any more blood... Seriously...",
+      "originalIndex": "8061"
+    },
+    {
+      "id": "quote_474_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "People live their lives bound by what they accept as correct and true. That's how they define \"reality\". But what does it mean to be \"correct\" or \"true\"? Merely vague concepts... Their \"reality\" may all be a mirage. Can we consider them to simply be living in their own world, shaped by their beliefs?",
+      "originalIndex": "8062"
+    },
+    {
+      "id": "quote_475_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "If you want to kill me, despise me, hate me, and live in an unsightly way... Run, and cling to life, and then some day, when you have the same eyes as I do, come before me.",
+      "originalIndex": "8063"
+    },
+    {
+      "id": "quote_476_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "You aren't even worth killing, foolish little brother.",
+      "originalIndex": "8064"
+    },
+    {
+      "id": "quote_477_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "If you think I'm just a foolish kid ruled by his emotions, that's fine. Following Itachi's path would be childish, the whispering of fools who don't know hatred. If anyone else tries to ridicule the way I live, I'll slaughter everyone they ever cared about. And then maybe they'll understand what it's like to taste... a little of my hatred.",
+      "originalIndex": "8065"
+    },
+    {
+      "id": "quote_478_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "*Talking to Naruto* Just shut up for once! What the hell do you know about it?! It's not like you ever had a family in the first place! You were on your own right from the beginning, what makes you think you know anything about it?! Huh?! I'm suffering now because I had those ties, how on earth could you possibly understand, what it feels like to lose all that?!",
+      "originalIndex": "8066"
+    },
+    {
+      "id": "quote_479_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "*Introducing himself to Kakashi, Naruto and Sakura* My name is Sasuke Uchiha. I hate a lot of things, and I don't particularly like anything. What I have is not a dream, because I will make it a reality. I'm going to restore my clan, and kill a certain someone.",
+      "originalIndex": "8067"
+    },
+    {
+      "id": "quote_480_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "I have long since closed my eyes... My only goal is in the darkness.",
+      "originalIndex": "8068"
+    },
+    {
+      "id": "quote_481_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "Hey, you stupid fox! You're in my body and you owe me rent! So for payment, I'll take your chakra! You got that?!",
+      "originalIndex": "8069"
+    },
+    {
+      "id": "quote_482_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "The pain of being alone...is not an easy one to bear. Why is it...that I can understand your pain? But...I already have many people who are important to me now...and I can't let you hurt any of them. Even if I have to kill you!",
+      "originalIndex": "8070"
+    },
+    {
+      "id": "quote_483_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "I won't run away anymore... I won't go back on my word... That is my ninja way!",
+      "originalIndex": "8071"
+    },
+    {
+      "id": "quote_484_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "You're such a loser, Naruto.",
+      "originalIndex": "8432"
+    },
+    {
+      "id": "quote_485_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "Are you alright, crybaby?",
+      "originalIndex": "8433"
+    },
+    {
+      "id": "quote_486_1755700791628",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto",
+      "quote": "Naruto... I know you're special but, I AM MORE SPECIAL THAN YOU!",
+      "originalIndex": "8434"
+    },
+    {
+      "id": "quote_487_1755700791628",
+      "character": "Deidara",
+      "show": "Naruto",
+      "quote": "Shut up! I killed Sasuke Uchiha! And you're next, you art-hating sack of wrinkles!",
+      "originalIndex": "8481"
+    },
+    {
+      "id": "quote_488_1755700791628",
+      "character": "Deidara",
+      "show": "Naruto",
+      "quote": "*Before killing the Suna guards* Look at those fools. They have no appreciation for art. You have to feel art. And true art... is an EXPLOSION!",
+      "originalIndex": "8482"
+    },
+    {
+      "id": "quote_489_1755700791628",
+      "character": "Deidara",
+      "show": "Naruto",
+      "quote": "Art is a BANG!",
+      "originalIndex": "8483"
+    },
+    {
+      "id": "quote_490_1755700791628",
+      "character": "Hidan",
+      "show": "Naruto",
+      "quote": "Kakuzu... Could you get me my body, pleeease?",
+      "originalIndex": "8488"
+    },
+    {
+      "id": "quote_491_1755700791628",
+      "character": "Sakura Haruno",
+      "show": "Naruto",
+      "quote": "Inu pig!",
+      "originalIndex": "8536"
+    },
+    {
+      "id": "quote_492_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "Man... What a drag...",
+      "originalIndex": "8537"
+    },
+    {
+      "id": "quote_493_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "I'm telling you this because you don't get it. You think you get it, which is not the same as actually getting it. Get it?",
+      "originalIndex": "8543"
+    },
+    {
+      "id": "quote_494_1755700791628",
+      "character": "Nara Shikamaru",
+      "show": "Naruto",
+      "quote": "How troublesome...",
+      "originalIndex": "8546"
+    },
+    {
+      "id": "quote_495_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "A true hero always arrives late.",
+      "originalIndex": "8557"
+    },
+    {
+      "id": "quote_496_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "If he rips my arms off, I'll kick him to death.\nIf he rips my legs off, I'll bite him to death!\nIf he rips my head off, I'll stare him to death!\nAnd if he gouges out my eyes, I'll curse him\nfrom beyond the grave..!",
+      "originalIndex": "8562"
+    },
+    {
+      "id": "quote_497_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "I am strong because I have people to protect.",
+      "originalIndex": "8564"
+    },
+    {
+      "id": "quote_498_1755700791628",
+      "character": "Itachi Uchiha",
+      "show": "Naruto",
+      "quote": "Foolish brother, if you wish to kill me - hate me, detest me, and survive in an unsightly way. Run... run and cling to life.",
+      "originalIndex": "8568"
+    },
+    {
+      "id": "quote_499_1755700791628",
+      "character": "Obito Uchiha",
+      "show": "Naruto",
+      "quote": "In the ninja world, those who don't follow the rules are trash. But, those who abandon their friends are even worse than trash.",
+      "originalIndex": "8569"
+    },
+    {
+      "id": "quote_500_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!",
+      "originalIndex": "8570"
+    },
+    {
+      "id": "quote_501_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "Because you're the only shinobi in the world who can surpass the Fourth. Thats what I believe.",
+      "originalIndex": "8571"
+    },
+    {
+      "id": "quote_502_1755700791628",
+      "character": "Haku",
+      "show": "Naruto",
+      "quote": "When people are protecting something truly precious to them. They truly can become...as strong as they need to be!",
+      "originalIndex": "8587"
+    },
+    {
+      "id": "quote_503_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "Not enough... blood.",
+      "originalIndex": "8589"
+    },
+    {
+      "id": "quote_504_1755700791628",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "BELIEVE IT!!",
+      "originalIndex": "8592"
+    },
+    {
+      "id": "quote_505_1755700791628",
+      "character": "Gaara",
+      "show": "Naruto",
+      "quote": "I want to be needed, this is what I've learned from meeting and fighting Uzumaki Naruto.",
+      "originalIndex": "8601"
+    },
+    {
+      "id": "quote_506_1755700791628",
+      "character": "Rock Lee",
+      "show": "Naruto",
+      "quote": "A dropout will beat a genius through hard work.",
+      "originalIndex": "8602"
+    },
+    {
+      "id": "quote_507_1755700791628",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "To know what is right and choose to ignore it is the act of a coward.",
+      "originalIndex": "8603"
     }
   ]
 }
