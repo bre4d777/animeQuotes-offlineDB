@@ -1,7 +1,7 @@
 {
-  "name": "One Punch Man",
+  "name": "One-Punch Man",
   "anilistId": 21087,
-  "totalQuotes": 21,
+  "totalQuotes": 22,
   "totalCharacters": 8,
   "quotes": [
     {
@@ -129,6 +129,12 @@
       "character": "Genos",
       "show": "One Punch Man",
       "quote": "If this is the path you choose to walk... I will not interfere. But if you turn the people against you... Will you be able to function as a hero? This worries me. But if you ever get in a tight spot... I will be there."
+    },
+    {
+      "id": "quote_110_1755682423555",
+      "character": "Saitama",
+      "show": "One-Punch Man",
+      "quote": "The true power of us human beings is that we can change ourselves on our own."
     }
   ]
 }
