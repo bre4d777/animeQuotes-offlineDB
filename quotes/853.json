@@ -1,9 +1,9 @@
 {
   "name": "Ouran High School Host Club",
   "anilistId": 853,
-  "totalQuotes": 60,
+  "totalQuotes": 63,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T14:41:26.926Z",
+  "lastUpdated": "2025-08-20T15:30:22.149Z",
   "quotes": [
     {
       "id": "quote_2004_1755663561543",
@@ -385,6 +385,24 @@
       "show": "Ouran High School Host Club",
       "quote": "Haru-chan!!!",
       "originalIndex": "8533"
+    },
+    {
+      "id": "quote_39_1755703822149",
+      "character": "Mitsukuni Haninozuka",
+      "show": "Ouran High School Host Club",
+      "quote": "I like people who put in effort, even if they're not good at it. "
+    },
+    {
+      "id": "quote_40_1755703822149",
+      "character": "Suoh Tamaki",
+      "show": "Ouran High School Host Club",
+      "quote": "Forgive my rudeness, but to hide your true self and make a vain display... I think that's just running away from reality. To know what you are really like, and acknowledge it... A positive thinking of enjoying yourself... isn't that what true strength is? "
+    },
+    {
+      "id": "quote_41_1755703822149",
+      "character": "Hikaru Hitachiin",
+      "show": "Ouran High School Host Club",
+      "quote": "Well, I don't see what's so funny. I'm honest, I speak my mind, and I don't hold back. It's sneaky people like Kaoru who are the troublemakers. "
     }
   ]
 }
