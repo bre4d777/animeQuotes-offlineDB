@@ -1,8 +1,9 @@
 {
   "name": "Azumanga Daioh",
   "anilistId": 66,
-  "totalQuotes": 2,
+  "totalQuotes": 3,
   "totalCharacters": 1,
+  "lastUpdated": "2025-08-20T14:40:46.255Z",
   "quotes": [
     {
       "id": "quote_2401_1755682260285",
@@ -15,6 +16,13 @@
       "character": "Ayumu Kasuga",
       "show": "Azumanga Daioh",
       "quote": "You have a swimsuit tan. You could jump in the pool naked and no one would know you weren't wearing anything."
+    },
+    {
+      "id": "quote_609_1755700846255",
+      "character": "Ayumu Kasuga",
+      "show": "Azumanga Daioh",
+      "quote": "You have a swimsuit tan. You could jump in the pool naked and no one would know you weren't wearing anything.\n  ",
+      "originalIndex": "4918"
     }
   ]
 }
