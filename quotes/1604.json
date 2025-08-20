@@ -1,9 +1,9 @@
 {
   "name": "Katekyo Hitman Reborn!",
   "anilistId": 1604,
-  "totalQuotes": 79,
+  "totalQuotes": 81,
   "totalCharacters": 18,
-  "lastUpdated": "2025-08-20T14:40:43.855Z",
+  "lastUpdated": "2025-08-20T15:30:09.961Z",
   "quotes": [
     {
       "id": "quote_1423_1755681954991",
@@ -526,6 +526,18 @@
       "show": "Katekyo Hitman Reborn!",
       "quote": "I will bite you to death!",
       "originalIndex": "8549"
+    },
+    {
+      "id": "quote_31_1755703809961",
+      "character": "Ryōhei Sasagawa",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "*To Lambo*  Smile... I said smile! Smile! Damn you! \r\n"
+    },
+    {
+      "id": "quote_32_1755703809961",
+      "character": "Reborn",
+      "show": "Katekyo Hitman Reborn!",
+      "quote": "A boss is someone who puts his life on the line for his subordinates. "
     }
   ]
 }
