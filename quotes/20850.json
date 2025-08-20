@@ -1,8 +1,9 @@
 {
   "name": "Tokyo Ghoul √A",
   "anilistId": 20850,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T14:37:50.111Z",
   "quotes": [
     {
       "id": "quote_1370_1755681937567",
@@ -27,6 +28,13 @@
       "character": "Yoshimura",
       "show": "Tokyo Ghoul √A",
       "quote": "Life is a succession of committing sin. Life is evil itself. I'm conscious that I'm evil. And so are all of you."
+    },
+    {
+      "id": "quote_101_1755700670111",
+      "character": "Kaneki Ken",
+      "show": "Tokyo Ghoul √A",
+      "quote": "\"Never trust anyone too much... Remember the devil was once an angel...\"\n\n\n\n",
+      "originalIndex": "24"
     }
   ]
 }
