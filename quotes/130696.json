@@ -1,0 +1,14 @@
+{
+  "name": "Legend of Zelda",
+  "anilistId": 130696,
+  "totalQuotes": 1,
+  "totalCharacters": 1,
+  "quotes": [
+    {
+      "id": "quote_1805_1755682042315",
+      "character": "Link",
+      "show": "Legend of Zelda",
+      "quote": "A sword wields no strength, unless the hand that holds it has courage."
+    }
+  ]
+}
