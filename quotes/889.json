@@ -1,8 +1,9 @@
 {
   "name": "Black Lagoon",
   "anilistId": 889,
-  "totalQuotes": 13,
+  "totalQuotes": 14,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T15:35:54.924Z",
   "quotes": [
     {
       "id": "quote_2009_1755682113520",
@@ -81,6 +82,12 @@
       "character": "Revy",
       "show": "Black Lagoon",
       "quote": "If you cling to life, you live in fear of death. And that fear will cloud your judgment."
+    },
+    {
+      "id": "quote_84_1755704154924",
+      "character": "Bai Ji-Shin Chang",
+      "show": "Black Lagoon",
+      "quote": "It's been 35 years... since this rotten harbor town became a den of vice. Roanapur has managed to stay out of CNN's evening news or the dinner topic of housewives only because... from the past to the present, the motives of those who've gathered here have always been consistent. That is, it's in our mutual interest to lead the public eye away from our more stimulating businesses, for the peace of mind of those who are crooked.\r\n...\r\nPlease remember this. If we continue suspecting each other, continue pursuing our own self-interests... who do you think will be left standing in the ring in the end? There won't be anybody there, ladies and gentlemen. Not you, not me... Not even the ring itself."
     }
   ]
 }
