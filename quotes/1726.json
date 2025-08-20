@@ -1,9 +1,9 @@
 {
   "name": "Devil May Cry",
   "anilistId": 1726,
-  "totalQuotes": 3,
-  "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:41:53.906Z",
+  "totalQuotes": 14,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T14:43:24.491Z",
   "quotes": [
     {
       "id": "quote_76_1755686513906",
@@ -22,6 +22,83 @@
       "character": "Dante",
       "show": "Devil May Cry",
       "quote": "There are people out there who would say there's nothing more important than love. But is love really that great? There are women, who because of love, get chased around by men. And there are men, who because of love, get killed by women. To put it down, for love to be so great, there's gotta be something else behind it that's even greater."
+    },
+    {
+      "id": "quote_9_1755701004491",
+      "character": "Dante",
+      "show": "Devil May Cry",
+      "quote": "They worship a demon as a god?",
+      "originalIndex": "8506"
+    },
+    {
+      "id": "quote_10_1755701004491",
+      "character": "Dante",
+      "show": "Devil May Cry",
+      "quote": "You can hide that body, but that smell... Hoo! There's no covering that up!",
+      "originalIndex": "8507"
+    },
+    {
+      "id": "quote_11_1755701004491",
+      "character": "Dante",
+      "show": "Devil May Cry",
+      "quote": "You summon and kill... Summon and kill... I fail to see the logic here. Is sanity the price to pay FOR POWER!?",
+      "originalIndex": "8508"
+    },
+    {
+      "id": "quote_12_1755701004491",
+      "character": "Dante",
+      "show": "Devil May Cry",
+      "quote": "Okay, are you ready? C'mon babes, LETS ROCK!!",
+      "originalIndex": "8509"
+    },
+    {
+      "id": "quote_13_1755701004491",
+      "character": "Dante",
+      "show": "Devil May Cry",
+      "quote": "We are the sons of Sparda! Within each of us flows his blood, but more importantly, his soul!",
+      "originalIndex": "8510"
+    },
+    {
+      "id": "quote_14_1755701004491",
+      "character": "Dante",
+      "show": "Devil May Cry",
+      "quote": "Well, if the kid screws up, then I'll just have to kick his ass.",
+      "originalIndex": "8511"
+    },
+    {
+      "id": "quote_15_1755701004491",
+      "character": "Nero",
+      "show": "Devil May Cry",
+      "quote": "Fire's bad for the complexion. I burn easily, never tan!",
+      "originalIndex": "8512"
+    },
+    {
+      "id": "quote_16_1755701004491",
+      "character": "Nero",
+      "show": "Devil May Cry",
+      "quote": "From that day forth...my arm changed...and a voice echoed \"Power! Give me more power!\" ...and if I become a demon, so be it. I'll endure the exile...anything, to protect her!",
+      "originalIndex": "8513"
+    },
+    {
+      "id": "quote_17_1755701004491",
+      "character": "Nero",
+      "show": "Devil May Cry",
+      "quote": "Don't you think that's a little harsh? Killing me because of the way I t-t-t-talk?",
+      "originalIndex": "8514"
+    },
+    {
+      "id": "quote_18_1755701004491",
+      "character": "Dante",
+      "show": "Devil May Cry",
+      "quote": "First, I whip it out, then I thrust it, with great force. Every angle - it penetrates. Until, with great strength, I ram it in. In the end, we're all satisfied.",
+      "originalIndex": "8515"
+    },
+    {
+      "id": "quote_19_1755701004491",
+      "character": "Nero",
+      "show": "Devil May Cry",
+      "quote": "Kid? Well... if that's how you see me, I think you'll blush a pretty pink when I kick your ass!",
+      "originalIndex": "8517"
     }
   ]
 }
