@@ -1,0 +1,21 @@
+{
+  "name": "Rosario Vampire",
+  "anilistId": 2993,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:47:30.021Z",
+  "quotes": [
+    {
+      "id": "quote_214_1755686850021",
+      "character": "Mizore Shirayuki",
+      "show": "Rosario Vampire",
+      "quote": "Whether you're a monster or human there's no difference in the value of someone's life."
+    },
+    {
+      "id": "quote_215_1755686850021",
+      "character": "Tsukune Aono",
+      "show": "Rosario Vampire",
+      "quote": "Our differences are what let us understand each other. We've worked together to come this far, there are no doubts or regret anymore. I'll overcome this fight and prove that even we can come to an understanding."
+    }
+  ]
+}
