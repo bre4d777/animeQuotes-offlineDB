@@ -1,8 +1,8 @@
 {
-  "name": "Tengen Toppa Gurren Laggan",
+  "name": "Tengen Toppa Gurren Lagann",
   "anilistId": 2001,
-  "totalQuotes": 3,
-  "totalCharacters": 2,
+  "totalQuotes": 12,
+  "totalCharacters": 4,
   "quotes": [
     {
       "id": "quote_405_1755681755297",
@@ -21,6 +21,60 @@
       "character": "Kamina",
       "show": "Tengen Toppa Gurren Laggan",
       "quote": "Don't be distracted by the what-if's, should-have's, and if-only's. The one thing you choose for yourself - that is the truth of your universe."
+    },
+    {
+      "id": "quote_127_1755682435267",
+      "character": "Simon",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "I don't want fear for a future, that may not even come, to stop me from acting today."
+    },
+    {
+      "id": "quote_128_1755682435267",
+      "character": "Yoko Littner",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "Your back is your one big blind spot."
+    },
+    {
+      "id": "quote_129_1755682435267",
+      "character": "Kamina",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "If you are doing it, I'm doing it. If I don't do it, will you? If you don't do it, I'll do it. I'm doing it so that you'll do it too!!"
+    },
+    {
+      "id": "quote_130_1755682435267",
+      "character": "Kamina",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "What is your drill for?"
+    },
+    {
+      "id": "quote_131_1755682435267",
+      "character": "Kamina",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "God gave us eyes at the front of our heads so we can look forward to the future."
+    },
+    {
+      "id": "quote_132_1755682435267",
+      "character": "Simon",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "We evolve beyond the person we were a minute before. Little by little, we advance a bit further with each turn."
+    },
+    {
+      "id": "quote_133_1755682435267",
+      "character": "Simon",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "Reject common sense to make the impossible possible!"
+    },
+    {
+      "id": "quote_134_1755682435267",
+      "character": "Kamina",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "Don't believe in the you that believes in me and don't believe in the me that believes in you. Believe in the you that believes in yourself."
+    },
+    {
+      "id": "quote_135_1755682435267",
+      "character": "Simon",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "If you're going to dig, dig to pierce the heavens. Even if it's my grave I'm digging, I'll keep going! When I break through, that means I've WON! Who the hell do you think I am? I'm Simon. I'm not my bro, Kamina. I'm ME! Simon the Digger!"
     }
   ]
 }
