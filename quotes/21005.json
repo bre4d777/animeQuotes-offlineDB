@@ -1,8 +1,9 @@
 {
   "name": "Grisaia no Meikyuu",
   "anilistId": 21005,
-  "totalQuotes": 2,
+  "totalQuotes": 4,
   "totalCharacters": 1,
+  "lastUpdated": "2025-08-20T14:37:39.996Z",
   "quotes": [
     {
       "id": "quote_1666_1755682019009",
@@ -15,6 +16,20 @@
       "character": "Yuuji Kazami",
       "show": "Grisaia no Meikyuu",
       "quote": "If you've got energy to spend on feeling guilty, then use it to show your gratitude."
+    },
+    {
+      "id": "quote_96_1755700659995",
+      "character": "Yuuji Kazami",
+      "show": "Grisaia no Meikyuu",
+      "quote": "If all you do is feed your dog, you'll get your hand bitten eventually. Let him out for a walk every once in a while.",
+      "originalIndex": "4"
+    },
+    {
+      "id": "quote_97_1755700659995",
+      "character": "Yuuji Kazami",
+      "show": "Grisaia no Meikyuu",
+      "quote": "A romance won't keep itself going forever. Eventually, you lose that all-important spark. Love has to be nurtured if it's going to last. If you want to be with someone forever, you need to put effort into the relationship... Great, now I'm talking cliches.",
+      "originalIndex": "6"
     }
   ]
 }
