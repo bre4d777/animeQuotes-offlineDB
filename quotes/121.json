@@ -1,0 +1,884 @@
+{
+  "name": "Fullmetal Alchemist",
+  "anilistId": 121,
+  "totalQuotes": 146,
+  "totalCharacters": 24,
+  "quotes": [
+    {
+      "id": "quote_1518_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "You're lucky Al. Since your body's huge."
+    },
+    {
+      "id": "quote_1519_1755663515440",
+      "character": "Trisha Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "You see, I'm sure we can change, because we're weak. And because we die. We have to fight in order to live, and that is what will make us strong."
+    },
+    {
+      "id": "quote_1520_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Nothing's perfect, the world's not perfect, but it's there for us, trying the best it can. That's what makes it so damn beautiful."
+    },
+    {
+      "id": "quote_1521_1755663515440",
+      "character": "Winry Rockbell",
+      "show": "Fullmetal Alchemist",
+      "quote": "There are some things that can only be conveyed through words."
+    },
+    {
+      "id": "quote_1522_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I can't tell you that… You have to figure it out. Stand up and walk. Keep moving forward. You've got two good legs. So get up and use them. You're strong enough to make your own path."
+    },
+    {
+      "id": "quote_1523_1755663515440",
+      "character": "Solf J. Kimblee",
+      "show": "Fullmetal Alchemist",
+      "quote": "Look straight at the people you kill; don't take your eyes off them for a second. And don't ever forget them because they won't forget you."
+    },
+    {
+      "id": "quote_1524_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Life that has been lost cannot be brought back again. That very truth is what shows us the meaning and value \nof living."
+    },
+    {
+      "id": "quote_1525_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Wrong, holy man. All we want is to get our bodies normal again. See, we don't lie about what's possible. We didn't start a cult."
+    },
+    {
+      "id": "quote_1526_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "I'm as normal as they come and this is a contest of freaks! What do you want me to do, shoot my slingshot at him?"
+    },
+    {
+      "id": "quote_1527_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Hughes, just a bit of advice. The soldiers who never shut up about their girls back home... They don't make it."
+    },
+    {
+      "id": "quote_1528_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I hate deserts. It's nothing but sand. *collapses* If there was some grass, I could turn it into bread. I'm starving! Huh? Hey! Al, where'd you go? Al? Hey!"
+    },
+    {
+      "id": "quote_1529_1755663515440",
+      "character": "Van Hohenheim",
+      "show": "Fullmetal Alchemist",
+      "quote": "We're all lost... That's why we're sad."
+    },
+    {
+      "id": "quote_1530_1755663515440",
+      "character": "Lust",
+      "show": "Fullmetal Alchemist",
+      "quote": "Maybe you are right. Where did I come from and where will I go? When I die? Maybe all this time that is what I wanted: the freedom to find out."
+    },
+    {
+      "id": "quote_1531_1755663515440",
+      "character": "Solf J. Kimblee",
+      "show": "Fullmetal Alchemist",
+      "quote": "What could be more beautiful than doing work that puts your soul at risk, because that's what it means to be alive!"
+    },
+    {
+      "id": "quote_1532_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Even when our eyes are closed, there's a whole world out there, that lives outside of ourselves and our dreams."
+    },
+    {
+      "id": "quote_1533_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "*referring to Alphonse* This pain's nothing...compared to what he's given up..."
+    },
+    {
+      "id": "quote_1534_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "*spits out his juice* I don't think so, pops! Do I look like a clown to you?!"
+    },
+    {
+      "id": "quote_1535_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Alchemy: The science of understanding the structure of matter, breaking it down, then reconstructing it as something else. It can even make gold from lead. But alchemy is a science, so it must follow the natural laws: To create, something of equal value must be lost. This is the principle of Equivalent Exchange. But on that night, I learned the value of some things can't be measured on a simple scale. My brother and I knew the laws of science, of Equivalent Exchange, that gain required sacrifice, that something had to be taken from us. But we thought there was nothing more we could lose. We were wrong."
+    },
+    {
+      "id": "quote_1536_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Hughes again? Put him through. It's me. I won't listen if you're going to be bragging about your daughter. *...* Hughes? Hughes... Hey! Hughes! Hughes!!"
+    },
+    {
+      "id": "quote_1537_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Killed in action and promoted two ranks for it. Brigadier General Hughes. You were the guy who was supposed to work below me and to push me to the top. Then you get yourself killed and surpass me in the ranks. I don't know what's more absurd, You or the State."
+    },
+    {
+      "id": "quote_1538_1755663515440",
+      "character": "Winry Rockbell",
+      "show": "Fullmetal Alchemist",
+      "quote": "There are some things in life that will only be understood through words."
+    },
+    {
+      "id": "quote_1539_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "But you're thinking on too large a scale there, kid... If we don't want to drive ourselves crazy, we can only deal with what's directly in front of us."
+    },
+    {
+      "id": "quote_1540_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Come down here and face me, you third-rate fraud. I'll show you there's no comparison between us!"
+    },
+    {
+      "id": "quote_1541_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I will do what I can, even if my chance of passing is minuscule, if that will allow me to move forward."
+    },
+    {
+      "id": "quote_1542_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I sunk again. *after sinking in the desert*"
+    },
+    {
+      "id": "quote_1543_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "*to Edward* So, you hooked up with your mechanic, huh? Not too shabby, sprout."
+    },
+    {
+      "id": "quote_1544_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "A lesson without pain is meaningless. That's because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart... A Fullmetal Heart."
+    },
+    {
+      "id": "quote_1545_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "[telling Mustang about the investigation on Scar] His bloodstained clothes washed up further downstream. We don't know if that means that he's dead, or just naked."
+    },
+    {
+      "id": "quote_1546_1755663515440",
+      "character": "Greed",
+      "show": "Fullmetal Alchemist",
+      "quote": "You want to bring back someone that you've lost. You might want money. Maybe you want women. Or, you might want to protect the world. These are all common things people want. Things that their hearts desire. Greed may not be good, but it's not so bad, either. You humans think greed is just for money and power! But everyone wants something they don't have."
+    },
+    {
+      "id": "quote_1547_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "It's true, I don't have a body, but I'm here. This is my punishment for setting foot on holy ground where mortals are forbidden. We made a mistake, Rose, and we're paying for it."
+    },
+    {
+      "id": "quote_1548_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "WHO ARE YOU CALLING A MOUSY LITTLE PIPSQUEAK?!"
+    },
+    {
+      "id": "quote_1549_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Dedication is a talent all on its own."
+    },
+    {
+      "id": "quote_1550_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I think people should try to ignore their race, and just treat each other as equals."
+    },
+    {
+      "id": "quote_1551_1755663515440",
+      "character": "Scar",
+      "show": "Fullmetal Alchemist",
+      "quote": "For one that turns against God to come in person to receive judgement... Today is a good day!"
+    },
+    {
+      "id": "quote_1552_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "Yeah, it's still a nameless sniper. It's become quite a topic among us. She's still a cadet from the military academy, but at any rate she's got a good arm. It seems she's been brought all the way out here. Hah... to think they have to pull out even a little chick like that... this must be the end."
+    },
+    {
+      "id": "quote_1553_1755663515440",
+      "character": "Solf J. Kimblee",
+      "show": "Fullmetal Alchemist",
+      "quote": "Ah... what a beautiful sound. It doesn't get any better than that. I can feel it deep in my bones, like a part of me I never noticed before. That sound is an extension of my being. And this land - this land that's governed by death - I will paint it red with this shard of destruction."
+    },
+    {
+      "id": "quote_1554_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Everything we see, everyone we meet, is caught up in a great unseen flow. But it's bigger than that. It's the entire world, the entire universe even. And compared to something as big as that, Al, you and I are tiny, not even the size of ants. Only one small part within a much greater flow. Nothing more than a fraction of the whole. But by putting all those \"ones\" together, you get one great \"All\", just like Teacher said. The flow of this universe follows laws of such magnitude that you and I can't even imagine them."
+    },
+    {
+      "id": "quote_1555_1755663515440",
+      "character": "King Bradley",
+      "show": "Fullmetal Alchemist",
+      "quote": "You think surrendering, and offering yourself will stop the war? How arrogant. The life of each human is worth one, that's it. Nothing more, nothing less."
+    },
+    {
+      "id": "quote_1556_1755663515440",
+      "character": "Father",
+      "show": "Fullmetal Alchemist",
+      "quote": "When you notice an insect on the ground, do you stop to consider it a fool? The life of an insect is so beneath you that it would be a waste of your time to even consider judging it. That would be an accurate summation of my feelings towards you, humans."
+    },
+    {
+      "id": "quote_1557_1755663515440",
+      "character": "Miles",
+      "show": "Fullmetal Alchemist",
+      "quote": "The death of a culture, is the death of a people."
+    },
+    {
+      "id": "quote_1558_1755663515440",
+      "character": "Father",
+      "show": "Fullmetal Alchemist",
+      "quote": "You can't change reality, just your perception!"
+    },
+    {
+      "id": "quote_1559_1755663515440",
+      "character": "Olivier Mira Armstrong",
+      "show": "Fullmetal Alchemist",
+      "quote": "If a man will not work, he shall not eat."
+    },
+    {
+      "id": "quote_1560_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "*referring to Armstrong taking off his shirt* Did he have to strip?.."
+    },
+    {
+      "id": "quote_1561_1755663515440",
+      "character": "Izumi Curtis",
+      "show": "Fullmetal Alchemist",
+      "quote": "When you live, your life will end sooner or later. The body will return to the earth. Grass and flowers will grow on top of it. The soul will nourish the hearts... and it will live on in the hearts of other people. Everything in this world flows around and circulates. That goes for human lives too."
+    },
+    {
+      "id": "quote_1562_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "Babies aren't born after just 5 months!"
+    },
+    {
+      "id": "quote_1563_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Maybe life has no equal trade, maybe you can give up all you got, and get nothing back. Even if I can't prove it's true, I have to try, for your sake, Al."
+    },
+    {
+      "id": "quote_1564_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "On the day we left, we burned down the family home and all the familiar things inside. Because some memories aren't meant to leave traces."
+    },
+    {
+      "id": "quote_1565_1755663515440",
+      "character": "Scar",
+      "show": "Fullmetal Alchemist",
+      "quote": "Our names are given to us by God. I have betrayed God, and so I no longer have a name."
+    },
+    {
+      "id": "quote_1566_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "You know, it's funny. Every crook I meet wants to tell me how much I'm just like them. But there's a big difference between you and me and the burdens we bear."
+    },
+    {
+      "id": "quote_1567_1755663515440",
+      "character": "Lan Fan",
+      "show": "Fullmetal Alchemist",
+      "quote": "A king is no king without his people. But people without a king are lost as well!"
+    },
+    {
+      "id": "quote_1568_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "Master Sergeant Fuery, during your last physical it was discovered you have Athletes Foot, and we now believe it is affecting your brain."
+    },
+    {
+      "id": "quote_1569_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Nobody calls me a pipsqueak and gets away with it! Not even a little girl!"
+    },
+    {
+      "id": "quote_1570_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Save your breath. The laws of alchemy don't justify murder!"
+    },
+    {
+      "id": "quote_1571_1755663515440",
+      "character": "Rose Tomas",
+      "show": "Fullmetal Alchemist",
+      "quote": "What pride... are you saying that you are God's equal?"
+    },
+    {
+      "id": "quote_1572_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "If your opponent is of choleric temper, seek to irritate."
+    },
+    {
+      "id": "quote_1573_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "CHILDBIRTH'S NOT ALCHEMY, YOU DOPE!"
+    },
+    {
+      "id": "quote_1574_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "It was just a rebound! Don't make a big deal over one or two arms!"
+    },
+    {
+      "id": "quote_1575_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "Okay, here's the plan: We go in, start hitting people, and see where it takes us."
+    },
+    {
+      "id": "quote_1576_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Revenge that involves unrelated people isn’t valid at all. All he’s doing is hiding his vengeful hate with the title of God’s representative and acting sublime."
+    },
+    {
+      "id": "quote_1577_1755663515440",
+      "character": "Greed",
+      "show": "Fullmetal Alchemist",
+      "quote": "They don't call me Greed for nothing! I want money, I want women, status and power! I want everything this world's selling and eternity's topping the list!"
+    },
+    {
+      "id": "quote_1578_1755663515440",
+      "character": "Scar",
+      "show": "Fullmetal Alchemist",
+      "quote": "No matter what, if you intend to interfere, I will eliminate you too."
+    },
+    {
+      "id": "quote_1579_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Told you, Rose. Get too close to the sun, and you'll burn."
+    },
+    {
+      "id": "quote_1580_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Of course! Dogs embody loyalty, they follow their master's commands above all else! Be a jerk to them and they don't complain, and they never once beg for a paycheck! Trust me Fuery, they're the great servants of man! *singing* Loyal canine how we salute thee! *laughs maniacally*"
+    },
+    {
+      "id": "quote_1581_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "When I become Fuhrer President, all female personnel in the military ... will have to wear mini-skirts."
+    },
+    {
+      "id": "quote_1582_1755663515440",
+      "character": "Scar",
+      "show": "Fullmetal Alchemist",
+      "quote": "I am an instrument of divine judgment!"
+    },
+    {
+      "id": "quote_1583_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "I have no use for a religion that's been forsaken by its own god."
+    },
+    {
+      "id": "quote_1584_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "It's like that myth about the hero... He made wings out of wax so he could fly... but when he got too close to the sun... to God... the wax melted and he crashed to the ground..."
+    },
+    {
+      "id": "quote_1585_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "I never feel more human than when I'm fighting real monsters."
+    },
+    {
+      "id": "quote_1586_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "I lost my pawns, my knight, my rook, my bishop, and even my queen. But, it's not checkmate, just yet."
+    },
+    {
+      "id": "quote_1587_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Whoever invented stew is brilliant! It has milk in it and it still tastes good."
+    },
+    {
+      "id": "quote_1588_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "WHO ARE YOU CALLING A RUNT SO TINY HE COULD ONLY BE SEEN WITH A MAGNIFYING GLASS, YOU JERK!"
+    },
+    {
+      "id": "quote_1589_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Ed believes he saved that town, it's one of the first successes he's had. I'll let him keep thinking that for a while. He'll learn the truth soon enough: we always do."
+    },
+    {
+      "id": "quote_1590_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I'm not short! I'm fun-sized!"
+    },
+    {
+      "id": "quote_1591_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "The Philosopher's Stone: those who possess it, no longer bound by the laws of equivalent exchange in alchemy, can gain without sacrifice...create without equal exchange. We searched for it... and we found it."
+    },
+    {
+      "id": "quote_1592_1755663515440",
+      "character": "Envy",
+      "show": "Fullmetal Alchemist",
+      "quote": "Don't kid yourself, Mustang. You know how humans love to watch other people suffer while making fools of themselves. I mean, why else would you constantly be at war with each other?"
+    },
+    {
+      "id": "quote_1593_1755663515440",
+      "character": "Trisha Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "We really are weak creatures, but that's why we can strive to become stronger. Even if you feel it's useless, each step we take leads to something great. That's why I'm sure we'll be able to change. Because we're weak... and because death is inevitable. Humans try their best to live and end up becoming stronger."
+    },
+    {
+      "id": "quote_1594_1755663515440",
+      "character": "Scar",
+      "show": "Fullmetal Alchemist",
+      "quote": "Foolish alchemists who have turned their backs on the ways of God...shall all be punished."
+    },
+    {
+      "id": "quote_1595_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Dad left... A long time ago, when brother and I were still boys. Mom stared off into the distance a lot. But she carried on as if nothing were wrong."
+    },
+    {
+      "id": "quote_1596_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Those people had us dancing right in the palms of their hands, didn't they? I guess it doesn't matter what we do. We'll never be the ones in control."
+    },
+    {
+      "id": "quote_1597_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "If there's no door, then I'll make one!"
+    },
+    {
+      "id": "quote_1598_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "This body comes with many inconveniences. But inconveniences don't make me miserable! There is no reason for you to pity me! My life was put back together with alchemy by my brother. If I deny myself, that would mean I'm denying my brother, along with alchemy. I believe in the potential that alchemy holds. I want to believe in it!"
+    },
+    {
+      "id": "quote_1599_1755663515440",
+      "character": "Alex Louis Armstrong",
+      "show": "Fullmetal Alchemist",
+      "quote": "Destruction and creation are two sides of the same coin! You must destroy to create! That is the law of the universe!"
+    },
+    {
+      "id": "quote_1600_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Water, 35 litres. Carbon, 20 kg. Ammonia, 4 litres. Lime, 1.5 kg. Phosphorus, 800 g. Salt, 250 g. Niter, 100 g. Sulphur, 80 g. Fluoride, 7.5 g. Iron, 5 g. Silicon, 3g. And fifteen other elements. Those are the elements to make an average adult human body. You can buy these elemental ingredients at the market with the pocket money of a child. Humans are made so cheaply."
+    },
+    {
+      "id": "quote_1601_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "War does not determine who is right - only who is left."
+    },
+    {
+      "id": "quote_1602_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "The power of one man doesn't amount to much. But, however little strength I'm capable of, I'll do everything humanly possible to protect the people I love, and in turn they will protect the ones they love. It seems like the least we tiny humans can do for each other."
+    },
+    {
+      "id": "quote_1603_1755663515440",
+      "character": "King Bradley",
+      "show": "Fullmetal Alchemist",
+      "quote": "You clearly have nerves of steel. But, I'd say you still have much to learn about the world."
+    },
+    {
+      "id": "quote_1604_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I've been thinking about this for a long time. We put all our trust in alchemy but in the end... what is it? \"Alchemy is the science of understanding the flow of matter and its laws. The process of comprehension, deconstruction, and reconstruction. The world flows too. It must also follow laws. Everything circulates. Even death is a part of that circulation. You must accept the flow.\" Hmm, Teacher sure drummed that into our heads, didn't she? I thought I understood it. But I don't understand anything... Mom proves that. Now here I am again, trying desperately to figure out a way to do the impossible. I'm such a hopeless idiot. All this time and I haven't grown up one bit. I thought maybe the rain would wash away some of this gloom that's been following me... but right now, every drop that hits my face is even more depressing."
+    },
+    {
+      "id": "quote_1605_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Don't give alcohol to minors!"
+    },
+    {
+      "id": "quote_1606_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "A bratty little midget."
+    },
+    {
+      "id": "quote_1607_1755663515440",
+      "character": "King Bradley",
+      "show": "Fullmetal Alchemist",
+      "quote": "[To Lan Fan] Brat, quit blabbering on about trifling topics such as love and sadness. Don't underestimate us. She's the woman I chose. A will is unnecessary between us. That's usually how it is between a King and his companion."
+    },
+    {
+      "id": "quote_1608_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "The heroes during times of war, are nothing but mass murderers during times of peace."
+    },
+    {
+      "id": "quote_1609_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Even when our eyes are closed, there's a whole world out there that lives outside ourselves and our dreams."
+    },
+    {
+      "id": "quote_1610_1755663515440",
+      "character": "Winry Rockbell",
+      "show": "Fullmetal Alchemist",
+      "quote": "What do I have to live for now that I know Cain won't come back? You tell me that, Ed!"
+    },
+    {
+      "id": "quote_1611_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Yeah, I get it. You couldn't see me since I'm so short, you couldn't distinguish me from all the grains of sand. VERY FUNNY!!"
+    },
+    {
+      "id": "quote_1612_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "*on the phone* I'm sorry to interrupt you, Major, but let me offer a bit of feminine advice. BABIES AREN'T BORN AFTER JUST FIVE MONTHS!"
+    },
+    {
+      "id": "quote_1613_1755663515440",
+      "character": "Lust",
+      "show": "Fullmetal Alchemist",
+      "quote": "Memories... of the people we were. They're subtle, but they're real. It took me a lot of time to understand what I saw. Books say we shouldn't have memories. Or at least that they're only the memories and emotions of the alchemists who made us. But they are wrong. Those memories are mine."
+    },
+    {
+      "id": "quote_1614_1755663515440",
+      "character": "Van Hohenheim",
+      "show": "Fullmetal Alchemist",
+      "quote": "[To Father] You've certainly mellowed out... you used to be fun, full of life and emotion. Lust, Greed, Sloth, Gluttony, Envy, Wrath, and Pride. Of course, excessive want will destroy anyone, but those same desires are necessary to understand what it means to be human. Why did you rid yourself of them?"
+    },
+    {
+      "id": "quote_1615_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Like I always say, can't find a door? Make your own."
+    },
+    {
+      "id": "quote_1616_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Some memories... aren't meant to leave traces."
+    },
+    {
+      "id": "quote_1617_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Come on now. Is that anyway to talk to your new boss, landlord, and all-around overseer?"
+    },
+    {
+      "id": "quote_1618_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "*grabs two citizens and swings them around in a circle* Shorty?! Could a shorty do this?! What else you want to call me: a half-pint bean-sprout midget?! I'm still growing you backwater desert idiots!"
+    },
+    {
+      "id": "quote_1619_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Even with your stones, I'm on a whole other level!"
+    },
+    {
+      "id": "quote_1620_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "[To Envy] Now I see. You're Jealous. You're jealous of humans, aren't you? According to you, humans are supposed to be a lot weaker than Homunculi. And yet, even if they get discouraged after being beaten, and even if they get close to falling down after losing their paths, they continue to get up and fight. Everyone around them helps them get back up. And you're envious of that."
+    },
+    {
+      "id": "quote_1621_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Do you think it's possible to send Flame Alchemy through the phone and burn someones ears off?"
+    },
+    {
+      "id": "quote_1622_1755663515440",
+      "character": "Greed",
+      "show": "Fullmetal Alchemist",
+      "quote": "\"I long to see someone who died\", \"I want to be rich\", \"I want women\", \"I want to protect the world\"... They're all desires. In other words, wishes. If you ask me, there's neither \"right\" or \"wrong\" when it comes to greed. You humans go around ranking certain types of greed in order from good to bad, which makes you so hard to understand."
+    },
+    {
+      "id": "quote_1623_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "There's no way I'm dying before you do, you morally bankrupt Colonel with a God complex."
+    },
+    {
+      "id": "quote_1624_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Hey, mutt! I need exercise, so I'll play with you!"
+    },
+    {
+      "id": "quote_1625_1755663515440",
+      "character": "Solf J. Kimblee",
+      "show": "Fullmetal Alchemist",
+      "quote": "I think you've got me all wrong. My motives aren't so sophisticated as \"revenge\" or \"honor\" or any of that... The reason I killed all of those men... was because I could. It's that simple."
+    },
+    {
+      "id": "quote_1626_1755663515440",
+      "character": "King Bradley",
+      "show": "Fullmetal Alchemist",
+      "quote": "The moment a soldier dons his uniform, he accepts that he might be buried in it."
+    },
+    {
+      "id": "quote_1627_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I don't know if we chose the right path, brother. But I do know this: I don't want to be in this suit anymore. I want to feel things again. It's strange. We've been right beside each other all this time. But I can't remember what your skin feels like, or how you smell."
+    },
+    {
+      "id": "quote_1628_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Don't look away, Rose! You need to see what happens when you try to bring a human to life, when you cross into God's territory or whatever the hell it is! Is this what you want?! Look!!"
+    },
+    {
+      "id": "quote_1629_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "If the ways of this world are based on equivalent exchange, as alchemy says, then in order to allow for a new generation to enjoy good fortune, the price that we must pay, is to carry the bodies of the dead across a river of blood."
+    },
+    {
+      "id": "quote_1630_1755663515440",
+      "character": "Fullmetal Alchemist",
+      "show": "Fullmetal Alchemist",
+      "quote": "Men are not men on the battlefield. We turn into some other creature. You can do the cruelest things... It doesn't even matter if it's an order or not. To protect yourself, your mind shuts out any emotions you have. It's like a steel door. But once the war is over, you can't keep it closed forever."
+    },
+    {
+      "id": "quote_1631_1755663515440",
+      "character": "Greed",
+      "show": "Fullmetal Alchemist",
+      "quote": "They weren't my friends, they were my possessions! Money, women, henchmen... they're all possessions! So killing my henchmen is the same as stealing from me, and I don't let people take what's mine!"
+    },
+    {
+      "id": "quote_1632_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "Are you telling me to go back and put a corpse on trial?"
+    },
+    {
+      "id": "quote_1633_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "If there is such a thing as the work of the devil, then there's no doubt it's what happened in this incident."
+    },
+    {
+      "id": "quote_1634_1755663515440",
+      "character": "Greed",
+      "show": "Fullmetal Alchemist",
+      "quote": "Greed may not be good, but it’s not so bad either. You humans think greed is just for money or power, but everyone wants something they can’t have."
+    },
+    {
+      "id": "quote_1635_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "AHA-HA-HA! Alchemists are scientists. We don't believe in unprovable concepts like \"God\". *Rose looks angry* We strive to uncover the principles of creation in the matter of the world, to pursue truth... *gazes at Leto statue* it's ironic that we scientists... who don't believe in God... are in a sense the closest things to him."
+    },
+    {
+      "id": "quote_1636_1755663515440",
+      "character": "Scar",
+      "show": "Fullmetal Alchemist",
+      "quote": "A man who inflicts suffering can't rest. His guilty mind won't allow it. But today, I can finally close my eyes to the living nightmare. And lay down, knowing that I won't wake again."
+    },
+    {
+      "id": "quote_1637_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "There are always things more important than someone's dream..."
+    },
+    {
+      "id": "quote_1638_1755663515440",
+      "character": "Pride",
+      "show": "Fullmetal Alchemist",
+      "quote": "Appearances rarely share the whole truth."
+    },
+    {
+      "id": "quote_1639_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Even a piece of garbage has its pride."
+    },
+    {
+      "id": "quote_1640_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "You combined animals, the most depraved kind of alchemy there is."
+    },
+    {
+      "id": "quote_1641_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "The great flow that maintains the universe, call it the cycle of life, the course of nature each one of us is just a small part of that part. One in the all. Yet without all the individual ones, the all can't exist. This world flows by following grander laws that we can't even imagine. To recognize that flow, to work in it. To decompose, and recreate, that is alchemy."
+    },
+    {
+      "id": "quote_1642_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Sun, it's just a mass of hydrogen... Get too close to it and all you do is burn."
+    },
+    {
+      "id": "quote_1643_1755663515440",
+      "character": "Riza Hawkeye",
+      "show": "Fullmetal Alchemist",
+      "quote": "A Gun is Good. Unlike A sword or a knife, it doesn't leave the feeling of a person dying in your hands."
+    },
+    {
+      "id": "quote_1644_1755663515440",
+      "character": "Dante (Fullmetal Alchemist)",
+      "show": "Fullmetal Alchemist",
+      "quote": "People can say there is a balance, a logic that everything happens for a reason... But the truth is far less designed. No matter how hard you work, when you die, you die. Some spend their entire life trying to scratch their way to the top, and still die in poverty. While others are born into wealth without ever working at all. It's a cruel and random world. And yet the chaos is all so beautiful."
+    },
+    {
+      "id": "quote_1645_1755663515440",
+      "character": "Olivier Mira Armstrong",
+      "show": "Fullmetal Alchemist",
+      "quote": "Love for the dead is pointless. We fight to keep them alive, that is all."
+    },
+    {
+      "id": "quote_1646_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "A normal guy like me isn't going to be part of some \"believe it or not\" episode with nutcases like you guys!"
+    },
+    {
+      "id": "quote_1647_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "Any man who has the brains to think and the nerve to act for the benefit of the people of the country, is considered a radical, by those who are content with stagnation and willing to endure disaster."
+    },
+    {
+      "id": "quote_1648_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "You can call me Roy Mustang, or just Lieutenant Colonel. Hell, you can call me the Flame Alchemist. Whatever you do, remember the pain."
+    },
+    {
+      "id": "quote_1649_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Attention, gun-toting extremists! Can you hear me all right, or did you blow your ears out playing target practice?"
+    },
+    {
+      "id": "quote_1650_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I'm not short, I just live in a big world."
+    },
+    {
+      "id": "quote_1651_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "You're not a good-for-nothing person. I think that being able to try your hardest to be something is a talent by itself."
+    },
+    {
+      "id": "quote_1652_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "DON'T CALL ME SMALL! I'LL BREAK DOWN YOUR FEET AND STICK THEM ON YOUR HEAD!!"
+    },
+    {
+      "id": "quote_1653_1755663515440",
+      "character": "Maes Hughes",
+      "show": "Fullmetal Alchemist",
+      "quote": "In general, men prefer to let their actions speak instead of words. When they're in pain, they don't want to burden anyone with it, not if they can help it. They don't want anyone to worry about them. That's how they are. Even so, there may come a time when they'll ask for your help. And when they do, I know that you'll be there for them. Isn't that enough?"
+    },
+    {
+      "id": "quote_1654_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "By the way, I don't get my skills from a pocketwatch."
+    },
+    {
+      "id": "quote_1655_1755663515440",
+      "character": "Roy Mustang",
+      "show": "Fullmetal Alchemist",
+      "quote": "*to Edward* There's something disturbing about having to be in your debt..."
+    },
+    {
+      "id": "quote_1656_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "WHO ARE YOU CALLING SO SMALL YOU WANNA CRUSH LIKE AN ANT?!"
+    },
+    {
+      "id": "quote_1657_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Even your gravest mistakes shouldn't stop you from moving forward."
+    },
+    {
+      "id": "quote_1658_1755663515440",
+      "character": "King Bradley",
+      "show": "Fullmetal Alchemist",
+      "quote": "Open your eyes. \"God\" is nothing more than a construct created by man to inspire fear and promote order."
+    },
+    {
+      "id": "quote_1659_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "How can you move forward if you keep regretting the past?"
+    },
+    {
+      "id": "quote_1660_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "No fair, sky. I'm the one who feels like crying."
+    },
+    {
+      "id": "quote_1661_1755663515440",
+      "character": "Greed",
+      "show": "Fullmetal Alchemist",
+      "quote": "There's no such thing as no such thing."
+    },
+    {
+      "id": "quote_1662_1755663515440",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "*referring to Winry* I didn't know she could be so cute."
+    },
+    {
+      "id": "quote_1663_1755663515440",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "In order to obtain something, there must be something of equal value. It is the Law of Conservation in Alchemy. Back then, we believed that it was the truth of the world. However, the real world isn’t perfect, so there is not just a single law that governs everything that happens within it. It is the same for the Law of Conservation in Alchemy. Even so, I believe that people cannot obtain something without paying a price. The pain we felt was surely enough of a price to pay. And anyone who pays the price known as hard work surely gains something. The Law of Conservation is not the law governing this \nworld. Until the day I meet with him again, that is the promise… Ni-san and I made."
+    }
+  ]
+}
