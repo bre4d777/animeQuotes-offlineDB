@@ -1,0 +1,26 @@
+{
+  "name": "Gankutsuou",
+  "anilistId": 239,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_51_1755682367776",
+      "character": "Peppo",
+      "show": "Gankutsuou",
+      "quote": "If people could become friends simply by sharing bread and salt, life would be simpler."
+    },
+    {
+      "id": "quote_52_1755682367776",
+      "character": "Franz d'Epinay",
+      "show": "Gankutsuou",
+      "quote": "As far as I'm concerned, I think I'd rather know the truth. Even if learning the truth changed who I am."
+    },
+    {
+      "id": "quote_53_1755682367776",
+      "character": "Gankutsuou",
+      "show": "Gankutsuou",
+      "quote": "Everyone has a sword within their hearts; the purer the heart, the sharper the sword."
+    }
+  ]
+}
