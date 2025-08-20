@@ -1,0 +1,27 @@
+{
+  "name": "Silver Spoon",
+  "anilistId": 16918,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T10:29:45.976Z",
+  "quotes": [
+    {
+      "id": "quote_20_1755685785976",
+      "character": "Yoshiyuki Nakajima",
+      "show": "Silver Spoon",
+      "quote": "There are things that you can only learn by facing the unknown, be it a different species, different values, or upbringing."
+    },
+    {
+      "id": "quote_21_1755685785976",
+      "character": "Juui",
+      "show": "Silver Spoon",
+      "quote": "In all things, I think having a dream requires having the resolve to struggle with reality."
+    },
+    {
+      "id": "quote_22_1755685785976",
+      "character": "Aki Mikage (Silver Spoon)",
+      "show": "Silver Spoon",
+      "quote": "Remember how you're supposed to let go right away when you fall off a horse and hit the ground? You don't need to hurt yourself for no reason. If you don't let go, you'll get dragged by the horse and get hurt."
+    }
+  ]
+}
