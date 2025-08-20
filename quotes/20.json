@@ -1,9 +1,9 @@
 {
   "name": "Naruto",
   "anilistId": 20,
-  "totalQuotes": 508,
+  "totalQuotes": 512,
   "totalCharacters": 48,
-  "lastUpdated": "2025-08-20T14:39:51.628Z",
+  "lastUpdated": "2025-08-20T15:29:36.373Z",
   "quotes": [
     {
       "id": "quote_2788_1755663648658",
@@ -3326,6 +3326,30 @@
       "show": "Naruto",
       "quote": "To know what is right and choose to ignore it is the act of a coward.",
       "originalIndex": "8603"
+    },
+    {
+      "id": "quote_11_1755703776373",
+      "character": "Naruto Uzumaki",
+      "show": "Naruto",
+      "quote": "If he rips my arms off, I'll kick him to death.\r\nIf he rips my legs off, I'll bite him to death!\r\nIf he rips my head off, I'll stare him to death!\r\nAnd if he gouges out my eyes, I'll curse him\r\nfrom beyond the grave..!"
+    },
+    {
+      "id": "quote_12_1755703776373",
+      "character": "Hatake Kakashi",
+      "show": "Naruto",
+      "quote": "Behind this mask is...Another mask! Pretty cool, huh? "
+    },
+    {
+      "id": "quote_13_1755703776373",
+      "character": "Pain",
+      "show": "Naruto",
+      "quote": "We are but men, drawn to act in the name of revenge that we deem to be justice. But... if there is justice in revenge then that same justice will breed only more revenge... and trigger a cycle of hatred.\n"
+    },
+    {
+      "id": "quote_14_1755703776373",
+      "character": "Pain",
+      "show": "Naruto",
+      "quote": "Love is the reason why there is pain. When we lose someone precious to us, hate is born. Vengeance is the product of that hate and so death follows. But in death there is only more death. This will give rise to more pains. In this cursed world we live in, it is a cycle of hatred that will not cease. You and I seek the same thing that Jiraiya-sensei wanted. Let me ask you this: How will you confront this hatred in order to create peace?\r\n\r\n"
     }
   ]
 }
