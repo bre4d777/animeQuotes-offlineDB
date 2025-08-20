@@ -1,0 +1,27 @@
+{
+  "name": "True Tears",
+  "anilistId": 2129,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:40:51.357Z",
+  "quotes": [
+    {
+      "id": "quote_41_1755686451357",
+      "character": "Noe Isurugi",
+      "show": "True Tears",
+      "quote": "Even in the darkness, I’m sure it’s reassuring to have someone there to walk with you."
+    },
+    {
+      "id": "quote_42_1755686451357",
+      "character": "Jun Isurugi",
+      "show": "True Tears",
+      "quote": "If a person could so ideally control their feelings... how carefree would life be?"
+    },
+    {
+      "id": "quote_43_1755686451357",
+      "character": "Noe Isurugi",
+      "show": "True Tears",
+      "quote": "On this earth, there are lots of difficult and painful things. I want to fly away and escape from it all. I want to flap my wings freely."
+    }
+  ]
+}
