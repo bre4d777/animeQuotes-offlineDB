@@ -1,0 +1,26 @@
+{
+  "name": "Rave Master",
+  "anilistId": 246,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_3_1755682454182",
+      "character": "Deerhound",
+      "show": "Rave Master",
+      "quote": "It doesn't matter what you achieve in life. It's how you live that really matters. Countless men have lost their lives in war without fulfilling their life's ambitions. Shiba stood by his convictions, no matter how lonely he got. So I think that in the end, he must've been happier than anyone."
+    },
+    {
+      "id": "quote_4_1755682454182",
+      "character": "Haru Glory",
+      "show": "Rave Master",
+      "quote": "Is fighting right, or wrong? Does winning in the end mean justice? Truthfully, I don't know. But I know we must fight this battle! Or we will never save the world."
+    },
+    {
+      "id": "quote_5_1755682454182",
+      "character": "Hamrio Musica",
+      "show": "Rave Master",
+      "quote": "If something has a strong core, it won't break. That's true for both - swords and people."
+    }
+  ]
+}
