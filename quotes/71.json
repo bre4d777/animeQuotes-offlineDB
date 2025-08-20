@@ -1,8 +1,9 @@
 {
   "name": "Full Metal Panic!",
   "anilistId": 71,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T14:43:43.604Z",
   "quotes": [
     {
       "id": "quote_76_1755682391365",
@@ -27,6 +28,13 @@
       "character": "Kaname Chidori",
       "show": "Full Metal Panic!",
       "quote": "I don't have any regrets. I'm glad I met you, Sousuke Sagara."
+    },
+    {
+      "id": "quote_31_1755701023604",
+      "character": "Sousuke Sagara",
+      "show": "Full Metal Panic!",
+      "quote": "I'm not a nerd, I'm a specialist.",
+      "originalIndex": "8611"
     }
   ]
 }
