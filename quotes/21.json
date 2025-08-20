@@ -1,8 +1,9 @@
 {
   "name": "One Piece",
   "anilistId": 21,
-  "totalQuotes": 113,
-  "totalCharacters": 35,
+  "totalQuotes": 215,
+  "totalCharacters": 41,
+  "lastUpdated": "2025-08-20T14:38:14.013Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -681,6 +682,720 @@
       "character": "Monkey D. Luffy",
       "show": "One Piece",
       "quote": "We are NOT asking him where the treasure is hidden!!! We're not even asking him whether there IS any treasure or not!! I'm not sure, but... ...everybody set out to sea, risking their lives to search for it!!! If you ask this old man anything about it here and now... Then I'll quit being a pirate! I don't want to go on a boring adventure like that!"
+    },
+    {
+      "id": "quote_110_1755700694013",
+      "character": "Smoker",
+      "show": "One Piece",
+      "quote": "Don't ever think there's any perfect society made by humans!! If you think that way you'll overlook the enemy!! Don't be fooled by appearances!!\n",
+      "originalIndex": "1158"
+    },
+    {
+      "id": "quote_111_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "Bring on the hardship. It's preferred in a path of carnage.\n\n",
+      "originalIndex": "3484"
+    },
+    {
+      "id": "quote_112_1755700694013",
+      "character": "One Piece",
+      "show": "One Piece",
+      "quote": "Even if armed with hundreds of weapons... there are times when you just can't beat a man with a spear of conviction in his gut.\n\n\n\n",
+      "originalIndex": "3565"
+    },
+    {
+      "id": "quote_113_1755700694013",
+      "character": "Portgas D. Ace",
+      "show": "One Piece",
+      "quote": "Thank you... for loving me!",
+      "originalIndex": "8072"
+    },
+    {
+      "id": "quote_114_1755700694013",
+      "character": "Gecko Moria",
+      "show": "One Piece",
+      "quote": "Fine! Go see for yourself, Straw Hat... What a real nightmare is... In the New World!",
+      "originalIndex": "8073"
+    },
+    {
+      "id": "quote_115_1755700694013",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "A dumbass is still a dumbass. *looking at Duval's new face*",
+      "originalIndex": "8074"
+    },
+    {
+      "id": "quote_116_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "A place where you can never ever EVER enter? *Luffy, in Skypea*",
+      "originalIndex": "8075"
+    },
+    {
+      "id": "quote_117_1755700694013",
+      "character": "Whitebeard",
+      "show": "One Piece",
+      "quote": "The name of this era is WHITEBEARD!",
+      "originalIndex": "8076"
+    },
+    {
+      "id": "quote_118_1755700694013",
+      "character": "Whitebeard",
+      "show": "One Piece",
+      "quote": "I am only one man with one heart... Call me a demon, call me a monster... but I can't be the strongest forever!!!",
+      "originalIndex": "8077"
+    },
+    {
+      "id": "quote_119_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "I am going to save you even if it kills me.",
+      "originalIndex": "8078"
+    },
+    {
+      "id": "quote_120_1755700694013",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "I wonder if it'll be fun to see mermaid-san's panties.",
+      "originalIndex": "8079"
+    },
+    {
+      "id": "quote_121_1755700694013",
+      "character": "Whitebeard",
+      "show": "One Piece",
+      "quote": "These fools... thinking that this might truly be enough to take my life... I need no help! I AM WHITEBEARD!!!",
+      "originalIndex": "8080"
+    },
+    {
+      "id": "quote_122_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "*talking to Zoro* The world's greatest swordsman, that's great! And it's fitting since your new boss is going to be King of the Pirates! Anything else would make me look bad!",
+      "originalIndex": "8081"
+    },
+    {
+      "id": "quote_123_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Just shut up with your god crap, already!!! What kind of GOD... CAN'T SAVE A SINGLE DAMN THING??!!",
+      "originalIndex": "8082"
+    },
+    {
+      "id": "quote_124_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "A wound that'd make an ordinary man unconscious... I won't lose to it. A wound that would kill an ordinary person... I won't lose to it! To face one who is extraordinary, Hawk Eyes... I can't allow myself to be ordinary!",
+      "originalIndex": "8083"
+    },
+    {
+      "id": "quote_125_1755700694013",
+      "character": "Marshall D. Teach",
+      "show": "One Piece",
+      "quote": "Let the heavens deal with life and death, even the most fearful lose to that. Let's live for another moment!",
+      "originalIndex": "8084"
+    },
+    {
+      "id": "quote_126_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "It's not like \"thanks\" are something I can eat.",
+      "originalIndex": "8085"
+    },
+    {
+      "id": "quote_127_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "There should be a limit to how similar a couple looks like.",
+      "originalIndex": "8086"
+    },
+    {
+      "id": "quote_128_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "When I decided to follow my dream, I had already discarded my life.",
+      "originalIndex": "8087"
+    },
+    {
+      "id": "quote_129_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "If you kill yourself, I'll kill you.",
+      "originalIndex": "8088"
+    },
+    {
+      "id": "quote_130_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "*to Captain Kuro* If you want to compare ambitions, mine is bigger!",
+      "originalIndex": "8089"
+    },
+    {
+      "id": "quote_131_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "Well, how about this. My \"luck\" versus this thing's \"curse\". Wanna see what's stronger..? If I lose, then I'm just that much of a man anyways...",
+      "originalIndex": "8090"
+    },
+    {
+      "id": "quote_132_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "If I get reincarnated.... I wanna become a clam.",
+      "originalIndex": "8091"
+    },
+    {
+      "id": "quote_133_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "There is someone that I must meet again. And until that day...not even Death itself can take my life away!",
+      "originalIndex": "8092"
+    },
+    {
+      "id": "quote_134_1755700694013",
+      "character": "Crocodile",
+      "show": "One Piece",
+      "quote": "Weakness is a sin.",
+      "originalIndex": "8093"
+    },
+    {
+      "id": "quote_135_1755700694013",
+      "character": "Enel",
+      "show": "One Piece",
+      "quote": "People don't fear god, fear itslef is god.",
+      "originalIndex": "8094"
+    },
+    {
+      "id": "quote_136_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "You selfish people! Can't you see that he's hungry? Why do you hurt him? I think he is sick, so he can't find food by himself. Am I right? Here! Eat this food. *Luffy tries to eat Sanji* Die!!",
+      "originalIndex": "8095"
+    },
+    {
+      "id": "quote_137_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "A cow? A cow can swim? I think it's a hippo!",
+      "originalIndex": "8096"
+    },
+    {
+      "id": "quote_138_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Let's continue eating.",
+      "originalIndex": "8097"
+    },
+    {
+      "id": "quote_139_1755700694013",
+      "character": "Nojiko",
+      "show": "One Piece",
+      "quote": "Since 8 years ago, that girl has never cried again, and she's never asked anyone for help. Because she doesn't want to die like our mother. She was 10 years old, and Nami decided to fight alone in that situation. Have you ever realized how much pain she's been going through?",
+      "originalIndex": "8098"
+    },
+    {
+      "id": "quote_140_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Any person who hurts Nami-san's feelings! I won't let them live peacefully!",
+      "originalIndex": "8099"
+    },
+    {
+      "id": "quote_141_1755700694013",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "*talking about Nami* Because it was the only way to save the village, she decided to join the people who killed her mother.",
+      "originalIndex": "8100"
+    },
+    {
+      "id": "quote_142_1755700694013",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "Just one more time and everything will be the same. Everything will come back to me. And I will be free from Arlong. Bellemere-san. Finally, I can laugh with all my heart.",
+      "originalIndex": "8101"
+    },
+    {
+      "id": "quote_143_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Why does that man have a pinwheel on his head?",
+      "originalIndex": "8102"
+    },
+    {
+      "id": "quote_144_1755700694013",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "Everyone is expecting help from you, but you come here and don't think about doing anything to help those people?",
+      "originalIndex": "8103"
+    },
+    {
+      "id": "quote_145_1755700694013",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "Why? The work that the marines should be doing now...there are many things that you have to take care of. Don't know that Arlong has killed many people and destroyed many villages? Under his control, everyone was treated like a slave! And you didn't do a single thing about that!! And now you just want to find the treasure of one thief? Is this a real government?",
+      "originalIndex": "8104"
+    },
+    {
+      "id": "quote_146_1755700694013",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "Don't touch Bellemere-san's orange with your dirty hands! I won't give that money to you. That money is...",
+      "originalIndex": "8105"
+    },
+    {
+      "id": "quote_147_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Don't you dare make my navigator cry!!",
+      "originalIndex": "8106"
+    },
+    {
+      "id": "quote_148_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Moron! I'm not worried about you. I meant that you shouldn't take all the credit for yourself.",
+      "originalIndex": "8107"
+    },
+    {
+      "id": "quote_149_1755700694013",
+      "character": "Marshall D. Teach",
+      "show": "One Piece",
+      "quote": "There is no such thing as impossible in this world.",
+      "originalIndex": "8108"
+    },
+    {
+      "id": "quote_150_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "I don't know. I'm not sure why myself. But if I were to take even one step back, I believe that all those important oaths, promises and many other deals 'til now, will all go to waste and I'll never be able to return before you, ever again.",
+      "originalIndex": "8109"
+    },
+    {
+      "id": "quote_151_1755700694013",
+      "character": "Gecko Moria",
+      "show": "One Piece",
+      "quote": "A true pirate should fear nothing, not even death!",
+      "originalIndex": "8110"
+    },
+    {
+      "id": "quote_152_1755700694013",
+      "character": "Nico Robin",
+      "show": "One Piece",
+      "quote": "Sometimes the only thing you have to doubt is your own common sense.",
+      "originalIndex": "8111"
+    },
+    {
+      "id": "quote_153_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Being alone hurts worse than pain.",
+      "originalIndex": "8112"
+    },
+    {
+      "id": "quote_154_1755700694013",
+      "character": "Shanks",
+      "show": "One Piece",
+      "quote": "Your honor isn't worth your life.",
+      "originalIndex": "8113"
+    },
+    {
+      "id": "quote_155_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "If you don't want the negative reputation you shouldn't be a pirate.",
+      "originalIndex": "8114"
+    },
+    {
+      "id": "quote_156_1755700694013",
+      "character": "Kizaru",
+      "show": "One Piece",
+      "quote": "Victory or defeat can be determined in a single moments misstep.",
+      "originalIndex": "8116"
+    },
+    {
+      "id": "quote_157_1755700694013",
+      "character": "Coby",
+      "show": "One Piece",
+      "quote": "We shouldn't worry about being able to achieve our dreams, as long as we have the desire to do it!",
+      "originalIndex": "8119"
+    },
+    {
+      "id": "quote_158_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "So what if you're a girl.",
+      "originalIndex": "8120"
+    },
+    {
+      "id": "quote_159_1755700694013",
+      "character": "Don Krieg",
+      "show": "One Piece",
+      "quote": "When a guy gets flustered, because someone calls him weak, it's proof that he recognizes he IS weak. Let the outcome determine the weak and the strong.",
+      "originalIndex": "8123"
+    },
+    {
+      "id": "quote_160_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "If I can't even protect my captain's dream, then whatever ambition I have is nothing but talk...",
+      "originalIndex": "8125"
+    },
+    {
+      "id": "quote_161_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Dying is not repaying a debt! That is not what he saved you for! Only weak men would die after someone spared their lives!",
+      "originalIndex": "8126"
+    },
+    {
+      "id": "quote_162_1755700694013",
+      "character": "Dracule Mihawk",
+      "show": "One Piece",
+      "quote": "I don't remember the name of every weakling I crush.",
+      "originalIndex": "8127"
+    },
+    {
+      "id": "quote_163_1755700694013",
+      "character": "Bellemere",
+      "show": "One Piece",
+      "quote": "No matter what happens, don't be sorry you were born. Even though nobody praises us, don't forget to smile in any situation. As long as you're alive there will be better things later...and there will be many.",
+      "originalIndex": "8128"
+    },
+    {
+      "id": "quote_164_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "When you decided to go to the sea, it was your own decision. Whatever happens to you on the sea, it depends on what you've done! Don't blame others!!",
+      "originalIndex": "8129"
+    },
+    {
+      "id": "quote_165_1755700694013",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "Hopes for the future..? Yes. However, getting there with you...is not much different than being alone..! What good is the treasure if I'm alone? After sharing so much of our dreams. Instead of sacrificing them and leaving with you I would rather... HAVE NOTHING AT ALL!",
+      "originalIndex": "8130"
+    },
+    {
+      "id": "quote_166_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "I don't care if you're a god. If you lay even one finger on Nami-san, I'll become the Devil of the Blue Sea!",
+      "originalIndex": "8131"
+    },
+    {
+      "id": "quote_167_1755700694013",
+      "character": "Boa Hancock",
+      "show": "One Piece",
+      "quote": "Fufufu.. I think I like you.",
+      "originalIndex": "8132"
+    },
+    {
+      "id": "quote_168_1755700694013",
+      "character": "Marshall D. Teach",
+      "show": "One Piece",
+      "quote": "A man's dream never dies!",
+      "originalIndex": "8133"
+    },
+    {
+      "id": "quote_169_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the Pirate King!",
+      "originalIndex": "8134"
+    },
+    {
+      "id": "quote_170_1755700694013",
+      "character": "Silvers Rayleigh",
+      "show": "One Piece",
+      "quote": "*talking to Luffy* Can you really do this..? The Grand Line is just going to keep going on...surpassing your wildest imaginations! And the enemies will be strong. Can you really conquer this ultimate ocean?",
+      "originalIndex": "8135"
+    },
+    {
+      "id": "quote_171_1755700694013",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "Yohohohoho!",
+      "originalIndex": "8136"
+    },
+    {
+      "id": "quote_172_1755700694013",
+      "character": "Kizaru",
+      "show": "One Piece",
+      "quote": "Have you ever been kicked at the speed of light?",
+      "originalIndex": "8137"
+    },
+    {
+      "id": "quote_173_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "You'll never understand...your swords will never be as heavy as mine!",
+      "originalIndex": "8138"
+    },
+    {
+      "id": "quote_174_1755700694013",
+      "character": "Shanks",
+      "show": "One Piece",
+      "quote": "You can spill drinks on me, even spit on me. I'll just laugh about it. But If you dare to hurt my friends... I WON'T FORGIVE YOU!",
+      "originalIndex": "8139"
+    },
+    {
+      "id": "quote_175_1755700694013",
+      "character": "Brook",
+      "show": "One Piece",
+      "quote": "Would you let me see your panties?",
+      "originalIndex": "8140"
+    },
+    {
+      "id": "quote_176_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "If you do anything that would cause me to abandon my ambitions... You will end your own life on my sword!",
+      "originalIndex": "8141"
+    },
+    {
+      "id": "quote_177_1755700694013",
+      "character": "Gol D. Roger",
+      "show": "One Piece",
+      "quote": "Inherited will. Destiny of the age. The dreams of the people. These are things that will not be stopped. As long as people continue to pursue the meaning of freedom. These things will never cease to be.",
+      "originalIndex": "8142"
+    },
+    {
+      "id": "quote_178_1755700694013",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "There... Comes a time when a man has to stand and FIGHT!! This is the time when his friends dreams are laughed at. Luffy wont die... I KNOW he'll be the pirate king one day. I WONT LET YOU LAUGH AT THAT!!",
+      "originalIndex": "8143"
+    },
+    {
+      "id": "quote_179_1755700694013",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "Then stand up right away! And don't act like you're about to die! It's not like you! Even if there are billows of smoke, we can still see the sky. We can still see the ocean! It ain't like it's hell here! So don't act like you're about to die!",
+      "originalIndex": "8144"
+    },
+    {
+      "id": "quote_180_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "I'll never kick a woman, even if I die!",
+      "originalIndex": "8145"
+    },
+    {
+      "id": "quote_181_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "A man forgives a woman's lies.",
+      "originalIndex": "8146"
+    },
+    {
+      "id": "quote_182_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "I have Nakama who're not strong... But I still want them to be with me..!!So I have to be stronger than anybody else... Or I'll lose them all!!!",
+      "originalIndex": "8147"
+    },
+    {
+      "id": "quote_183_1755700694013",
+      "character": "Franky",
+      "show": "One Piece",
+      "quote": "Existing Isn't A Crime!",
+      "originalIndex": "8148"
+    },
+    {
+      "id": "quote_184_1755700694013",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "*talking about Usopp and Luffy* It's never ending with those idiots. HEY! Lay off the sob stories! You know how dangerous this island is! Let's not give it any help in killing us!",
+      "originalIndex": "8149"
+    },
+    {
+      "id": "quote_185_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "That's no way to treat a lady!",
+      "originalIndex": "8150"
+    },
+    {
+      "id": "quote_186_1755700694013",
+      "character": "Nami",
+      "show": "One Piece",
+      "quote": "I'll have mapped out the entire world!",
+      "originalIndex": "8151"
+    },
+    {
+      "id": "quote_187_1755700694013",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "I'll be brave!",
+      "originalIndex": "8152"
+    },
+    {
+      "id": "quote_188_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "I'll find the All Blue!",
+      "originalIndex": "8153"
+    },
+    {
+      "id": "quote_189_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Soon I'll be King of the Pirates!",
+      "originalIndex": "8154"
+    },
+    {
+      "id": "quote_190_1755700694013",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "*after his \"5 ton's hammer\" breaks* Of course it was fake! I can't lift five tons! I quit after five pounds!",
+      "originalIndex": "8155"
+    },
+    {
+      "id": "quote_191_1755700694013",
+      "character": "Tony Tony Chopper",
+      "show": "One Piece",
+      "quote": "*after seeing Ussopp's 5 ton hammer break* You mean it was a fake?!",
+      "originalIndex": "8156"
+    },
+    {
+      "id": "quote_192_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "*after seeing a skinny woman claiming to be Alvita* Don't you mean you're like half of her?",
+      "originalIndex": "8157"
+    },
+    {
+      "id": "quote_193_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "It's time to get a girl.",
+      "originalIndex": "8158"
+    },
+    {
+      "id": "quote_194_1755700694013",
+      "character": "Gol D. Roger",
+      "show": "One Piece",
+      "quote": "Bear conviction under your flag!",
+      "originalIndex": "8159"
+    },
+    {
+      "id": "quote_195_1755700694013",
+      "character": "Usopp",
+      "show": "One Piece",
+      "quote": "Protecting what we cherish most as men is the reason why we formed this pirate crew!",
+      "originalIndex": "8160"
+    },
+    {
+      "id": "quote_196_1755700694013",
+      "character": "Shanks",
+      "show": "One Piece",
+      "quote": "*after saving Luffy and losing one arm* It isn't worth much. It's just one arm. I'm glad you're safe.",
+      "originalIndex": "8161"
+    },
+    {
+      "id": "quote_197_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "Fine! I'd rather be a pirate than die here!",
+      "originalIndex": "8162"
+    },
+    {
+      "id": "quote_198_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "I am always serious.",
+      "originalIndex": "8163"
+    },
+    {
+      "id": "quote_199_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "I want to eat meat!",
+      "originalIndex": "8164"
+    },
+    {
+      "id": "quote_200_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "I do things my own way! So don't give me any lip about it!",
+      "originalIndex": "8165"
+    },
+    {
+      "id": "quote_201_1755700694013",
+      "character": "Shanks",
+      "show": "One Piece",
+      "quote": "*to Luffy* Keep this hat safe for me?",
+      "originalIndex": "8166"
+    },
+    {
+      "id": "quote_202_1755700694013",
+      "character": "Gol D. Roger",
+      "show": "One Piece",
+      "quote": "My wealth and treasures? If you want it, I'll let you have it. Look for it, I left all of it at that place!",
+      "originalIndex": "8167"
+    },
+    {
+      "id": "quote_203_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "*talking to Shanks* One day, I'll have a ship and a crew better than yours!! And we'll have the biggest hoard of treasure in the world!!",
+      "originalIndex": "8168"
+    },
+    {
+      "id": "quote_204_1755700694013",
+      "character": "Shanks",
+      "show": "One Piece",
+      "quote": "I'm saying it's not safe to point guns.",
+      "originalIndex": "8169"
+    },
+    {
+      "id": "quote_205_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "I'm going to be the world's greatest swordsman! All I have left is my destiny! My name may be infamous...but it's gonna shake the world!!!",
+      "originalIndex": "8170"
+    },
+    {
+      "id": "quote_206_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "I've set myself to become the King of Pirates... and if I die trying... then at least I tried!",
+      "originalIndex": "8171"
+    },
+    {
+      "id": "quote_207_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Well, ya see... I'm gonna be the unbeatable pirate!!!",
+      "originalIndex": "8172"
+    },
+    {
+      "id": "quote_208_1755700694013",
+      "character": "Monkey D. Luffy",
+      "show": "One Piece",
+      "quote": "Being killed by marines, or coming with me. Which one do you pick?",
+      "originalIndex": "8173"
+    },
+    {
+      "id": "quote_209_1755700694013",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Cooking is a gift from the gods. Spices are a gift from the devil. Looks like it was a little too spicy for you.",
+      "originalIndex": "8174"
+    },
+    {
+      "id": "quote_210_1755700694013",
+      "character": "Smoker",
+      "show": "One Piece",
+      "quote": "With my own hands, JUSTICE will be served.",
+      "originalIndex": "8175"
+    },
+    {
+      "id": "quote_211_1755700694013",
+      "character": "Roronoa Zoro",
+      "show": "One Piece",
+      "quote": "If you die, I'll kill you!",
+      "originalIndex": "8544"
     }
   ]
 }
