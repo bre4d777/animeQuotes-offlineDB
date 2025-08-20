@@ -10,6 +10,7 @@ scrap.js
 index.js
 .replit
 clean.js
+proxy.json
 # Runtime data
 pids
 *.pid
