@@ -1,9 +1,9 @@
 {
   "name": "Torikago no Tsugai",
   "anilistId": null,
-  "totalQuotes": 7,
+  "totalQuotes": 8,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:24:16.316Z",
+  "lastUpdated": "2025-08-20T14:38:04.481Z",
   "quotes": [
     {
       "id": "quote_63_1755685456316",
@@ -46,6 +46,13 @@
       "character": "Blue Owl",
       "show": "Torikago no Tsugai",
       "quote": "\"Selection\" is important. Even in life. Living, dying, killing are all the results from your selection. Bad luck? Poor fortune? Poor judges of character? You're wrong. It's a selection error for not thinking thoroughly and choosing the answer without proper consideration."
+    },
+    {
+      "id": "quote_106_1755700684481",
+      "character": "Gin Kurobe",
+      "show": "Torikago no Tsugai",
+      "quote": "Life is all about \"selection\". There's no such thing as a life of being pushed around by circumstances or a life of doing as one is told.  It is you who selected to be \"swept along\" ",
+      "originalIndex": "968"
     }
   ]
 }
