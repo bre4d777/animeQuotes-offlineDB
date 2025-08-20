@@ -1,9 +1,9 @@
 {
-  "name": "Chuunibyou Demo Koi Ga Shitai!",
+  "name": "Chuunibyo Demo Koi ga Shitai!",
   "anilistId": 14741,
-  "totalQuotes": 4,
-  "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T10:24:11.889Z",
+  "totalQuotes": 5,
+  "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T11:01:06.971Z",
   "quotes": [
     {
       "id": "quote_52_1755685451889",
@@ -28,6 +28,12 @@
       "character": "Kumin Tsuyuri",
       "show": "Chuunibyou Demo Koi Ga Shitai!",
       "quote": "Do you know how they say that love is like a dream? With a dream, you eventually wake up from it. It's hard to force yourself to wake up."
+    },
+    {
+      "id": "quote_119_1755687666971",
+      "character": "Makoto Isshiki",
+      "show": "Chuunibyo Demo Koi ga Shitai!",
+      "quote": "You don't need a reason to love someone."
     }
   ]
 }
