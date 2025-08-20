@@ -1,9 +1,9 @@
 {
-  "name": "Hunter × Hunter",
+  "name": "Hunter X Hunter",
   "anilistId": 136,
-  "totalQuotes": 30,
+  "totalQuotes": 32,
   "totalCharacters": 16,
-  "lastUpdated": "2025-08-20T10:54:55.654Z",
+  "lastUpdated": "2025-08-20T14:39:58.655Z",
   "quotes": [
     {
       "id": "quote_887_1755663472986",
@@ -184,6 +184,20 @@
       "character": "Netero",
       "show": "Hunter × Hunter",
       "quote": "Ant king , you believe I cannot pray with a single arm? A prayer comes from the heart. If the heart achieves the correct form, it becomes emotions and emotions can be manifested."
+    },
+    {
+      "id": "quote_512_1755700798655",
+      "character": "Hunter X Hunter",
+      "show": "Hunter X Hunter",
+      "quote": "You must be prepared to face the worst possible scenarios. Because harsh reality strikes without warning.\n",
+      "originalIndex": "3721"
+    },
+    {
+      "id": "quote_513_1755700798655",
+      "character": "Kurapika",
+      "show": "Hunter X Hunter",
+      "quote": "I do not fear death. I fear only that my rage will fade over time.\n",
+      "originalIndex": "4683"
     }
   ]
 }
