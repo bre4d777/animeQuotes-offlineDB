@@ -1,9 +1,9 @@
 {
-  "name": "Nabari no Ou",
+  "name": "Nibari No Ou",
   "anilistId": 3655,
-  "totalQuotes": 11,
-  "totalCharacters": 9,
-  "lastUpdated": "2025-08-20T10:32:33.677Z",
+  "totalQuotes": 12,
+  "totalCharacters": 10,
+  "lastUpdated": "2025-08-20T10:45:18.894Z",
   "quotes": [
     {
       "id": "quote_97_1755685953677",
@@ -70,6 +70,12 @@
       "character": "Yoite",
       "show": "Nabari no Ou",
       "quote": "Night is good. Appearances lose their meaning and get swallowed up by the darkness."
+    },
+    {
+      "id": "quote_133_1755686718894",
+      "character": "Miharu Rokujou",
+      "show": "Nibari No Ou",
+      "quote": "When you go to save someone you have to consider yourself, as well. If you can’t all say “Thank Goodness” together, then those who are saved aren’t saved."
     }
   ]
 }
