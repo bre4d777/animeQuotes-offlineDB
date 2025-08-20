@@ -1,0 +1,27 @@
+{
+  "name": "Boogiepop Phantom",
+  "anilistId": 369,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:24:55.435Z",
+  "quotes": [
+    {
+      "id": "quote_102_1755685495435",
+      "character": "Seiichi Kirima",
+      "show": "Boogiepop Phantom",
+      "quote": "The brain is a microcosm, creating its own stories. People then live out these stories."
+    },
+    {
+      "id": "quote_103_1755685495435",
+      "character": "Seiichi Kirima",
+      "show": "Boogiepop Phantom",
+      "quote": "Time does not exist. Only the illusion of memories exist."
+    },
+    {
+      "id": "quote_104_1755685495435",
+      "character": "Boogiepop",
+      "show": "Boogiepop Phantom",
+      "quote": "Human nature denies the past in order to justify the present. But do you believe there is anything in the present worth justifying?"
+    }
+  ]
+}
