@@ -1,8 +1,9 @@
 {
   "name": "Grisaia no Kajitsu",
   "anilistId": 17729,
-  "totalQuotes": 19,
+  "totalQuotes": 20,
   "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T14:39:29.995Z",
   "quotes": [
     {
       "id": "quote_1946_1755682086269",
@@ -117,6 +118,13 @@
       "character": "Yuuji Kazami",
       "show": "Grisaia no Kajitsu",
       "quote": "Being indebted to someone is nothing to be ashamed of. Not repaying that debt is."
+    },
+    {
+      "id": "quote_215_1755700769994",
+      "character": "Yuuji Kazami",
+      "show": "Grisaia no Kajitsu",
+      "quote": "This is something my master used to say. \"Kids who are too obedient and never think of themselves are the hardest to watch.\" ",
+      "originalIndex": "1896"
     }
   ]
 }
