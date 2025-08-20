@@ -1,9 +1,9 @@
 {
   "name": "Code Geass: Lelouch of the Rebellion",
   "anilistId": 1575,
-  "totalQuotes": 114,
+  "totalQuotes": 116,
   "totalCharacters": 16,
-  "lastUpdated": "2025-08-20T14:41:38.811Z",
+  "lastUpdated": "2025-08-20T15:29:26.665Z",
   "quotes": [
     {
       "id": "quote_3381_1755663683260",
@@ -756,6 +756,18 @@
       "show": "Code Geass: Lelouch of the Rebellion",
       "quote": "Do you know why snow is white..? Because it forgot what colour it was.",
       "originalIndex": "8609"
+    },
+    {
+      "id": "quote_2_1755703766665",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "The human heart is the source of all our power... We fight with the power of our hearts. "
+    },
+    {
+      "id": "quote_3_1755703766665",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "There are times in life when you have to distance yourself from those you love, because you love them. "
     }
   ]
 }
