@@ -1,8 +1,9 @@
 {
   "name": "K-ON!",
   "anilistId": 5680,
-  "totalQuotes": 4,
-  "totalCharacters": 2,
+  "totalQuotes": 39,
+  "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T14:41:31.615Z",
   "quotes": [
     {
       "id": "quote_2762_1755663640236",
@@ -27,6 +28,251 @@
       "character": "Yui Hirasawa",
       "show": "K-ON!",
       "quote": "To the me back then, you don’t need to worry. You’ll soon find something you can do, something you can set your heart on."
+    },
+    {
+      "id": "quote_1109_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "Oh, a headband! *runs off in that direction*",
+      "originalIndex": "7789"
+    },
+    {
+      "id": "quote_1110_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "In the manga, when I wasn't in the picture, even if I didn't sing nobody noticed, but if I don't sing in the anime...",
+      "originalIndex": "7790"
+    },
+    {
+      "id": "quote_1111_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "Make sure you don't mistake soy sauce for sugar.",
+      "originalIndex": "7791"
+    },
+    {
+      "id": "quote_1112_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "He's so cute, I want to put peanuts in his nose.",
+      "originalIndex": "7792"
+    },
+    {
+      "id": "quote_1113_1755700891615",
+      "character": "Mio Akiyama",
+      "show": "K-ON!",
+      "quote": "We'll follow her BUTT and find out what kind of guy she's dating!",
+      "originalIndex": "7793"
+    },
+    {
+      "id": "quote_1114_1755700891615",
+      "character": "Jun Suzuki",
+      "show": "K-ON!",
+      "quote": "MAN! I'M SO JEALOUS!",
+      "originalIndex": "7794"
+    },
+    {
+      "id": "quote_1115_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "I want to be able to snap my fingers!",
+      "originalIndex": "7795"
+    },
+    {
+      "id": "quote_1116_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "The Cake is a Lie!",
+      "originalIndex": "7796"
+    },
+    {
+      "id": "quote_1117_1755700891615",
+      "character": "Sawako Yamanaka",
+      "show": "K-ON!",
+      "quote": "Where on earth would you find such a hot fifty year old?",
+      "originalIndex": "7797"
+    },
+    {
+      "id": "quote_1118_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "Wait, does that mean you're in your fifties?",
+      "originalIndex": "7798"
+    },
+    {
+      "id": "quote_1119_1755700891615",
+      "character": "Ritsu Tainaka",
+      "show": "K-ON!",
+      "quote": "Thou art not good! Thou shalt not become a great actress at this rate!",
+      "originalIndex": "7799"
+    },
+    {
+      "id": "quote_1120_1755700891615",
+      "character": "Tsumugi Kotobuki",
+      "show": "K-ON!",
+      "quote": "You and Mio-chan...you're hitting each other and bonding through bodily contact, right?",
+      "originalIndex": "7800"
+    },
+    {
+      "id": "quote_1121_1755700891615",
+      "character": "Mio Akiyama",
+      "show": "K-ON!",
+      "quote": "Ritsu~! Don't do this~! MEN ARE ANIMALS!",
+      "originalIndex": "7801"
+    },
+    {
+      "id": "quote_1122_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "I have one last request. Please slap me in the face with that wad of cash.",
+      "originalIndex": "7802"
+    },
+    {
+      "id": "quote_1123_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "I'm tree G! Pose of a tree!",
+      "originalIndex": "7803"
+    },
+    {
+      "id": "quote_1124_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "I'm FLYING!",
+      "originalIndex": "7804"
+    },
+    {
+      "id": "quote_1125_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "High schoolers are kind of amazing!",
+      "originalIndex": "7805"
+    },
+    {
+      "id": "quote_1126_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "Mugi-chan, you have really thick eyebrows.",
+      "originalIndex": "7806"
+    },
+    {
+      "id": "quote_1127_1755700891615",
+      "character": "Tsumugi Kotobuki",
+      "show": "K-ON!",
+      "quote": "*to Ritsu* If you were a boy, I am sure you would be very popular with the girls!",
+      "originalIndex": "7807"
+    },
+    {
+      "id": "quote_1128_1755700891615",
+      "character": "Tsumugi Kotobuki",
+      "show": "K-ON!",
+      "quote": "Jello is nice...",
+      "originalIndex": "7808"
+    },
+    {
+      "id": "quote_1129_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "We didn't call you because we thought you have a date with your boyfriend or something.",
+      "originalIndex": "7809"
+    },
+    {
+      "id": "quote_1130_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "All your sweets are belong to me!",
+      "originalIndex": "7810"
+    },
+    {
+      "id": "quote_1131_1755700891615",
+      "character": "Sawako Yamanaka",
+      "show": "K-ON!",
+      "quote": "Do you want me to transform you into someone that even you won't recognize?",
+      "originalIndex": "7811"
+    },
+    {
+      "id": "quote_1132_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "*joyfully* I've never caught a cold! *they say only idiots don't catch colds*",
+      "originalIndex": "7812"
+    },
+    {
+      "id": "quote_1133_1755700891615",
+      "character": "Tsumugi Kotobuki",
+      "show": "K-ON!",
+      "quote": "Tapping!?",
+      "originalIndex": "7813"
+    },
+    {
+      "id": "quote_1134_1755700891615",
+      "character": "Mio Akiyama",
+      "show": "K-ON!",
+      "quote": "Speed shredding!?",
+      "originalIndex": "7814"
+    },
+    {
+      "id": "quote_1135_1755700891615",
+      "character": "Ritsu Tainaka",
+      "show": "K-ON!",
+      "quote": "Teeth shredding!?",
+      "originalIndex": "7815"
+    },
+    {
+      "id": "quote_1136_1755700891615",
+      "character": "Sawako Yamanaka",
+      "show": "K-ON!",
+      "quote": "I'll go out with you if you want.",
+      "originalIndex": "7816"
+    },
+    {
+      "id": "quote_1137_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "Not joining a club means you become a NEET?!",
+      "originalIndex": "7817"
+    },
+    {
+      "id": "quote_1138_1755700891615",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "Squishy~!",
+      "originalIndex": "7818"
+    },
+    {
+      "id": "quote_1139_1755700891615",
+      "character": "Tsumugi Kotobuki",
+      "show": "K-ON!",
+      "quote": "I've always wanted someone to ask me if I would like fries with that.",
+      "originalIndex": "7819"
+    },
+    {
+      "id": "quote_1140_1755700891615",
+      "character": "Mio Akiyama",
+      "show": "K-ON!",
+      "quote": "Would something like that make her feel better... - OH, IT DID!",
+      "originalIndex": "7820"
+    },
+    {
+      "id": "quote_1141_1755700891615",
+      "character": "Mio Akiyama",
+      "show": "K-ON!",
+      "quote": "There are only two kinds of rock guitarists: Jeff Beck and everyone else.",
+      "originalIndex": "7821"
+    },
+    {
+      "id": "quote_1142_1755700891615",
+      "character": "Tsumugi Kotobuki",
+      "show": "K-ON!",
+      "quote": "Yes, but I'd rather be friends with fun people that I don't meet often.",
+      "originalIndex": "7822"
+    },
+    {
+      "id": "quote_1143_1755700891615",
+      "character": "Mio Akiyama",
+      "show": "K-ON!",
+      "quote": "So we're like rare animals?",
+      "originalIndex": "7823"
     }
   ]
 }
