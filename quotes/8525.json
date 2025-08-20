@@ -1,9 +1,9 @@
 {
   "name": "Kami Nomi zo Shiru Sekai",
   "anilistId": 8525,
-  "totalQuotes": 36,
+  "totalQuotes": 37,
   "totalCharacters": 6,
-  "lastUpdated": "2025-08-20T14:40:36.551Z",
+  "lastUpdated": "2025-08-20T15:36:49.184Z",
   "quotes": [
     {
       "id": "quote_738_1755663450740",
@@ -221,6 +221,12 @@
       "show": "Kami Nomi zo Shiru Sekai",
       "quote": "You keep imposing your ideals on them. Don't worry about other people. You only need to do what you think is right. \n",
       "originalIndex": "4618"
+    },
+    {
+      "id": "quote_97_1755704209184",
+      "character": "Keima Katsuragi",
+      "show": "Kami Nomi zo Shiru Sekai",
+      "quote": "You keep imposing your ideals on them. Don't worry about other people. You only need to do what you think is right. \r\n"
     }
   ]
 }
