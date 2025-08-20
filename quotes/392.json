@@ -1,9 +1,9 @@
 {
   "name": "Yu Yu Hakusho",
   "anilistId": 392,
-  "totalQuotes": 100,
+  "totalQuotes": 103,
   "totalCharacters": 11,
-  "lastUpdated": "2025-08-20T14:40:00.999Z",
+  "lastUpdated": "2025-08-20T15:33:41.825Z",
   "quotes": [
     {
       "id": "quote_2074_1755663572930",
@@ -605,6 +605,24 @@
       "show": "Yu Yu Hakusho",
       "quote": "Drop ink on the finest snow-white paper and it will inevitably absorb into black. Its purity demands it. Tainted men have immunities. Black does not absorb black.\n\n\n",
       "originalIndex": "3731"
+    },
+    {
+      "id": "quote_60_1755704021825",
+      "character": "Youko Kurama",
+      "show": "Yu Yu Hakusho",
+      "quote": "I consider your class of demon very worthy, worthy to fight, and worthy to die. "
+    },
+    {
+      "id": "quote_61_1755704021825",
+      "character": "Touya",
+      "show": "Yu Yu Hakusho",
+      "quote": "It's simple. Even the strongest tree will die if left in the dark. I find that to be the best way to describe us. A giant oak, crashing through a dark soil, bringing order to an otherwise chaotic land. The Shinobi have done their job for centuries, and done it well. But in recent years, we have caught glimpses of the outside world, and asked: \"Why not us? Have we not earned the privilege others take for free?\".\r\n"
+    },
+    {
+      "id": "quote_62_1755704021825",
+      "character": "Yu Yu Hakusho",
+      "show": "Yu Yu Hakusho",
+      "quote": "And so it all begins. This boy's name is Yusuke. He's 14 years old and is supposed to be the hero of the story... but oddly enough, he's dead.\n\n\n"
     }
   ]
 }
