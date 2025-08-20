@@ -1,8 +1,9 @@
 {
   "name": "Yu Yu Hakusho",
   "anilistId": 392,
-  "totalQuotes": 99,
+  "totalQuotes": 100,
   "totalCharacters": 11,
+  "lastUpdated": "2025-08-20T14:40:00.999Z",
   "quotes": [
     {
       "id": "quote_2074_1755663572930",
@@ -597,6 +598,13 @@
       "character": "Kazuma Kuwabara",
       "show": "Yu Yu Hakusho",
       "quote": "Why does everything you say makes me wanna bash your face in?"
+    },
+    {
+      "id": "quote_514_1755700800999",
+      "character": "Shinobu Sensui",
+      "show": "Yu Yu Hakusho",
+      "quote": "Drop ink on the finest snow-white paper and it will inevitably absorb into black. Its purity demands it. Tainted men have immunities. Black does not absorb black.\n\n\n",
+      "originalIndex": "3731"
     }
   ]
 }
