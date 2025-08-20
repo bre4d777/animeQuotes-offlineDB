@@ -1,8 +1,9 @@
 {
   "name": "Umineko no Naku Koro ni",
   "anilistId": 4896,
-  "totalQuotes": 38,
+  "totalQuotes": 39,
   "totalCharacters": 14,
+  "lastUpdated": "2025-08-20T14:38:11.613Z",
   "quotes": [
     {
       "id": "quote_1083_1755663487578",
@@ -231,6 +232,13 @@
       "character": "Furudo Erika",
       "show": "Umineko no Naku Koro ni",
       "quote": "...Without love, it cannot be seen? ...Hah. That's backwards... Because of love, you end up seeing things that don't even exist."
+    },
+    {
+      "id": "quote_109_1755700691613",
+      "character": "Gaap",
+      "show": "Umineko no Naku Koro ni",
+      "quote": "Slacking off' sounds bad. However, enjoying more of your day with the time you saved by doing your job in a clever way is definitely not a bad thing. Times like that are what makes a human's life rich. If you exaggerate, it could be called laziness, surely. However, people only become mature when they are able to balance work with enjoyment. In short, if all you care about is your job, you're not fully mature.",
+      "originalIndex": "1154"
     }
   ]
 }
