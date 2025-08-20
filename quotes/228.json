@@ -1,8 +1,9 @@
 {
   "name": "Jigoku Shoujo",
   "anilistId": 228,
-  "totalQuotes": 10,
+  "totalQuotes": 14,
   "totalCharacters": 1,
+  "lastUpdated": "2025-08-20T14:43:19.684Z",
   "quotes": [
     {
       "id": "quote_1840_1755682050824",
@@ -63,6 +64,34 @@
       "character": "Ai Enma",
       "show": "Jigoku Shoujo",
       "quote": "Pitiful shadow cloaked in darkness. Thy action cause men pain and suffering. Thy hollow soul drowns in thy sins. How would you like to see what death is like?"
+    },
+    {
+      "id": "quote_3_1755700999684",
+      "character": "Ai Enma",
+      "show": "Jigoku Shoujo",
+      "quote": "To hate or to be hated, someone will hate again. To send or to be sent to Hell, someone will be sent there again. I have witnessed this cycle over and over again. No one can stop it.",
+      "originalIndex": "8499"
+    },
+    {
+      "id": "quote_4_1755700999684",
+      "character": "Ai Enma",
+      "show": "Jigoku Shoujo",
+      "quote": "Ippen shindemiru?",
+      "originalIndex": "8518"
+    },
+    {
+      "id": "quote_5_1755700999684",
+      "character": "Ai Enma",
+      "show": "Jigoku Shoujo",
+      "quote": "Do you want to experience what dying is like?",
+      "originalIndex": "8519"
+    },
+    {
+      "id": "quote_6_1755700999684",
+      "character": "Ai Enma",
+      "show": "Jigoku Shoujo",
+      "quote": "The real hell is inside the person.",
+      "originalIndex": "8520"
     }
   ]
 }
