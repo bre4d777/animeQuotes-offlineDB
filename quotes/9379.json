@@ -1,8 +1,9 @@
 {
   "name": "Denpa Onna to Seishun Otoko",
   "anilistId": 9379,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 5,
+  "lastUpdated": "2025-08-20T14:40:41.427Z",
   "quotes": [
     {
       "id": "quote_1994_1755682104754",
@@ -57,6 +58,13 @@
       "character": "Maekawa",
       "show": "Denpa Onna to Seishun Otoko",
       "quote": "For questions where your chance of being correct is 5050, it's best to go with your gut response."
+    },
+    {
+      "id": "quote_560_1755700841427",
+      "character": "Maekawa",
+      "show": "Denpa Onna to Seishun Otoko",
+      "quote": "For questions where your chance of being correct is 50/50, it's best to go with your gut response.",
+      "originalIndex": "4765"
     }
   ]
 }
