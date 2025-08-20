@@ -1,0 +1,33 @@
+{
+  "name": "Trinity Blood",
+  "anilistId": 27,
+  "totalQuotes": 4,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:35:08.608Z",
+  "quotes": [
+    {
+      "id": "quote_8_1755686108608",
+      "character": "Abel Nightroad",
+      "show": "Trinity Blood",
+      "quote": "This eternally cursed power. This extremely disgusting existence! May this wretched body help me protect the things most important to me now! This is the only power that makes atonement for my sins possible! Ashes to Ashes, Dust to Dust, Earth to Earth! Amen!"
+    },
+    {
+      "id": "quote_9_1755686108608",
+      "character": "Abel Nightroad",
+      "show": "Trinity Blood",
+      "quote": "Trust me, you don't want to make the whole world your enemy. At the very least, you have a friend in me."
+    },
+    {
+      "id": "quote_10_1755686108608",
+      "character": "Astharoshe Asran",
+      "show": "Trinity Blood",
+      "quote": "It is so painful when you lose someone you love ...To the point where your hair turns white because of grief."
+    },
+    {
+      "id": "quote_11_1755686108608",
+      "character": "Abel Nightroad",
+      "show": "Trinity Blood",
+      "quote": "Dear me - how pitiful. A monster like me, lagging from such a small wound?"
+    }
+  ]
+}
