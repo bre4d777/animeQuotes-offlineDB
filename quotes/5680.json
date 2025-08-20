@@ -1,0 +1,32 @@
+{
+  "name": "K-ON!",
+  "anilistId": 5680,
+  "totalQuotes": 4,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_2762_1755663640236",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "I’m scared of hot and cold. In winter, I hide under the heating table and in summer, I lie in bed and do nothing."
+    },
+    {
+      "id": "quote_2763_1755663640236",
+      "character": "Sawako Yamanaka",
+      "show": "K-ON!",
+      "quote": "I'll be waiting for you to get your asses back here!"
+    },
+    {
+      "id": "quote_2764_1755663640236",
+      "character": "Sawako Yamanaka",
+      "show": "K-ON!",
+      "quote": "No, she's hiding something. But what could it be? Snacks? Guitar? Wait, maybe ton-chan."
+    },
+    {
+      "id": "quote_2765_1755663640236",
+      "character": "Yui Hirasawa",
+      "show": "K-ON!",
+      "quote": "To the me back then, you don’t need to worry. You’ll soon find something you can do, something you can set your heart on."
+    }
+  ]
+}
