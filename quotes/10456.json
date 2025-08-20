@@ -1,8 +1,9 @@
 {
   "name": "Kyoukai Senjou No Horizon",
   "anilistId": 10456,
-  "totalQuotes": 6,
+  "totalQuotes": 7,
   "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T14:40:55.869Z",
   "quotes": [
     {
       "id": "quote_1264_1755681904640",
@@ -39,6 +40,13 @@
       "character": "Horizon Ariadust",
       "show": "Kyoukai Senjou No Horizon",
       "quote": "It's where all parallel lines meet. Where conflicting ideas are reconciled. It is... above the horizon."
+    },
+    {
+      "id": "quote_753_1755700855869",
+      "character": "Aoi Toori",
+      "show": "Kyoukai Senjou No Horizon",
+      "quote": "If someone you care for is ever in the eyes of danger, don't hesitate to save him/her.",
+      "originalIndex": "5054"
     }
   ]
 }
