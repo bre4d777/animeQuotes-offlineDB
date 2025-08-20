@@ -1,8 +1,9 @@
 {
   "name": "Assassination Classroom 2nd Season",
   "anilistId": 21170,
-  "totalQuotes": 17,
+  "totalQuotes": 18,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T14:37:37.345Z",
   "quotes": [
     {
       "id": "quote_1287_1755681916508",
@@ -105,6 +106,13 @@
       "character": "Korosensei",
       "show": "Assassination Classroom 2nd Season",
       "quote": "Broadly speaking, there are two reasons a person feels the desire to teach something: Either he wants to pass on his successes or he wants to pass on his failures."
+    },
+    {
+      "id": "quote_95_1755700657345",
+      "character": "Korosensei",
+      "show": "Assassination Classroom 2nd Season",
+      "quote": "You must not hope for society to change for you. Do not reject society. To put it bluntly, that is simply a waste of time.",
+      "originalIndex": "3"
     }
   ]
 }
