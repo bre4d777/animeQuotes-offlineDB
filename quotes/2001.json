@@ -1,9 +1,9 @@
 {
   "name": "Tengen Toppa Gurren Lagann",
   "anilistId": 2001,
-  "totalQuotes": 46,
+  "totalQuotes": 47,
   "totalCharacters": 6,
-  "lastUpdated": "2025-08-20T14:41:17.332Z",
+  "lastUpdated": "2025-08-20T15:29:24.201Z",
   "quotes": [
     {
       "id": "quote_405_1755681755297",
@@ -314,6 +314,12 @@
       "show": "Tengen Toppa Gurren Lagann",
       "quote": "Don't believe in yourself. Believe in ME who believes in you!",
       "originalIndex": "8610"
+    },
+    {
+      "id": "quote_1_1755703764201",
+      "character": "Kamina",
+      "show": "Tengen Toppa Gurren Lagann",
+      "quote": "If you are doing it, I'm doing it. If I don't do it, will you? If you don't do it, I'll do it. I'm doing it so that you'll do it too!!  "
     }
   ]
 }

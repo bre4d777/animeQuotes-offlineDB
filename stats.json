@@ -1,6 +1,12 @@
 {
-  "totalQuotes": 8723,
-  "totalAnime": 766,
+  "totalQuotes": 8724,
+  "totalAnime": 767,
   "totalCharacters": 2547,
-  "lastUpdated": "2025-08-20T14:43:43.605Z"
+  "lastUpdated": "2025-08-20T15:29:24.210Z",
+  "apiProgress": {
+    "currentPage": 46,
+    "totalPages": 45,
+    "quotesCollected": 4397,
+    "lastBatchCompleted": 45
+  }
 }
