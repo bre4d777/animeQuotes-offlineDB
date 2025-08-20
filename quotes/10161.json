@@ -1,9 +1,9 @@
 {
   "name": "No.6",
   "anilistId": 10161,
-  "totalQuotes": 5,
+  "totalQuotes": 6,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T14:40:48.617Z",
+  "lastUpdated": "2025-08-20T15:36:41.923Z",
   "quotes": [
     {
       "id": "quote_173_1755686029109",
@@ -35,6 +35,12 @@
       "show": "No.6",
       "quote": "And your eyes were a strange colour that I'd never seen before. And they drew me in.\n",
       "originalIndex": "4927"
+    },
+    {
+      "id": "quote_96_1755704201923",
+      "character": "Sion",
+      "show": "No.6",
+      "quote": "And your eyes were a strange colour that I'd never seen before. And they drew me in.\r\n"
     }
   ]
 }
