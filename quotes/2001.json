@@ -1,14 +1,26 @@
 {
-  "name": "Gurren Lagann",
+  "name": "Tengen Toppa Gurren Laggan",
   "anilistId": 2001,
-  "totalQuotes": 1,
-  "totalCharacters": 1,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
   "quotes": [
     {
       "id": "quote_405_1755681755297",
       "character": "Kamina",
       "show": "Gurren Lagann",
       "quote": "Don't believe in the me that believe in you, don't believe in the you that believes in me, believe in yourself who believes in you!"
+    },
+    {
+      "id": "quote_1051_1755681850170",
+      "character": "Lordgenome",
+      "show": "Tengen Toppa Gurren Laggan",
+      "quote": "The probability of success was zero percent. But I've learned that probabilities are meaningless when it comes to you guys."
+    },
+    {
+      "id": "quote_1052_1755681850170",
+      "character": "Kamina",
+      "show": "Tengen Toppa Gurren Laggan",
+      "quote": "Don't be distracted by the what-if's, should-have's, and if-only's. The one thing you choose for yourself - that is the truth of your universe."
     }
   ]
 }
