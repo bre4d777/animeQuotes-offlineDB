@@ -1,8 +1,9 @@
 {
   "name": "Tsubasa Reservoir Chronicle",
   "anilistId": 177,
-  "totalQuotes": 24,
+  "totalQuotes": 25,
   "totalCharacters": 5,
+  "lastUpdated": "2025-08-20T14:37:57.534Z",
   "quotes": [
     {
       "id": "quote_714_1755663448022",
@@ -147,6 +148,13 @@
       "character": "Fay D. Flourite",
       "show": "Tsubasa Reservoir Chronicle",
       "quote": "Fighting's fine, but losing looks like it'll hurt... so that'd suck."
+    },
+    {
+      "id": "quote_104_1755700677534",
+      "character": "Fay D. Flourite",
+      "show": "Tsubasa Reservoir Chronicle",
+      "quote": "People do peculiar things when it comes to love... Our own safety doesn't seem so important.\n",
+      "originalIndex": "571"
     }
   ]
 }
