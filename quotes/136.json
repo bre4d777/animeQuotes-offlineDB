@@ -1,8 +1,9 @@
 {
-  "name": "Hunter X Hunter",
+  "name": "Hunter × Hunter",
   "anilistId": 136,
-  "totalQuotes": 29,
+  "totalQuotes": 30,
   "totalCharacters": 16,
+  "lastUpdated": "2025-08-20T10:54:55.654Z",
   "quotes": [
     {
       "id": "quote_887_1755663472986",
@@ -177,6 +178,12 @@
       "character": "Meruem",
       "show": "Hunter X Hunter",
       "quote": "Violence is the greatest power of the world!"
+    },
+    {
+      "id": "quote_45_1755687295654",
+      "character": "Netero",
+      "show": "Hunter × Hunter",
+      "quote": "Ant king , you believe I cannot pray with a single arm? A prayer comes from the heart. If the heart achieves the correct form, it becomes emotions and emotions can be manifested."
     }
   ]
 }
