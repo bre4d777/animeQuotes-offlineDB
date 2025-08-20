@@ -1,9 +1,9 @@
 {
   "name": "Silver Spoon",
   "anilistId": 16918,
-  "totalQuotes": 3,
-  "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T10:29:45.976Z",
+  "totalQuotes": 4,
+  "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T14:37:45.084Z",
   "quotes": [
     {
       "id": "quote_20_1755685785976",
@@ -22,6 +22,13 @@
       "character": "Aki Mikage (Silver Spoon)",
       "show": "Silver Spoon",
       "quote": "Remember how you're supposed to let go right away when you fall off a horse and hit the ground? You don't need to hurt yourself for no reason. If you don't let go, you'll get dragged by the horse and get hurt."
+    },
+    {
+      "id": "quote_99_1755700665084",
+      "character": "Principal",
+      "show": "Silver Spoon",
+      "quote": "So you feel negative about the idea of running away. You may feel guilt over having run away, but what about what happened here? The people you've met? How's it all been? Were they negative experiences? It's ok to run away in order to live. It really is ok. You're different from farm animals who have nowhere to run.",
+      "originalIndex": "8"
     }
   ]
 }
