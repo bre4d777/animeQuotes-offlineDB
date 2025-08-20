@@ -1,8 +1,9 @@
 {
   "name": "Lovely Complex",
   "anilistId": 2034,
-  "totalQuotes": 11,
+  "totalQuotes": 27,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T14:41:36.439Z",
   "quotes": [
     {
       "id": "quote_1725_1755682027853",
@@ -69,6 +70,118 @@
       "character": "Risa Koizumi",
       "show": "Lovely Complex",
       "quote": "Everytime Otani says or does something, I end up going to heaven, or hell."
+    },
+    {
+      "id": "quote_1171_1755700896439",
+      "character": "Atsushi Otani",
+      "show": "Lovely Complex",
+      "quote": "*laughs after Risa starts to cry and complain about him stealing her heart again* How many hearts do u have?",
+      "originalIndex": "8176"
+    },
+    {
+      "id": "quote_1172_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "*cries* You're stealing my heart again...",
+      "originalIndex": "8177"
+    },
+    {
+      "id": "quote_1173_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "Stop it, you're stealing my heart...it's so unfair.",
+      "originalIndex": "8178"
+    },
+    {
+      "id": "quote_1174_1755700896439",
+      "character": "Atsushi Otani",
+      "show": "Lovely Complex",
+      "quote": "*Otani gets a rare Umibouzou ticket*Yeah, I'm awesome, praise me more!",
+      "originalIndex": "8179"
+    },
+    {
+      "id": "quote_1175_1755700896439",
+      "character": "Atsushi Otani",
+      "show": "Lovely Complex",
+      "quote": "How's that? Did you die?",
+      "originalIndex": "8180"
+    },
+    {
+      "id": "quote_1176_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "I like who I like, got a problem with that?!",
+      "originalIndex": "8181"
+    },
+    {
+      "id": "quote_1177_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "Everyday, there are many unremarkable encounters, but...later on, there will be an encounter big enough to change your life. That's why, I want to treasure each of those. I started thinking that...when I first met Otani.",
+      "originalIndex": "8182"
+    },
+    {
+      "id": "quote_1178_1755700896439",
+      "character": "Atsushi Otani",
+      "show": "Lovely Complex",
+      "quote": "I was also happy because you tried hard.",
+      "originalIndex": "8183"
+    },
+    {
+      "id": "quote_1179_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "Thank GOD I didn't give up! Thank GOD I tried hard!",
+      "originalIndex": "8184"
+    },
+    {
+      "id": "quote_1180_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "It doesn't matter if he's shorter than me...because I like Otani.",
+      "originalIndex": "8185"
+    },
+    {
+      "id": "quote_1181_1755700896439",
+      "character": "Atsushi Otani",
+      "show": "Lovely Complex",
+      "quote": "Well... I do like kids and all. Elementary kids and such...",
+      "originalIndex": "8186"
+    },
+    {
+      "id": "quote_1182_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "I'll be happy as long as I have Otani's love.",
+      "originalIndex": "8187"
+    },
+    {
+      "id": "quote_1183_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "*talking to Otani* Hey, Hey! If there's a muscle guy who wants to snatch me, what are you going to do?",
+      "originalIndex": "8188"
+    },
+    {
+      "id": "quote_1184_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "Otani's hand is small, but it still feels like a guy's.",
+      "originalIndex": "8189"
+    },
+    {
+      "id": "quote_1185_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "It's such a small difference...but to me, it's a huge wall. A huge wall that I can't overcome.",
+      "originalIndex": "8190"
+    },
+    {
+      "id": "quote_1186_1755700896439",
+      "character": "Risa Koizumi",
+      "show": "Lovely Complex",
+      "quote": "What on Earth is this little creature?",
+      "originalIndex": "8538"
     }
   ]
 }
