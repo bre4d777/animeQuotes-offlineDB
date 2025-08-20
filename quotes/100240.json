@@ -1,0 +1,27 @@
+{
+  "name": "Tokyo Ghoul:re",
+  "anilistId": 100240,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T10:36:22.989Z",
+  "quotes": [
+    {
+      "id": "quote_19_1755686182989",
+      "character": "Koutarou Amon",
+      "show": "Tokyo Ghoul:re",
+      "quote": "What is right... what is wrong... you can't easily tell the difference. That's why you must keep thinking, whether what you are doing is right or not. That act itself, alone, can be called right."
+    },
+    {
+      "id": "quote_20_1755686182989",
+      "character": "Karren von Rosewald",
+      "show": "Tokyo Ghoul:re",
+      "quote": "The sorrows of life...To not be able to live like yourself. The joys of life...To be able to die like yourself."
+    },
+    {
+      "id": "quote_21_1755686182989",
+      "character": "Kaneki Ken",
+      "show": "Tokyo Ghoul:re",
+      "quote": "Donato has to keep proving himself. He wants to prove just how valuable he is. Isn't that the case with you as well? Because you are the same as Donato. All you're doing is indulging in this twisted self-value that you have to yourself. And if you don't, you won't last. Eventually, you will break and become useless. Once that happens, you'll break and become discarded."
+    }
+  ]
+}
