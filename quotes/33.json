@@ -1,9 +1,9 @@
 {
   "name": "Berserk",
   "anilistId": 33,
-  "totalQuotes": 46,
+  "totalQuotes": 50,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T14:37:52.468Z",
+  "lastUpdated": "2025-08-20T15:33:52.107Z",
   "quotes": [
     {
       "id": "quote_1401_1755663501465",
@@ -281,6 +281,30 @@
       "show": "Berserk",
       "quote": "If you're alone... if it's just your life, you can use it however you please/ Wear yourself out, get cut to ribbons, doesn't matter. But when there's two, the blade grows heavy. Fighting like death doesn't concern you becomes a thing of the past. It's no longer just you. I threw away my way of life, relied on the strength of others, and somehow pushed on.",
       "originalIndex": "102"
+    },
+    {
+      "id": "quote_64_1755704032107",
+      "character": "Godo",
+      "show": "Berserk",
+      "quote": "Hate is a place, where a man who can't stand sadness, goes.\n\n"
+    },
+    {
+      "id": "quote_65_1755704032107",
+      "character": "Void",
+      "show": "Berserk",
+      "quote": "If fate is a principle beyond Human comprehension which capriciously torments man, then it is karma that man confront fate by embracing sorcery.\n\n\n"
+    },
+    {
+      "id": "quote_66_1755704032107",
+      "character": "Godo",
+      "show": "Berserk",
+      "quote": "If you desire one thing for so long, it's a given that you'll miss other things along the way. That's how it is... that's life.\n\n"
+    },
+    {
+      "id": "quote_67_1755704032107",
+      "character": "Griffith",
+      "show": "Berserk",
+      "quote": "It is my perception, that a true friend never relies on another's dream. A person with the potential to be my true friend, must be able to find his reason for life without my help. And, he would have to put his heart and soul into protecting his dream. He would never hesitate to fight for his dream, even against me. For me, a true friend is one who stands equal on those terms.\n\n"
     }
   ]
 }
