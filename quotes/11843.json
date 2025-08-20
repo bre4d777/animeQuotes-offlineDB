@@ -1,15 +1,21 @@
 {
-  "name": "Daily Lives of High School Boys",
+  "name": "Danshi Koukousei no Nichijou",
   "anilistId": 11843,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:46:51.623Z",
+  "lastUpdated": "2025-08-20T10:59:01.796Z",
   "quotes": [
     {
       "id": "quote_199_1755686811623",
       "character": "Hidenori Tabata",
       "show": "Daily Lives of High School Boys",
       "quote": "There's no need to pretend to be cool. Let's show our lame sides. That's who we really are, after all."
+    },
+    {
+      "id": "quote_91_1755687541796",
+      "character": "Hidenori Tabata",
+      "show": "Danshi Koukousei no Nichijou",
+      "quote": "There’s no reason to pretend to be cool. Let’s show our lame sides. That’s who we really are, after all."
     }
   ]
 }
