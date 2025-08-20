@@ -11,7 +11,8 @@ index.js
 .replit
 clean.js
 proxy.json
-source
+source/
+
 # Runtime data
 pids
 *.pid
