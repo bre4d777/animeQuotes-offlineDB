@@ -1,0 +1,26 @@
+{
+  "name": "Lucky Dog",
+  "anilistId": null,
+  "totalQuotes": 3,
+  "totalCharacters": 1,
+  "quotes": [
+    {
+      "id": "quote_19_1755682353110",
+      "character": "Gian Carlo",
+      "show": "Lucky Dog",
+      "quote": "I like playing with my hair."
+    },
+    {
+      "id": "quote_20_1755682353110",
+      "character": "Gian Carlo",
+      "show": "Lucky Dog",
+      "quote": "I'm a devilish and talented butler."
+    },
+    {
+      "id": "quote_21_1755682353110",
+      "character": "Gian Carlo",
+      "show": "Lucky Dog",
+      "quote": "La lang natamad na ako."
+    }
+  ]
+}
