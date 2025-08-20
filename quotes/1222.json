@@ -1,9 +1,9 @@
 {
   "name": "Bokura ga Ita",
   "anilistId": 1222,
-  "totalQuotes": 18,
+  "totalQuotes": 22,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:38:34.534Z",
+  "lastUpdated": "2025-08-20T14:40:38.968Z",
   "quotes": [
     {
       "id": "quote_87_1755686314534",
@@ -112,6 +112,34 @@
       "character": "Nanami Takahashi",
       "show": "Bokura ga Ita",
       "quote": "How should I put this... There are times when you begin to hate everything around you."
+    },
+    {
+      "id": "quote_556_1755700838968",
+      "character": "Nanami Takahashi",
+      "show": "Bokura ga Ita",
+      "quote": "I wonder why people make promises they won't be able to keep.\n\n",
+      "originalIndex": "4684"
+    },
+    {
+      "id": "quote_557_1755700838968",
+      "character": "Motoharu Yano",
+      "show": "Bokura ga Ita",
+      "quote": "Ever since I met you, I feel like... I've lived to meet you.",
+      "originalIndex": "8534"
+    },
+    {
+      "id": "quote_558_1755700838968",
+      "character": "Motoharu Yano",
+      "show": "Bokura ga Ita",
+      "quote": "I want to go back and change the past. If I could - I would, if that would stop you from crying.",
+      "originalIndex": "8567"
+    },
+    {
+      "id": "quote_559_1755700838968",
+      "character": "Motoharu Yano",
+      "show": "Bokura ga Ita",
+      "quote": "Let's make our past fade into comparison with the present.",
+      "originalIndex": "8605"
     }
   ]
 }
