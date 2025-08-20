@@ -1,8 +1,9 @@
 {
   "name": "Toradora!",
   "anilistId": 4224,
-  "totalQuotes": 22,
+  "totalQuotes": 24,
   "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T14:43:22.070Z",
   "quotes": [
     {
       "id": "quote_1211_1755681889858",
@@ -135,6 +136,20 @@
       "character": "Taiga Aisaka",
       "show": "Toradora!",
       "quote": "Those stars look like they're close to each other, but they're actually very far away, aren't they? It's like Kitamura-kun and I. The things you see aren't always real. How hard must I try in order to understand the unseen truth?"
+    },
+    {
+      "id": "quote_7_1755701002070",
+      "character": "Ami Kawashima",
+      "show": "Toradora!",
+      "quote": "As long as there is at least one person who understands me, I'll be okay.",
+      "originalIndex": "8500"
+    },
+    {
+      "id": "quote_8_1755701002070",
+      "character": "Taiga Aisaka",
+      "show": "Toradora!",
+      "quote": "The thing you wished for the most, is something you'll never get.",
+      "originalIndex": "8501"
     }
   ]
 }
