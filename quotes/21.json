@@ -1,9 +1,9 @@
 {
   "name": "One Piece",
   "anilistId": 21,
-  "totalQuotes": 215,
+  "totalQuotes": 217,
   "totalCharacters": 41,
-  "lastUpdated": "2025-08-20T14:38:14.013Z",
+  "lastUpdated": "2025-08-20T15:29:38.789Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1396,6 +1396,18 @@
       "show": "One Piece",
       "quote": "If you die, I'll kill you!",
       "originalIndex": "8544"
+    },
+    {
+      "id": "quote_15_1755703778789",
+      "character": "Sanji",
+      "show": "One Piece",
+      "quote": "Leave this guy's key to me, I'll do what you cant do; you do what I can't do. Think carefully! Read the situation. If you're here, there's got to be a way Robin-chan can be saved! Usopp! "
+    },
+    {
+      "id": "quote_16_1755703778789",
+      "character": "Crocodile",
+      "show": "One Piece",
+      "quote": "\"If I do this, I can stop the rebellion”, “if I do that, I can stop the rebellion”... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!\n"
     }
   ]
 }
