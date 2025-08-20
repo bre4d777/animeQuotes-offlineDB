@@ -1,9 +1,9 @@
 {
   "name": "Mobile Suit Gundam Seed",
   "anilistId": 93,
-  "totalQuotes": 63,
+  "totalQuotes": 64,
   "totalCharacters": 13,
-  "lastUpdated": "2025-08-20T14:43:26.909Z",
+  "lastUpdated": "2025-08-20T15:29:29.148Z",
   "quotes": [
     {
       "id": "quote_2518_1755663614674",
@@ -386,6 +386,12 @@
       "show": "Mobile Suit Gundam Seed",
       "quote": "What can you protect, if your only weapon are your emotions.",
       "originalIndex": "8608"
+    },
+    {
+      "id": "quote_4_1755703769148",
+      "character": "Rau Le Creuset",
+      "show": "Mobile Suit Gundam Seed",
+      "quote": "No matter what we learn, no matter what we obtain, nothing ever changes! People are amazing that way! They become envious, hate each other, and destroy each other! If that's what they truly desire, why don't they simply exterminate each other!? "
     }
   ]
 }
