@@ -1,8 +1,9 @@
 {
   "name": "Code Geass: Lelouch of the Rebellion",
   "anilistId": 1575,
-  "totalQuotes": 46,
-  "totalCharacters": 10,
+  "totalQuotes": 114,
+  "totalCharacters": 16,
+  "lastUpdated": "2025-08-20T14:41:38.811Z",
   "quotes": [
     {
       "id": "quote_3381_1755663683260",
@@ -279,6 +280,482 @@
       "character": "C.C.",
       "show": "Code Geass: Lelouch of the Rebellion",
       "quote": "In their heart, everyone has faith that their victory exists. However, in the face of time and destiny, the act of faith is fruitless and fleeting at best."
+    },
+    {
+      "id": "quote_1187_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Let's play this democracy game, shall we?",
+      "originalIndex": "8191"
+    },
+    {
+      "id": "quote_1188_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I shall gamble on the geass known as people wishes. For the sake of the world's future.",
+      "originalIndex": "8192"
+    },
+    {
+      "id": "quote_1189_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Don't you think wishes are the same as Geass? Things you can't accomplish with your own powers, you ask assistance from others.",
+      "originalIndex": "8193"
+    },
+    {
+      "id": "quote_1190_1755700898811",
+      "character": "Jeremiah Gottwald",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "It's not over yet!... Carve into your memories \"Jeremiah Gottwald\", the memorable name of the man that made you taste defeat!",
+      "originalIndex": "8194"
+    },
+    {
+      "id": "quote_1191_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I am Lelouch Vi Britannia, son of the late Empress Marianne. The prince abandoned by his empire. If there are any that think they can go beyond my despair, then let them try.",
+      "originalIndex": "8195"
+    },
+    {
+      "id": "quote_1192_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "If happiness had a form, what would it look like? It might be something like glass, because one doesn't notice it normally. However, it is actually there. As proof, if you look at it from a different angle, the glass will reflect light. It will state it's presence and existence more eloquently than any other thing in this world.",
+      "originalIndex": "8196"
+    },
+    {
+      "id": "quote_1193_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "If you had the strength, you could live. This is our contract. In return for my gift of power, you must grant one of my wishes. If you enter this contract, you will live as a human, but also as one completely different. Different rules, different time, a different life.... The power of the king will make you lonely indeed. If you are prepared for that, then...",
+      "originalIndex": "8197"
+    },
+    {
+      "id": "quote_1194_1755700898811",
+      "character": "Euphemia Li Britannia",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I order you to love me!..",
+      "originalIndex": "8198"
+    },
+    {
+      "id": "quote_1195_1755700898811",
+      "character": "Nunnally Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I see... You're taking things awfully fast, but like they say, \"to each his own\". I suppose that's just how you operate---*Lelouch drops a teacup on the ground*",
+      "originalIndex": "8207"
+    },
+    {
+      "id": "quote_1196_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Win through, Lelouch. Ignore your past, and the consequences of your actions.",
+      "originalIndex": "8208"
+    },
+    {
+      "id": "quote_1197_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "*to C.C.* It's a contract, this time coming from me to you.",
+      "originalIndex": "8209"
+    },
+    {
+      "id": "quote_1198_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "You foolish impostor, who tried to take Nunnally's place, I will use you until you dry up, then throw you away like a ragged cloth!",
+      "originalIndex": "8210"
+    },
+    {
+      "id": "quote_1199_1755700898811",
+      "character": "Kallen Stadtfeld",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "You know what this badass mother can do so back off!",
+      "originalIndex": "8211"
+    },
+    {
+      "id": "quote_1200_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "You revealed it much too fast. Such a bad sport, girl.",
+      "originalIndex": "8212"
+    },
+    {
+      "id": "quote_1201_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Fuhahahahaha, this is how you create panic.",
+      "originalIndex": "8213"
+    },
+    {
+      "id": "quote_1202_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Compete, fight, take, control. Beyond that lies the future! All Hail Britannia!",
+      "originalIndex": "8214"
+    },
+    {
+      "id": "quote_1203_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I don't want to hear that from an eternally young and immortal witch.",
+      "originalIndex": "8215"
+    },
+    {
+      "id": "quote_1204_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "From this moment on, this room shall be the very first territory of the United States of Japan!",
+      "originalIndex": "8216"
+    },
+    {
+      "id": "quote_1205_1755700898811",
+      "character": "Kaguya Sumeragi",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Once you have won this war, you will need a wife someday, right? For you to have a life where you cannot reveal your identity to the world, I believe that there will be someone who can calm your soul?",
+      "originalIndex": "8217"
+    },
+    {
+      "id": "quote_1206_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "The world will change. I will change it.",
+      "originalIndex": "8218"
+    },
+    {
+      "id": "quote_1207_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I would like you to answer a question before you dispose of me. If being powerless is evil, is having power justice? Is revenge Evil? Can friendship coexist with justice..?",
+      "originalIndex": "8219"
+    },
+    {
+      "id": "quote_1208_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I've made a contract with the devil, so I can't be friends with a god.",
+      "originalIndex": "8220"
+    },
+    {
+      "id": "quote_1209_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "You've had only two choices ever since you joined the Order of the Black Knights. Either live with me, or die with me!",
+      "originalIndex": "8221"
+    },
+    {
+      "id": "quote_1210_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I don't know why snow is white, but I find such white snow beautiful, and I don't dislike it at all.",
+      "originalIndex": "8222"
+    },
+    {
+      "id": "quote_1211_1755700898811",
+      "character": "Cecile Croomy",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Lloyd-san, shall I teach you the proper way to communicate with others?",
+      "originalIndex": "8223"
+    },
+    {
+      "id": "quote_1212_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "What are you doing, C.C.? Now you're all wet. Come on, we'll have to go to the washroom. I'll get you a change of clothes.",
+      "originalIndex": "8224"
+    },
+    {
+      "id": "quote_1213_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Terrorism is nothing more than childish harassment.",
+      "originalIndex": "8225"
+    },
+    {
+      "id": "quote_1214_1755700898811",
+      "character": "Suzaku Kururugi",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "F*CK OFF!! *to Kallen while he's trying to kill Zero*",
+      "originalIndex": "8226"
+    },
+    {
+      "id": "quote_1215_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "...supposed to be dead? I have returned, your Majesty. In order to change EVERYTHING.",
+      "originalIndex": "8227"
+    },
+    {
+      "id": "quote_1216_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I am the 17th successor, the second in line to the throne. Lelouch Vi Britannia.",
+      "originalIndex": "8228"
+    },
+    {
+      "id": "quote_1217_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Why must I search through other people's underwear? You Owe me Big Time for this.",
+      "originalIndex": "8229"
+    },
+    {
+      "id": "quote_1218_1755700898811",
+      "character": "Jeremiah Gottwald",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "*holding a hand to his face as he steps out in front of a car* I...I..I am not ORAAAAAAAAAAANGE. *falls and fails*",
+      "originalIndex": "8230"
+    },
+    {
+      "id": "quote_1219_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I was just checking, you horny little punk.",
+      "originalIndex": "8231"
+    },
+    {
+      "id": "quote_1220_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Tss, useless terrorists!",
+      "originalIndex": "8232"
+    },
+    {
+      "id": "quote_1221_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "You are not alone. We are accomplices. If you are a witch, I will become a warlock.",
+      "originalIndex": "8233"
+    },
+    {
+      "id": "quote_1222_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Within the endless flow of time, I am alone.",
+      "originalIndex": "8234"
+    },
+    {
+      "id": "quote_1223_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "*after a giant pizza is thrown into the air**Gasp* Pizza!",
+      "originalIndex": "8235"
+    },
+    {
+      "id": "quote_1224_1755700898811",
+      "character": "Euphemia Li Britannia",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Everyone who calls themselves Japanese:I have a request. Can you all die?Erm...I hoped that you would all commit suicide, but is that impossible?Then can all the soldiers please annihilate them?",
+      "originalIndex": "8236"
+    },
+    {
+      "id": "quote_1225_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "That's right, I'm Zero. The leader of the Order of Black Knight. The one who declared war on the Holy Britannia Empire. And, a guy who is about to take over the world!",
+      "originalIndex": "8237"
+    },
+    {
+      "id": "quote_1226_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Perhaps this is what I have always wished for since that day. The loss and destruction of all. That's right, one must destroy before creating. In that case, if my conscience becomes a hindrance to me, then I will simply erase it. I have no other choice but to move forward...therefore!",
+      "originalIndex": "8238"
+    },
+    {
+      "id": "quote_1227_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Since that day, I've always been living a lie. The fact that I'm alive is a lie. My name is a lie, my background is a lie. It's full of lies. Fed up with the world that does not change at all, but I can't even let everything go because of this despair called \"lies\". But now I have in my hands...this power, therefore!",
+      "originalIndex": "8239"
+    },
+    {
+      "id": "quote_1228_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Or have you realized it? That only those who are prepared to be shot have the right to shoot...! Lelouch Vi Britannia commands you all...to DIE!",
+      "originalIndex": "8240"
+    },
+    {
+      "id": "quote_1229_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "What's wrong? You aren't going to shoot? Your opponent's a student.",
+      "originalIndex": "8241"
+    },
+    {
+      "id": "quote_1230_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Hey, tell me, how should a Britannian who hates Britannia live?",
+      "originalIndex": "8242"
+    },
+    {
+      "id": "quote_1231_1755700898811",
+      "character": "Lloyd Asplund",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "That's not necessary. It's a waste of time. Let's get married.",
+      "originalIndex": "8243"
+    },
+    {
+      "id": "quote_1232_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Those with power, fear us! Those without power, seek us!",
+      "originalIndex": "8244"
+    },
+    {
+      "id": "quote_1233_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "*to Lelouch* No matter how great you make yourself sound, you're still just a naive boy who's all talk and who only dreams of victory in his head.",
+      "originalIndex": "8245"
+    },
+    {
+      "id": "quote_1234_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "*Milay describes Lelouch as a subordinate* Subordinate..? Yeah, I guess I am.",
+      "originalIndex": "8246"
+    },
+    {
+      "id": "quote_1235_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "That's easy. If someone wins, the fighting will end.",
+      "originalIndex": "8247"
+    },
+    {
+      "id": "quote_1236_1755700898811",
+      "character": "Lloyd Asplund",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Ah, I'm sorry. Sorry! *is punched by Cecile*",
+      "originalIndex": "8248"
+    },
+    {
+      "id": "quote_1237_1755700898811",
+      "character": "Lloyd Asplund",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "That contradiction might kill you someday.",
+      "originalIndex": "8249"
+    },
+    {
+      "id": "quote_1238_1755700898811",
+      "character": "Jeremiah Gottwald",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "O-O-O-range?! DIE !!!",
+      "originalIndex": "8250"
+    },
+    {
+      "id": "quote_1239_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Oh it has been a while. you are still in the army? But I don't have the time to deal with you, Orange-kun.",
+      "originalIndex": "8251"
+    },
+    {
+      "id": "quote_1240_1755700898811",
+      "character": "Jeremiah Gottwald",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Is Zero here? If you are around, fight with me...fight with me, Jeremiah Gottwald!",
+      "originalIndex": "8252"
+    },
+    {
+      "id": "quote_1241_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Those who are allowed to shoot are those who are prepared to be shot.",
+      "originalIndex": "8253"
+    },
+    {
+      "id": "quote_1242_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I was dead until the moment I met you. I was a powerless corpse pretending to be alive. Living without power, without the ability to change my course, was akin to a slow death.",
+      "originalIndex": "8254"
+    },
+    {
+      "id": "quote_1243_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "*evil laughter* It IS possible! Britannia can be destroyed!",
+      "originalIndex": "8498"
+    },
+    {
+      "id": "quote_1244_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Lelouch vi Britannia commands you... Die!",
+      "originalIndex": "8525"
+    },
+    {
+      "id": "quote_1245_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I Destroy worlds...I Create worlds...",
+      "originalIndex": "8526"
+    },
+    {
+      "id": "quote_1246_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Fake tears can harm others, while a fake smile only harms oneself.",
+      "originalIndex": "8527"
+    },
+    {
+      "id": "quote_1247_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "If the king doesn't move, then his subjects won't follow.",
+      "originalIndex": "8528"
+    },
+    {
+      "id": "quote_1248_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "What are the Japanese?!",
+      "originalIndex": "8529"
+    },
+    {
+      "id": "quote_1249_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Ever since that day my heart simply couldn't accept it. This fake life I was never able to fit into. All the time that was lost. These false memories planted in me giving me a life as one of the herd. And yet, the truth continues to guide me toward itself. That's right. It wasn't me who was wrong. It was the world. The world has to change so I will change it.",
+      "originalIndex": "8576"
+    },
+    {
+      "id": "quote_1250_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "The only ones who should kill, are those who are prepared to be killed.",
+      "originalIndex": "8577"
+    },
+    {
+      "id": "quote_1251_1755700898811",
+      "character": "Kallen Stadtfeld",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Come on! You know what this badass mother can do!",
+      "originalIndex": "8581"
+    },
+    {
+      "id": "quote_1252_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "The world cannot be changed with pretty words alone.",
+      "originalIndex": "8585"
+    },
+    {
+      "id": "quote_1253_1755700898811",
+      "character": "Lelouch Lamperouge",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "I am not the one at fault, the world is.",
+      "originalIndex": "8599"
+    },
+    {
+      "id": "quote_1254_1755700898811",
+      "character": "C.C.",
+      "show": "Code Geass: Lelouch of the Rebellion",
+      "quote": "Do you know why snow is white..? Because it forgot what colour it was.",
+      "originalIndex": "8609"
     }
   ]
 }
