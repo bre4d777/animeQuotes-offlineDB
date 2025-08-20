@@ -1,8 +1,9 @@
 {
-  "name": "Kaiji",
+  "name": "Gyakkyou Burai Kaiji: Hakairoku Hen",
   "anilistId": 10271,
-  "totalQuotes": 2,
+  "totalQuotes": 3,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:55:47.826Z",
   "quotes": [
     {
       "id": "quote_2071_1755663567059",
@@ -15,6 +16,12 @@
       "character": "Yukio Tonegawa",
       "show": "Kaiji",
       "quote": "Normally, those people would never wake up from their fantasy worlds. They live meaningless lives. They waste their precious days over nothing. No matter how old they get, they'll continue to say, \"My real life hasn't started yet. The real me is still asleep, so that's why my life is such garbage.\" They continue to tell themselves that. And they age. Then die. And on their deathbeds, they will finally realize: the life they lived was the real thing. People don't live provisional lives, nor do they die provisional deaths. That's a simple fact! The problem... is whether they realize that simple fact."
+    },
+    {
+      "id": "quote_71_1755687347826",
+      "character": "Hyoudou Kazutaka",
+      "show": "Gyakkyou Burai Kaiji: Hakairoku Hen",
+      "quote": "If you ever reach the point where you need to pray, you're already a failure of a man."
     }
   ]
 }
