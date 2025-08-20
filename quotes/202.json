@@ -1,0 +1,26 @@
+{
+  "name": "Wolf’s Rain",
+  "anilistId": 202,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_1596_1755681995740",
+      "character": "Blue",
+      "show": "Wolf’s Rain",
+      "quote": "If I can be with you when the world ends, it'll be enough for me."
+    },
+    {
+      "id": "quote_1597_1755681995740",
+      "character": "Kiba",
+      "show": "Wolf’s Rain",
+      "quote": "Everyone’s gonna die. It’s a natural part of life. But if life has no purpose, you’re dead already."
+    },
+    {
+      "id": "quote_1598_1755681995740",
+      "character": "Cher Degre",
+      "show": "Wolf’s Rain",
+      "quote": "You know I think I understand now why you and I never had children…on some level we knew the world was ending, it may of seemed like we had found something else to obsess over but the truth is we’d given up on the future. That’s the real reason I was never able to get pregnant."
+    }
+  ]
+}
