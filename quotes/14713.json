@@ -1,0 +1,21 @@
+{
+  "name": "Kamisama Hajimemashita",
+  "anilistId": 14713,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:39:49.997Z",
+  "quotes": [
+    {
+      "id": "quote_168_1755686389997",
+      "character": "Tomoe",
+      "show": "Kamisama Hajimemashita",
+      "quote": "Watching messy troubles from the sidelines is a hobby of mine."
+    },
+    {
+      "id": "quote_169_1755686389997",
+      "character": "Yatori",
+      "show": "Kamisama Hajimemashita",
+      "quote": "They say that ill weeds grow apace, but... You know, the nice ones don't live long."
+    }
+  ]
+}
