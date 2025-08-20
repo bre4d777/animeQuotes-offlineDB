@@ -1,8 +1,9 @@
 {
   "name": "Kami Nomi zo Shiru Sekai",
   "anilistId": 8525,
-  "totalQuotes": 35,
+  "totalQuotes": 36,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T14:40:36.551Z",
   "quotes": [
     {
       "id": "quote_738_1755663450740",
@@ -213,6 +214,13 @@
       "character": "Keima Katsuragi",
       "show": "The World God Only Knows",
       "quote": "Books are information. And information that isn't correct is worthless."
+    },
+    {
+      "id": "quote_555_1755700836550",
+      "character": "Keima Katsuragi",
+      "show": "Kami Nomi zo Shiru Sekai",
+      "quote": "You keep imposing your ideals on them. Don't worry about other people. You only need to do what you think is right. \n",
+      "originalIndex": "4618"
     }
   ]
 }
