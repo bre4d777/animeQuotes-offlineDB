@@ -1,9 +1,9 @@
 {
   "name": "Kaze no Stigma",
   "anilistId": 1691,
-  "totalQuotes": 3,
+  "totalQuotes": 4,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:53:26.868Z",
+  "lastUpdated": "2025-08-20T14:40:05.892Z",
   "quotes": [
     {
       "id": "quote_14_1755687206868",
@@ -22,6 +22,13 @@
       "character": "Kazuma Yagami",
       "show": "Kaze no Stigma",
       "quote": "Death is the end of everything. Your past and future will be lost in an instant where there will be no second chance. However as long as you live there will be a chance of pulling a win."
+    },
+    {
+      "id": "quote_522_1755700805892",
+      "character": "Kaze no Stigma",
+      "show": "Kaze no Stigma",
+      "quote": "I'm going to evaporate every molecule this scumbag is made out of!\n\n",
+      "originalIndex": "3876"
     }
   ]
 }
