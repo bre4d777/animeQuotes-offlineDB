@@ -1,0 +1,20 @@
+{
+  "name": "Servant X Service",
+  "anilistId": 18119,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_2412_1755682269195",
+      "character": "Yutaka Hasebe",
+      "show": "Servant X Service",
+      "quote": "Everyone has something they like, something they have to do, or something they want to do."
+    },
+    {
+      "id": "quote_2413_1755682269195",
+      "character": "Taishi Ichimiya",
+      "show": "Servant X Service",
+      "quote": "The longer you keep a secret, the harder it becomes to say it."
+    }
+  ]
+}
