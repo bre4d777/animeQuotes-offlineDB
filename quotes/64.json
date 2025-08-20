@@ -1,8 +1,9 @@
 {
   "name": "Rozen Maiden",
   "anilistId": 64,
-  "totalQuotes": 3,
+  "totalQuotes": 4,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T14:41:19.772Z",
   "quotes": [
     {
       "id": "quote_1985_1755682098985",
@@ -21,6 +22,13 @@
       "character": "Shinku",
       "show": "Rozen Maiden",
       "quote": "This is what's inside your heart right now. A sky that has become this lovely, will not always remain sunny. There will be times when rain will fall and storms will carry on. The scenery will change, but if it is left alone, it will stay changed forever. For that, you must continue to fight, because that is to live. To live is to fight."
+    },
+    {
+      "id": "quote_1018_1755700879772",
+      "character": "Shinku",
+      "show": "Rozen Maiden",
+      "quote": "In the eyes of the weak, everyone is strong. But I am truly strong.",
+      "originalIndex": "7598"
     }
   ]
 }
