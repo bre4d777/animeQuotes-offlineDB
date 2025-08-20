@@ -1,8 +1,9 @@
 {
   "name": "Rurouni Kenshin",
   "anilistId": 45,
-  "totalQuotes": 45,
+  "totalQuotes": 48,
   "totalCharacters": 10,
+  "lastUpdated": "2025-08-20T14:40:34.097Z",
   "quotes": [
     {
       "id": "quote_15_1755681735126",
@@ -273,6 +274,27 @@
       "character": "Enishi Yukishiro",
       "show": "Rurouni Kenshin",
       "quote": "The only atonement you will ever realize will be that of you're own death. You will be justly and severely punished, before you ever find the peace you seek Kenshin. That is the meaning of 'Jinchū'. Those who live must act in the place of those who have died. YOU ARE A CRIMINAL SO DIE LIKE ONE! I will make you suffer and scream, you took my sister... You destroyed her happiness... SUFFER KENSHIN, DIE! YOU MISERABLE DOG!!"
+    },
+    {
+      "id": "quote_552_1755700834097",
+      "character": "Kenshin Himura",
+      "show": "Rurouni Kenshin",
+      "quote": "The scar of my past will determine my future!\n",
+      "originalIndex": "4593"
+    },
+    {
+      "id": "quote_553_1755700834097",
+      "character": "Kaoru Kamiya",
+      "show": "Rurouni Kenshin",
+      "quote": "Ugly? I'll have you know they call me The Rose of Martial Arts around here! \n ",
+      "originalIndex": "4814"
+    },
+    {
+      "id": "quote_554_1755700834097",
+      "character": "Seijuro Hiko",
+      "show": "Rurouni Kenshin",
+      "quote": "No matter how much you hurt inside, the dead can never return.",
+      "originalIndex": "8594"
     }
   ]
 }
