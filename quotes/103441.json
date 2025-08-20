@@ -1,0 +1,33 @@
+{
+  "name": "Kingdom Hearts",
+  "anilistId": 103441,
+  "totalQuotes": 4,
+  "totalCharacters": 1,
+  "lastUpdated": "2025-08-20T10:44:42.279Z",
+  "quotes": [
+    {
+      "id": "quote_109_1755686682279",
+      "character": "Sora",
+      "show": "Kingdom Hearts",
+      "quote": "The heart may be weak and sometimes it may even give in, but I've learned that deep down, there's a light that never goes out!"
+    },
+    {
+      "id": "quote_110_1755686682279",
+      "character": "Sora",
+      "show": "Kingdom Hearts",
+      "quote": "Memories, even important ones — don't come back to us whenever we want them to. But that doesn't mean the memories are gone."
+    },
+    {
+      "id": "quote_111_1755686682279",
+      "character": "Sora",
+      "show": "Kingdom Hearts",
+      "quote": "It doesn’t matter how much we see each other, but how much we think of each other."
+    },
+    {
+      "id": "quote_112_1755686682279",
+      "character": "Sora",
+      "show": "Kingdom Hearts",
+      "quote": "Although my heart may be weak, it’s not alone. It’s grom with each new experience. And it’s found a home with all the friends I’ve made. I’ve become a part of their heart, just as they’ve become part of mine. And if they think of me now and then, if they don’t forget me, then our hearts will be one. I don’t need a weapon. My friends are my power!"
+    }
+  ]
+}
