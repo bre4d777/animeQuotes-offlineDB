@@ -1,8 +1,9 @@
 {
-  "name": "Kuroko No Basket",
+  "name": "Kuroko's Basketball",
   "anilistId": 11771,
-  "totalQuotes": 64,
+  "totalQuotes": 65,
   "totalCharacters": 16,
+  "lastUpdated": "2025-08-20T10:47:13.369Z",
   "quotes": [
     {
       "id": "quote_650_1755663445177",
@@ -387,6 +388,12 @@
       "character": "Tetsuya Kuroko",
       "show": "Kuroko No Basket",
       "quote": "If we give our best in something we love, we'll enjoy the victories from the bottom of our hearts."
+    },
+    {
+      "id": "quote_208_1755686833369",
+      "character": "Atsushi Murasakibara",
+      "show": "Kuroko's Basketball",
+      "quote": "All these things you guys seek....hard work, guts, faith....I'll crush them all."
     }
   ]
 }
