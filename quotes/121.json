@@ -1,8 +1,9 @@
 {
   "name": "Fullmetal Alchemist",
   "anilistId": 121,
-  "totalQuotes": 146,
+  "totalQuotes": 153,
   "totalCharacters": 24,
+  "lastUpdated": "2025-08-20T14:40:03.447Z",
   "quotes": [
     {
       "id": "quote_1518_1755663515440",
@@ -879,6 +880,55 @@
       "character": "Alphonse Elric",
       "show": "Fullmetal Alchemist",
       "quote": "In order to obtain something, there must be something of equal value. It is the Law of Conservation in Alchemy. Back then, we believed that it was the truth of the world. However, the real world isn’t perfect, so there is not just a single law that governs everything that happens within it. It is the same for the Law of Conservation in Alchemy. Even so, I believe that people cannot obtain something without paying a price. The pain we felt was surely enough of a price to pay. And anyone who pays the price known as hard work surely gains something. The Law of Conservation is not the law governing this \nworld. Until the day I meet with him again, that is the promise… Ni-san and I made."
+    },
+    {
+      "id": "quote_515_1755700803447",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "How can you move forward if you keep regretting the past?\n",
+      "originalIndex": "3732"
+    },
+    {
+      "id": "quote_516_1755700803447",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "I'm not short! I'm fun-sized!\n",
+      "originalIndex": "5005"
+    },
+    {
+      "id": "quote_517_1755700803447",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Humankind cannot gain anything without first giving something in return. To obtain, something of equal value must be lost. That is alchemy's first law of equivalent exchange. In those days, we really believed that to be the world's one and only truth.",
+      "originalIndex": "7648"
+    },
+    {
+      "id": "quote_518_1755700803447",
+      "character": "Alphonse Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Oh this is perfect! Now my arm's fallen off too! Today is a terrible day!",
+      "originalIndex": "8122"
+    },
+    {
+      "id": "quote_519_1755700803447",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Awww!! There are just so many people whose asses I have to kick!",
+      "originalIndex": "8204"
+    },
+    {
+      "id": "quote_520_1755700803447",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "*Ed crawling through an air vent* Che. It's so tight, it makes me glad that I have a small body. \n........................ \nShit! I just admitted I'm small!",
+      "originalIndex": "8524"
+    },
+    {
+      "id": "quote_521_1755700803447",
+      "character": "Edward Elric",
+      "show": "Fullmetal Alchemist",
+      "quote": "Stand up and walk... Move on... After all, you have perfect legs to stand on...",
+      "originalIndex": "8547"
     }
   ]
 }
