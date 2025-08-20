@@ -1,9 +1,9 @@
 {
   "name": "The Legend Of Zelda",
   "anilistId": 130696,
-  "totalQuotes": 3,
+  "totalQuotes": 4,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T10:33:25.498Z",
+  "lastUpdated": "2025-08-20T14:39:46.855Z",
   "quotes": [
     {
       "id": "quote_1805_1755682042315",
@@ -22,6 +22,13 @@
       "character": "Princess Zelda",
       "show": "The Legend Of Zelda",
       "quote": "Shadow and light are two sides of the same coin... One cannot exist without another."
+    },
+    {
+      "id": "quote_231_1755700786855",
+      "character": "Sheik",
+      "show": "The Legend Of Zelda",
+      "quote": " Time passes, people move. Like a river's flow, it never ends. A childish mind will turn to noble ambition. Young love will become deep affection. The clear water's surface reflects growth. Now listen to the Serenade of water to reflect upon yourself.",
+      "originalIndex": "3123"
     }
   ]
 }
