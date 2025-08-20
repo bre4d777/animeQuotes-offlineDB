@@ -1,8 +1,9 @@
 {
   "name": "SERVAMP",
   "anilistId": 21269,
-  "totalQuotes": 11,
+  "totalQuotes": 12,
   "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T14:37:54.861Z",
   "quotes": [
     {
       "id": "quote_2179_1755682168345",
@@ -69,6 +70,13 @@
       "character": "Shirota Mahiru",
       "show": "SERVAMP",
       "quote": "What is an adult? Does coolly drinking black coffee and spouting logic make you an adult?! If that's the case, I'll stay a kid that likes drinking orange juice."
+    },
+    {
+      "id": "quote_103_1755700674861",
+      "character": "Lawless",
+      "show": "SERVAMP",
+      "quote": "You don't know anything. What the hell is up with you? Trying to be the hero? Feel like some all-powerful main character? So annoying! Why? When? Where? What? How will you do and just who will you become? You're just pretending by spouting your ideals! You have nothing! You won't become someone. \n",
+      "originalIndex": "552"
     }
   ]
 }
