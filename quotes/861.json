@@ -1,8 +1,9 @@
 {
   "name": "xxxHOLiC",
   "anilistId": 861,
-  "totalQuotes": 29,
+  "totalQuotes": 32,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T15:36:07.220Z",
   "quotes": [
     {
       "id": "quote_704_1755681799581",
@@ -177,6 +178,24 @@
       "character": "Yuuko Ichihara",
       "show": "xxxHOLiC",
       "quote": "No matter how unimportant the meeting... how small the outcome... it will always have some later effect on you. It can be the smallest of things. It can be the shortest of moments. It may never be remembered. It may have never been recorded. But a bond of fate never disappears once tied."
+    },
+    {
+      "id": "quote_89_1755704167220",
+      "character": "Yuuko Ichihara",
+      "show": "xxxHOLiC",
+      "quote": "There's no such thing as a coincidence in this world. What does exist is only the inevitable. "
+    },
+    {
+      "id": "quote_90_1755704167220",
+      "character": "Yuuko Ichihara",
+      "show": "xxxHOLiC",
+      "quote": "Sincerity with respect to yourself! No matter what your objective... no matter who you are... if you are going to do something or not do something, that is a promise to yourself. And the one who keeps the promise, or breaks the promise, is you. No one else can be burdened with holding you to a promise that's made to yourself. "
+    },
+    {
+      "id": "quote_91_1755704167220",
+      "character": "Yuuko Ichihara",
+      "show": "xxxHOLiC",
+      "quote": "Often times, people simply deny the existence of what they do not understand, and anyone who tells them otherwise is a liar. "
     }
   ]
 }
