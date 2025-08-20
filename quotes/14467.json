@@ -1,8 +1,9 @@
 {
-  "name": "K Project",
+  "name": "K",
   "anilistId": 14467,
-  "totalQuotes": 8,
+  "totalQuotes": 9,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T10:45:26.146Z",
   "quotes": [
     {
       "id": "quote_1270_1755681907532",
@@ -51,6 +52,12 @@
       "character": "Saruhiko Fushimi",
       "show": "K Project",
       "quote": "I hate people with a big heart. All they do is look down on you from above. They don’t give a damn about the petty struggles of the people serving under them. If that’s what it means to be a king, then that’s just sad and pathetic."
+    },
+    {
+      "id": "quote_136_1755686726146",
+      "character": "Saruhiko Fushimi",
+      "show": "K",
+      "quote": "The day when you'll finally understand me... will never come."
     }
   ]
 }
