@@ -1,8 +1,9 @@
 {
   "name": "CLANNAD",
   "anilistId": 2167,
-  "totalQuotes": 39,
+  "totalQuotes": 43,
   "totalCharacters": 13,
+  "lastUpdated": "2025-08-20T14:39:37.250Z",
   "quotes": [
     {
       "id": "quote_1059_1755681859077",
@@ -237,6 +238,34 @@
       "character": "Furukawa Nagisa",
       "show": "CLANNAD",
       "quote": "You shouldn’t stop like that. If you can move forward, then you should."
+    },
+    {
+      "id": "quote_224_1755700777250",
+      "character": "Okazaki Tomoya",
+      "show": "CLANNAD",
+      "quote": "You are who you are. You have to do what you can.\n\n",
+      "originalIndex": "2854"
+    },
+    {
+      "id": "quote_225_1755700777250",
+      "character": "Furukawa Nagisa",
+      "show": "CLANNAD",
+      "quote": "Dango, dango, dango, dango. Big dango family.",
+      "originalIndex": "8401"
+    },
+    {
+      "id": "quote_226_1755700777250",
+      "character": "Furukawa Nagisa",
+      "show": "CLANNAD",
+      "quote": "Our journey starts, on this long, long steep slope.",
+      "originalIndex": "8402"
+    },
+    {
+      "id": "quote_227_1755700777250",
+      "character": "Furukawa Nagisa",
+      "show": "CLANNAD",
+      "quote": "Fun things...Happy things...They can't all possibly stay unchanged. Even so, can you go on loving this place?",
+      "originalIndex": "8403"
     }
   ]
 }
