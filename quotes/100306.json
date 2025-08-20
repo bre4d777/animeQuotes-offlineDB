@@ -1,0 +1,26 @@
+{
+  "name": "Major",
+  "anilistId": 100306,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_2167_1755682159950",
+      "character": "Goro Shigeno",
+      "show": "Major",
+      "quote": "'Goodbye' is the word that I've come to hate the most."
+    },
+    {
+      "id": "quote_2168_1755682159950",
+      "character": "Goro Shigeno",
+      "show": "Major",
+      "quote": "A guy who can't do what needs to be done today, definitely can't do it tomorrow."
+    },
+    {
+      "id": "quote_2169_1755682159950",
+      "character": "Major",
+      "show": "Major",
+      "quote": "At first, people only play as dots. But when lines of trust and friendship connect those dots, the lines become a circle and that circle is teamwork. As long as you keep playing as a dot, the others won't trust you either."
+    }
+  ]
+}
