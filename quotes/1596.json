@@ -1,0 +1,33 @@
+{
+  "name": "The Gamer",
+  "anilistId": 1596,
+  "totalQuotes": 4,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T11:00:06.773Z",
+  "quotes": [
+    {
+      "id": "quote_104_1755687606773",
+      "character": "Han Jee-Han",
+      "show": "The Gamer",
+      "quote": "Adults say you shouldn't do things half-heartedly. But in reality, you can get by with doing just that. Of course, it would be great to stand out. But how many people can live like that? It's really hard to be exceptional."
+    },
+    {
+      "id": "quote_105_1755687606773",
+      "character": "Hwan Sung-Gong",
+      "show": "The Gamer",
+      "quote": "Tell me, if you have something more important than your life, and you have to give up your life to protect that, what would you do? In that case, isn't there only one answer? Give up your life."
+    },
+    {
+      "id": "quote_106_1755687606773",
+      "character": "Han Jee-Han",
+      "show": "The Gamer",
+      "quote": "If you ask what life is to me, I'd answer endless days of homework and pain. Why you ask? The amount of homework, it's too much."
+    },
+    {
+      "id": "quote_107_1755687606773",
+      "character": "Han Jee-Han",
+      "show": "The Gamer",
+      "quote": "What use is strength in modern society? You have to be smart."
+    }
+  ]
+}
