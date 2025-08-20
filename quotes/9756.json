@@ -1,8 +1,9 @@
 {
   "name": "Mahou Shoujo Madoka Magica",
   "anilistId": 9756,
-  "totalQuotes": 37,
+  "totalQuotes": 38,
   "totalCharacters": 8,
+  "lastUpdated": "2025-08-20T15:35:59.837Z",
   "quotes": [
     {
       "id": "quote_757_1755663453597",
@@ -225,6 +226,12 @@
       "character": "Homura Akemi",
       "show": "Mahou Shoujo Madoka Magica",
       "quote": "Repeat. I'll repeat it for however many times I have to. Until I find the only way out."
+    },
+    {
+      "id": "quote_85_1755704159837",
+      "character": "Sayaka Miki",
+      "show": "Mahou Shoujo Madoka Magica",
+      "quote": "It really shouldn't be all that uncommon - having a wish you'd go so far as to trade your life for. I think there are a lot of people in the world with wishes and desires like that. If we can't think of anything, it just means that we really haven't had anything that bad happen to us. We've had too much given to us and have become dull and stupid. It makes me wonder: Why us?\r\n\r\nDon't you think it's unfair? I'm sure there are other people who'd really want a chance like this."
     }
   ]
 }
