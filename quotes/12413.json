@@ -1,8 +1,9 @@
 {
   "name": "Jormungand",
   "anilistId": 12413,
-  "totalQuotes": 18,
+  "totalQuotes": 19,
   "totalCharacters": 5,
+  "lastUpdated": "2025-08-20T15:36:27.073Z",
   "quotes": [
     {
       "id": "quote_1807_1755663534937",
@@ -111,6 +112,12 @@
       "character": "Koko Hekmatyar",
       "show": "Jormungand",
       "quote": "In this world, guns are always within arm's reach, and sadly they are more trustworthy than kindness."
+    },
+    {
+      "id": "quote_93_1755704187073",
+      "character": "Jormungand",
+      "show": "Jormungand",
+      "quote": "I devour the five lands and drain the three seas, yet only the sky is impossible to reach. With this body lacking wings, hands, or legs. I am the World Serpent. My name is Jormungand. "
     }
   ]
 }
