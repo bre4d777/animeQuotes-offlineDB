@@ -1,8 +1,9 @@
 {
   "name": "Gakuen Alice",
   "anilistId": 74,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T14:40:29.351Z",
   "quotes": [
     {
       "id": "quote_939_1755663481411",
@@ -57,6 +58,13 @@
       "character": "Izumi Yukihira",
       "show": "Gakuen Alice",
       "quote": "You always seem to look back. The scenery in front of you, the people near you, don't you see it? Live right now. That's what life is."
+    },
+    {
+      "id": "quote_550_1755700829351",
+      "character": "Narumi Anjo",
+      "show": "Gakuen Alice",
+      "quote": "Every power can be a poison or medicine depending on the user's intention.\n\n",
+      "originalIndex": "4288"
     }
   ]
 }
