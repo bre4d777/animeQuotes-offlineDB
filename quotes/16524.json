@@ -1,0 +1,21 @@
+{
+  "name": "Suisei no Gargantia",
+  "anilistId": 16524,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:26:31.956Z",
+  "quotes": [
+    {
+      "id": "quote_125_1755685591956",
+      "character": "Chamber",
+      "show": "Suisei no Gargantia",
+      "quote": "In a conflict between creatures that are fundamentally the same, defeat is equavalent to annihilation."
+    },
+    {
+      "id": "quote_126_1755685591956",
+      "character": "Litonar",
+      "show": "Suisei no Gargantia",
+      "quote": "To someone who bears responsibility, there's no greater treasure than experience."
+    }
+  ]
+}
