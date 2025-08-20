@@ -1,0 +1,428 @@
+{
+  "name": "Pokémon",
+  "anilistId": 527,
+  "totalQuotes": 70,
+  "totalCharacters": 15,
+  "quotes": [
+    {
+      "id": "quote_335_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "The chosen one? I feel more like the frozen one."
+    },
+    {
+      "id": "quote_336_1755681752500",
+      "character": "Kasumi",
+      "show": "Pokémon",
+      "quote": "We'd love to get up, Ash...unfortunately, you're STANDING on us."
+    },
+    {
+      "id": "quote_337_1755681752500",
+      "character": "Hikari",
+      "show": "Pokémon",
+      "quote": "A left... and then a right. Or is it a right and then a left? Hmm... maybe the postcard's upside-down."
+    },
+    {
+      "id": "quote_338_1755681752500",
+      "character": "Blue",
+      "show": "Pokémon",
+      "quote": "You stinker! I took it easy on you!"
+    },
+    {
+      "id": "quote_339_1755681752500",
+      "character": "Haruka",
+      "show": "Pokémon",
+      "quote": "And I'll be happy to vouch for his insanity!"
+    },
+    {
+      "id": "quote_340_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Drat, we wasted this episode cheering the good guys!"
+    },
+    {
+      "id": "quote_341_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Whoever smelt it dealt it!"
+    },
+    {
+      "id": "quote_342_1755681752500",
+      "character": "Rocket Grunt",
+      "show": "Pokémon",
+      "quote": "Stop meddling in Team Rocket's affairs!"
+    },
+    {
+      "id": "quote_343_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "When it comes to catching Spinda, we sure are the Winda!"
+    },
+    {
+      "id": "quote_344_1755681752500",
+      "character": "Rocket Grunt",
+      "show": "Pokémon",
+      "quote": "How can you not see the beauty of our evil?!"
+    },
+    {
+      "id": "quote_345_1755681752500",
+      "character": "Hikari",
+      "show": "Pokémon",
+      "quote": "Everyone makes mistakes the first time around."
+    },
+    {
+      "id": "quote_346_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "With enemies like that, who needs friends?"
+    },
+    {
+      "id": "quote_347_1755681752500",
+      "character": "Green",
+      "show": "Pokémon",
+      "quote": "I'd better split before I catch loser-itis!"
+    },
+    {
+      "id": "quote_348_1755681752500",
+      "character": "Blue",
+      "show": "Pokémon",
+      "quote": "Smell ya later."
+    },
+    {
+      "id": "quote_349_1755681752500",
+      "character": "Alder",
+      "show": "Pokémon",
+      "quote": "Even if we don't understand each other, that's not a reason to reject each other. There are two sides to any argument. Is there one point of view that has all the anwers? Give it some thought."
+    },
+    {
+      "id": "quote_350_1755681752500",
+      "character": "Rocket Grunt",
+      "show": "Pokémon",
+      "quote": "Don't touch the poster at the Game Corner! There's no secret switch behind it!"
+    },
+    {
+      "id": "quote_351_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "If anybody's out there, you can come out. And if you're a monster or a ghost, you can stay where you are, and we won't bother you."
+    },
+    {
+      "id": "quote_352_1755681752500",
+      "character": "Silver",
+      "show": "Pokémon",
+      "quote": "Huh? What are you doing falling into a hole? Some genius you are. Serves you right!"
+    },
+    {
+      "id": "quote_353_1755681752500",
+      "character": "Kasumi",
+      "show": "Pokémon",
+      "quote": "Ash will never really be alone cause he's got... me."
+    },
+    {
+      "id": "quote_354_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "I have no idea what just happened, but I'll gladly take credit for it."
+    },
+    {
+      "id": "quote_355_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "We have a proud tradition of failure to uphold!"
+    },
+    {
+      "id": "quote_356_1755681752500",
+      "character": "Kasumi",
+      "show": "Pokémon",
+      "quote": "Very funny. Carrots, peppers, and bugs! Everyone has something they don't like and I don't like bugs!"
+    },
+    {
+      "id": "quote_357_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "For a second there I thought the floor was going to--AAAAAAAAAAAAAAAAAAAAAA!! Where'd the ground go?"
+    },
+    {
+      "id": "quote_358_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Time for action, Weezing!"
+    },
+    {
+      "id": "quote_359_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "It was an egg-cident! Get it? 'Egg?"
+    },
+    {
+      "id": "quote_360_1755681752500",
+      "character": "Haruka",
+      "show": "Pokémon",
+      "quote": "(after Pikachu accidentally zaps her bike to a crisp) My bike's been barbecued!!"
+    },
+    {
+      "id": "quote_361_1755681752500",
+      "character": "Takeshi",
+      "show": "Pokémon",
+      "quote": "It doesen't matter how far away a leader is from it's group, a leader is always a leader."
+    },
+    {
+      "id": "quote_362_1755681752500",
+      "character": "Rocket Grunt",
+      "show": "Pokémon",
+      "quote": "Okay, I'll talk! Take the elevator to see my boss!"
+    },
+    {
+      "id": "quote_363_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Fruit doesn't grow on trees, you know!"
+    },
+    {
+      "id": "quote_364_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Being good guys for once would be super-dupulous!"
+    },
+    {
+      "id": "quote_365_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Everybody makes a wrong turn once in a while."
+    },
+    {
+      "id": "quote_366_1755681752500",
+      "character": "Haruka",
+      "show": "Pokémon",
+      "quote": "I think Romeo likes Juliet!"
+    },
+    {
+      "id": "quote_367_1755681752500",
+      "character": "Kasumi",
+      "show": "Pokémon",
+      "quote": "Isn't that color a little bright for a ninja?"
+    },
+    {
+      "id": "quote_368_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "I'm having a major hat crisis. Could you try to steal Pikachu some other time?"
+    },
+    {
+      "id": "quote_369_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "You look like a guy anyway!"
+    },
+    {
+      "id": "quote_370_1755681752500",
+      "character": "Pikachu",
+      "show": "Pokémon",
+      "quote": "PIKA-CHU-UUUUUUU!"
+    },
+    {
+      "id": "quote_371_1755681752500",
+      "character": "Pikachu",
+      "show": "Pokémon",
+      "quote": "Pika Pika!"
+    },
+    {
+      "id": "quote_372_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Hahahahahahahah! Now we'll see who has the last quack!"
+    },
+    {
+      "id": "quote_373_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Let's eat fast so we can eat again!"
+    },
+    {
+      "id": "quote_374_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Eat righteous Ponyta dust!"
+    },
+    {
+      "id": "quote_375_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Like, wow, don't I make like the COOLEST girl?"
+    },
+    {
+      "id": "quote_376_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "(using a rental Pikachu doll) Thundershock, Thunderbolt, Thunder. I've been defeated so many times by Pikachu's attacks, I know them all by heart! Ahahahahahaha!"
+    },
+    {
+      "id": "quote_377_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Steal one, get one free!"
+    },
+    {
+      "id": "quote_378_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Uh, my name... is... Ketchup! No, wait! My name is really Tom Ato!"
+    },
+    {
+      "id": "quote_379_1755681752500",
+      "character": "Kasumi",
+      "show": "Pokémon",
+      "quote": "If I want your opinion I WILL GIVE IT TO YOU!!!"
+    },
+    {
+      "id": "quote_380_1755681752500",
+      "character": "Kasumi",
+      "show": "Pokémon",
+      "quote": "Love is all about who lands the first punch!"
+    },
+    {
+      "id": "quote_381_1755681752500",
+      "character": "Kasumi",
+      "show": "Pokémon",
+      "quote": "Pikachu, you're a Pika-pal!"
+    },
+    {
+      "id": "quote_382_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "I'm an apple for a day and I need a doctor right away..."
+    },
+    {
+      "id": "quote_383_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Team Rocket may be dirty rotten criminals, but we're not in the business of destroying children's dreams! At least, not yet."
+    },
+    {
+      "id": "quote_384_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Mom, you're embarrassing me! In front of all these people? Don't you know I'm a big kid now?"
+    },
+    {
+      "id": "quote_385_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "(singing) A tisket, a tasket, a pokemon egg basket!"
+    },
+    {
+      "id": "quote_386_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "This steak is too well done. Take it back and make it rare."
+    },
+    {
+      "id": "quote_387_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "I thought I just heard someone say 'We're blasting off again' but we copyrighted that!"
+    },
+    {
+      "id": "quote_388_1755681752500",
+      "character": "Kasumi",
+      "show": "Pokémon",
+      "quote": "It's my own recipe which I call Misty's mystery stew, and it's got 47 secret ingredients."
+    },
+    {
+      "id": "quote_389_1755681752500",
+      "character": "Grimsley",
+      "show": "Pokémon",
+      "quote": "There are bad ways to win and good ways to lose. What's interesting and troubling, is that it's not always clear which is which. A flipped coin doesn't always land heads or tails. Sometimes it may never land at all."
+    },
+    {
+      "id": "quote_390_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Ahh, don't get your underwear in a knot."
+    },
+    {
+      "id": "quote_391_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Right now, I kinda wish that my mom named me Bob instead of Ash."
+    },
+    {
+      "id": "quote_392_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "There's no sense in going out of your way just to get somebody to like you."
+    },
+    {
+      "id": "quote_393_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "She is trying to use rep... per... pre... what is it again? Oh, yeah! Perverse Psychology on me!"
+    },
+    {
+      "id": "quote_394_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "Treecko! Use your Tail Slap attack!"
+    },
+    {
+      "id": "quote_395_1755681752500",
+      "character": "Rocket Grunt",
+      "show": "Pokémon",
+      "quote": "We're pulling a big job here! Get lost, kid!"
+    },
+    {
+      "id": "quote_396_1755681752500",
+      "character": "Mewtwo",
+      "show": "Pokémon",
+      "quote": "I now see that the circumstances of birth are irrelevant. It is what you do with the gift of life that determines who you are."
+    },
+    {
+      "id": "quote_397_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "And I thought you were going to buy a stone to evolve yourself."
+    },
+    {
+      "id": "quote_398_1755681752500",
+      "character": "Nyarth",
+      "show": "Pokémon",
+      "quote": "We do have a lot in common. The same earth, the same air, the same sky. Maybe if we started looking at what's the same, instead of always looking at what is different... well, who knows?"
+    },
+    {
+      "id": "quote_399_1755681752500",
+      "character": "Haruka",
+      "show": "Pokémon",
+      "quote": "But just between you and I, what I'm more interested in is traveling and seeing new places. (screams as she goes down a hill after being scared by a Duskull) I guess I... shoulda worn a... (crashes into a tree) helmet."
+    },
+    {
+      "id": "quote_400_1755681752500",
+      "character": "Blue",
+      "show": "Pokémon",
+      "quote": "What?! Unbelievable! I picked the wrong Pokémon!"
+    },
+    {
+      "id": "quote_401_1755681752500",
+      "character": "Hikari",
+      "show": "Pokémon",
+      "quote": "Oh, no! Wrong way! I want my mom!"
+    },
+    {
+      "id": "quote_402_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Quick! It's coming! Dance like an eggplant!"
+    },
+    {
+      "id": "quote_403_1755681752500",
+      "character": "Kojirou",
+      "show": "Pokémon",
+      "quote": "Well, I like to look at myself in my spare time."
+    },
+    {
+      "id": "quote_404_1755681752500",
+      "character": "Ash Ketchum",
+      "show": "Pokémon",
+      "quote": "I have my own method of bending spoons. (bends the spoon with his hands) Ha! Muscle over mind!"
+    }
+  ]
+}
