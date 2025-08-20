@@ -1,8 +1,9 @@
 {
-  "name": "Kara no Kyoukai",
+  "name": "The Garden of Sinners",
   "anilistId": 6954,
-  "totalQuotes": 23,
+  "totalQuotes": 26,
   "totalCharacters": 5,
+  "lastUpdated": "2025-08-20T15:36:02.333Z",
   "quotes": [
     {
       "id": "quote_1497_1755663512736",
@@ -141,6 +142,24 @@
       "character": "Aozaki Touko",
       "show": "Kara no Kyoukai",
       "quote": "A rose will be born a rose. Different soil and water wouldn't change it into a different flower."
+    },
+    {
+      "id": "quote_86_1755704162333",
+      "character": "Fujou Kirie",
+      "show": "The Garden of Sinners",
+      "quote": "It wasn't the pain that hurt me. Rather, it was the feeling of me being ripped apart, and the sound of the knife plunging deep, deep into my heart. That incomparably bittersweet fear. My body shook and trembled at the thought of it. My silent weeping contained my uneasiness, my loneliness, my will to live. My tears aren't from the pain either, or from the fear of the encounter. It was for the brush of death that I had never before experienced, but had now fallen in love with, even though I pray every night for the strength to live.\r\n"
+    },
+    {
+      "id": "quote_87_1755704162333",
+      "character": "Aozaki Touko",
+      "show": "The Garden of Sinners",
+      "quote": "The words “fly” and “fall” are tied together. But the more you're hooked to flying, the more you forget about that fact. As a result, you end up trying to reach the skies even after you die. Not falling to the ground, but falling toward the sky.\r\n"
+    },
+    {
+      "id": "quote_88_1755704162333",
+      "character": "Aozaki Touko",
+      "show": "The Garden of Sinners",
+      "quote": "In a business like this, there are times when you need to change as the situation demands. I switch my personality depending on how I view things.\r\n"
     }
   ]
 }
