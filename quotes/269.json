@@ -1,9 +1,9 @@
 {
   "name": "Bleach",
   "anilistId": 269,
-  "totalQuotes": 423,
+  "totalQuotes": 426,
   "totalCharacters": 50,
-  "lastUpdated": "2025-08-20T14:41:07.769Z",
+  "lastUpdated": "2025-08-20T15:29:31.563Z",
   "quotes": [
     {
       "id": "quote_136_1755663430262",
@@ -2616,6 +2616,24 @@
       "show": "Bleach",
       "quote": "I'm not Superman, so I can't say anything big like \"I'll protect everyone on Earth!\". I'm not a modest guy who will say \"It's enough if I can protect as many people as my two hands can handle.\" either. I want to protect...a mountain-load of people.",
       "originalIndex": "8606"
+    },
+    {
+      "id": "quote_5_1755703771563",
+      "character": "Abarai Renji",
+      "show": "Bleach",
+      "quote": "We - the warriors, go now to the field of battle! Believe that our blades will not shatter!\r\nBelieve that our spirits will not break! Even if we walk separate paths, our iron resolve shall remain united! Swear! That even if the ground beneath us crumbles...we shall return here, alive, again..!"
+    },
+    {
+      "id": "quote_6_1755703771563",
+      "character": "Kuchiki Byakuya",
+      "show": "Bleach",
+      "quote": "Something as useless as emotions, I never had them to begin with. "
+    },
+    {
+      "id": "quote_7_1755703771563",
+      "character": "Kuchiki Byakuya",
+      "show": "Bleach",
+      "quote": "You and I, our levels are as distant as the earth from the heavens. Must I spell it out for you? I have discarded my left arm, discarded my left leg, and yet even then I have not nearly lowered myself to your level.\r\n"
     }
   ]
 }
