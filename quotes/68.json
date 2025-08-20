@@ -1,0 +1,26 @@
+{
+  "name": "Black Cat",
+  "anilistId": 68,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_733_1755681802576",
+      "character": "Saya Minatsuki",
+      "show": "Black Cat",
+      "quote": "A guy with only a cat for a friend won't look attractive by playing cool."
+    },
+    {
+      "id": "quote_734_1755681802576",
+      "character": "Train Heartnet",
+      "show": "Black Cat",
+      "quote": "The past isn't something you can just throw away. It stays with us forever. It's the same for everyone. We must live on, and carry the burdens of the past with us. That's why it's important that you carry the burden of what you do now and how you've decided to live your life today."
+    },
+    {
+      "id": "quote_735_1755681802576",
+      "character": "Saya Minatsuki",
+      "show": "Black Cat",
+      "quote": "A pistol’s job is what its handler chooses. If I don’t wanna shoot, then I won’t."
+    }
+  ]
+}
