@@ -1,8 +1,9 @@
 {
   "name": "Paradise Kiss",
   "anilistId": 322,
-  "totalQuotes": 8,
+  "totalQuotes": 9,
   "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T15:34:16.777Z",
   "quotes": [
     {
       "id": "quote_1043_1755681847155",
@@ -51,6 +52,12 @@
       "character": "Daisuke Yamamoto",
       "show": "Paradise Kiss",
       "quote": "Miwako, George is Bi. He is gender blind."
+    },
+    {
+      "id": "quote_71_1755704056777",
+      "character": "Yukari Hayasaka",
+      "show": "Paradise Kiss",
+      "quote": "He turns the black-and-white landscape into brilliant colors. That's what George was to me. Even if our paths don't ever cross again, that will never change. "
     }
   ]
 }
