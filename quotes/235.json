@@ -1,9 +1,9 @@
 {
   "name": "Detective Conan",
   "anilistId": 235,
-  "totalQuotes": 77,
+  "totalQuotes": 79,
   "totalCharacters": 13,
-  "lastUpdated": "2025-08-20T14:39:32.355Z",
+  "lastUpdated": "2025-08-20T15:30:51.304Z",
   "quotes": [
     {
       "id": "quote_57_1755663424317",
@@ -473,6 +473,18 @@
       "show": "Detective Conan",
       "quote": "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
       "originalIndex": "7647"
+    },
+    {
+      "id": "quote_47_1755703851304",
+      "character": "Kaitou Kid",
+      "show": "Detective Conan",
+      "quote": "You are right. I am not a detective, but a thief. And stealing is what thieves do best, even if it's a persons heart. "
+    },
+    {
+      "id": "quote_48_1755703851304",
+      "character": "Ai Haibara",
+      "show": "Detective Conan",
+      "quote": "Don't judge people from the outside. Like any rose has thorns, the more the person appears nice on the outside, the more you should doubt the inside.\n"
     }
   ]
 }
