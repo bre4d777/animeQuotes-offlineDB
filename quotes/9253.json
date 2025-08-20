@@ -1,8 +1,9 @@
 {
   "name": "Steins;Gate",
   "anilistId": 9253,
-  "totalQuotes": 38,
+  "totalQuotes": 39,
   "totalCharacters": 6,
+  "lastUpdated": "2025-08-20T15:34:51.256Z",
   "quotes": [
     {
       "id": "quote_1615_1755682004332",
@@ -231,6 +232,12 @@
       "character": "Kurisu Makise",
       "show": "Steins;Gate",
       "quote": "Every brilliant day should be lived for those who passed away."
+    },
+    {
+      "id": "quote_79_1755704091256",
+      "character": "Kurisu Makise",
+      "show": "Steins;Gate",
+      "quote": "[after kissing Okabe] There was a scientific rationale for that! Because... important memories, including, but not limited to, one's first kiss, are stored in the hippocampus, which makes them harder to forget. So I figured... "
     }
   ]
 }
