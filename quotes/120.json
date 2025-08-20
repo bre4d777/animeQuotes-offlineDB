@@ -1,9 +1,9 @@
 {
   "name": "Fruits Basket",
   "anilistId": 120,
-  "totalQuotes": 179,
+  "totalQuotes": 180,
   "totalCharacters": 18,
-  "lastUpdated": "2025-08-20T14:40:58.244Z",
+  "lastUpdated": "2025-08-20T15:33:46.945Z",
   "quotes": [
     {
       "id": "quote_1172_1755663493031",
@@ -1079,6 +1079,12 @@
       "show": "Fruits Basket",
       "quote": "I love you!! Even if you go bald or like underage girls, I can handle it! I'm crazy with love!! (Young Kyoko talking to Tohru's father/her husband)",
       "originalIndex": "5970"
+    },
+    {
+      "id": "quote_63_1755704026945",
+      "character": "Sohma Momiji",
+      "show": "Fruits Basket",
+      "quote": "However, I can't be happy. I feel I can't have that experience, I can't assume I will have that experience. I'm free, but feeling lonely and disheartened. I hope there's happiness out there. Besides, the future is approaching and waiting for me. In the future, I will be a part of the world. I will finally live my life.  "
     }
   ]
 }
