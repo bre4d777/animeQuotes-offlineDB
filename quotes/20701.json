@@ -1,9 +1,9 @@
 {
-  "name": "Ookami Shoujo To Kuro Ouji",
+  "name": "Wolf Girl & Black Prince",
   "anilistId": 20701,
-  "totalQuotes": 9,
-  "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:27:03.375Z",
+  "totalQuotes": 10,
+  "totalCharacters": 3,
+  "lastUpdated": "2025-08-20T11:00:23.696Z",
   "quotes": [
     {
       "id": "quote_129_1755685623375",
@@ -58,6 +58,12 @@
       "character": "Kyouya Sata",
       "show": "Ookami Shoujo To Kuro Ouji",
       "quote": "You idiot. You'd gotten yourself up in a tizzy about romance, right? \"Love\" you experience in that state is just self-delusion. There's no point in getting depressed over love like that."
+    },
+    {
+      "id": "quote_114_1755687623696",
+      "character": "Erika Shinohara",
+      "show": "Wolf Girl & Black Prince",
+      "quote": "I really do like you. You pissed me off, so I considered giving up for a minute, but I'd never lie about my feelings. So I won't quit. Even if you don't believe me now, I'll keep saying it until you do! I'll keep trying! This isn't over!"
     }
   ]
 }
