@@ -1,9 +1,9 @@
 {
   "name": "Fairy Tail",
   "anilistId": 6702,
-  "totalQuotes": 162,
+  "totalQuotes": 165,
   "totalCharacters": 32,
-  "lastUpdated": "2025-08-20T14:39:49.255Z",
+  "lastUpdated": "2025-08-20T15:33:26.306Z",
   "quotes": [
     {
       "id": "quote_175_1755681749594",
@@ -978,6 +978,24 @@
       "show": "Fairy Tail",
       "quote": "*To Gajeel Redfox* You guys are complete idiots! I feel so sorry for you, I think I\\'m tearing up. Phantom Lord? The spirit ruler? What a joke; I\\'m not afraid of you at all!",
       "originalIndex": "5023"
+    },
+    {
+      "id": "quote_53_1755704006306",
+      "character": "Mirajane Strauss",
+      "show": "Fairy Tail",
+      "quote": "Everyone exists for a reason. As small as it can be. I'm sure you have a meaning too. "
+    },
+    {
+      "id": "quote_54_1755704006306",
+      "character": "Wendy Marvell",
+      "show": "Fairy Tail",
+      "quote": "If I haven't had fear, then I also wouldn't have been able to know what it's like to have bravery in my heart.\r\nBravery that awakens when you're being consumed by fear."
+    },
+    {
+      "id": "quote_55_1755704006306",
+      "character": "Gray Fullbuster",
+      "show": "Fairy Tail",
+      "quote": "It's not the goodbyes that hurt, it's the flashbacks that follow...\r\n"
     }
   ]
 }
