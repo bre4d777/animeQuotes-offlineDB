@@ -1,0 +1,26 @@
+{
+  "name": "Ghost in the Shell 2: Innocence",
+  "anilistId": 468,
+  "totalQuotes": 3,
+  "totalCharacters": 3,
+  "quotes": [
+    {
+      "id": "quote_2348_1755682242265",
+      "character": "Motoko Kusanagi",
+      "show": "Ghost in the Shell 2: Innocence",
+      "quote": "We weep for the blood of a bird, but not for the blood of a fish. Blessed are those with a voice. If the dolls could speak, no doubt they'd scream, \"I didn't want to become human\"."
+    },
+    {
+      "id": "quote_2349_1755682242265",
+      "character": "Kim",
+      "show": "Ghost in the Shell 2: Innocence",
+      "quote": "Humans are nothing but the thread from which the dream of life is woven."
+    },
+    {
+      "id": "quote_2350_1755682242265",
+      "character": "Ghost in the Shell 2: Innocence",
+      "show": "Ghost in the Shell 2: Innocence",
+      "quote": "Life and death come and go like marionettes dancing on a table. Once their stings are cut, they easily crumble."
+    }
+  ]
+}
