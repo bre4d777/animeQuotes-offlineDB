@@ -1,9 +1,9 @@
 {
   "name": "Durarara!!",
   "anilistId": 6746,
-  "totalQuotes": 68,
+  "totalQuotes": 71,
   "totalCharacters": 12,
-  "lastUpdated": "2025-08-20T14:41:41.177Z",
+  "lastUpdated": "2025-08-20T15:30:44.072Z",
   "quotes": [
     {
       "id": "quote_88_1755681743754",
@@ -437,6 +437,24 @@
       "show": "Durarara!!",
       "quote": "They called me a monster!",
       "originalIndex": "8377"
+    },
+    {
+      "id": "quote_44_1755703844072",
+      "character": "Shizuo Heiwajima",
+      "show": "Durarara!!",
+      "quote": "People who call others stupid are usually more stupid. But I'm stupid, so I'll say it anyways...YOU'RE STUPID! "
+    },
+    {
+      "id": "quote_45_1755703844072",
+      "character": "Izaya Orihara",
+      "show": "Durarara!!",
+      "quote": "Well, if I had to give a reason for my actions, I guess it's because I love people. I guess I wanted to see the faces that mankind has to offer. "
+    },
+    {
+      "id": "quote_46_1755703844072",
+      "character": "Celty Sturluson",
+      "show": "Durarara!!",
+      "quote": "The world isn't as bad as you think. "
     }
   ]
 }
