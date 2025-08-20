@@ -1,0 +1,20 @@
+{
+  "name": "Grisaia no Meikyuu",
+  "anilistId": 21005,
+  "totalQuotes": 2,
+  "totalCharacters": 1,
+  "quotes": [
+    {
+      "id": "quote_1666_1755682019009",
+      "character": "Yuuji Kazami",
+      "show": "Grisaia no Meikyuu",
+      "quote": "They say you never know when a bullet you fired in battle will find its way back to you."
+    },
+    {
+      "id": "quote_1667_1755682019009",
+      "character": "Yuuji Kazami",
+      "show": "Grisaia no Meikyuu",
+      "quote": "If you've got energy to spend on feeling guilty, then use it to show your gratitude."
+    }
+  ]
+}
