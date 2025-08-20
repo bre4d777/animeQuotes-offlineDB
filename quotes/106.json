@@ -1,0 +1,21 @@
+{
+  "name": "Hana Yori Dango",
+  "anilistId": 106,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:45:01.733Z",
+  "quotes": [
+    {
+      "id": "quote_122_1755686701733",
+      "character": "Todo Shizuka",
+      "show": "Hana Yori Dango",
+      "quote": "Wear the best shoes you can, because those shoes will take you to great places."
+    },
+    {
+      "id": "quote_123_1755686701733",
+      "character": "Tsukushi Makino",
+      "show": "Hana Yori Dango",
+      "quote": "It's a bad habit of mine. When I concentrate on one thing, I forget other important things."
+    }
+  ]
+}
