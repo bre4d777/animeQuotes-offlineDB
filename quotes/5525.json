@@ -1,8 +1,9 @@
 {
   "name": "07 Ghost",
   "anilistId": 5525,
-  "totalQuotes": 20,
+  "totalQuotes": 21,
   "totalCharacters": 9,
+  "lastUpdated": "2025-08-20T14:38:09.183Z",
   "quotes": [
     {
       "id": "quote_577_1755681787756",
@@ -123,6 +124,13 @@
       "character": "Teito Klein",
       "show": "07 Ghost",
       "quote": "I've always lived in a world of deceit. And amidst the lies, I was able to find my true treasure."
+    },
+    {
+      "id": "quote_108_1755700689183",
+      "character": "Frau",
+      "show": "07 Ghost",
+      "quote": "Don’t allow hatred to devour your heart. The one that you care for will only move farther away. \n",
+      "originalIndex": "1141"
     }
   ]
 }
