@@ -1,8 +1,9 @@
 {
-  "name": "Final Fantasy VII",
+  "name": "Final Fantasy VIII",
   "anilistId": 408,
-  "totalQuotes": 4,
-  "totalCharacters": 3,
+  "totalQuotes": 6,
+  "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T10:41:32.230Z",
   "quotes": [
     {
       "id": "quote_1658_1755682010174",
@@ -27,6 +28,18 @@
       "character": "Zack Fair",
       "show": "Final Fantasy VII",
       "quote": "Embrace your dreams. If you want to be a hero, you need to have dreams."
+    },
+    {
+      "id": "quote_62_1755686492230",
+      "character": "Squall Leonhart",
+      "show": "Final Fantasy VIII",
+      "quote": "Right and wrong are not what separate us and our enemies, it's our perspectives that separate us. Both sides blame one another. There's no good or bad side, just two sides holding different views."
+    },
+    {
+      "id": "quote_63_1755686492230",
+      "character": "Squall Leonhart",
+      "show": "Final Fantasy VIII",
+      "quote": "Why do people depend on each other? In the end you're on your own."
     }
   ]
 }
