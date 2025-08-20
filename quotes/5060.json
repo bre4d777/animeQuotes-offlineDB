@@ -1,8 +1,9 @@
 {
   "name": "Axis Powers: Hetalia",
   "anilistId": 5060,
-  "totalQuotes": 12,
-  "totalCharacters": 10,
+  "totalQuotes": 39,
+  "totalCharacters": 13,
+  "lastUpdated": "2025-08-20T14:41:34.020Z",
   "quotes": [
     {
       "id": "quote_1552_1755681984279",
@@ -75,6 +76,195 @@
       "character": "South Korea",
       "show": "Axis Powers: Hetalia",
       "quote": "Quotes were invented in Korea, you know!"
+    },
+    {
+      "id": "quote_1144_1755700894020",
+      "character": "South Italy",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Listen to this! I woke up earlier than Germany for once!",
+      "originalIndex": "8121"
+    },
+    {
+      "id": "quote_1145_1755700894020",
+      "character": "England",
+      "show": "Axis Powers: Hetalia",
+      "quote": "BLIMEY.",
+      "originalIndex": "8199"
+    },
+    {
+      "id": "quote_1146_1755700894020",
+      "character": "England",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Oh I hate terrorists, they're so ugly.",
+      "originalIndex": "8200"
+    },
+    {
+      "id": "quote_1147_1755700894020",
+      "character": "Germany",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Dear diary. Today, Italy was attacked by England and France while I was out. *cut to England hitting Italy on the head*",
+      "originalIndex": "8201"
+    },
+    {
+      "id": "quote_1148_1755700894020",
+      "character": "America",
+      "show": "Axis Powers: Hetalia",
+      "quote": "The unicorn was real! Of course YOU couldn't see it, because you're not PURE. But I saw it and it was cute with a soft fluffy mane...",
+      "originalIndex": "8378"
+    },
+    {
+      "id": "quote_1149_1755700894020",
+      "character": "South Korea",
+      "show": "Axis Powers: Hetalia",
+      "quote": "These are broken, so Korea didn't make them.",
+      "originalIndex": "8379"
+    },
+    {
+      "id": "quote_1150_1755700894020",
+      "character": "England",
+      "show": "Axis Powers: Hetalia",
+      "quote": "*drunk* Damnit! You sure talk big, when I'm the one who made you a man!",
+      "originalIndex": "8380"
+    },
+    {
+      "id": "quote_1151_1755700894020",
+      "character": "England",
+      "show": "Axis Powers: Hetalia",
+      "quote": "I could never think of this kind of (retarded) design. It really is (retardedly) you America.",
+      "originalIndex": "8381"
+    },
+    {
+      "id": "quote_1152_1755700894020",
+      "character": "South Italy",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Eat bullets macho potato!",
+      "originalIndex": "8382"
+    },
+    {
+      "id": "quote_1153_1755700894020",
+      "character": "North Italy",
+      "show": "Axis Powers: Hetalia",
+      "quote": "I'll do anything, please don't hit me.",
+      "originalIndex": "8383"
+    },
+    {
+      "id": "quote_1154_1755700894020",
+      "character": "America",
+      "show": "Axis Powers: Hetalia",
+      "quote": "I think we can solve the problem by building a big hero together and having it sheild the Earth.",
+      "originalIndex": "8384"
+    },
+    {
+      "id": "quote_1155_1755700894020",
+      "character": "America",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Conceal that garbage.",
+      "originalIndex": "8385"
+    },
+    {
+      "id": "quote_1156_1755700894020",
+      "character": "Rome",
+      "show": "Axis Powers: Hetalia",
+      "quote": "In Hell, the Germans are policemen, the English are cooks, the French are engineers, the Italians are bankers, and the Swiss are lovers~",
+      "originalIndex": "8386"
+    },
+    {
+      "id": "quote_1157_1755700894020",
+      "character": "South Italy",
+      "show": "Axis Powers: Hetalia",
+      "quote": "SHUT UP YOU EVIL MUFFINS! DAMMIT!",
+      "originalIndex": "8387"
+    },
+    {
+      "id": "quote_1158_1755700894020",
+      "character": "Prussia",
+      "show": "Axis Powers: Hetalia",
+      "quote": "What the-- Hun-- HUNGARY!? Why the hell are you here?!",
+      "originalIndex": "8388"
+    },
+    {
+      "id": "quote_1159_1755700894020",
+      "character": "Russia",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Become one with me.",
+      "originalIndex": "8389"
+    },
+    {
+      "id": "quote_1160_1755700894020",
+      "character": "Japan",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Hello, China from the sundown... I'm Japan from the sunrise...",
+      "originalIndex": "8390"
+    },
+    {
+      "id": "quote_1161_1755700894020",
+      "character": "America",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Besides, it's not LEARNED! What's with that LEARNED?! It's LEARNT, you stupid!",
+      "originalIndex": "8391"
+    },
+    {
+      "id": "quote_1162_1755700894020",
+      "character": "America",
+      "show": "Axis Powers: Hetalia",
+      "quote": "I'm here to make friends with whales!",
+      "originalIndex": "8392"
+    },
+    {
+      "id": "quote_1163_1755700894020",
+      "character": "Germany",
+      "show": "Axis Powers: Hetalia",
+      "quote": "*Narrating* One night, I couldn't sleep well and opened my eyes...to find some strange guy staring at me.",
+      "originalIndex": "8393"
+    },
+    {
+      "id": "quote_1164_1755700894020",
+      "character": "North Italy",
+      "show": "Axis Powers: Hetalia",
+      "quote": "*whispering* Ve, ve, ve, ve, ve, ve...",
+      "originalIndex": "8394"
+    },
+    {
+      "id": "quote_1165_1755700894020",
+      "character": "North Italy",
+      "show": "Axis Powers: Hetalia",
+      "quote": "The other day, I had an extremely disgusting pizza. England made it.",
+      "originalIndex": "8395"
+    },
+    {
+      "id": "quote_1166_1755700894020",
+      "character": "Germany",
+      "show": "Axis Powers: Hetalia",
+      "quote": "Hey! Quit hitting Italy when I'm not around! *England runs away* Get back here! Hit him again, and I'll shape ya up like a heart! *Runs after him*",
+      "originalIndex": "8396"
+    },
+    {
+      "id": "quote_1167_1755700894020",
+      "character": "North Italy",
+      "show": "Axis Powers: Hetalia",
+      "quote": "*Repeatedly squeezes the cat's paw* Squish, squish, squish, squish, squish, squish, squish, squish, squish, squish, squish, squish! *the cat licks Italy's face. He screams* Captain! What's happening? This is mutiny! It's mutiny!",
+      "originalIndex": "8397"
+    },
+    {
+      "id": "quote_1168_1755700894020",
+      "character": "North Italy",
+      "show": "Axis Powers: Hetalia",
+      "quote": "*Pets the cat he is holding* Gentle? Stroke, stroke.",
+      "originalIndex": "8398"
+    },
+    {
+      "id": "quote_1169_1755700894020",
+      "character": "Austria",
+      "show": "Axis Powers: Hetalia",
+      "quote": "I'll express how angry I am with this piano.",
+      "originalIndex": "8399"
+    },
+    {
+      "id": "quote_1170_1755700894020",
+      "character": "Austria",
+      "show": "Axis Powers: Hetalia",
+      "quote": "You moron! Why did you become allied with Italy?",
+      "originalIndex": "8400"
     }
   ]
 }
