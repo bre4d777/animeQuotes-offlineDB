@@ -1,0 +1,20 @@
+{
+  "name": "Giant Killing",
+  "anilistId": 7661,
+  "totalQuotes": 2,
+  "totalCharacters": 1,
+  "quotes": [
+    {
+      "id": "quote_1233_1755681892876",
+      "character": "Takeshi Tatsumi",
+      "show": "Giant Killing",
+      "quote": "Do your best, no matter how many times you fail!"
+    },
+    {
+      "id": "quote_1234_1755681892876",
+      "character": "Takeshi Tatsumi",
+      "show": "Giant Killing",
+      "quote": "Where's the fun in it if everything is going just as planned?"
+    }
+  ]
+}
