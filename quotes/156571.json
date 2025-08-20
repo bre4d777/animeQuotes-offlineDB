@@ -1,0 +1,27 @@
+{
+  "name": "Final Fantasy XIII",
+  "anilistId": 156571,
+  "totalQuotes": 3,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:33:46.759Z",
+  "quotes": [
+    {
+      "id": "quote_170_1755686026759",
+      "character": "Oerba Dia Vanille",
+      "show": "Final Fantasy XIII",
+      "quote": "Maybe we'd fall short. Maybe we'd never even come close. But someone, someday would know we've tried."
+    },
+    {
+      "id": "quote_171_1755686026759",
+      "character": "Éclair Farron",
+      "show": "Final Fantasy XIII",
+      "quote": "It's not a question of can or can't. There are some things in life you just do."
+    },
+    {
+      "id": "quote_172_1755686026759",
+      "character": "Éclair Farron",
+      "show": "Final Fantasy XIII",
+      "quote": "Fighting without hope is no way to live. It's just a way to die."
+    }
+  ]
+}
