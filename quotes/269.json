@@ -1,8 +1,9 @@
 {
   "name": "Bleach",
   "anilistId": 269,
-  "totalQuotes": 349,
-  "totalCharacters": 48,
+  "totalQuotes": 423,
+  "totalCharacters": 50,
+  "lastUpdated": "2025-08-20T14:41:07.769Z",
   "quotes": [
     {
       "id": "quote_136_1755663430262",
@@ -2097,6 +2098,524 @@
       "character": "Aizen Sousuke",
       "show": "Bleach",
       "quote": "In my eyes, there is no difference between wiping away one speck of dust or two."
+    },
+    {
+      "id": "quote_774_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "*to Yammy after recieving his punch*  I barely feel a thing. Now I'm sure you think I'm a big fly or something. But if you are going to punch, you better put in some effort you great big worm.",
+      "originalIndex": "7347"
+    },
+    {
+      "id": "quote_775_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "Never admit defeat and ask for a quick death! Die first, then admit defeat! If you are defeated but didn't die, it just means you were lucky! At those times, think only about survival! Survive and think only about killing the one who failed to kill you!",
+      "originalIndex": "7348"
+    },
+    {
+      "id": "quote_776_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "You idiot! There's always shadows wherever there's light!",
+      "originalIndex": "7349"
+    },
+    {
+      "id": "quote_777_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "Oh, shut up. I was just thinkin'. With four arms, you're just gonna keep on blockin' my blade. That's no fun at all. So, while I was layin' on the ground, I was thinkin' about how to stop you blockin' all my attacks. But, you know...I couldn't think up a single good idea lying down there. So I figure...I'll just have to take out those arms, one by one.",
+      "originalIndex": "7350"
+    },
+    {
+      "id": "quote_778_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "Finished? It'll never be finished. A battle isn't like some stupid argument. As long as someone's still breathing, the fight isn't over.",
+      "originalIndex": "7351"
+    },
+    {
+      "id": "quote_779_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "Playing comes first, you can work later!",
+      "originalIndex": "7352"
+    },
+    {
+      "id": "quote_780_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "People are able to hold onto hope, since death is that which cannot be seen.",
+      "originalIndex": "7641"
+    },
+    {
+      "id": "quote_781_1755700867769",
+      "character": "Uryuu Ishida",
+      "show": "Bleach",
+      "quote": "I swear by the pride of the Quincy...I will KILL you!",
+      "originalIndex": "8301"
+    },
+    {
+      "id": "quote_782_1755700867769",
+      "character": "Ayasegawa Yumichika",
+      "show": "Bleach",
+      "quote": "If it was me, I would probably give up in a beautiful way...",
+      "originalIndex": "8302"
+    },
+    {
+      "id": "quote_783_1755700867769",
+      "character": "Kuchiki Byakuya",
+      "show": "Bleach",
+      "quote": "Kurosaki Ichigo, my sword has been broken by your freedom of spirit.",
+      "originalIndex": "8303"
+    },
+    {
+      "id": "quote_784_1755700867769",
+      "character": "Aizen Sousuke",
+      "show": "Bleach",
+      "quote": "I'm going to have to ask you to stop now, Abarai-kun. I can only step on an ant so hard without crushing it.",
+      "originalIndex": "8304"
+    },
+    {
+      "id": "quote_785_1755700867769",
+      "character": "Zangetsu",
+      "show": "Bleach",
+      "quote": " What are you doing? Why do you run Ichigo? You still have not called me. Face forward, Ichigo. You should be able to hear it now. That which blocks your ears is worthless fear. The enemy is one, you are one. What is there to fear? Cast off your fear. Look forward! Go forward! Never stand still. Retreat and you will age. Hesitate and you will die. Shout... my name is... ZANGETSU!",
+      "originalIndex": "8305"
+    },
+    {
+      "id": "quote_786_1755700867769",
+      "character": "Uryuu Ishida",
+      "show": "Bleach",
+      "quote": "Your brain must have been constructed wrong.",
+      "originalIndex": "8306"
+    },
+    {
+      "id": "quote_787_1755700867769",
+      "character": "Aizen Sousuke",
+      "show": "Bleach",
+      "quote": "Admiration is a feeling furthest away from understanding.",
+      "originalIndex": "8307"
+    },
+    {
+      "id": "quote_788_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "How about I give you an advantage. Cut me anywhere you want.",
+      "originalIndex": "8308"
+    },
+    {
+      "id": "quote_789_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "Dude, that name is so lame.",
+      "originalIndex": "8309"
+    },
+    {
+      "id": "quote_790_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "*Rukia talking to Renji* Hit a nerve, did I? Well, don't worry Mr. Officer. Now you have the rank, and the pompous attitude, and weird eyebrows to go with it!",
+      "originalIndex": "8310"
+    },
+    {
+      "id": "quote_791_1755700867769",
+      "character": "Kuchiki Byakuya",
+      "show": "Bleach",
+      "quote": "This twisted spritual pressure... that white mask... Are you a Hollow?",
+      "originalIndex": "8311"
+    },
+    {
+      "id": "quote_792_1755700867769",
+      "character": "Ayasegawa Yumichika",
+      "show": "Bleach",
+      "quote": "*Ganju offers Yumichika to kiss his ass* An ugly thought... That's truly ugly.",
+      "originalIndex": "8312"
+    },
+    {
+      "id": "quote_793_1755700867769",
+      "character": "Ganju Shiba",
+      "show": "Bleach",
+      "quote": "You can kiss my ass!",
+      "originalIndex": "8313"
+    },
+    {
+      "id": "quote_794_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "Z-A-N-G-E-T-S-U!!",
+      "originalIndex": "8314"
+    },
+    {
+      "id": "quote_795_1755700867769",
+      "character": "Ganju Shiba",
+      "show": "Bleach",
+      "quote": "Why, you...! You punched my ruggedly handsome face! Not once, but twice!",
+      "originalIndex": "8315"
+    },
+    {
+      "id": "quote_796_1755700867769",
+      "character": "Ganju Shiba",
+      "show": "Bleach",
+      "quote": "Are you kidding me? You really don't know who I am?",
+      "originalIndex": "8316"
+    },
+    {
+      "id": "quote_797_1755700867769",
+      "character": "Ayasegawa Yumichika",
+      "show": "Bleach",
+      "quote": "And you better get this street clean enough to eat off of, or I'll kill you both.",
+      "originalIndex": "8317"
+    },
+    {
+      "id": "quote_798_1755700867769",
+      "character": "Kira Izuru",
+      "show": "Bleach",
+      "quote": "Warriors aren't supposed to beg for their lives.",
+      "originalIndex": "8318"
+    },
+    {
+      "id": "quote_799_1755700867769",
+      "character": "Kira Izuru",
+      "show": "Bleach",
+      "quote": "A grounded bird is nothing more than dinner.",
+      "originalIndex": "8319"
+    },
+    {
+      "id": "quote_800_1755700867769",
+      "character": "Kariya Jin",
+      "show": "Bleach",
+      "quote": "A battle without risk is simply a child's quarrel.",
+      "originalIndex": "8320"
+    },
+    {
+      "id": "quote_801_1755700867769",
+      "character": "Kuchiki Kouga",
+      "show": "Bleach",
+      "quote": "It seems that I was born under a star that forces me to watch young people, with futures ahead of them, die.",
+      "originalIndex": "8321"
+    },
+    {
+      "id": "quote_802_1755700867769",
+      "character": "Kuchiki Kouga",
+      "show": "Bleach",
+      "quote": "Desiring power is dangerous.",
+      "originalIndex": "8322"
+    },
+    {
+      "id": "quote_803_1755700867769",
+      "character": "Madarame Ikkaku",
+      "show": "Bleach",
+      "quote": "If you two are gonna goof off, try not to be so obvious about it.",
+      "originalIndex": "8323"
+    },
+    {
+      "id": "quote_804_1755700867769",
+      "character": "Ganju Shiba",
+      "show": "Bleach",
+      "quote": "I've breathed enough sewer air to gag a hippo!",
+      "originalIndex": "8324"
+    },
+    {
+      "id": "quote_805_1755700867769",
+      "character": "Uryuu Ishida",
+      "show": "Bleach",
+      "quote": "Did I just get nick-named Pencil?",
+      "originalIndex": "8325"
+    },
+    {
+      "id": "quote_806_1755700867769",
+      "character": "Shihouin Yoruichi",
+      "show": "Bleach",
+      "quote": "Think about it this way: a person picks up a sword when he's trying to protect something. Perhaps it's your life or your social status, maybe a reputation, a loved one, or personal beliefs. The motives may be completely different, but in the end, it's the same desire to protect something.",
+      "originalIndex": "8326"
+    },
+    {
+      "id": "quote_807_1755700867769",
+      "character": "Shihouin Yoruichi",
+      "show": "Bleach",
+      "quote": "Quit it. Stop whining. Unless you're able to activate your powers at will, you will die, like a dog, in the Soul Society.",
+      "originalIndex": "8327"
+    },
+    {
+      "id": "quote_808_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "We are taught never to shed tears. For to shed tears means that the body has been defeated by emotion. And, to us, that simple act of crying proves, without question, that the existence of emotion is nothing but a burden.",
+      "originalIndex": "8328"
+    },
+    {
+      "id": "quote_809_1755700867769",
+      "character": "Ganju Shiba",
+      "show": "Bleach",
+      "quote": "Ya gotta wonder about someone who'd be dumb enough to follow a person as crazy as he is. Wait, I think I just insulted myself.",
+      "originalIndex": "8329"
+    },
+    {
+      "id": "quote_810_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "If you want revenge, do it on your own! Don't draw innocent people into it!",
+      "originalIndex": "8330"
+    },
+    {
+      "id": "quote_811_1755700867769",
+      "character": "Inoue Orihime",
+      "show": "Bleach",
+      "quote": "When people constantly show their affection for you, you start taking it for granted. If you don't realize how much they care for you until they're gone, you'll only be left with regret and remorse.",
+      "originalIndex": "8331"
+    },
+    {
+      "id": "quote_812_1755700867769",
+      "character": "Inoue Orihime",
+      "show": "Bleach",
+      "quote": "There were a lot of things I wanted to do. I wanted to become a teacher, and an astronaut, and a baker... I wanted to go to a bunch of different donut shops and ask for one of everything! And I wanted to tell the ice-cream man to give me one of everything, too! I wish I could have five different lives! Then I could have been born in five different towns, and eaten five lifetime's worth of food, and had five different careers, and... fallen in love with the same person, five times.",
+      "originalIndex": "8332"
+    },
+    {
+      "id": "quote_813_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "Those who are left behind in a fight or are in the way aren't the ones who lack power. They're the ones who lack resolve.",
+      "originalIndex": "8333"
+    },
+    {
+      "id": "quote_814_1755700867769",
+      "character": "Urahara Kisuke",
+      "show": "Bleach",
+      "quote": "Training hard, risking your life... what's the difference?",
+      "originalIndex": "8334"
+    },
+    {
+      "id": "quote_815_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "It's been a while! Or something like that...",
+      "originalIndex": "8335"
+    },
+    {
+      "id": "quote_816_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "Shut up. Don't talk and keep running!",
+      "originalIndex": "8336"
+    },
+    {
+      "id": "quote_817_1755700867769",
+      "character": "Madarame Ikkaku",
+      "show": "Bleach",
+      "quote": "Hey... whoever just called me bald, get over here!",
+      "originalIndex": "8337"
+    },
+    {
+      "id": "quote_818_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "Revolving... If fate is a wheel, we are the cogs that drive it. We have no choice but to believe that this wheel is flawless and forge on ahead. The power of the individual cogs and their destinations... And the blade that is brought down upon them.",
+      "originalIndex": "8338"
+    },
+    {
+      "id": "quote_819_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "Revolving. And each time it's touched by the light of the sun and moon... The world is always changing into something new.",
+      "originalIndex": "8339"
+    },
+    {
+      "id": "quote_820_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "Kariya sought the power to change his fate. What I sought was... a turn of fate.",
+      "originalIndex": "8340"
+    },
+    {
+      "id": "quote_821_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "Because he attained so much power, he could only be controlled by it. And in the end, maybe his only option was to destroy himself.",
+      "originalIndex": "8341"
+    },
+    {
+      "id": "quote_822_1755700867769",
+      "character": "Toushirou Hitsugaya",
+      "show": "Bleach",
+      "quote": "Authority never goes anywhere without a fanfare.",
+      "originalIndex": "8342"
+    },
+    {
+      "id": "quote_823_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "Whatever she is, it doesn't change the fact that she's here now. She still experiences anger, happiness and pain.",
+      "originalIndex": "8343"
+    },
+    {
+      "id": "quote_824_1755700867769",
+      "character": "Senna",
+      "show": "Bleach",
+      "quote": "When you're up high, all the stuff that looks confusing and messed up...suddenly becomes crystal clear.",
+      "originalIndex": "8344"
+    },
+    {
+      "id": "quote_825_1755700867769",
+      "character": "Kuchiki Byakuya",
+      "show": "Bleach",
+      "quote": "Arrogance destroys the footholds of victory.",
+      "originalIndex": "8345"
+    },
+    {
+      "id": "quote_826_1755700867769",
+      "character": "Urahara Kisuke",
+      "show": "Bleach",
+      "quote": "That wasn't very nice. I do believe you've killed my hat.",
+      "originalIndex": "8346"
+    },
+    {
+      "id": "quote_827_1755700867769",
+      "character": "Zangetsu",
+      "show": "Bleach",
+      "quote": "Abandon your fear. Turn and face him. Don't back an inch. Now, Ichigo, advance! Never stop! If you retreat, you will age. Be afraid, and you'll die.",
+      "originalIndex": "8347"
+    },
+    {
+      "id": "quote_828_1755700867769",
+      "character": "Arisawa Tatsuki",
+      "show": "Bleach",
+      "quote": "You'll find that Ichigo has an uncanny knack for forgeting people's faces, and the names to go with them.",
+      "originalIndex": "8348"
+    },
+    {
+      "id": "quote_829_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "*yelling at her pager, which is laying on the ground* Urahara! Why don't you ever pick up when I call you in emergencies like this? You call yourself a business man! Then why do you show up when you're not wanted, and then when I really need you, you won't answer?!",
+      "originalIndex": "8349"
+    },
+    {
+      "id": "quote_830_1755700867769",
+      "character": "Kurosaki Karin",
+      "show": "Bleach",
+      "quote": "Isn't she awfully happy...for someone visiting a grave?",
+      "originalIndex": "8350"
+    },
+    {
+      "id": "quote_831_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "You nuts?! What kind of sick twisted freak attacks his own son while he's laying in bed, sleeping?!",
+      "originalIndex": "8351"
+    },
+    {
+      "id": "quote_832_1755700867769",
+      "character": "Rukia Kuchiki",
+      "show": "Bleach",
+      "quote": "We stand in awe before that which can not be seen... And we respect, with every fiber, that which can not be explained.",
+      "originalIndex": "8352"
+    },
+    {
+      "id": "quote_833_1755700867769",
+      "character": "Ulquiorra Schiffer",
+      "show": "Bleach",
+      "quote": "What is a heart? If I rip open your chest, will I find it there? If I crack open your skull, will I find it there?",
+      "originalIndex": "8531"
+    },
+    {
+      "id": "quote_834_1755700867769",
+      "character": "Urahara Kisuke",
+      "show": "Bleach",
+      "quote": "I'm sure it's just some pretty girl talking about me somewhere.",
+      "originalIndex": "8559"
+    },
+    {
+      "id": "quote_835_1755700867769",
+      "character": "Urahara Kisuke",
+      "show": "Bleach",
+      "quote": "I'm so disappointed, Ichigo, so very disappointed. Sadly, your sword exhibits only fear. When you counter, it's because you fear being killed. When you attack, you fear killing. And when you protect someone, you fear you could let them die. At this point, the only thing your sword speaks is senseless fright, and that's not good. What you don't need in battle is fear. Nothing will come of it. When you counter, you don't let them cut you. When you protect someone, you don't let them die. And when you attack, you kill.",
+      "originalIndex": "8560"
+    },
+    {
+      "id": "quote_836_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "Everyone who searches for power, without exception, searches for battle. Do you fight in order to become more powerful? Or do you want more power so you can fight?",
+      "originalIndex": "8561"
+    },
+    {
+      "id": "quote_837_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "You know why big brothers are born first? To protect the little ones that come after them.",
+      "originalIndex": "8563"
+    },
+    {
+      "id": "quote_838_1755700867769",
+      "character": "Zaraki Kenpachi",
+      "show": "Bleach",
+      "quote": "Sanity... what would I do with a useless thing like that?",
+      "originalIndex": "8573"
+    },
+    {
+      "id": "quote_839_1755700867769",
+      "character": "Aizen Sousuke",
+      "show": "Bleach",
+      "quote": "Since the beginning, no one has ever stood in the heavens. Neither you, nor me, not even God himself. But that unbearable vacancy in the throne of Heaven shall be filled. From this day forth, I will stand in heaven.",
+      "originalIndex": "8575"
+    },
+    {
+      "id": "quote_840_1755700867769",
+      "character": "Aizen Sousuke",
+      "show": "Bleach",
+      "quote": "Why are you putting so much distance between us? If you want to make sure it hits me, then you should get close and fire. Or is it that you're afraid of letting even a part of me out of your field of vision by getting close? If that's the case, then it's a foolish thought. Distance only has meaning in a fight between equals. With you and I, distance holds no meaning at all. Watch... If I do this, my hand is almost instantly at your heart.",
+      "originalIndex": "8578"
+    },
+    {
+      "id": "quote_841_1755700867769",
+      "character": "Aizen Sousuke",
+      "show": "Bleach",
+      "quote": "The betrayal you can see is trivial. What is truly frightening and much more lethal, is the betrayal that you don't see.",
+      "originalIndex": "8579"
+    },
+    {
+      "id": "quote_842_1755700867769",
+      "character": "Aizen Sousuke",
+      "show": "Bleach",
+      "quote": "Reason exists for those who cannot go on living without clinging to it. Now let's go... to the edge of reason.",
+      "originalIndex": "8580"
+    },
+    {
+      "id": "quote_843_1755700867769",
+      "character": "Kuchiki Byakuya",
+      "show": "Bleach",
+      "quote": "As you pass into the next life feel honored that you have perished by my bankai.",
+      "originalIndex": "8582"
+    },
+    {
+      "id": "quote_844_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "From this point on, all your opinions are rejected!",
+      "originalIndex": "8590"
+    },
+    {
+      "id": "quote_845_1755700867769",
+      "character": "Abarai Renji",
+      "show": "Bleach",
+      "quote": "We - the warriors, go now to the field of battle! Believe that our blades will not shatter!\nBelieve that our spirits will not break! Even if we walk separate paths, our iron resolve shall remain united! Swear! That even if the ground beneath us crumbles...we shall return here, alive, again..!",
+      "originalIndex": "8600"
+    },
+    {
+      "id": "quote_846_1755700867769",
+      "character": "Abarai Renji",
+      "show": "Bleach",
+      "quote": "Worrying about a warrior's life on the battlefield is only an insult.",
+      "originalIndex": "8604"
+    },
+    {
+      "id": "quote_847_1755700867769",
+      "character": "Kurosaki Ichigo",
+      "show": "Bleach",
+      "quote": "I'm not Superman, so I can't say anything big like \"I'll protect everyone on Earth!\". I'm not a modest guy who will say \"It's enough if I can protect as many people as my two hands can handle.\" either. I want to protect...a mountain-load of people.",
+      "originalIndex": "8606"
     }
   ]
 }
