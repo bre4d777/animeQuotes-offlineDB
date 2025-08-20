@@ -1,8 +1,9 @@
 {
-  "name": "Naruto Shippūden",
+  "name": "Naruto Shippuuden",
   "anilistId": 1735,
-  "totalQuotes": 14,
-  "totalCharacters": 7,
+  "totalQuotes": 20,
+  "totalCharacters": 9,
+  "lastUpdated": "2025-08-20T10:38:44.511Z",
   "quotes": [
     {
       "id": "quote_1711_1755682024788",
@@ -87,6 +88,42 @@
       "character": "Madara Uchiha",
       "show": "Naruto Shippūden",
       "quote": "The longer you live... The more you realize that reality is just made of pain, suffering and emptiness..."
+    },
+    {
+      "id": "quote_111_1755686324511",
+      "character": "Madara Uchiha",
+      "show": "Naruto Shippuuden",
+      "quote": "People cannot show each other their true feelings. Fear, suspicion, and resentment never subside."
+    },
+    {
+      "id": "quote_112_1755686324511",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto Shippuuden",
+      "quote": "Having too many bonds causes one to lose focus, weakening their strongest wish, their greatest desire."
+    },
+    {
+      "id": "quote_113_1755686324511",
+      "character": "Sasuke Uchiha",
+      "show": "Naruto Shippuuden",
+      "quote": "No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks"
+    },
+    {
+      "id": "quote_114_1755686324511",
+      "character": "Obito Uchiha",
+      "show": "Naruto Shippuuden",
+      "quote": "The moment people come to know love, they run the risk of carrying hate."
+    },
+    {
+      "id": "quote_115_1755686324511",
+      "character": "Might Guy",
+      "show": "Naruto Shippuuden",
+      "quote": "It's not always possible to do what we want to do, but it's important to believe in something before you actually do it."
+    },
+    {
+      "id": "quote_116_1755686324511",
+      "character": "Pain",
+      "show": "Naruto Shippuuden",
+      "quote": "Even innocent foolish children will grow up in the face of pain, until their thoughts and beliefs are the same as their doubts."
     }
   ]
 }
