@@ -1,8 +1,9 @@
 {
   "name": "Death Note",
   "anilistId": 1535,
-  "totalQuotes": 102,
+  "totalQuotes": 120,
   "totalCharacters": 10,
+  "lastUpdated": "2025-08-20T14:41:45.970Z",
   "quotes": [
     {
       "id": "quote_119_1755681657655",
@@ -615,6 +616,132 @@
       "character": "Ryuk",
       "show": "Death Note",
       "quote": "Sorry, but...believe it or not, I'm a male too."
+    },
+    {
+      "id": "quote_1303_1755700905970",
+      "character": "Light Yagami",
+      "show": "Death Note",
+      "quote": "I'll solve equations with my right hand and write names with my left. I'll take a potato chip... and eat it!",
+      "originalIndex": "8426"
+    },
+    {
+      "id": "quote_1304_1755700905970",
+      "character": "Misa Amane",
+      "show": "Death Note",
+      "quote": "Ah! She smirked at me! Misa is going to break her legs!",
+      "originalIndex": "8427"
+    },
+    {
+      "id": "quote_1305_1755700905970",
+      "character": "L Lawliet",
+      "show": "Death Note",
+      "quote": "Light-kun, please get Misa to shut up.",
+      "originalIndex": "8428"
+    },
+    {
+      "id": "quote_1306_1755700905970",
+      "character": "L Lawliet",
+      "show": "Death Note",
+      "quote": "He, who attacks first, always wins.",
+      "originalIndex": "8429"
+    },
+    {
+      "id": "quote_1307_1755700905970",
+      "character": "Ryuk",
+      "show": "Death Note",
+      "quote": "Well, it was good while it lasted. We killed some boredom, didn't we? We did some various and interesting things.",
+      "originalIndex": "8430"
+    },
+    {
+      "id": "quote_1308_1755700905970",
+      "character": "Ryuk",
+      "show": "Death Note",
+      "quote": "You have lost, Light. Didn't I say in the beginning, when you die, the one who'll write your name down in a notebook will be me? That is the deal between the Shinigami and the first human to get their hands on the note in the human world. Once you enter prison, I don't know when you'll die. It's annoying to wait. Your life is already over. You'll die here.",
+      "originalIndex": "8431"
+    },
+    {
+      "id": "quote_1309_1755700905970",
+      "character": "Misa Amane",
+      "show": "Death Note",
+      "quote": "Ahh! NO way! Someone just touched my butt!",
+      "originalIndex": "8493"
+    },
+    {
+      "id": "quote_1310_1755700905970",
+      "character": "L Lawliet",
+      "show": "Death Note",
+      "quote": "Light-kun is my only friend.",
+      "originalIndex": "8494"
+    },
+    {
+      "id": "quote_1311_1755700905970",
+      "character": "L Lawliet",
+      "show": "Death Note",
+      "quote": "I'm a...pervert?",
+      "originalIndex": "8495"
+    },
+    {
+      "id": "quote_1312_1755700905970",
+      "character": "L Lawliet",
+      "show": "Death Note",
+      "quote": "If you don't get serious about this...I'll kick you.",
+      "originalIndex": "8496"
+    },
+    {
+      "id": "quote_1313_1755700905970",
+      "character": "L Lawliet",
+      "show": "Death Note",
+      "quote": "I give you the strawberry if you keep it a secret.",
+      "originalIndex": "8516"
+    },
+    {
+      "id": "quote_1314_1755700905970",
+      "character": "Light Yagami",
+      "show": "Death Note",
+      "quote": "I came to exterminate the vermin of this world!",
+      "originalIndex": "8522"
+    },
+    {
+      "id": "quote_1315_1755700905970",
+      "character": "L Lawliet",
+      "show": "Death Note",
+      "quote": "Watashi wa L-desu.",
+      "originalIndex": "8535"
+    },
+    {
+      "id": "quote_1316_1755700905970",
+      "character": "Light Yagami",
+      "show": "Death Note",
+      "quote": "I will reign over a new world.",
+      "originalIndex": "8550"
+    },
+    {
+      "id": "quote_1317_1755700905970",
+      "character": "Near",
+      "show": "Death Note",
+      "quote": "If you can't beat the game, if you can't solve the puzzle, you're nothing but a loser.",
+      "originalIndex": "8551"
+    },
+    {
+      "id": "quote_1318_1755700905970",
+      "character": "Mello",
+      "show": "Death Note",
+      "quote": "I'll kill anyone who gets in my way. I'll be the number one.",
+      "originalIndex": "8552"
+    },
+    {
+      "id": "quote_1319_1755700905970",
+      "character": "L Lawliet",
+      "show": "Death Note",
+      "quote": "Will you be eating that cake?...say what you want, but I will be taking the cake.",
+      "originalIndex": "8574"
+    },
+    {
+      "id": "quote_1320_1755700905970",
+      "character": "Light Yagami",
+      "show": "Death Note",
+      "quote": "I am the god of the new world!",
+      "originalIndex": "8583"
     }
   ]
 }
