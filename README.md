@@ -4,9 +4,9 @@ An organized collection of anime quotes, automatically scraped and categorized b
 
 ## 📊 Statistics
 
-- **Total Quotes**: 4,070
-- **Total Anime**: 116
-- **Total Characters**: 919
+- **Total Quotes**: 4,086
+- **Total Anime**: 117
+- **Total Characters**: 924
 - **Last Updated**: 8/20/2025
 
 ## 🗂️ Structure
