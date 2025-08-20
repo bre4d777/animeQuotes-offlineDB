@@ -1,8 +1,9 @@
 {
-  "name": "Mondaiji-tachi Ga Isekai Kara Kuru Sou Desu Yo?",
+  "name": "Mondaji-tachi ga Isekai kara Kuru Sou Desu yo?",
   "anilistId": 15315,
-  "totalQuotes": 5,
+  "totalQuotes": 6,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T10:53:29.374Z",
   "quotes": [
     {
       "id": "quote_2521_1755682331600",
@@ -33,6 +34,12 @@
       "character": "Leticia Draculair",
       "show": "Mondaiji-tachi Ga Isekai Kara Kuru Sou Desu Yo?",
       "quote": "You shouldn't judge something without trying it first. Having a variety of experiences is what makes life worth living."
+    },
+    {
+      "id": "quote_17_1755687209374",
+      "character": "Izayoi Sakamaki",
+      "show": "Mondaji-tachi ga Isekai kara Kuru Sou Desu yo?",
+      "quote": "Silence implies consent."
     }
   ]
 }
