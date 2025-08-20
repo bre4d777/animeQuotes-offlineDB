@@ -1,0 +1,20 @@
+{
+  "name": "Kakumeiki Valvrave",
+  "anilistId": 16668,
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "quotes": [
+    {
+      "id": "quote_1057_1755681856225",
+      "character": "L-elf",
+      "show": "Kakumeiki Valvrave",
+      "quote": "Happiness isn't something you divide in halves."
+    },
+    {
+      "id": "quote_1058_1755681856225",
+      "character": "Senator Figaro",
+      "show": "Kakumeiki Valvrave",
+      "quote": "I'm neither a soldier, nor a brave man. Not to mention that running away isn't the same thing as losing. You only truly lose by dying. So as long you're alive, you win!"
+    }
+  ]
+}
