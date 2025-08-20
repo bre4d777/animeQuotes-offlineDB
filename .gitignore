@@ -12,6 +12,7 @@ index.js
 clean.js
 proxy.json
 source/
+temp-data
 # Runtime data
 pids
 *.pid
