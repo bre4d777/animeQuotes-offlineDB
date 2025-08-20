@@ -1,9 +1,9 @@
 {
   "name": "Gintama",
   "anilistId": 918,
-  "totalQuotes": 155,
+  "totalQuotes": 162,
   "totalCharacters": 20,
-  "lastUpdated": "2025-08-20T14:40:15.539Z",
+  "lastUpdated": "2025-08-20T15:30:02.695Z",
   "quotes": [
     {
       "id": "quote_948_1755663484542",
@@ -954,6 +954,48 @@
       "show": "Gintama",
       "quote": "If you die, don't come crying to me about it.",
       "originalIndex": "8558"
+    },
+    {
+      "id": "quote_24_1755703802695",
+      "character": "Kagura",
+      "show": "Gintama",
+      "quote": "Whether doing good or evil, I will be the boss. "
+    },
+    {
+      "id": "quote_25_1755703802695",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "I don't have anything anymore, but if there's something on the floor, I'll pick it up. "
+    },
+    {
+      "id": "quote_26_1755703802695",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "The Other Side of the Other Side of the Other Side would be the Other Side. "
+    },
+    {
+      "id": "quote_27_1755703802695",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "It's often said, \"People who are similar can be called friends\", right? You haven't been making a good life for yourself, have you? Well, I guess I'm no better.. People don't try to make a life that they can't be proud of... They have the intention of staying on the straight path, but out of blue, they're in the dirt. But, even so, with heart and soul you try to brake through. There will be a day, that even dirt will dry and fall off.\r\n\r\n(Gintoki to Catherine\r\n\"Gintama chapter 24, page 19\")"
+    },
+    {
+      "id": "quote_28_1755703802695",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "I've told you, this isn't a cigarette. It's a lollipop!\r\n  "
+    },
+    {
+      "id": "quote_29_1755703802695",
+      "character": "Gintoki Sakata",
+      "show": "Gintama",
+      "quote": "Listen up, I don't care what you punks do around the universe. But with this, my sword… anywhere it can reach, is part of my country! Asses who blunder in and violate my things… whether it be a Shogun, whether it be space pirates, whether it be a meteorite - I'll destroy them!! \r\n\r\n"
+    },
+    {
+      "id": "quote_30_1755703802695",
+      "character": "Shimura Tae",
+      "show": "Gintama",
+      "quote": "*To Shinpachi* When your friend is crying, cry with him. When your friend is worried, you should worry with him. And when your friend has an awkward bowel movement, then you must have an awkward bowel movement too, Shin-chan. If you are a friend, you should be able to share the other's pain, no matter what. And Shin-chan, if your friend goes down the wrong path... Then, you must stop your friend, even if it ruins your friendship. That is true samurai friendship.\r\n"
     }
   ]
 }
