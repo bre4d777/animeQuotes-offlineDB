@@ -1,8 +1,9 @@
 {
   "name": "Sailor Moon",
   "anilistId": 530,
-  "totalQuotes": 6,
-  "totalCharacters": 3,
+  "totalQuotes": 47,
+  "totalCharacters": 7,
+  "lastUpdated": "2025-08-20T14:41:24.487Z",
   "quotes": [
     {
       "id": "quote_1512_1755681969746",
@@ -39,6 +40,293 @@
       "character": "Mamoru Chiba",
       "show": "Sailor Moon",
       "quote": "One day, we will vanish. New senshi and new stars will be born. But you, Sailor Moon, you will forever be immortal. You will be the most beautiful star shining in the sky for eternity."
+    },
+    {
+      "id": "quote_1019_1755700884487",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "Meatball head, don't go in there alone! You'd probably get lost in your own closet!",
+      "originalIndex": "7599"
+    },
+    {
+      "id": "quote_1020_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "Psst, hey Rei, major question. You didn't forget to kiss Chad goodbye, did you?",
+      "originalIndex": "7600"
+    },
+    {
+      "id": "quote_1021_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "Come on you pastey-faced two-timing nega-twit!",
+      "originalIndex": "7601"
+    },
+    {
+      "id": "quote_1022_1755700884487",
+      "character": "Makoto Kino",
+      "show": "Sailor Moon",
+      "quote": "You want trouble pal... you're lookin' at it!",
+      "originalIndex": "7602"
+    },
+    {
+      "id": "quote_1023_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "Hello? Planet earth to player b.",
+      "originalIndex": "7603"
+    },
+    {
+      "id": "quote_1024_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "I'm alright, but the big ugly thing isn't.",
+      "originalIndex": "7604"
+    },
+    {
+      "id": "quote_1025_1755700884487",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "*referring to Tsukino* Are you stupid, or just incredibly lazy?",
+      "originalIndex": "7605"
+    },
+    {
+      "id": "quote_1026_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "You know, Darien. Even in a dream, you're just toogood to be true.",
+      "originalIndex": "7606"
+    },
+    {
+      "id": "quote_1027_1755700884487",
+      "character": "Makoto Kino",
+      "show": "Sailor Moon",
+      "quote": "Stupid weatherman, he NEVER gets it right!",
+      "originalIndex": "7607"
+    },
+    {
+      "id": "quote_1028_1755700884487",
+      "character": "Makoto Kino",
+      "show": "Sailor Moon",
+      "quote": "Who needs sunshine anyways...",
+      "originalIndex": "7608"
+    },
+    {
+      "id": "quote_1029_1755700884487",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "I am Darian, Prince of Earth.",
+      "originalIndex": "7609"
+    },
+    {
+      "id": "quote_1030_1755700884487",
+      "character": "Ami Mizuno",
+      "show": "Sailor Moon",
+      "quote": "The future is something you build by yourself.",
+      "originalIndex": "7610"
+    },
+    {
+      "id": "quote_1031_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "Who wants that? I'd rather choose to fall in love and be hurt. Sometimes I can't even sleep because I love someone too much. And there's always sadness in our lives. It's that sad feeling that keeps us going.",
+      "originalIndex": "7611"
+    },
+    {
+      "id": "quote_1032_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "It's sad that a selfish woman like you will never know how wonderful being in love is! Your beautiful world of ice will just be a dark land of death! How could a world without life be beautiful?",
+      "originalIndex": "7612"
+    },
+    {
+      "id": "quote_1033_1755700884487",
+      "character": "Rei Hino",
+      "show": "Sailor Moon",
+      "quote": "We're gonna chew you up, and spit you out!",
+      "originalIndex": "7613"
+    },
+    {
+      "id": "quote_1034_1755700884487",
+      "character": "Minako Aino",
+      "show": "Sailor Moon",
+      "quote": "Whoops! Froze the whipping cream!",
+      "originalIndex": "7614"
+    },
+    {
+      "id": "quote_1035_1755700884487",
+      "character": "Makoto Kino",
+      "show": "Sailor Moon",
+      "quote": "Jupiter Thunder Crash!",
+      "originalIndex": "7615"
+    },
+    {
+      "id": "quote_1036_1755700884487",
+      "character": "Minako Aino",
+      "show": "Sailor Moon",
+      "quote": "Venus Crescent Beam!",
+      "originalIndex": "7616"
+    },
+    {
+      "id": "quote_1037_1755700884487",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "You use you power only for evil, Jedite. Big mistake.",
+      "originalIndex": "7617"
+    },
+    {
+      "id": "quote_1038_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "Give it back! Give it back to Raye right now! You'll pay for your rotten ways!",
+      "originalIndex": "7618"
+    },
+    {
+      "id": "quote_1039_1755700884487",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "Bullying little kids, how far you go, pal? Are you just a schoolyard bully?",
+      "originalIndex": "7619"
+    },
+    {
+      "id": "quote_1040_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "I won't let you take her... do you hear me? Nobody takes her without facing me first... YOU'RE DUSTED BUSTER!",
+      "originalIndex": "7620"
+    },
+    {
+      "id": "quote_1041_1755700884487",
+      "character": "Rei Hino",
+      "show": "Sailor Moon",
+      "quote": "I've had it with this itchy costume! We were supposed to be dwarves, remember? Not animals! I feel like some little five-year old back in kindergarten!",
+      "originalIndex": "7621"
+    },
+    {
+      "id": "quote_1042_1755700884487",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "That's as good an excuse as any. Now it's my turn. You better take some notes, 'cause you're gonna get beaten and beaten badly.",
+      "originalIndex": "7622"
+    },
+    {
+      "id": "quote_1043_1755700884487",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "Very impressive, you didn't land a single punch.",
+      "originalIndex": "7623"
+    },
+    {
+      "id": "quote_1044_1755700884487",
+      "character": "Mamoru Chiba",
+      "show": "Sailor Moon",
+      "quote": "You've got guts, Jupiter. But it takes more than guts to beat the Negaverse. Give up now, you'll never win.",
+      "originalIndex": "7624"
+    },
+    {
+      "id": "quote_1045_1755700884487",
+      "character": "Rei Hino",
+      "show": "Sailor Moon",
+      "quote": "Mars Fire Ignite!",
+      "originalIndex": "7625"
+    },
+    {
+      "id": "quote_1046_1755700884487",
+      "character": "Makoto Kino",
+      "show": "Sailor Moon",
+      "quote": "You've got to stop reading so many romance novels!",
+      "originalIndex": "7626"
+    },
+    {
+      "id": "quote_1047_1755700884487",
+      "character": "Minako Aino",
+      "show": "Sailor Moon",
+      "quote": "Look who's talking! You think the paperboy likes you just because he rides by your front door every morning!",
+      "originalIndex": "7627"
+    },
+    {
+      "id": "quote_1048_1755700884487",
+      "character": "Makoto Kino",
+      "show": "Sailor Moon",
+      "quote": "I was just warming up, hotshot.",
+      "originalIndex": "7628"
+    },
+    {
+      "id": "quote_1049_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "Better enjoy that laugh, Beryl. It's the last one you'll ever have.",
+      "originalIndex": "7629"
+    },
+    {
+      "id": "quote_1050_1755700884487",
+      "character": "Ami Mizuno",
+      "show": "Sailor Moon",
+      "quote": "Mercury Bubble Blast!",
+      "originalIndex": "7630"
+    },
+    {
+      "id": "quote_1051_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "*to Sammy* You're cruisin' for a bruisin'!",
+      "originalIndex": "7631"
+    },
+    {
+      "id": "quote_1052_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "I am Sailor Moon! I stand for love. And I also stand for justice. And in the name of the Moon, I will punish you!",
+      "originalIndex": "7632"
+    },
+    {
+      "id": "quote_1053_1755700884487",
+      "character": "Minako Aino",
+      "show": "Sailor Moon",
+      "quote": "Venus lovechain encircle!",
+      "originalIndex": "7633"
+    },
+    {
+      "id": "quote_1054_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "Moon Prism Power! ...And make it fast!",
+      "originalIndex": "7634"
+    },
+    {
+      "id": "quote_1055_1755700884487",
+      "character": "Makoto Kino",
+      "show": "Sailor Moon",
+      "quote": "But I'm the one with the most talent here!",
+      "originalIndex": "7635"
+    },
+    {
+      "id": "quote_1056_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "A talking cat! Oh man, I have been studying too hard!",
+      "originalIndex": "7636"
+    },
+    {
+      "id": "quote_1057_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "Ow! That hurt! I don't want to do this anymore!",
+      "originalIndex": "7637"
+    },
+    {
+      "id": "quote_1058_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "*while being chased by a jet* How will I ever explain to my friends why I have tire tracks down my back?",
+      "originalIndex": "7638"
+    },
+    {
+      "id": "quote_1059_1755700884487",
+      "character": "Usagi Tsukino",
+      "show": "Sailor Moon",
+      "quote": "I am Sailor Moon, the champion of justice! In the name of the Moon, I will punish you! I will right wrongs and triumph over evil and that means you!",
+      "originalIndex": "7639"
     }
   ]
 }
