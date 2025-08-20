@@ -1,8 +1,9 @@
 {
   "name": "Mobile Suit Gundam Seed",
   "anilistId": 93,
-  "totalQuotes": 59,
+  "totalQuotes": 63,
   "totalCharacters": 13,
+  "lastUpdated": "2025-08-20T14:43:26.909Z",
   "quotes": [
     {
       "id": "quote_2518_1755663614674",
@@ -357,6 +358,34 @@
       "character": "Cagalli Yula Athha",
       "show": "Mobile Suit Gundam Seed",
       "quote": "[to Athrun] I bet your head is like a hamster running in its wheel right about now."
+    },
+    {
+      "id": "quote_20_1755701006909",
+      "character": "Kira Yamato",
+      "show": "Mobile Suit Gundam Seed",
+      "quote": "A world gained through battle will only bring forth new battles.",
+      "originalIndex": "8530"
+    },
+    {
+      "id": "quote_21_1755701006909",
+      "character": "Lacus Clyne",
+      "show": "Mobile Suit Gundam Seed",
+      "quote": "What are you fighting for? Is it the medals you received, or your father's orders?",
+      "originalIndex": "8539"
+    },
+    {
+      "id": "quote_22_1755701006909",
+      "character": "Lacus Clyne",
+      "show": "Mobile Suit Gundam Seed",
+      "quote": "Is it weapons that are the cause of all this fighting or does the real cause lie within the human heart..?",
+      "originalIndex": "8607"
+    },
+    {
+      "id": "quote_23_1755701006909",
+      "character": "Kira Yamato",
+      "show": "Mobile Suit Gundam Seed",
+      "quote": "What can you protect, if your only weapon are your emotions.",
+      "originalIndex": "8608"
     }
   ]
 }
