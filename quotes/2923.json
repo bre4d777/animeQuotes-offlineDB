@@ -1,8 +1,9 @@
 {
-  "name": "Shugo Chara",
+  "name": "Shugo Chara!",
   "anilistId": 2923,
-  "totalQuotes": 9,
-  "totalCharacters": 4,
+  "totalQuotes": 10,
+  "totalCharacters": 5,
+  "lastUpdated": "2025-08-20T10:44:25.420Z",
   "quotes": [
     {
       "id": "quote_1407_1755681946137",
@@ -57,6 +58,12 @@
       "character": "Rima Mashiro",
       "show": "Shugo Chara",
       "quote": "Sure there are things you can't do, things that seem impossible, but that's what makes everyone unique!"
+    },
+    {
+      "id": "quote_92_1755686665420",
+      "character": "Nagihiko Fujisaki",
+      "show": "Shugo Chara!",
+      "quote": "People usually fall in love based on looks. But their true self might be very different from how they look."
     }
   ]
 }
