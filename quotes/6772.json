@@ -1,0 +1,33 @@
+{
+  "name": "Broken Blade",
+  "anilistId": 6772,
+  "totalQuotes": 4,
+  "totalCharacters": 4,
+  "lastUpdated": "2025-08-20T10:39:59.597Z",
+  "quotes": [
+    {
+      "id": "quote_177_1755686399597",
+      "character": "Borcuse",
+      "show": "Broken Blade",
+      "quote": "Fear deals a crippling blow to soldiers. Be it a single man or a million soldiers, it makes no difference. Man can deny neither hunger nor fear."
+    },
+    {
+      "id": "quote_178_1755686399597",
+      "character": "Broken Blade",
+      "show": "Broken Blade",
+      "quote": "There is nothing shameful about running away. Some things are just out of people's hands. If you think you're gonna die, just run."
+    },
+    {
+      "id": "quote_179_1755686399597",
+      "character": "Zess",
+      "show": "Broken Blade",
+      "quote": "History books are rewritten with the changing of times. At any rate, classroom lectures are worlds apart from the battlefield."
+    },
+    {
+      "id": "quote_180_1755686399597",
+      "character": "Baldr",
+      "show": "Broken Blade",
+      "quote": "It is far more difficult to capture an enemy than to kill them. Capturing a soldier involves three times the effort and three times the danger. If you wish to save the life of an enemy soldier, remember that you'll lose three of your own in the process."
+    }
+  ]
+}
