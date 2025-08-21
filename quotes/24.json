@@ -1,8 +1,9 @@
 {
   "name": "School Rumble",
   "anilistId": 24,
-  "totalQuotes": 7,
+  "totalQuotes": 8,
   "totalCharacters": 4,
+  "lastUpdated": "2025-08-21T12:16:59.340Z",
   "quotes": [
     {
       "id": "quote_2160_1755682157028",
@@ -45,6 +46,12 @@
       "character": "Yakumo Tsukamoto",
       "show": "School Rumble",
       "quote": "Rather than not doing anything and regretting it, we should do something and regret it."
+    },
+    {
+      "id": "quote_4_1755778619340",
+      "character": "Imadori Kyousuke",
+      "show": "School Rumble",
+      "quote": "I CAN DO THAT TOO!\" *He takes out a banana and squishes it, giggling evilly* "
     }
   ]
 }
