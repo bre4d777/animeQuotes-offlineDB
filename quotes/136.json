@@ -1,9 +1,9 @@
 {
   "name": "Hunter X Hunter",
   "anilistId": 136,
-  "totalQuotes": 32,
+  "totalQuotes": 34,
   "totalCharacters": 16,
-  "lastUpdated": "2025-08-20T14:39:58.655Z",
+  "lastUpdated": "2025-08-21T12:17:25.648Z",
   "quotes": [
     {
       "id": "quote_887_1755663472986",
@@ -198,6 +198,18 @@
       "show": "Hunter X Hunter",
       "quote": "I do not fear death. I fear only that my rage will fade over time.\n",
       "originalIndex": "4683"
+    },
+    {
+      "id": "quote_15_1755778645648",
+      "character": "Kurapika",
+      "show": "Hunter X Hunter",
+      "quote": "The only principle is that there is no principles. "
+    },
+    {
+      "id": "quote_16_1755778645648",
+      "character": "Kurapika",
+      "show": "Hunter X Hunter",
+      "quote": "I do not fear death. I fear only that my rage will fade over time.\r\n"
     }
   ]
 }
