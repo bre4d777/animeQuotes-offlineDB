@@ -1,8 +1,9 @@
 {
   "name": "Legend of the Galactic Heroes",
   "anilistId": 820,
-  "totalQuotes": 30,
+  "totalQuotes": 31,
   "totalCharacters": 11,
+  "lastUpdated": "2025-08-21T12:17:18.540Z",
   "quotes": [
     {
       "id": "quote_27_1755663421273",
@@ -183,6 +184,12 @@
       "character": "Yang Wenli",
       "show": "Legend of the Galactic Heroes",
       "quote": "Neither terrorism nor occultism have ever impacted history in any constructive way."
+    },
+    {
+      "id": "quote_12_1755778638540",
+      "character": "Yang Wenli",
+      "show": "Legend of the Galactic Heroes",
+      "quote": "Alcohol is humanity's friend. How can I abandon a friend? "
     }
   ]
 }
