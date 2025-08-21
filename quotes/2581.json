@@ -1,9 +1,9 @@
 {
   "name": "Mobile Suit Gundam 00",
   "anilistId": 2581,
-  "totalQuotes": 18,
+  "totalQuotes": 19,
   "totalCharacters": 9,
-  "lastUpdated": "2025-08-20T14:39:39.691Z",
+  "lastUpdated": "2025-08-21T12:18:13.587Z",
   "quotes": [
     {
       "id": "quote_2_1755682350209",
@@ -113,6 +113,12 @@
       "show": "Mobile Suit Gundam 00",
       "quote": "I came to believe that a world where people can understand each other isn't impossible. That's why even if the world rejects me... even if the world blames me... I'll keep on fighting.\n",
       "originalIndex": "2920"
+    },
+    {
+      "id": "quote_25_1755778693587",
+      "character": "Setsuna F. Seiei",
+      "show": "Mobile Suit Gundam 00",
+      "quote": "I wanted to know why was the world so twisted? Where did this twistedness come from? How can people be so wicked without needing to be? And why don't they realize their wickedness? Why are there things that bring chaos to so many lives? Why do people rule and let themselves be ruled? And why do they hurt each other? And why despite all that do people still want to live their lives? I was just looking for answers. I thought that if I met with you, you'd give me those answers... because you're looking for the same thing along a different path from mine - from the path where people can understand each other. "
     }
   ]
 }
