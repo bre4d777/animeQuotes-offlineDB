@@ -1,8 +1,9 @@
 {
   "name": "Guilty Crown",
   "anilistId": 10793,
-  "totalQuotes": 22,
+  "totalQuotes": 23,
   "totalCharacters": 9,
+  "lastUpdated": "2025-08-21T12:18:04.053Z",
   "quotes": [
     {
       "id": "quote_2622_1755663626061",
@@ -135,6 +136,12 @@
       "character": "Shū Ouma",
       "show": "Guilty Crown",
       "quote": "I wonder if it's the selfish people who get ahead in this world, after all."
+    },
+    {
+      "id": "quote_20_1755778684053",
+      "character": "Gai Tsutsugami",
+      "show": "Guilty Crown",
+      "quote": "There are only two paths you can choose. You can sit quietly and be selected out of this world, or you can adapt and change.\r\n"
     }
   ]
 }
