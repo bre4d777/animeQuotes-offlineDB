@@ -1,9 +1,9 @@
 {
-  "name": "K",
+  "name": "K Project",
   "anilistId": 14467,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 6,
-  "lastUpdated": "2025-08-20T10:45:26.146Z",
+  "lastUpdated": "2025-08-21T12:17:28.032Z",
   "quotes": [
     {
       "id": "quote_1270_1755681907532",
@@ -58,6 +58,12 @@
       "character": "Saruhiko Fushimi",
       "show": "K",
       "quote": "The day when you'll finally understand me... will never come."
+    },
+    {
+      "id": "quote_17_1755778648032",
+      "character": "Yashiro Isana",
+      "show": "K Project",
+      "quote": "Well, it's not a big deal or anything... but I was almost killed. "
     }
   ]
 }
