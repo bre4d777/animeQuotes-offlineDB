@@ -1,9 +1,9 @@
 {
-  "name": "Shugo Chara!",
+  "name": "Shugo Chara",
   "anilistId": 2923,
-  "totalQuotes": 10,
+  "totalQuotes": 11,
   "totalCharacters": 5,
-  "lastUpdated": "2025-08-20T10:44:25.420Z",
+  "lastUpdated": "2025-08-21T12:16:51.914Z",
   "quotes": [
     {
       "id": "quote_1407_1755681946137",
@@ -64,6 +64,12 @@
       "character": "Nagihiko Fujisaki",
       "show": "Shugo Chara!",
       "quote": "People usually fall in love based on looks. But their true self might be very different from how they look."
+    },
+    {
+      "id": "quote_1_1755778611914",
+      "character": "Nagihiko Fujisaki",
+      "show": "Shugo Chara",
+      "quote": "How worthless. Why are you saying things are impossible? You just decided that to make yourself feel better! Sure, there are things you can't do, things that seem impossible, but that's what makes everyone unique! "
     }
   ]
 }
