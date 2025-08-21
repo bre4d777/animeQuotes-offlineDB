@@ -1,15 +1,21 @@
 {
   "name": "Kannazuki no Miko",
   "anilistId": 143,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:58:40.332Z",
+  "lastUpdated": "2025-08-21T12:17:06.863Z",
   "quotes": [
     {
       "id": "quote_83_1755687520332",
       "character": "Chikane Himemiya",
       "show": "Kannazuki no Miko",
       "quote": "Your darkness and hopelessness are like vapor. They're nothing more than shadows that shall melt away and disappear under the moon's light"
+    },
+    {
+      "id": "quote_7_1755778626863",
+      "character": "Chikane Himemiya",
+      "show": "Kannazuki no Miko",
+      "quote": "Your darkness and hopelessness are like vapor. They're nothing more than shadows that shall melt away and disappear under the moon's light "
     }
   ]
 }
