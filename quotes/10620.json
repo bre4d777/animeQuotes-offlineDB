@@ -1,8 +1,9 @@
 {
   "name": "Mirai Nikki",
   "anilistId": 10620,
-  "totalQuotes": 22,
+  "totalQuotes": 23,
   "totalCharacters": 7,
+  "lastUpdated": "2025-08-21T12:18:15.987Z",
   "quotes": [
     {
       "id": "quote_916_1755663475789",
@@ -135,6 +136,12 @@
       "character": "Akise Aru",
       "show": "Mirai Nikki",
       "quote": "Whether I win or lose is up to me."
+    },
+    {
+      "id": "quote_26_1755778695987",
+      "character": "Ikusaba Marco",
+      "show": "Mirai Nikki",
+      "quote": "If today is the worst day ever - tomorrow has to be better. "
     }
   ]
 }
