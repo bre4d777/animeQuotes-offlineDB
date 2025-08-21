@@ -1,8 +1,9 @@
 {
   "name": "Chrono Crusade",
   "anilistId": 60,
-  "totalQuotes": 6,
+  "totalQuotes": 7,
   "totalCharacters": 3,
+  "lastUpdated": "2025-08-21T12:20:56.993Z",
   "quotes": [
     {
       "id": "quote_461_1755681772555",
@@ -39,6 +40,12 @@
       "character": "Aion",
       "show": "Chrono Crusade",
       "quote": "Even at a time like this there's not a single word of rescue from the one you worship. You see? That is the truth of this world. He doesn't watch anything and doesn't save anyone."
+    },
+    {
+      "id": "quote_43_1755778856993",
+      "character": "Rosette Christopher",
+      "show": "Chrono Crusade",
+      "quote": "What's important, is to know fear and yet take a step forward.\n\n"
     }
   ]
 }
