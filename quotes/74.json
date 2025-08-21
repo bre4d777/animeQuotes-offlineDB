@@ -1,9 +1,9 @@
 {
   "name": "Gakuen Alice",
   "anilistId": 74,
-  "totalQuotes": 10,
+  "totalQuotes": 11,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T14:40:29.351Z",
+  "lastUpdated": "2025-08-21T12:18:30.432Z",
   "quotes": [
     {
       "id": "quote_939_1755663481411",
@@ -65,6 +65,12 @@
       "show": "Gakuen Alice",
       "quote": "Every power can be a poison or medicine depending on the user's intention.\n\n",
       "originalIndex": "4288"
+    },
+    {
+      "id": "quote_34_1755778710432",
+      "character": "Narumi Anjo",
+      "show": "Gakuen Alice",
+      "quote": "Life sometimes deals you a bad hand and you make a lot of mistakes along the way, but as long as you believe in yourself and walk along your chosen path with a smile, everything will be alright. "
     }
   ]
 }
