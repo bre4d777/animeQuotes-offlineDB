@@ -1,9 +1,9 @@
 {
   "name": "Mobile Suit Gundam Wing",
   "anilistId": 90,
-  "totalQuotes": 5,
+  "totalQuotes": 6,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T10:31:05.318Z",
+  "lastUpdated": "2025-08-21T12:17:09.275Z",
   "quotes": [
     {
       "id": "quote_25_1755685865318",
@@ -34,6 +34,12 @@
       "character": "Heero Yuy",
       "show": "Mobile Suit Gundam Wing",
       "quote": "I can't stand the weak, They're always nervous about when they might next be attacked. They can't trust anybody and they never have an opinion of their own. I can't stand such people."
+    },
+    {
+      "id": "quote_8_1755778629275",
+      "character": "Duo Maxwell",
+      "show": "Mobile Suit Gundam Wing",
+      "quote": "Stop making me repeat myself! Its bad for my health! "
     }
   ]
 }
