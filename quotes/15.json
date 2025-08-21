@@ -1,8 +1,9 @@
 {
   "name": "Eyeshield 21",
   "anilistId": 15,
-  "totalQuotes": 10,
+  "totalQuotes": 11,
   "totalCharacters": 4,
+  "lastUpdated": "2025-08-21T12:18:32.841Z",
   "quotes": [
     {
       "id": "quote_522_1755663439271",
@@ -63,6 +64,12 @@
       "character": "Hiruma Youichi",
       "show": "Eyeshield 21",
       "quote": "We don't have time to waste asking for the things we don’t have, we can only look for the best way to fight with the things we do have."
+    },
+    {
+      "id": "quote_35_1755778712841",
+      "character": "Hiruma Youichi",
+      "show": "Eyeshield 21",
+      "quote": "If sorry could solve anything, we wouldn't have a need for the police. "
     }
   ]
 }
