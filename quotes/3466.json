@@ -1,8 +1,9 @@
 {
   "name": "Kino No Tabi",
   "anilistId": 3466,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-21T12:17:11.701Z",
   "quotes": [
     {
       "id": "quote_2363_1755682251225",
@@ -57,6 +58,12 @@
       "character": "Kino",
       "show": "Kino No Tabi",
       "quote": "The world is not beautiful; and that, in a way, lends it a sort of beauty."
+    },
+    {
+      "id": "quote_9_1755778631701",
+      "character": "Kino",
+      "show": "Kino No Tabi",
+      "quote": "The world is not beautiful. Therefore it is. "
     }
   ]
 }
