@@ -1,8 +1,9 @@
 {
   "name": "Outlaw Star",
   "anilistId": 400,
-  "totalQuotes": 3,
+  "totalQuotes": 4,
   "totalCharacters": 2,
+  "lastUpdated": "2025-08-21T12:17:23.287Z",
   "quotes": [
     {
       "id": "quote_1_1755682527646",
@@ -21,6 +22,12 @@
       "character": "Outlaw Star",
       "show": "Outlaw Star",
       "quote": "A man has the right to dream. There are endless possibilities stretched out before him."
+    },
+    {
+      "id": "quote_14_1755778643287",
+      "character": "Hilda",
+      "show": "Outlaw Star",
+      "quote": "No one's going to give you a map. You've got to walk your own path. "
     }
   ]
 }
