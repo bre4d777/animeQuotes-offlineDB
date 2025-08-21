@@ -1,8 +1,9 @@
 {
   "name": "Fullmetal Alchemist: Brotherhood",
   "anilistId": 5114,
-  "totalQuotes": 30,
+  "totalQuotes": 31,
   "totalCharacters": 15,
+  "lastUpdated": "2025-08-21T12:18:20.784Z",
   "quotes": [
     {
       "id": "quote_2482_1755663608506",
@@ -183,6 +184,12 @@
       "character": "Ling Yao",
       "show": "Fullmetal Alchemist: Brotherhood",
       "quote": "The king exists for his people. Without his people, there is no king."
+    },
+    {
+      "id": "quote_28_1755778700784",
+      "character": "Truth",
+      "show": "Fullmetal Alchemist: Brotherhood",
+      "quote": "Who am I? One name you might have for me is the world, or you might call me the universe, or perhaps God, or perhaps the Truth. I am All, and I am One. So, of course, this also means that I am you. I am the truth of your despair, the inescapable price of your boastfulness. And now, I will bestow upon you the despair you deserve.\n"
     }
   ]
 }
