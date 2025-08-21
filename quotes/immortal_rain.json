@@ -1,9 +1,9 @@
 {
   "name": "Immortal Rain",
   "anilistId": null,
-  "totalQuotes": 2,
+  "totalQuotes": 3,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:34:54.212Z",
+  "lastUpdated": "2025-08-21T12:18:42.217Z",
   "quotes": [
     {
       "id": "quote_1_1755686094212",
@@ -16,6 +16,12 @@
       "character": "Yuca Collabell",
       "show": "Immortal Rain",
       "quote": "If reality is nothing more than what is in our mind, then what is the difference between this world and a dream?"
+    },
+    {
+      "id": "quote_41_1755778722217",
+      "character": "Machika Balfaltin",
+      "show": "Immortal Rain",
+      "quote": "Somehow, the sea at night seems terribly dark. As if right beyond this point, the world might end.\r\nBut I'm not afraid. Because mornings without you are much scarier."
     }
   ]
 }
