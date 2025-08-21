@@ -1,8 +1,9 @@
 {
   "name": "Shingeki no Kyojin",
   "anilistId": 16498,
-  "totalQuotes": 73,
+  "totalQuotes": 76,
   "totalCharacters": 20,
+  "lastUpdated": "2025-08-21T12:18:25.622Z",
   "quotes": [
     {
       "id": "quote_819_1755681815147",
@@ -441,6 +442,24 @@
       "character": "Armin Arlelt",
       "show": "Shingeki no Kyojin",
       "quote": "The people who have the ability to change something in this world, all, without exception, have guts to abandon things important to them if they have to."
+    },
+    {
+      "id": "quote_30_1755778705622",
+      "character": "Grisha Jaeger",
+      "show": "Shingeki no Kyojin",
+      "quote": "Karla, nothing can surpass a human's curiosity. "
+    },
+    {
+      "id": "quote_31_1755778705622",
+      "character": "Eren Jaeger",
+      "show": "Shingeki no Kyojin",
+      "quote": "On that day, mankind received a grim reminder. We lived in fear of the titans, and were disgraced to live in these cages we called walls. "
+    },
+    {
+      "id": "quote_32_1755778705622",
+      "character": "Eren Jaeger",
+      "show": "Shingeki no Kyojin",
+      "quote": "I want to see and understand the world outside. I don't want to die inside these walls without knowing what's out there! "
     }
   ]
 }
