@@ -1,9 +1,9 @@
 {
-  "name": "Tengen Toppa Gurren Lagann",
+  "name": "Tengen Toppa Gurren Laggan",
   "anilistId": 2001,
-  "totalQuotes": 47,
+  "totalQuotes": 48,
   "totalCharacters": 6,
-  "lastUpdated": "2025-08-20T15:29:24.201Z",
+  "lastUpdated": "2025-08-21T12:17:04.454Z",
   "quotes": [
     {
       "id": "quote_405_1755681755297",
@@ -320,6 +320,12 @@
       "character": "Kamina",
       "show": "Tengen Toppa Gurren Lagann",
       "quote": "If you are doing it, I'm doing it. If I don't do it, will you? If you don't do it, I'll do it. I'm doing it so that you'll do it too!!  "
+    },
+    {
+      "id": "quote_6_1755778624454",
+      "character": "Lordgenome",
+      "show": "Tengen Toppa Gurren Laggan",
+      "quote": "The probability of success was zero percent. But I've learned that probabilities are meaningless when it comes to you guys. "
     }
   ]
 }
