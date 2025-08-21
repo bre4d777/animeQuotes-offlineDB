@@ -1,8 +1,9 @@
 {
   "name": "Psycho-Pass",
   "anilistId": 13601,
-  "totalQuotes": 43,
+  "totalQuotes": 45,
   "totalCharacters": 11,
+  "lastUpdated": "2025-08-21T12:18:11.170Z",
   "quotes": [
     {
       "id": "quote_1668_1755682021860",
@@ -261,6 +262,18 @@
       "character": "Makishima Shougo",
       "show": "Psycho-Pass",
       "quote": "You disappointed me. So I have to give you a punishment. Regret your helplessness and feel despair."
+    },
+    {
+      "id": "quote_23_1755778691170",
+      "character": "Kougami Shinya",
+      "show": "Psycho-Pass",
+      "quote": "I'm sorry. I couldn't keep my promise. I wanted to go into a line of work where I could protect people. That's why I became a detective. But Makishima changed everything. That man will continue to kill people. And yet, the law can't judge him. As long as I'm a detective, I can't touch him. This case made me aware... that the law can't protect people. "
+    },
+    {
+      "id": "quote_24_1755778691170",
+      "character": "Akane Tsunemori",
+      "show": "Psycho-Pass",
+      "quote": "I was the only one who got an A ranking for the Public Safety Bureau. There were more than 500 students and I was the only one. So I thought that there must have been something that only I could do at the Bureau. If I went there, I thought I could find my purpose in life... I thought I'd be able to find out why I was born here and now! "
     }
   ]
 }
