@@ -1,8 +1,9 @@
 {
   "name": "Revolutionary Girl Utena",
   "anilistId": 440,
-  "totalQuotes": 7,
+  "totalQuotes": 8,
   "totalCharacters": 5,
+  "lastUpdated": "2025-08-21T12:18:28.050Z",
   "quotes": [
     {
       "id": "quote_2577_1755663617551",
@@ -45,6 +46,12 @@
       "character": "Akio Ohtori",
       "show": "Revolutionary Girl Utena",
       "quote": "Women who cannot become princesses have no choice but to become witches."
+    },
+    {
+      "id": "quote_33_1755778708050",
+      "character": "Anthy Himemiya",
+      "show": "Revolutionary Girl Utena",
+      "quote": "You really don't know what happened, do you? It doesn't matter. By all means, stay in this cozy coffin of yours and continue to play prince. But I have to go now. She's not gone at all, she merely vanished form your world. Farewell.  "
     }
   ]
 }
