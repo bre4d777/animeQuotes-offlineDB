@@ -1,9 +1,9 @@
 {
   "name": "Liar Game",
   "anilistId": null,
-  "totalQuotes": 19,
+  "totalQuotes": 20,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:40:27.018Z",
+  "lastUpdated": "2025-08-21T12:20:54.592Z",
   "quotes": [
     {
       "id": "quote_1_1755686427018",
@@ -118,6 +118,12 @@
       "character": "Akiyama Shinichi",
       "show": "Liar Game",
       "quote": "I've already made up my mind, to the statement: \"The most important thing in life is money\". I answered \"No\"."
+    },
+    {
+      "id": "quote_42_1755778854592",
+      "character": "Akiyama Shinichi",
+      "show": "Liar Game",
+      "quote": "I've already made up my mind, to the statement: \"The most important thing in life is money\". I answered \"No\".\n"
     }
   ]
 }
