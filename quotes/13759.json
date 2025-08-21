@@ -1,8 +1,9 @@
 {
   "name": "Sakurasou no Pet na Kanojo",
   "anilistId": 13759,
-  "totalQuotes": 20,
+  "totalQuotes": 21,
   "totalCharacters": 9,
+  "lastUpdated": "2025-08-21T12:18:23.206Z",
   "quotes": [
     {
       "id": "quote_2314_1755682227652",
@@ -123,6 +124,12 @@
       "character": "Sorata Kanda",
       "show": "Sakurasou no Pet na Kanojo",
       "quote": "Opportunities wait for no one! If you let an opportunity slip through your fingers with an excuse like, “I wasn't prepared.” You'll never get another opportunity like that again! But it is your life. Live it the way you want."
+    },
+    {
+      "id": "quote_29_1755778703206",
+      "character": "Kazuki Fujisawa",
+      "show": "Sakurasou no Pet na Kanojo",
+      "quote": "To create something that appeals to the emotions of users, you need to make something that sways your own heart. You can't move others hearts, unless you can move your own. "
     }
   ]
 }
