@@ -1,8 +1,9 @@
 {
   "name": "Zetsuen No Tempest",
   "anilistId": 14075,
-  "totalQuotes": 32,
+  "totalQuotes": 33,
   "totalCharacters": 5,
+  "lastUpdated": "2025-08-21T12:18:06.449Z",
   "quotes": [
     {
       "id": "quote_3196_1755663663441",
@@ -195,6 +196,12 @@
       "character": "Aika Fuwa",
       "show": "Zetsuen No Tempest",
       "quote": "Rumors, at times, can be more severe than the truth."
+    },
+    {
+      "id": "quote_21_1755778686449",
+      "character": "Mahiro Fuwa",
+      "show": "Zetsuen No Tempest",
+      "quote": "I'll do whatever it takes to have everything make sense again! "
     }
   ]
 }
