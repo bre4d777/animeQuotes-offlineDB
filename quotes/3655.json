@@ -1,9 +1,9 @@
 {
-  "name": "Nibari No Ou",
+  "name": "Nabari no Ou",
   "anilistId": 3655,
-  "totalQuotes": 12,
+  "totalQuotes": 14,
   "totalCharacters": 10,
-  "lastUpdated": "2025-08-20T10:45:18.894Z",
+  "lastUpdated": "2025-08-21T12:18:01.675Z",
   "quotes": [
     {
       "id": "quote_97_1755685953677",
@@ -76,6 +76,18 @@
       "character": "Miharu Rokujou",
       "show": "Nibari No Ou",
       "quote": "When you go to save someone you have to consider yourself, as well. If you can’t all say “Thank Goodness” together, then those who are saved aren’t saved."
+    },
+    {
+      "id": "quote_18_1755778681675",
+      "character": "Kazuhiko Yukimi",
+      "show": "Nabari no Ou",
+      "quote": "There are three kinds of secrets. Something that you hide at the bottom of your heart because you don't want it to be mentioned. Something that you can't say even if you want to and something that you hope someone asks about even though you're hiding it. "
+    },
+    {
+      "id": "quote_19_1755778681675",
+      "character": "Shijima Kurookano",
+      "show": "Nabari no Ou",
+      "quote": "Everyone is sacrificing something precious to them in order to save something else. Is that the reason for human action? "
     }
   ]
 }
