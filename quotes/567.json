@@ -1,9 +1,9 @@
 {
   "name": "The Big O",
   "anilistId": 567,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:24:08.857Z",
+  "lastUpdated": "2025-08-21T12:18:18.354Z",
   "quotes": [
     {
       "id": "quote_40_1755685448857",
@@ -28,6 +28,12 @@
       "character": "Roger Smith",
       "show": "The Big O",
       "quote": "This place, Paradigm City, is a town of forgetfulness. One day, forty years ago, every person here lost all memory of anything which had occurred before that day. But humans are adaptable creatures. They make do and go on with life. If they're smart enough to figure out how to operate machinery and get electricity, they can still have something of a civilization even without a history. People can survive without knowing what did or didn't happen in the past, and each day they try their hardest to do just that. The only ones who regret the loss of these memories are the city's elderly. But memories, like nightmares, sometimes come when you least expect them."
+    },
+    {
+      "id": "quote_27_1755778698354",
+      "character": "Michael Seebach",
+      "show": "The Big O",
+      "quote": "Humans who lose the capacity to think become creatures who's existence has no value. Think, you humans who are split into two worlds, unless you want the gulf between humans to expand into oblivion, you must think!\r\n\r\n"
     }
   ]
 }
