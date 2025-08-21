@@ -1,8 +1,9 @@
 {
   "name": "Xenogears",
   "anilistId": null,
-  "totalQuotes": 3,
+  "totalQuotes": 5,
   "totalCharacters": 3,
+  "lastUpdated": "2025-08-21T12:17:16.184Z",
   "quotes": [
     {
       "id": "quote_1568_1755681990169",
@@ -21,6 +22,18 @@
       "character": "Fei Fong Wong",
       "show": "Xenogears",
       "quote": "But its power goes beyond what is necessary... Does one really need the power to destroy everything?"
+    },
+    {
+      "id": "quote_10_1755778636184",
+      "character": "Citan Uzuki",
+      "show": "Xenogears",
+      "quote": "Childish ideals pale when placed before reality. "
+    },
+    {
+      "id": "quote_11_1755778636184",
+      "character": "Fei Fong Wong",
+      "show": "Xenogears",
+      "quote": "But its power goes beyond what is necessary... Does one really need the power to destroy everything? "
     }
   ]
 }
