@@ -1,14 +1,21 @@
 {
   "name": "Scryed",
   "anilistId": 168,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
+  "lastUpdated": "2025-08-21T12:18:08.822Z",
   "quotes": [
     {
       "id": "quote_126_1755682432333",
       "character": "Kanami Yuta",
       "show": "Scryed",
       "quote": "It's not that I hate the person in front of me. If I had met him under different circumstances, this never would have happened. But I did meet him that day, and now there is no turning back. I must distinguish the difference between past and present. Everything must be left behind, and the man in front of me is the wall; the wall that I must break through. There is only one direction for me to go. I have to move forward. That's what I'm thinking..."
+    },
+    {
+      "id": "quote_22_1755778688822",
+      "character": "Kanami Yuta",
+      "show": "Scryed",
+      "quote": "It's not that I hate the person in front of me. If I had met him under different circumstances, this never would have happened. But I did meet him that day, and now there is no turning back. I must distinguish the difference between past and present. Everything must be left behind, and the man in front of me is the wall; the wall that I must break through. There is only one direction for me to go. I have to move forward. That's what I'm thinking...\r\n"
     }
   ]
 }
