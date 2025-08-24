@@ -1,4 +1,3 @@
-entrypoint = "index.js"
 modules = ["nodejs-22"]
 hidden = [".config", "package-lock.json"]
 
@@ -6,7 +5,7 @@ hidden = [".config", "package-lock.json"]
 requiredFiles = [".replit", "replit.nix", "package.json", "package-lock.json"]
 
 [nix]
-channel = "stable-24_11"
+channel = "stable-25_05"
 
 [deployment]
 run = ["node", "index.js"]
