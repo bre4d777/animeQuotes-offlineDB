@@ -1,9 +1,9 @@
 {
   "name": "Baccano!",
   "anilistId": 2251,
-  "totalQuotes": 23,
+  "totalQuotes": 28,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T15:30:05.136Z",
+  "lastUpdated": "2026-02-28T14:26:04.498Z",
   "quotes": [
     {
       "id": "quote_1518_1755681972776",
@@ -119,6 +119,31 @@
       "id": "quote_27_1755701014099",
       "character": "Graham Specter",
       "quote": "No, it's good, money is good. I'm not sure why, but everyone says money is good."
+    },
+    {
+      "id": "quote_4043_1772288764498",
+      "character": "Victor Talbot",
+      "quote": "Imagine what'd happen if I let someone like you loose on a bunch of politicians and scientists. You'd have them brainwashed in three days flat. First, you'd whisper your promises into their ears, getting them interested, and before they knew it, they'd be eating out of your goddamn hand. One of those scientists would say, \"\"Hey, this Huey fella, I think he's a really swell guy. We should talk to him and see what sort of information he might share with us\"\". And you can bet your ass by that point his brain would already be dribbling out his ears. Then oh, look, a strap on your straight jacket came loose, and oh, the next day they walk in and find out everyone in the lab is dead, and oh, Huey fucking Laforet is nowhere to be fucking seen! Oh no, oh what ever shall we fucking do Mr. Talbot, please do something even though you told us this exact thing was going to happen and we ignored you like the fucking idiots we are... and then they'll try and get me to find you, but you know what? I'll say no! Lemme say that again! No! Once more for good measure! Read my lips! Enn! Oh! No!"
+    },
+    {
+      "id": "quote_4082_1772288764498",
+      "character": "Ladd Russo",
+      "quote": "Let me tell you how important it is to keep your mouth shut. Me, I've seen so many damn people going on and on about \"\"these will be the last words you ever hear\"\" and \"\"take these words with you to the afterlife\"\", and then that gives whoever they're fighting an opening to strike back. Crazy, isn't it? I see it all the time, in books, in plays, even in real life! I don't even know why, but somehow the more comfortable someone is with killing, the more they flap their mouth when it comes time to do the deed, yakking on and on and on. As you might have guessed, I myself happen to be such a person! And therefore, as such, in light of that revelation, I'll say that one is enough, and since that one is of course myself, I want you all to shut up. You're boring. Swallow those words and take them to the afterlife yourself, if you want them delivered there so damn much."
+    },
+    {
+      "id": "quote_4112_1772288764498",
+      "character": "Gustav St. Germain",
+      "quote": "Depending on who you place in the same situation, the characteristics of said incident change kaleidoscopically. In other words, there is one incident"
+    },
+    {
+      "id": "quote_4950_1772288764498",
+      "character": "Ladd Russo",
+      "quote": "I just know you are all my newest enemies... and you have really nice guns. You people are all the same. You think you're so special! \"\"Oh yeah, with all of our wonderful guns on this pathetic train, there's no way anyone can stop us! We are invincible and unbeatable! We are so strong with all of our men and our guns!\"\" *laughs*"
+    },
+    {
+      "id": "quote_5133_1772288764498",
+      "character": "Claire Stanfield",
+      "quote": "This world is mine. I think this world may even just be a long, long dream I'm watching. You guys may just be illusions, and it can't be proven whether or not you really exist either. In other words, this world was created with me at the center. So what will happen if I die? I don't know. My imagination isn't very creative"
     }
   ]
 }
