@@ -1,9 +1,9 @@
 {
   "name": "Rurouni Kenshin",
   "anilistId": 45,
-  "totalQuotes": 53,
+  "totalQuotes": 54,
   "totalCharacters": 10,
-  "lastUpdated": "2025-08-20T15:29:48.329Z",
+  "lastUpdated": "2026-02-28T14:05:20.155Z",
   "quotes": [
     {
       "id": "quote_15_1755681735126",
@@ -269,6 +269,11 @@
       "id": "quote_21_1755703788329",
       "character": "Kenshin Himura",
       "quote": "We once fought together for an ideal with our swords. It wasn't for power or for glory, but to create a peaceful world where people could live without fear. And if you should forget about that, then what did we fight the revolution for? "
+    },
+    {
+      "id": "quote_4807_1772287520155",
+      "character": "Sanosuke Sagara",
+      "quote": "Hey, I'll have you know that I almost really did kick the bucket during that training, so don't you dare sum it all up in one word, even if it is a nice one like \"\"potential\"\"."
     }
   ]
 }
