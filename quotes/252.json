@@ -1,14 +1,19 @@
 {
   "name": "Madlax",
   "anilistId": 252,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:38:05.896Z",
+  "lastUpdated": "2026-02-28T15:09:02.579Z",
   "quotes": [
     {
       "id": "quote_55_1755686285896",
       "character": "Laetitia",
       "quote": "\"Falsity\" is changing the truth. \"Ignorance\" is not realizing the truth. \"Incompetence\" is being unable to fully grasp the truth."
+    },
+    {
+      "id": "quote_4491_1772291342579",
+      "character": "Laetitia",
+      "quote": "Falsity\"\" is changing the truth. \"\"Ignorance\"\" is not realizing the truth. \"\"Incompetence\"\" is being unable to fully grasp the truth."
     }
   ]
 }
