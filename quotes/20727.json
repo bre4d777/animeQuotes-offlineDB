@@ -1,7 +1,7 @@
 {
-  "name": "Kekkai Sensen",
+  "name": "Blood Blockade Battlefront",
   "anilistId": 20727,
-  "totalQuotes": 13,
+  "totalQuotes": 14,
   "totalCharacters": 6,
   "quotes": [
     {
@@ -68,6 +68,12 @@
       "id": "quote_1818_1755682045085",
       "character": "William Macbeth",
       "quote": "Everyone thinks at some point if what they are doing has any meaning or not. Will the day come when I get what's coming to me, or not? How much influence does my existence have on the world at all, or doesn't it?"
+    },
+    {
+      "id": "quote_1204_1772287607090",
+      "character": "Klaus von Reinherz",
+      "quote": "Step one foot outside, and with one pull of a trigger, you can inflict a fatal injury"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:06:47.090Z"
 }
