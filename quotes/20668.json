@@ -1,9 +1,9 @@
 {
   "name": "Monthly Girls' Nozaki-kun",
   "anilistId": 20668,
-  "totalQuotes": 2,
+  "totalQuotes": 3,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:47:34.827Z",
+  "lastUpdated": "2026-02-28T14:13:40.293Z",
   "quotes": [
     {
       "id": "quote_167_1755686754572",
@@ -14,6 +14,11 @@
       "id": "quote_217_1755686854827",
       "character": "Umetarō Nozaki",
       "quote": "You can't trust people who call themselves your friends after you've just met them. This is a trap. I know it. A friend who gets close to the protagonist like this is actually the boss, bullying them from the shadows, cornering them into utter despair. And then comes this line... \"The truth is I've hated you from the moment I met you!\""
+    },
+    {
+      "id": "quote_946_1772288020293",
+      "character": "Umetarō Nozaki",
+      "quote": "You can't trust people who call themselves your friends after you've just met them. This is a trap. I know it. A friend who gets close to the protagonist like this is actually the boss, bullying them from the shadows, cornering them into utter despair. And then comes this line... \"\"The truth is I've hated you from the moment I met you!"
     }
   ]
 }
