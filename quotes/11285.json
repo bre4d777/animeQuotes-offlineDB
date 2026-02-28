@@ -1,7 +1,7 @@
 {
   "name": "Black Rock Shooter",
   "anilistId": 11285,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 4,
   "quotes": [
     {
@@ -48,6 +48,12 @@
       "id": "quote_2283_1755682212753",
       "character": "Saya Irino",
       "quote": "It's good to not have any enemies, but it's normal to unintentionally make a few along the way."
+    },
+    {
+      "id": "quote_1919_1772288332519",
+      "character": "Mato Kuroi",
+      "quote": "To me, nothing is painful. There is no such thing as anguish. Even if some things seem like they hurt, deep down, everyone is a nice person. We can understand each other, or so I thought"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:18:52.519Z"
 }
