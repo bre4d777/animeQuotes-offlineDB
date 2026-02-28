@@ -1,9 +1,9 @@
 {
   "name": "NANA",
   "anilistId": 877,
-  "totalQuotes": 17,
+  "totalQuotes": 18,
   "totalCharacters": 8,
-  "lastUpdated": "2025-08-20T15:35:13.425Z",
+  "lastUpdated": "2026-02-28T14:06:49.103Z",
   "quotes": [
     {
       "id": "quote_907_1755681821000",
@@ -89,6 +89,11 @@
       "id": "quote_923_1755681821000",
       "character": "Kawamura Sachiko",
       "quote": "We are all farsighted, we give importance to those things that are far from us, while neglecting the things that are close to us... only to realize their value later, when they are out-of-reach again."
+    },
+    {
+      "id": "quote_2282_1772287609103",
+      "character": "Nana Osaki",
+      "quote": "People say that if you fight, it means you're close to someone"
     }
   ]
 }
