@@ -1,9 +1,9 @@
 {
   "name": "Mobile Suit Gundam 00",
   "anilistId": 2581,
-  "totalQuotes": 19,
+  "totalQuotes": 20,
   "totalCharacters": 9,
-  "lastUpdated": "2025-08-21T12:18:13.587Z",
+  "lastUpdated": "2026-02-28T14:32:41.490Z",
   "quotes": [
     {
       "id": "quote_2_1755682350209",
@@ -99,6 +99,11 @@
       "id": "quote_25_1755778693587",
       "character": "Setsuna F. Seiei",
       "quote": "I wanted to know why was the world so twisted? Where did this twistedness come from? How can people be so wicked without needing to be? And why don't they realize their wickedness? Why are there things that bring chaos to so many lives? Why do people rule and let themselves be ruled? And why do they hurt each other? And why despite all that do people still want to live their lives? I was just looking for answers. I thought that if I met with you, you'd give me those answers... because you're looking for the same thing along a different path from mine - from the path where people can understand each other. "
+    },
+    {
+      "id": "quote_3422_1772289161490",
+      "character": "Christina Mackenzie",
+      "quote": "Everyone has to decide for themselves which choice to make. If you fight, people may die... but if you don't fight, people may still die. There's no \"\"right\"\" or \"\"wrong\"\" choice to make."
     }
   ]
 }
