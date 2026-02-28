@@ -1,9 +1,9 @@
 {
   "name": "Devil May Cry",
   "anilistId": 1726,
-  "totalQuotes": 14,
+  "totalQuotes": 15,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T15:30:27.010Z",
+  "lastUpdated": "2026-02-28T14:23:58.348Z",
   "quotes": [
     {
       "id": "quote_76_1755686513906",
@@ -74,6 +74,11 @@
       "id": "quote_19_1755701004491",
       "character": "Nero",
       "quote": "Kid? Well... if that's how you see me, I think you'll blush a pretty pink when I kick your ass!"
+    },
+    {
+      "id": "quote_8503_1772288638348",
+      "character": "Nero",
+      "quote": "From that day forth...my arm changed...and a voice echoed \"\"Power! Give me more power!\"\" ...and if I become a demon, so be it. I'll endure the exile...anything, to protect her!"
     }
   ]
 }
