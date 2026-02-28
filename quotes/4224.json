@@ -1,9 +1,9 @@
 {
   "name": "Toradora!",
   "anilistId": 4224,
-  "totalQuotes": 24,
+  "totalQuotes": 25,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T15:30:31.808Z",
+  "lastUpdated": "2026-02-28T14:05:01.691Z",
   "quotes": [
     {
       "id": "quote_1211_1755681889858",
@@ -124,6 +124,11 @@
       "id": "quote_8_1755701002070",
       "character": "Taiga Aisaka",
       "quote": "The thing you wished for the most, is something you'll never get."
+    },
+    {
+      "id": "quote_4637_1772287501691",
+      "character": "Taiga Aisaka",
+      "quote": "Entire civilizations were built and destroyed between now and the last time you said \"\"we'll go soon\"\"! I'll have rotted and turned to ash by the time this \"\"soon\"\" of yours comes!!"
     }
   ]
 }
