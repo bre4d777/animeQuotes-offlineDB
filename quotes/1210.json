@@ -1,9 +1,9 @@
 {
-  "name": "Welcome to the N.H.K",
+  "name": "Welcome to the N-H-K",
   "anilistId": 1210,
-  "totalQuotes": 13,
+  "totalQuotes": 15,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-21T12:20:59.387Z",
+  "lastUpdated": "2026-02-28T14:01:53.422Z",
   "quotes": [
     {
       "id": "quote_1031_1755681844290",
@@ -69,6 +69,16 @@
       "id": "quote_44_1755778859387",
       "character": "Kaoru Yamazaki",
       "quote": "People like us aren't qualified to be involved in a dramatic incident such as a suicide. No matter how depressed you are or how much pain you're in, you have to return to your routine, daily life. Even if you don't come back, you'll just end up dying in vain. A dramatic death isn't befitting of us.\n\n"
+    },
+    {
+      "id": "quote_1418_1772287313422",
+      "character": "Satou Tatsuhiro",
+      "quote": "Question: Why can one keep living as a hikikomori?"
+    },
+    {
+      "id": "quote_4052_1772287313422",
+      "character": "Satou Tatsuhiro",
+      "quote": "Being alone is best. I mean, it's true, isn't it? In the end you'll be absolutely alone"
     }
   ]
 }
