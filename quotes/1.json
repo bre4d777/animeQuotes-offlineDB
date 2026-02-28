@@ -1,9 +1,9 @@
 {
   "name": "Cowboy Bebop",
   "anilistId": 1,
-  "totalQuotes": 34,
+  "totalQuotes": 35,
   "totalCharacters": 8,
-  "lastUpdated": "2025-08-20T15:34:34.177Z",
+  "lastUpdated": "2026-02-28T14:09:57.046Z",
   "quotes": [
     {
       "id": "quote_223_1755681666566",
@@ -174,6 +174,11 @@
       "id": "quote_77_1755704074177",
       "character": "Faye Valentine",
       "quote": "The past is the past and the future is the future. A man is a man and a woman is a woman. The present is the present. I am who I am and you are who you are. That's all there is to it. Does it really matter? Or do we just think it does? "
+    },
+    {
+      "id": "quote_4586_1772287797045",
+      "character": "Spike Spiegel",
+      "quote": "I was younger then, I wasn't afraid of anything, I didn't think about dying for a second. I thought I was invincible. Then I met some girl. I wanted to live, I started to think like that"
     }
   ]
 }
