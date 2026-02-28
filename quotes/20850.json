@@ -1,9 +1,9 @@
 {
   "name": "Tokyo Ghoul √A",
   "anilistId": 20850,
-  "totalQuotes": 5,
+  "totalQuotes": 6,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T14:37:50.111Z",
+  "lastUpdated": "2026-02-28T13:47:53.667Z",
   "quotes": [
     {
       "id": "quote_1370_1755681937567",
@@ -29,6 +29,11 @@
       "id": "quote_101_1755700670111",
       "character": "Kaneki Ken",
       "quote": "\"Never trust anyone too much... Remember the devil was once an angel...\"\n\n\n\n"
+    },
+    {
+      "id": "quote_14_1772286473667",
+      "character": "Kaneki Ken",
+      "quote": "Never trust anyone too much... Remember the devil was once an angel..."
     }
   ]
 }
