@@ -1,9 +1,9 @@
 {
   "name": "Hellsing",
   "anilistId": 270,
-  "totalQuotes": 37,
+  "totalQuotes": 40,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T15:33:56.976Z",
+  "lastUpdated": "2026-02-28T14:32:35.382Z",
   "quotes": [
     {
       "id": "quote_794_1755663456385",
@@ -189,6 +189,21 @@
       "id": "quote_68_1755704036976",
       "character": "Alucard",
       "quote": "To become a monster like me, is to admit you were too weak to remain a human"
+    },
+    {
+      "id": "quote_3022_1772289155381",
+      "character": "Alucard",
+      "quote": "Look well at Integra’s “battle”, Police girl! Integra cut herself open, shed her own blood… and chose to fight for her life. Giving up kills people. When people reject giving up… they finally win the right to transcend humanity. “Never give up, even if it means death”… that is the pride and dignity of our"
+    },
+    {
+      "id": "quote_4454_1772289155381",
+      "character": "Montana Max",
+      "quote": "Very well. Then krieg(German for \"\"war\"\") is what you shall have. We are a clenched fist, ready to strike down all who oppose us with our might. But, after enduring over half a century wallowing in the darkness, for us, a simple, \"\"ordinary\"\" war will no longer be sufficient. We need a massive war! A war beyond any other that man's history has ever known! We are but a single battalion, the remnants of a defeated army numbering less than a thousand strong. However, I believe that each of you old warriors is worth a thousand of their sickly soft children! We represent a force that could easily defeat an army of a million and one men!"
+    },
+    {
+      "id": "quote_4699_1772289155381",
+      "character": "Alucard",
+      "quote": "To reign over the kingdom of the world, to make its peace and write its laws"
     }
   ]
 }
