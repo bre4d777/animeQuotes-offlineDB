@@ -1,9 +1,9 @@
 {
-  "name": "Fate/zero",
+  "name": "Fate/Zero",
   "anilistId": 10087,
-  "totalQuotes": 79,
+  "totalQuotes": 83,
   "totalCharacters": 17,
-  "lastUpdated": "2025-08-20T15:34:56.187Z",
+  "lastUpdated": "2026-02-28T13:59:51.626Z",
   "quotes": [
     {
       "id": "quote_1686_1755663523585",
@@ -399,6 +399,26 @@
       "id": "quote_80_1755704096187",
       "character": "Rider",
       "quote": "  A king without greed is even worse than a figurehead! Saber, you said you would become a martyr for your ideals. In life, you must have been a pure saint. A proud and noble figure, certainly. But who can truly admire the martyr's thorny path? Who dreams of such an ending?\n\r\nA king... The king must be greedier than any other. He must laugh louder and rage harder. He must exemplify the extreme of all things, good and evil. That is why his retainers envy and adore him. And why the flames of aspiration, to be as the king is, can burn within his people.   \n\r\nProud king of chivalry... The righteousness and ideals you bore may indeed have saved your nation once. However, I'm certain you know what became of those who were saved, but left to themselves.\n\r\nYou saved them, but you never led them. You never showed them what a king should be. You abandoned your men when they lost their way. Then, alone and untroubled, you followed your own petty little ideals.\n\r\nThus, you are no true king. You are only a little girl, enraptured by a false idol of the king who serves others, but not themselves."
+    },
+    {
+      "id": "quote_4474_1772287191626",
+      "character": "Tohsaka Tokiomi",
+      "quote": "From the moment a magus is born, he is someone that has \"\"power\"\". And some day, he will achieve a \"\"greater power\"\". This responsibility was already flowing in his \"\"blood\"\" before he realized this destiny. That is what it means to be born into this world as the child of a magus."
+    },
+    {
+      "id": "quote_4539_1772287191626",
+      "character": "Rider",
+      "quote": "A king without greed is even worse than a figurehead! Saber, you said you would become a martyr for your ideals. In life, you must have been a pure saint. A proud and noble figure, certainly. But who can truly admire the martyr's thorny path? Who dreams of such an ending?"
+    },
+    {
+      "id": "quote_5200_1772287191626",
+      "character": "Rider",
+      "quote": "A cowardly thief would sneak away in the night"
+    },
+    {
+      "id": "quote_5474_1772287191626",
+      "character": "Rider",
+      "quote": "To win, but not destroy"
     }
   ]
 }
