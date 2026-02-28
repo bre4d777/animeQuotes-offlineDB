@@ -1,9 +1,9 @@
 {
-  "name": "Bokura ga Ita",
+  "name": "We Were There",
   "anilistId": 1222,
-  "totalQuotes": 25,
+  "totalQuotes": 26,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T15:29:33.981Z",
+  "lastUpdated": "2026-02-28T14:48:33.677Z",
   "quotes": [
     {
       "id": "quote_87_1755686314534",
@@ -129,6 +129,11 @@
       "id": "quote_10_1755703773981",
       "character": "Motoharu Yano",
       "quote": "Human memories aren't reliable. Your brain will add something or just glorify it, memories make you believe what happened was better than it actually was.\n"
+    },
+    {
+      "id": "quote_5592_1772290113677",
+      "character": "Motoharu Yano",
+      "quote": "Human memories are too vague. Thinking something has color when it doesn't, making things more dramatic than they really are, glorifying things... It gives new greater meaning than was actually there. That's why I don't believe any of this talk about \"\"beautiful memories\"\"."
     }
   ]
 }
