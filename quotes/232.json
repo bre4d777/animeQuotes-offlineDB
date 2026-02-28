@@ -1,9 +1,9 @@
 {
   "name": "Cardcaptor Sakura",
   "anilistId": 232,
-  "totalQuotes": 41,
+  "totalQuotes": 42,
   "totalCharacters": 12,
-  "lastUpdated": "2025-08-20T15:31:00.906Z",
+  "lastUpdated": "2026-02-28T13:50:21.132Z",
   "quotes": [
     {
       "id": "quote_128_1755686711580",
@@ -209,6 +209,11 @@
       "id": "quote_49_1755703860906",
       "character": "Fujitaka Kinomoto",
       "quote": "The world you can see isn't all out there. In the world there are a lot of fascinating things that no living soul has ever seen! And just in knowing that is one cause for happiness. I'm sure you can find happiness meant for you! It might be something you might not quite understand yet. But you'll find it, that much is certain! "
+    },
+    {
+      "id": "quote_7450_1772286621132",
+      "character": "Sakura Kinomoto",
+      "quote": "*to Li* In the elevator, when you called me \"\"Sakura\"\", it made me very happy."
     }
   ]
 }
