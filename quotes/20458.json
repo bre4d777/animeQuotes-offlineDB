@@ -1,7 +1,7 @@
 {
-  "name": "Mahouka Koukou no Rettousei",
+  "name": "The Irregular at Magic High School",
   "anilistId": 20458,
-  "totalQuotes": 7,
+  "totalQuotes": 8,
   "totalCharacters": 2,
   "quotes": [
     {
@@ -38,6 +38,12 @@
       "id": "quote_450_1755681763854",
       "character": "Miyuki Shiba",
       "quote": "Wiping out any and all injuries as if they never happened. A spell like that... Do you really believe he can cast it without paying any price? In order to rewind the Eidos changelog and make a full copy,the stored information must be read in its entirely. Needless to say, that includes the pain and suffering experienced by the injured party. Not only that, but it's transmitted instantaneously in condensed form. For example, from the time that Isori was injured until brother cast his spell, roughly 30 seconds had gone by. Whereas the time Brother spent reading the Eidos changelog... was approximately 0.2 seconds. In that blink of an eye, my Brother's mind felt 150 times the pain and suffering experienced by Isori, condensed. Everytime Brother heals someone's wounds, that is the price he pays. Do you really mean to say that he should still use that power for others?"
+    },
+    {
+      "id": "quote_3561_1772287794990",
+      "character": "Tatsuya Shiba",
+      "quote": "It's a nice thought to believe in a \"\"next time\"\". If it was a real battlefield, there wouldn't be a \"\"next time\"\"."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:09:54.990Z"
 }
