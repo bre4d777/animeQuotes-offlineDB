@@ -1,9 +1,9 @@
 {
   "name": "xxxHOLiC",
   "anilistId": 861,
-  "totalQuotes": 32,
+  "totalQuotes": 34,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T15:36:07.220Z",
+  "lastUpdated": "2026-02-28T13:50:21.904Z",
   "quotes": [
     {
       "id": "quote_704_1755681799581",
@@ -164,6 +164,16 @@
       "id": "quote_91_1755704167220",
       "character": "Yuuko Ichihara",
       "quote": "Often times, people simply deny the existence of what they do not understand, and anyone who tells them otherwise is a liar. "
+    },
+    {
+      "id": "quote_2888_1772286621904",
+      "character": "Doumeki Haruka",
+      "quote": "One day a man had a dream. He dreamed that he was a butterfly. He fluttered and fluttered, flew and flew. He so loved the feeling of freedom that he decided that he was a butterfly. But when he woke up, he wasn't a butterfly. He was a human after all. Then the man thought, \"\"I wonder if I, The Man, dreamed that I was a butterfly or if this moment is truly the dream. Maybe the man I am now is a dream that a butterfly is having."
+    },
+    {
+      "id": "quote_5309_1772286621904",
+      "character": "Yuuko Ichihara",
+      "quote": "Normal? What's normal? To only do what the masses do? And what is the benefit of that? Where is the problem in adopting a custom that is \"\"abnormal\"\" if it has no negative effect on the world at large?"
     }
   ]
 }
