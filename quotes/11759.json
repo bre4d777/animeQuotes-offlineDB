@@ -1,9 +1,9 @@
 {
   "name": "Accel World",
   "anilistId": 11759,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T15:36:46.736Z",
+  "lastUpdated": "2026-02-28T14:23:43.987Z",
   "quotes": [
     {
       "id": "quote_2200_1755682186147",
@@ -49,6 +49,11 @@
       "id": "quote_2208_1755682186147",
       "character": "Kuroyukihime",
       "quote": "No need to be afraid of the end, because this world is infinite!"
+    },
+    {
+      "id": "quote_2873_1772288623987",
+      "character": "Kuroyukihime",
+      "quote": "You’re always in my mind and it makes me both happy and sad."
     }
   ]
 }
