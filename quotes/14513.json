@@ -1,9 +1,9 @@
 {
-  "name": "Magi - The Labyrinth of Magic",
+  "name": "Magi: The Labyrinth of Magic",
   "anilistId": 14513,
-  "totalQuotes": 16,
+  "totalQuotes": 17,
   "totalCharacters": 9,
-  "lastUpdated": "2025-08-20T14:39:25.167Z",
+  "lastUpdated": "2026-02-28T13:50:20.400Z",
   "quotes": [
     {
       "id": "quote_3348_1755663677460",
@@ -84,6 +84,11 @@
       "id": "quote_213_1755700765167",
       "character": "Koumei Ren",
       "quote": "Plainly speaking war is nothing other than \"wanting to impose your beliefs on your opponent.\" It only happens for that reason. You don't have any exception to that rule. "
+    },
+    {
+      "id": "quote_1275_1772286620399",
+      "character": "Koumei Ren",
+      "quote": "Plainly speaking war is nothing other than \"\"wanting to impose your beliefs on your opponent.\"\" It only happens for that reason. You don't have any exception to that rule."
     }
   ]
 }
