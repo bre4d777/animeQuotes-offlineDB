@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9164,
-  "totalAnime": 718,
-  "totalCharacters": 2279,
-  "lastUpdated": "2026-02-28T15:00:44.335Z",
+  "totalQuotes": 9201,
+  "totalAnime": 719,
+  "totalCharacters": 2280,
+  "lastUpdated": "2026-02-28T15:10:33.914Z",
   "anime": [
     {
       "name": "Naruto",
@@ -155,6 +155,12 @@
       "characters": 8
     },
     {
+      "name": "Vampire Knight",
+      "anilistId": 3457,
+      "quotes": 71,
+      "characters": 5
+    },
+    {
       "name": "Pokémon",
       "anilistId": 527,
       "quotes": 70,
@@ -165,12 +171,6 @@
       "anilistId": 11771,
       "quotes": 69,
       "characters": 16
-    },
-    {
-      "name": "Vampire Knight",
-      "anilistId": 3457,
-      "quotes": 67,
-      "characters": 5
     },
     {
       "name": "Mobile Suit Gundam Seed",
@@ -215,6 +215,12 @@
       "characters": 10
     },
     {
+      "name": "Dragon Ball",
+      "anilistId": 223,
+      "quotes": 50,
+      "characters": 11
+    },
+    {
       "name": "Trigun",
       "anilistId": 6,
       "quotes": 50,
@@ -227,15 +233,9 @@
       "characters": 11
     },
     {
-      "name": "Dragon Ball",
-      "anilistId": 223,
-      "quotes": 49,
-      "characters": 11
-    },
-    {
-      "name": "Tengen Toppa Gurren Laggan",
+      "name": "Gurren Lagann",
       "anilistId": 2001,
-      "quotes": 48,
+      "quotes": 49,
       "characters": 6
     },
     {
@@ -275,6 +275,12 @@
       "characters": 13
     },
     {
+      "name": "The World God Only Knows",
+      "anilistId": 8525,
+      "quotes": 41,
+      "characters": 6
+    },
+    {
       "name": "Your lie in April",
       "anilistId": 20665,
       "quotes": 40,
@@ -285,12 +291,6 @@
       "anilistId": 270,
       "quotes": 40,
       "characters": 7
-    },
-    {
-      "name": "The World God Only Knows",
-      "anilistId": 8525,
-      "quotes": 40,
-      "characters": 6
     },
     {
       "name": "Puella Magi Madoka Magica",
@@ -419,6 +419,18 @@
       "characters": 6
     },
     {
+      "name": "The Garden of Sinners",
+      "anilistId": 6954,
+      "quotes": 29,
+      "characters": 5
+    },
+    {
+      "name": "Jinrui wa Suitai Shimashita",
+      "anilistId": 10357,
+      "quotes": 28,
+      "characters": 4
+    },
+    {
       "name": "Hyouka",
       "anilistId": 12189,
       "quotes": 28,
@@ -461,12 +473,6 @@
       "characters": 10
     },
     {
-      "name": "Jinrui wa Suitai Shimashita",
-      "anilistId": 10357,
-      "quotes": 26,
-      "characters": 4
-    },
-    {
       "name": "We Were There",
       "anilistId": 1222,
       "quotes": 26,
@@ -485,16 +491,22 @@
       "characters": 9
     },
     {
+      "name": "Samurai Champloo",
+      "anilistId": 205,
+      "quotes": 26,
+      "characters": 5
+    },
+    {
       "name": "Deadman Wonderland",
       "anilistId": 6880,
       "quotes": 26,
       "characters": 10
     },
     {
-      "name": "The Garden of Sinners",
-      "anilistId": 6954,
-      "quotes": 26,
-      "characters": 5
+      "name": "Mawaru Penguindrum",
+      "anilistId": 10721,
+      "quotes": 25,
+      "characters": 7
     },
     {
       "name": "The Fruit of Grisaia",
@@ -527,16 +539,16 @@
       "characters": 9
     },
     {
+      "name": "Full Moon Wo Sagashite",
+      "anilistId": 122,
+      "quotes": 24,
+      "characters": 3
+    },
+    {
       "name": "Shaman King",
       "anilistId": 154,
       "quotes": 24,
       "characters": 10
-    },
-    {
-      "name": "Samurai Champloo",
-      "anilistId": 205,
-      "quotes": 24,
-      "characters": 5
     },
     {
       "name": "Denpa Kyoushi",
@@ -561,12 +573,6 @@
       "anilistId": 10620,
       "quotes": 23,
       "characters": 7
-    },
-    {
-      "name": "Full Moon Wo Sagashite",
-      "anilistId": 122,
-      "quotes": 23,
-      "characters": 3
     },
     {
       "name": "One-Punch Man",
@@ -699,12 +705,6 @@
       "anilistId": 20770,
       "quotes": 19,
       "characters": 9
-    },
-    {
-      "name": "Mawaru Penguindrum",
-      "anilistId": 10721,
-      "quotes": 18,
-      "characters": 7
     },
     {
       "name": "NANA",
@@ -887,6 +887,12 @@
       "characters": 9
     },
     {
+      "name": "FLCL",
+      "anilistId": 227,
+      "quotes": 13,
+      "characters": 4
+    },
+    {
       "name": "Kimi ni Todoke",
       "anilistId": 6045,
       "quotes": 13,
@@ -913,12 +919,6 @@
     {
       "name": "Eyeshield 21",
       "anilistId": 15,
-      "quotes": 12,
-      "characters": 4
-    },
-    {
-      "name": "FLCL",
-      "anilistId": 227,
       "quotes": 12,
       "characters": 4
     },
@@ -1103,6 +1103,12 @@
       "characters": 4
     },
     {
+      "name": "Kamisama no Inai Nichiyoubi",
+      "anilistId": 16009,
+      "quotes": 9,
+      "characters": 3
+    },
+    {
       "name": "Spirited Away",
       "anilistId": 199,
       "quotes": 9,
@@ -1197,12 +1203,6 @@
       "anilistId": 1571,
       "quotes": 8,
       "characters": 1
-    },
-    {
-      "name": "Kamisama no Inai Nichiyoubi",
-      "anilistId": 16009,
-      "quotes": 8,
-      "characters": 3
     },
     {
       "name": "Nagi no Asukara",
@@ -1383,6 +1383,12 @@
       "anilistId": 8425,
       "quotes": 7,
       "characters": 2
+    },
+    {
+      "name": "Beelzebub",
+      "anilistId": 9513,
+      "quotes": 7,
+      "characters": 5
     },
     {
       "name": "Ano Hi Mita Hana No Namae Wo Bokutachi Wa Mada Shiranai",
@@ -1581,12 +1587,6 @@
       "anilistId": 9289,
       "quotes": 6,
       "characters": 4
-    },
-    {
-      "name": "Beelzebub",
-      "anilistId": 9513,
-      "quotes": 6,
-      "characters": 5
     },
     {
       "name": "Air",
@@ -2099,6 +2099,12 @@
       "characters": 2
     },
     {
+      "name": "Scryed",
+      "anilistId": 168,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
       "name": "Uchouten Kazoku",
       "anilistId": 17909,
       "quotes": 3,
@@ -2109,6 +2115,12 @@
       "anilistId": 18277,
       "quotes": 3,
       "characters": 2
+    },
+    {
+      "name": "Senyuu. 2",
+      "anilistId": 18523,
+      "quotes": 3,
+      "characters": 1
     },
     {
       "name": "Diamond No Ace",
@@ -2333,6 +2345,12 @@
       "characters": 2
     },
     {
+      "name": "Hayate the Combat Butler!!",
+      "anilistId": 4192,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
       "name": "Subarashii Sekai",
       "anilistId": 103789,
       "quotes": 2,
@@ -2349,6 +2367,12 @@
       "anilistId": 106,
       "quotes": 2,
       "characters": 2
+    },
+    {
+      "name": "Tough",
+      "anilistId": 1065,
+      "quotes": 2,
+      "characters": 1
     },
     {
       "name": "Hunter x Hunter 2011",
@@ -2399,10 +2423,28 @@
       "characters": 2
     },
     {
+      "name": "Dusk Maiden of Amnesia",
+      "anilistId": 12445,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
       "name": "Sakamichi no Apollon",
       "anilistId": 12531,
       "quotes": 2,
       "characters": 2
+    },
+    {
+      "name": "Saint Seiya",
+      "anilistId": 1254,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Hajimete no Aku",
+      "anilistId": 125785,
+      "quotes": 2,
+      "characters": 1
     },
     {
       "name": "Hagure Yuusha No Estetica",
@@ -2495,16 +2537,16 @@
       "characters": 1
     },
     {
-      "name": "Scryed",
-      "anilistId": 168,
-      "quotes": 2,
-      "characters": 1
-    },
-    {
       "name": "Makai Ouji : Devils And Realist",
       "anilistId": 16890,
       "quotes": 2,
       "characters": 2
+    },
+    {
+      "name": "Lunar Legend Tsukihime",
+      "anilistId": 169,
+      "quotes": 2,
+      "characters": 1
     },
     {
       "name": "Shinkyoku Soukai Polyphonica",
@@ -2529,12 +2571,6 @@
       "anilistId": 18245,
       "quotes": 2,
       "characters": 2
-    },
-    {
-      "name": "Senyuu. 2",
-      "anilistId": 18523,
-      "quotes": 2,
-      "characters": 1
     },
     {
       "name": "Warau Kanoko-sama",
@@ -2687,6 +2723,12 @@
       "characters": 1
     },
     {
+      "name": "Madlax",
+      "anilistId": 252,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
       "name": "Terra E",
       "anilistId": 2560,
       "quotes": 2,
@@ -2757,6 +2799,12 @@
       "anilistId": 482,
       "quotes": 2,
       "characters": 2
+    },
+    {
+      "name": "Asu No Yoichi",
+      "anilistId": 4999,
+      "quotes": 2,
+      "characters": 1
     },
     {
       "name": "8 Man",
@@ -2945,12 +2993,6 @@
       "characters": 1
     },
     {
-      "name": "Tough",
-      "anilistId": 1065,
-      "quotes": 1,
-      "characters": 1
-    },
-    {
       "name": "Jing: King of Bandits",
       "anilistId": 107,
       "quotes": 1,
@@ -3013,24 +3055,6 @@
     {
       "name": "Shining Hearts",
       "anilistId": 12367,
-      "quotes": 1,
-      "characters": 1
-    },
-    {
-      "name": "Dusk maiden of Amnesia",
-      "anilistId": 12445,
-      "quotes": 1,
-      "characters": 1
-    },
-    {
-      "name": "Saint Seiya",
-      "anilistId": 1254,
-      "quotes": 1,
-      "characters": 1
-    },
-    {
-      "name": "Hajimete no Aku",
-      "anilistId": 125785,
       "quotes": 1,
       "characters": 1
     },
@@ -3181,12 +3205,6 @@
     {
       "name": "The Last -Naruto the Movie-",
       "anilistId": 16870,
-      "quotes": 1,
-      "characters": 1
-    },
-    {
-      "name": "Shingetsutan Tsukihime",
-      "anilistId": 169,
       "quotes": 1,
       "characters": 1
     },
@@ -3671,12 +3689,6 @@
       "characters": 1
     },
     {
-      "name": "Madlax",
-      "anilistId": 252,
-      "quotes": 1,
-      "characters": 1
-    },
-    {
       "name": "Ghost Hound",
       "anilistId": 2596,
       "quotes": 1,
@@ -3895,12 +3907,6 @@
     {
       "name": "Bakuretsu Hunters",
       "anilistId": 495,
-      "quotes": 1,
-      "characters": 1
-    },
-    {
-      "name": "Asu No Yoichi",
-      "anilistId": 4999,
       "quotes": 1,
       "characters": 1
     },
