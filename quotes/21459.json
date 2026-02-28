@@ -1,7 +1,7 @@
 {
-  "name": "Boku no Hero Academia",
+  "name": "My Hero Academia",
   "anilistId": 21459,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 4,
   "quotes": [
     {
@@ -48,6 +48,12 @@
       "id": "quote_2151_1755682142142",
       "character": "All Might",
       "quote": "Whether you win or lose... You can always come out ahead by learning from the experience."
+    },
+    {
+      "id": "quote_571_1772286796904",
+      "character": "Shigaraki Tomura",
+      "quote": "Heroes and villains both thrive on violence, but we're still categorized. \"\"You're good.\"\" \"\"You're evil.\"\" That's how it is!! Symbol of peace? Hah!! In the end you're just a tool for violence, made to keep us down! And violence only breeds more violence."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:53:16.904Z"
 }
