@@ -1,9 +1,9 @@
 {
-  "name": "Wolf Girl & Black Prince",
+  "name": "Wolf Girl and Black Prince",
   "anilistId": 20701,
-  "totalQuotes": 10,
+  "totalQuotes": 14,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T11:00:23.696Z",
+  "lastUpdated": "2026-02-28T13:49:07.320Z",
   "quotes": [
     {
       "id": "quote_129_1755685623375",
@@ -54,6 +54,26 @@
       "id": "quote_114_1755687623696",
       "character": "Erika Shinohara",
       "quote": "I really do like you. You pissed me off, so I considered giving up for a minute, but I'd never lie about my feelings. So I won't quit. Even if you don't believe me now, I'll keep saying it until you do! I'll keep trying! This isn't over!"
+    },
+    {
+      "id": "quote_942_1772286547320",
+      "character": "Kyouya Sata",
+      "quote": "You idiot. You'd gotten yourself up in a tizzy about romance, right? \"\"Love\"\" you experience in that state is just self-delusion. There's no point in getting depressed over love like that."
+    },
+    {
+      "id": "quote_2117_1772286547320",
+      "character": "Kyouya Sata",
+      "quote": "Girls who push their kindness onto others. I hate them to death. \"\"I have a really beautiful heart, so please fall in love with me!\"\" I'm only surrounded by these types of girls and they piss me off. But it's not that simple. In the end, they are just making a fool of themselves. But you... You're different from the other girls. You don't have ulterior motives or anything to gain. You've always been easygoing. That's why to you, I thought It'd be okay to at least say thank you."
+    },
+    {
+      "id": "quote_2133_1772286547320",
+      "character": "Kyouya Sata",
+      "quote": "Boyfriends and girlfriends just want to be flooded with feelings of \"\"Aah, I feel such fulfillment\"\". They don't really love their partner."
+    },
+    {
+      "id": "quote_2134_1772286547320",
+      "character": "Kyouya Sata",
+      "quote": "Saying things like \"\"It would be troubling for her\"\" are just really convenient excuses for yourself. If you can forgive yourself like this, then you can just enjoy staying in your comfort zone, right?"
     }
   ]
 }
