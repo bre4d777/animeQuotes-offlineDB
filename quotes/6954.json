@@ -1,9 +1,9 @@
 {
   "name": "The Garden of Sinners",
   "anilistId": 6954,
-  "totalQuotes": 26,
+  "totalQuotes": 29,
   "totalCharacters": 5,
-  "lastUpdated": "2025-08-20T15:36:02.333Z",
+  "lastUpdated": "2026-02-28T15:08:37.743Z",
   "quotes": [
     {
       "id": "quote_1497_1755663512736",
@@ -134,6 +134,21 @@
       "id": "quote_88_1755704162333",
       "character": "Aozaki Touko",
       "quote": "In a business like this, there are times when you need to change as the situation demands. I switch my personality depending on how I view things.\r\n"
+    },
+    {
+      "id": "quote_4538_1772291317743",
+      "character": "Aozaki Touko",
+      "quote": "It's a rule that I've had in my life. Kill anyone who calls me \"\"Dirty Red\"\"."
+    },
+    {
+      "id": "quote_4560_1772291317743",
+      "character": "Aozaki Touko",
+      "quote": "A writer once said that \"\"a designer knows he has achieved perfection not when he has nothing left to add, but when he has nothing left to take away\"\"."
+    },
+    {
+      "id": "quote_5315_1772291317743",
+      "character": "Aozaki Touko",
+      "quote": "What does a view from a high place remind you of? The impulse you feel when you look down at the world you live in. A violent cognition that attacks you even if you refuse it. An emotion created by an overlooking view - That's \"\"far\"\". The scenery you see from a high place is magnificent. Even an ordinary landscape looks beautiful. But a vision that's too large creates a boundary between you and the world. It's more correct for you to recognize the large world you see as the world you live in rather than as the small space around you. But you can't feel that you're living in this big world no matter how hard you try.Your reasoning, represented by your knowledge, and your experience, respresented by your realization, will crash against each other. And eventually, you will lose yourself and confusion will begin. And then you will fall. Vision is not what your eyes see, but an image that your brain comprehends. Our vision is protected by our common sense. Humans cannot live outside their box... under normal circumstances."
     }
   ]
 }
