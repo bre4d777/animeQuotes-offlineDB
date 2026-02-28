@@ -1,9 +1,9 @@
 {
-  "name": "CLANNAD",
+  "name": "Clannad",
   "anilistId": 2167,
-  "totalQuotes": 43,
+  "totalQuotes": 44,
   "totalCharacters": 13,
-  "lastUpdated": "2025-08-20T15:30:39.229Z",
+  "lastUpdated": "2026-02-28T14:12:05.083Z",
   "quotes": [
     {
       "id": "quote_1059_1755681859077",
@@ -219,6 +219,11 @@
       "id": "quote_227_1755700777250",
       "character": "Furukawa Nagisa",
       "quote": "Fun things...Happy things...They can't all possibly stay unchanged. Even so, can you go on loving this place?"
+    },
+    {
+      "id": "quote_2841_1772287925083",
+      "character": "Fujibayashi Kyou",
+      "quote": "Isn’t there something strange in becoming friends because you’re asked? Friends aren’t given"
     }
   ]
 }
