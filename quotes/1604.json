@@ -1,9 +1,9 @@
 {
-  "name": "Katekyo Hitman Reborn!",
+  "name": "REBORN!",
   "anilistId": 1604,
-  "totalQuotes": 81,
+  "totalQuotes": 83,
   "totalCharacters": 18,
-  "lastUpdated": "2025-08-20T15:30:09.961Z",
+  "lastUpdated": "2026-02-28T13:54:58.221Z",
   "quotes": [
     {
       "id": "quote_1423_1755681954991",
@@ -409,6 +409,16 @@
       "id": "quote_32_1755703809961",
       "character": "Reborn",
       "quote": "A boss is someone who puts his life on the line for his subordinates. "
+    },
+    {
+      "id": "quote_1167_1772286898221",
+      "character": "Takeshi Yamamoto",
+      "quote": "When you're really in trouble, of course I'd come and help."
+    },
+    {
+      "id": "quote_5813_1772286898221",
+      "character": "Hibari Kyoya",
+      "quote": "The word \"\"discipline\"\" is something that I would never give up, no matter what. But it's not because it is my pride that I will not give it up. It's because I cannot give it up, that's why it is my pride."
     }
   ]
 }
