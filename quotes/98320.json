@@ -1,7 +1,7 @@
 {
-  "name": "Koi to Uso",
+  "name": "LOVE and LIES",
   "anilistId": 98320,
-  "totalQuotes": 7,
+  "totalQuotes": 9,
   "totalCharacters": 4,
   "quotes": [
     {
@@ -38,6 +38,17 @@
       "id": "quote_75_1755682388417",
       "character": "Nejima Yukari",
       "quote": "Even though you like someone already, your partner is decided for you... and you can't do anything about that crush. Because everyone keeps getting in the way... and saying you can't... But... when you're the one in love... the only thing that feels true... is that feeling."
+    },
+    {
+      "id": "quote_114_1772286807198",
+      "character": "Nisaka Yuusuke",
+      "quote": "If you take someone at puberty, a teen... introduce him or her to a member of the opposite sex around the same age and say, \"\"This is the person who was meant for you\"\"... and then go on to spend a lot of time together... why wouldn't you fall for them?"
+    },
+    {
+      "id": "quote_129_1772286807198",
+      "character": "Takasaki Misaki",
+      "quote": "What is love?"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:53:27.198Z"
 }
