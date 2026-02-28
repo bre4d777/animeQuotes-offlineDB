@@ -1,14 +1,19 @@
 {
   "name": "Saint Seiya",
   "anilistId": 1254,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:45:59.364Z",
+  "lastUpdated": "2026-02-28T15:08:46.077Z",
   "quotes": [
     {
       "id": "quote_169_1755686759364",
       "character": "Virgo Shaka",
       "quote": "The flowers bloom, then wither... The stars shine and one day become extinct. This earth, the sun, the galaxies and even the big universe,\nsomeday will be destroyed. Compared with that, the human life is only a blink, just a little time. In that short time - people are born, laugh, cry, fight, are injured, feel joy, sadness, hate someone, love someone. All in just a moment. And then, are embraced by the eternal sleep called death."
+    },
+    {
+      "id": "quote_3797_1772291326077",
+      "character": "Virgo Shaka",
+      "quote": "The flowers bloom, then wither... The stars shine and one day become extinct. This earth, the sun, the galaxies and even the big universe,"
     }
   ]
 }
