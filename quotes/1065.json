@@ -1,14 +1,19 @@
 {
   "name": "Tough",
   "anilistId": 1065,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:47:15.750Z",
+  "lastUpdated": "2026-02-28T15:07:16.842Z",
   "quotes": [
     {
       "id": "quote_209_1755686835750",
       "character": "Seiko Miyazawa",
       "quote": "Even the most noble of the sacrifices is based on \"self satisfaction\". Jesus Christ himself was crucified for the sake of his people for \"self satisfaction\". That's why you shouldn't expect anything in return when you help someone. Because the moment you expect something, your act would become worthless."
+    },
+    {
+      "id": "quote_3084_1772291236842",
+      "character": "Seiko Miyazawa",
+      "quote": "Even the most noble of the sacrifices is based on \"\"self satisfaction\"\". Jesus Christ himself was crucified for the sake of his people for \"\"self satisfaction\"\". That's why you shouldn't expect anything in return when you help someone. Because the moment you expect something, your act would become worthless."
     }
   ]
 }
