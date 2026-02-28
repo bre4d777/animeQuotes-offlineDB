@@ -1,9 +1,9 @@
 {
-  "name": "Bakuman",
+  "name": "Bakuman.",
   "anilistId": 7674,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:23:56.116Z",
+  "lastUpdated": "2026-02-28T14:23:56.335Z",
   "quotes": [
     {
       "id": "quote_12_1755685436116",
@@ -49,6 +49,11 @@
       "id": "quote_20_1755685436116",
       "character": "Moritaka Mashiro",
       "quote": "Those who don't give up no matter how many walls they run into, those are the ones who'll make their dreams come true."
+    },
+    {
+      "id": "quote_4418_1772288636335",
+      "character": "Akito Takagi",
+      "quote": "I think manga and life are the same thing. A weekly manga lasts for a week, and life lasts until you die. It's making the best of whatever time you're given. So, you can't hold back. \"\"Conceit\"\" and \"\"Luck\"\" are important, but the most important one is \"\"Hard Work\"\"."
     }
   ]
 }
