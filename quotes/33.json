@@ -1,9 +1,9 @@
 {
   "name": "Berserk",
   "anilistId": 33,
-  "totalQuotes": 50,
+  "totalQuotes": 52,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T15:33:52.107Z",
+  "lastUpdated": "2026-02-28T13:53:04.637Z",
   "quotes": [
     {
       "id": "quote_1401_1755663501465",
@@ -254,6 +254,16 @@
       "id": "quote_67_1755704032107",
       "character": "Griffith",
       "quote": "It is my perception, that a true friend never relies on another's dream. A person with the potential to be my true friend, must be able to find his reason for life without my help. And, he would have to put his heart and soul into protecting his dream. He would never hesitate to fight for his dream, even against me. For me, a true friend is one who stands equal on those terms.\n\n"
+    },
+    {
+      "id": "quote_2012_1772286784637",
+      "character": "Guts",
+      "quote": "Look, look around carefully. Strain your eyes. At the darkness around us... At the darkness... around me. You said, \"\"anywhere but here\"\". This is where. Here at the border. Gathered by the winds. Those who've met their final destiny hanging between jealousy and regret. Those who failed, swept together here. You say \"\"It doesn't matter where\"\". If you follow me, this is where you'll go! This is your Eden!"
+    },
+    {
+      "id": "quote_2652_1772286784637",
+      "character": "Berserk",
+      "quote": "Dreams, ambition, love, hope"
     }
   ]
 }
