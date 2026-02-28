@@ -1,7 +1,7 @@
 {
   "name": "Arakawa Under the Bridge",
   "anilistId": 7647,
-  "totalQuotes": 8,
+  "totalQuotes": 10,
   "totalCharacters": 2,
   "quotes": [
     {
@@ -43,6 +43,17 @@
       "id": "quote_2177_1755682162845",
       "character": "Kou Ichinomiya",
       "quote": "If there is a creator, he surely made this world too large. This is inconvenient for us small, fearful humans. For all the world's vastness, we can't measure the distance between ourselves. There are 6 billion of us, yet still, everyone is alone. That is why we are all frantically searching for that one person we need no distance from."
+    },
+    {
+      "id": "quote_201_1772287082046",
+      "character": "Kou Ichinomiya",
+      "quote": "Leaving my mother's body, for the first time I learned the chill of cold air and the warmth of human hands."
+    },
+    {
+      "id": "quote_2048_1772287082046",
+      "character": "Kou Ichinomiya",
+      "quote": "A \"\"Wish"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:58:02.046Z"
 }
