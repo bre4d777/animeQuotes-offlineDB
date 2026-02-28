@@ -1,9 +1,9 @@
 {
-  "name": "Toaru Majutsu no Index",
+  "name": "A Certain Magical Index",
   "anilistId": 4654,
-  "totalQuotes": 36,
+  "totalQuotes": 39,
   "totalCharacters": 11,
-  "lastUpdated": "2025-08-21T12:16:54.544Z",
+  "lastUpdated": "2026-02-28T14:08:34.555Z",
   "quotes": [
     {
       "id": "quote_2092_1755682130796",
@@ -184,6 +184,21 @@
       "id": "quote_2_1755778614544",
       "character": "Accelerator",
       "quote": "I strive for something beyond the strongest, that challenging me would be the most ridiculous thought ever, that fighting me would be a sin! *To Imouto 10032* "
+    },
+    {
+      "id": "quote_1225_1772287714555",
+      "character": "Accelerator",
+      "quote": "Listen, even if someone is suffering before you, the kind of person that can take up arms without hesitation to shoot down the villain is no better than a villain himself. The kind that doesn’t care about others, doesn’t give 2nd chances"
+    },
+    {
+      "id": "quote_1299_1772287714555",
+      "character": "Accelerator",
+      "quote": "I'm too naive. With thoughts like \"\"If I saved someone maybe I can start all over again."
+    },
+    {
+      "id": "quote_4268_1772287714555",
+      "character": "Kamijou Touma",
+      "quote": "Things like heroes are unnecessary. Can't you save someone if you're standing right there, at that very spot? In front of your eyes are people that don't wish to cry that are crying! In front of your eyes are people that can only clench their teeth while struggling and can't even say the words \"\"please save me\"\"! Is that not enough?"
     }
   ]
 }
