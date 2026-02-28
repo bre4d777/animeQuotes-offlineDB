@@ -1,7 +1,7 @@
 {
   "name": "Nisekoi",
   "anilistId": 18897,
-  "totalQuotes": 29,
+  "totalQuotes": 31,
   "totalCharacters": 12,
   "quotes": [
     {
@@ -148,6 +148,17 @@
       "id": "quote_801_1755681809184",
       "character": "Ruri Miyamoto",
       "quote": "There's no law that says you can't go after someone just because he's already in love with someone else."
+    },
+    {
+      "id": "quote_649_1772286877631",
+      "character": "Tachibana Chika",
+      "quote": "You have no intention of reciprocating my daughter's feelings, do you? So what gives you the right to speak in that way? Perhaps you wish to appease your guilty conscience. Would you not call that \"\"hypocrisy\"\"?"
+    },
+    {
+      "id": "quote_2790_1772286877631",
+      "character": "Maiko Shuu",
+      "quote": "In the end, mustering the courage to confess is up to the people"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:54:37.631Z"
 }
