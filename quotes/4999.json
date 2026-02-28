@@ -1,14 +1,19 @@
 {
   "name": "Asu No Yoichi",
   "anilistId": 4999,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:58:42.726Z",
+  "lastUpdated": "2026-02-28T15:08:46.063Z",
   "quotes": [
     {
       "id": "quote_84_1755687522726",
       "character": "Yoichi Karasuma",
       "quote": "There is no match that you know that \"you can't win\". Even if a match like that exists, the thing that decides the defeat is your heart. That makes you think you've \"lost\"."
+    },
+    {
+      "id": "quote_3787_1772291326063",
+      "character": "Yoichi Karasuma",
+      "quote": "There is no match that you know that \"\"you can't win\"\". Even if a match like that exists, the thing that decides the defeat is your heart. That makes you think you've \"\"lost\"\"."
     }
   ]
 }
