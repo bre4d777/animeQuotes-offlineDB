@@ -1,7 +1,7 @@
 {
-  "name": "Ore Monogatari!!",
+  "name": "My Love Story!!",
   "anilistId": 20946,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 2,
   "quotes": [
     {
@@ -48,6 +48,12 @@
       "id": "quote_2222_1755663587021",
       "character": "Takeo Gouda",
       "quote": "The important things in life, like feelings, hearts, and souls, are all things you can never see. The more you try to reassure yourself that they exist, the more you feel they don't exist at all. But right now, I know for sure that they do exist. They're so close, you can almost touch them."
+    },
+    {
+      "id": "quote_1243_1772286892052",
+      "character": "Makoto Sunakawa",
+      "quote": "Just because someone's friends with a nice person doesn't mean they're nice, too."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:54:52.052Z"
 }
