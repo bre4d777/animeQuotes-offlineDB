@@ -1,9 +1,9 @@
 {
-  "name": "One thousand and one nights",
+  "name": "A Thousand & One Nights",
   "anilistId": 3038,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:38:39.668Z",
+  "lastUpdated": "2026-02-28T14:22:19.200Z",
   "quotes": [
     {
       "id": "quote_106_1755686319668",
@@ -24,6 +24,11 @@
       "id": "quote_109_1755686319668",
       "character": "Sehara",
       "quote": "You cannot understand that which you do not know, and that misunderstanding breeds hatred."
+    },
+    {
+      "id": "quote_1354_1772288539200",
+      "character": "Sehara",
+      "quote": "When I thought that I would never see you again. I was crippled by the pain of my heart being shattered. For the first time, I came to realize that \"\"Heartbreak\"\" was not just a word in books."
     }
   ]
 }
