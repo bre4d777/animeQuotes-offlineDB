@@ -1,9 +1,9 @@
 {
-  "name": "Kuroko No Basket",
+  "name": "Kuroko's Basketball",
   "anilistId": 11771,
-  "totalQuotes": 66,
+  "totalQuotes": 69,
   "totalCharacters": 16,
-  "lastUpdated": "2025-08-20T15:36:44.340Z",
+  "lastUpdated": "2026-02-28T14:01:55.461Z",
   "quotes": [
     {
       "id": "quote_650_1755663445177",
@@ -334,6 +334,21 @@
       "id": "quote_551_1755700831736",
       "character": "Midorima Shintarou",
       "quote": "Don't give up! There's no shame in falling down! True shame is to not stand up again!\n"
+    },
+    {
+      "id": "quote_2525_1772287315461",
+      "character": "Reo Mibuchi",
+      "quote": "It's not about doing what it takes to win. Sei-chan told me before \"\"Winning is just like breathing\"\". Victory isn't something that Sei-chan seeks. It's a natural part of his life. It's a basic bodily function."
+    },
+    {
+      "id": "quote_2527_1772287315461",
+      "character": "Midorima Shintarou",
+      "quote": "Don’t you know the saying ‘Man proposes"
+    },
+    {
+      "id": "quote_3754_1772287315461",
+      "character": "Kuroko No Basket",
+      "quote": "No matter how hard you practice, \"\"someday\"\" and \"\"maybe\"\" aren't good enough. I need to know if you have ambitious goals and the will to accomplish them."
     }
   ]
 }
