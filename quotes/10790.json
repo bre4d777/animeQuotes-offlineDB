@@ -1,9 +1,9 @@
 {
-  "name": "Kore wa Zombie Desu ka? of the Dead",
+  "name": "Is this A Zombie? of the Dead",
   "anilistId": 10790,
-  "totalQuotes": 2,
+  "totalQuotes": 3,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:31:29.062Z",
+  "lastUpdated": "2026-02-28T14:22:33.570Z",
   "quotes": [
     {
       "id": "quote_54_1755685889062",
@@ -14,6 +14,11 @@
       "id": "quote_55_1755685889062",
       "character": "Sarasvati",
       "quote": "You hide a tree by putting it in a forest; you hide a person among other people!"
+    },
+    {
+      "id": "quote_1385_1772288553570",
+      "character": "Sarasvati",
+      "quote": "You hide a tree by putting it in a forest"
     }
   ]
 }
