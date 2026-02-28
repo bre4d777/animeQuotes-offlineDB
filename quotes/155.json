@@ -1,14 +1,19 @@
 {
   "name": "X",
   "anilistId": 155,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:55:09.839Z",
+  "lastUpdated": "2026-02-28T14:53:39.477Z",
   "quotes": [
     {
       "id": "quote_51_1755687309839",
       "character": "Hokuto Sumeragi",
       "quote": "In this world, there is no such thing as \"absolute\"!"
+    },
+    {
+      "id": "quote_2097_1772290419477",
+      "character": "Hokuto Sumeragi",
+      "quote": "In this world, there is no such thing as \"\"absolute\"\"!"
     }
   ]
 }
