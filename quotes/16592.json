@@ -1,9 +1,9 @@
 {
-  "name": "Danganronpa The Animation",
+  "name": "Danganronpa: The Animation",
   "anilistId": 16592,
-  "totalQuotes": 26,
+  "totalQuotes": 29,
   "totalCharacters": 8,
-  "lastUpdated": "2025-08-20T10:58:47.513Z",
+  "lastUpdated": "2026-02-28T14:11:57.035Z",
   "quotes": [
     {
       "id": "quote_3356_1755663680299",
@@ -134,6 +134,21 @@
       "id": "quote_86_1755687527513",
       "character": "Junko Enoshima",
       "quote": "For me, despair is not a goal, or a set of principles, or a lifestyle, or even an instinct... It's what defines me as Junko Enoshima! It's just my characterization! That's why I'm able to pursue despair with such purity!"
+    },
+    {
+      "id": "quote_1220_1772287917035",
+      "character": "Kyōko Kirigiri",
+      "quote": "Also, the \"\"fear\"\" experience is a little different from yours, I imagine. You're afraid of what you might lose, right? But I'm afraid of what I've already lost."
+    },
+    {
+      "id": "quote_3181_1772287917035",
+      "character": "Monokuma",
+      "quote": "I came to realize something. Parenthesis are amazing! No matter how negative something sounds, if you throw \"\"LOL\"\" in some parentheses behind it - it becomes positive!"
+    },
+    {
+      "id": "quote_3597_1772287917035",
+      "character": "Aoi Asahina",
+      "quote": "Sakura-chan would probably say \"\"Strength can only be obtained by standing up to adversity. So I choose to walk down the path filled with thorns."
     }
   ]
 }
