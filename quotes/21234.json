@@ -1,7 +1,7 @@
 {
-  "name": "Boku dake ga Inai Machi",
+  "name": "ERASED",
   "anilistId": 21234,
-  "totalQuotes": 8,
+  "totalQuotes": 11,
   "totalCharacters": 4,
   "quotes": [
     {
@@ -43,6 +43,22 @@
       "id": "quote_2506_1755682322649",
       "character": "Fujinuma Sachiko",
       "quote": "Thinking it's your fault after the fact is just pointless."
+    },
+    {
+      "id": "quote_175_1772286993202",
+      "character": "Satoru Fujinuma",
+      "quote": "Every day, the words cross my mind.  \"\"If I had done this back then...\"\" but they don't take the sincere form of regret.  The words are just an excuse that come to my mind then disappear."
+    },
+    {
+      "id": "quote_847_1772286993202",
+      "character": "Hinazuki Kayo",
+      "quote": "When I get bigger, big enough to go somewhere by myself, I want to go to a land that’s far away."
+    },
+    {
+      "id": "quote_884_1772286993202",
+      "character": "Satoru Fujinuma",
+      "quote": "Believing in someone.\"\" That's a weird phrase, isn't it? After all, if you truly believed in a person, you wouldn't need to say, \"\"I believe you.\"\" It's like saying, \"\"I believe in air.\"\" I don't mean to say that \"\"believing in something\"\" is like a lie. \"\"Believing\"\" is really a term of hope of wanting to believe."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:56:33.202Z"
 }
