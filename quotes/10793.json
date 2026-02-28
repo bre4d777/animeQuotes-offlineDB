@@ -1,9 +1,9 @@
 {
   "name": "Guilty Crown",
   "anilistId": 10793,
-  "totalQuotes": 23,
+  "totalQuotes": 24,
   "totalCharacters": 9,
-  "lastUpdated": "2025-08-21T12:18:04.053Z",
+  "lastUpdated": "2026-02-28T13:59:59.822Z",
   "quotes": [
     {
       "id": "quote_2622_1755663626061",
@@ -119,6 +119,11 @@
       "id": "quote_20_1755778684053",
       "character": "Gai Tsutsugami",
       "quote": "There are only two paths you can choose. You can sit quietly and be selected out of this world, or you can adapt and change.\r\n"
+    },
+    {
+      "id": "quote_4222_1772287199821",
+      "character": "Menjou Hare",
+      "quote": "Hey, Shu, have you ever read a picture book called \"\"The Kind King\"\"? The king was really kind, he gave everyone money and land, until finally... the country was gone. The people were all mad at the king. But I really loved him. I think he was my first love. You're like that king, Shu. The way you lose because of your kindness. You know what? I think you're going to be a great king."
     }
   ]
 }
