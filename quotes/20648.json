@@ -1,7 +1,7 @@
 {
-  "name": "Shōnen Hollywood - Holly Stage for 49",
+  "name": "SHONEN HOLLYWOOD -HOLLY STAGE FOR 49-",
   "anilistId": 20648,
-  "totalQuotes": 2,
+  "totalQuotes": 3,
   "totalCharacters": 2,
   "quotes": [
     {
@@ -13,6 +13,12 @@
       "id": "quote_2004_1755682107836",
       "character": "Tsuyoto Hiiragi",
       "quote": "Even if they were mistakes, all you have to do is keep walking down that mistaken path. Simply assume that nothing lies before you except mistaken paths. Just so you know, the \"right\" path can be surprisingly dull. There are times when it's right to take the mistaken path. The moment you decide a path is right, all of the paths behind it become right, regardless of what it originally was."
+    },
+    {
+      "id": "quote_1841_1772289080880",
+      "character": "Tsuyoto Hiiragi",
+      "quote": "Even if they were mistakes, all you have to do is keep walking down that mistaken path. Simply assume that nothing lies before you except mistaken paths. Just so you know, the \"\"right\"\" path can be surprisingly dull. There are times when it's right to take the mistaken path. The moment you decide a path is right, all of the paths behind it become right, regardless of what it originally was."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:31:20.880Z"
 }
