@@ -1,7 +1,7 @@
 {
-  "name": "Baka to Test to Shoukanjuu",
+  "name": "Baka and Test - Summon the Beasts",
   "anilistId": 6347,
-  "totalQuotes": 41,
+  "totalQuotes": 44,
   "totalCharacters": 13,
   "quotes": [
     {
@@ -208,6 +208,22 @@
       "id": "quote_1776_1755682030711",
       "character": "Sakamoto Yuuji",
       "quote": "If it's almost there, it means it's still not complete."
+    },
+    {
+      "id": "quote_658_1772287627688",
+      "character": "Himeji Mizuki",
+      "quote": "I'm sorry for not saying this to you, Akihisa-kun. I know I shouldn't hide this from you, but I was wondering whether I should tell you this. Because if I told you that, you'll definitely tell me \"\"you should go\"\", or something like that. I understand you'll say that for my sake, but I don't wish to hear you say anything like a farewell to me, Akihisa-kun. Because-- I like you, Akihisa-kun!"
+    },
+    {
+      "id": "quote_684_1772287627688",
+      "character": "Yoshii Akihisa",
+      "quote": "No, I do want to be the hero... But since it’s a rare chance, I want to repay what I borrowed. Uu... how should I say it? I’m really troubled. I bet everything on such an important match, yet I didn't accomplish anything before this thing ends. I can only wish that others can finish off this wish that I would never give up on. Should I be depressed, or angry, or is it an inexplicable feeling... I don't know how to express it, but anyway—"
+    },
+    {
+      "id": "quote_2763_1772287627688",
+      "character": "Yoshii Akihisa",
+      "quote": "People normally say that mood and body have a close relationship. As the heart becomes weaker, the body will fall ill"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:07:07.688Z"
 }
