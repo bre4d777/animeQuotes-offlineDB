@@ -1,7 +1,7 @@
 {
-  "name": "Aria the Animation",
+  "name": "ARIA The ANIMATION",
   "anilistId": 477,
-  "totalQuotes": 7,
+  "totalQuotes": 9,
   "totalCharacters": 3,
   "quotes": [
     {
@@ -38,6 +38,17 @@
       "id": "quote_105_1755682411840",
       "character": "Grandma Akino",
       "quote": "Isn’t it okay to consider sad or hard times as the seasoning that lets you enjoy life? You can change them inside yourself so that you can enjoy anything. It truly is a wonderful thing, living each day."
+    },
+    {
+      "id": "quote_2119_1772288208705",
+      "character": "Alicia Florence",
+      "quote": "Have you heard this story before? When a certain traveler left on a journey in search of what he desired, he was told by his teacher: \"\"You mustn't lose your way, because if you make one wrong turn - you will never find what you were searching for\"\". But, unfortunately, the traveler lost his way and hung his head in dismay... But when he raised his head again, what he saw before him was a world even more magnificent than what the traveler was searching for. It means if you don't make mistakes, there are things you won't discover."
+    },
+    {
+      "id": "quote_2863_1772288208705",
+      "character": "Akari Mizunashi",
+      "quote": "Mysterious things, when you were a child you used to think \"\"They exist for sure!\"\", but all of a sudden it changes to, \"\"It would be nice if they existed.\"\" I wonder when and why you stop believing."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:16:48.705Z"
 }
