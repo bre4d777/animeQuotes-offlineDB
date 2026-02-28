@@ -1,7 +1,7 @@
 {
-  "name": "Shigatsu Wa Kimi No Uso",
+  "name": "Your lie in April",
   "anilistId": 20665,
-  "totalQuotes": 36,
+  "totalQuotes": 40,
   "totalCharacters": 5,
   "quotes": [
     {
@@ -183,6 +183,27 @@
       "id": "quote_2060_1755682119331",
       "character": "Kousei Arima",
       "quote": "But I wasn't slacking at all. I practiced till I passed out. I gave my all. And if I still turned in a sloppy performance after all that, then... That's who I am now. It's the current me, playing with everything I've got."
+    },
+    {
+      "id": "quote_912_1772287485272",
+      "character": "Kaori Miyazono",
+      "quote": "Was I able to live inside someone’s heart? Was I able to live inside your heart? Do you think you’ll remember me at least a little? You’d better not hit \"\"reset!\"\" Don’t forget me, okay? That’s a promise, okay? I'm glad it’s you, after all. Will I reach you? I hope I can reach you."
+    },
+    {
+      "id": "quote_1526_1772287485272",
+      "character": "Kaori Miyazono",
+      "quote": "You're you. \"\"To be like you...\"\" - it's not so ambiguous as that. No matter what you do, no matter how you change, it doesn't mean a thing. you're just you, no matter what."
+    },
+    {
+      "id": "quote_2564_1772287485272",
+      "character": "Hiroko Seto",
+      "quote": "When you say you \"\"can't hear the sound\"\", doesn't it really mean you \"\"aren't restrained by the sound\"\"? Rather than the sound you hear with your ears, an image inside you is boiling up from the depths of yourself and taking over without you even knowing. The sound inside, the landscape in your heart, your wishes, a sound loaded with your thoughts"
+    },
+    {
+      "id": "quote_2568_1772287485272",
+      "character": "Hiroko Seto",
+      "quote": "Defiance toward parents is an establishment of one's self"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:04:45.272Z"
 }
