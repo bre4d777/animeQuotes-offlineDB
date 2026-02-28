@@ -1,7 +1,7 @@
 {
   "name": "Sword Art Online II",
   "anilistId": 20594,
-  "totalQuotes": 13,
+  "totalQuotes": 14,
   "totalCharacters": 5,
   "quotes": [
     {
@@ -68,6 +68,12 @@
       "id": "quote_1984_1755682096057",
       "character": "Konno Yuuki",
       "quote": "You hit me with everything you had, so I decided I could trust you with everything I had."
+    },
+    {
+      "id": "quote_1139_1772287483208",
+      "character": "Konno Yuuki",
+      "quote": "Because of my last moments are such fulfillment."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:04:43.208Z"
 }
