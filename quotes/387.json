@@ -1,9 +1,9 @@
 {
   "name": "Haibane Renmei",
   "anilistId": 387,
-  "totalQuotes": 5,
+  "totalQuotes": 6,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:45:49.709Z",
+  "lastUpdated": "2026-02-28T14:04:57.607Z",
   "quotes": [
     {
       "id": "quote_161_1755686749709",
@@ -29,6 +29,11 @@
       "id": "quote_165_1755686749709",
       "character": "Kuu",
       "quote": "Inside my mind, there's a beautiful cup. A very beautiful, clear cup. And tiny drops kept falling into it: \"drip, drip, drip\", slowly but steadily, everyday. And today, I felt the cup had finally become completely full."
+    },
+    {
+      "id": "quote_2365_1772287497607",
+      "character": "Kuu",
+      "quote": "Inside my mind, there's a beautiful cup. A very beautiful, clear cup. And tiny drops kept falling into it: \"\"drip, drip, drip\"\", slowly but steadily, everyday. And today, I felt the cup had finally become completely full."
     }
   ]
 }
