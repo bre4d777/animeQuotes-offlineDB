@@ -1,7 +1,7 @@
 {
   "name": "Beelzebub",
   "anilistId": 9513,
-  "totalQuotes": 6,
+  "totalQuotes": 7,
   "totalCharacters": 5,
   "quotes": [
     {
@@ -33,6 +33,12 @@
       "id": "quote_886_1755663470018",
       "character": "Hidetora Toujo",
       "quote": "A world where power is everything. A world where the weak are trampled on and crushed. That’s why I… prayed to get stronger. To be strong like him."
+    },
+    {
+      "id": "quote_4051_1772291110527",
+      "character": "Shinobu Takamiya",
+      "quote": "In manga, there's always a character who gets a sudden boost of power, right? Usually, it's when they're driven into a corner. Readers actually call it a \"\"convenient power up\"\", but it actually does happen in the real world as well. We humans only truly show our mettle when we're pushed into a corner."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T15:05:10.527Z"
 }
