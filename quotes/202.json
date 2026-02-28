@@ -1,9 +1,9 @@
 {
   "name": "Wolf's Rain",
   "anilistId": 202,
-  "totalQuotes": 24,
+  "totalQuotes": 25,
   "totalCharacters": 8,
-  "lastUpdated": "2025-08-20T15:31:29.853Z",
+  "lastUpdated": "2026-02-28T14:22:17.128Z",
   "quotes": [
     {
       "id": "quote_1596_1755681995740",
@@ -124,6 +124,11 @@
       "id": "quote_51_1755703889853",
       "character": "Spirit Owl",
       "quote": "When are we born? When do we die? Why are we born? Why do we die? The world has been destroyed and we've fallen countless times, always resurrecting from the ashes as Paradise. It has happened before, and it will happen again. An endless cycle of life and death. The world is a Paradise that was opened by someone, but this era too is almost at an end. We have acquired the means to exceed our natural span of life, never suspecting that the world itself was finalized in its existence. This knowledge has left me in despair, my fate has fallen and scattered like the petals of a dying flower, like the blast from a sand storm it has been worn down and weathered away. As if to be purified, the world will be encased in ice so that it can return to the beginning once more. Paradise is a world that is opened by someone...  "
+    },
+    {
+      "id": "quote_7044_1772288537128",
+      "character": "Kiba",
+      "quote": "They say there's no such place... as Paradise. Even if you search to the ends of the Earth, there's nothing there. No matter how far you walk, it's always the same road. It just goes on and on. But, in spite of that... Why am I so driven to find it? A voice calls to me... It says, \"\"Search for Paradise."
     }
   ]
 }
