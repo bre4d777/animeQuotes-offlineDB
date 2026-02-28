@@ -1,9 +1,9 @@
 {
   "name": "Death Note",
   "anilistId": 1535,
-  "totalQuotes": 120,
+  "totalQuotes": 124,
   "totalCharacters": 10,
-  "lastUpdated": "2025-08-20T15:30:00.320Z",
+  "lastUpdated": "2026-02-28T14:15:13.222Z",
   "quotes": [
     {
       "id": "quote_119_1755681657655",
@@ -604,6 +604,26 @@
       "id": "quote_1320_1755700905970",
       "character": "Light Yagami",
       "quote": "I am the god of the new world!"
+    },
+    {
+      "id": "quote_4743_1772288113222",
+      "character": "L Lawliet",
+      "quote": "There are... many types of monsters in this world: Monsters who will not show themselves and who cause trouble"
+    },
+    {
+      "id": "quote_4969_1772288113222",
+      "character": "Misa Amane",
+      "quote": "Careful what you do, cuz \"\"God\"\" is watching your every move. Hold my hand in the dark street, for if you do I know that I'll.. be safe. Even if I'm far away and alone, I can be sure that you'll find me there, this I know. You told me close for a while, so quite. You tell me everything. If I forget what to say then you'll come to me and tell me again, yes you'd tell me once again. But what happens when I know it all and what should I do, after that, what then?"
+    },
+    {
+      "id": "quote_6777_1772288113222",
+      "character": "Near",
+      "quote": "To Mello, it's like playing a videogame against me, I think. \"\"See who gets to Kira, the last boss, first."
+    },
+    {
+      "id": "quote_6806_1772288113222",
+      "character": "Light Yagami",
+      "quote": "But you know the saying, \"\"play with fire, and you'll get burned\"\". I'll make you regret underestimating L...underestimating me."
     }
   ]
 }
