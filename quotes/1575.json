@@ -1,9 +1,9 @@
 {
   "name": "Code Geass: Lelouch of the Rebellion",
   "anilistId": 1575,
-  "totalQuotes": 116,
+  "totalQuotes": 123,
   "totalCharacters": 16,
-  "lastUpdated": "2025-08-20T15:29:26.665Z",
+  "lastUpdated": "2026-02-28T14:10:01.284Z",
   "quotes": [
     {
       "id": "quote_3381_1755663683260",
@@ -584,6 +584,41 @@
       "id": "quote_3_1755703766665",
       "character": "C.C.",
       "quote": "There are times in life when you have to distance yourself from those you love, because you love them. "
+    },
+    {
+      "id": "quote_1847_1772287801284",
+      "character": "Lloyd Asplund",
+      "quote": "I think that \"\"truth\"\" is something that is covered up most of the time."
+    },
+    {
+      "id": "quote_2128_1772287801284",
+      "character": "Luciano Bradley",
+      "quote": "I think being able to openly take away the most important thing people have... \"\"life\"\"... is the best thing that ever happened!"
+    },
+    {
+      "id": "quote_2520_1772287801284",
+      "character": "Lelouch Lamperouge",
+      "quote": "But the mass we call \"\"world\"\" keeps turning, ignoring our individual desires."
+    },
+    {
+      "id": "quote_2851_1772287801284",
+      "character": "C.C.",
+      "quote": "People... humans are the being who look for happiness. What the Britannian boy, Lelouch, wanted to have was nothing but a small happiness. It's nothing special. At least at the root of his motives, there were only humble wishes that were simply natural to any human. Who could ever disclaim such dreams and such vows? Who could ever have the right to do that? However, whoever you might be, without choice, you have to deal with others and with the world, and have yourself be regulated and set down. Therefore, in the face of the world's wills, your personal speculations are so ephemeral they can't help being overwhelmed. Sins and punishments, destiny and judgment. What stands in front of Lelouch is the past he brought forth by himself. Is it a hatred resulting from the fact that humans are humans? Nonetheless, for now, we should be grateful... Yes, at least, to the fact that humans are the beings who look for happiness."
+    },
+    {
+      "id": "quote_8184_1772287801284",
+      "character": "Jeremiah Gottwald",
+      "quote": "It's not over yet!... Carve into your memories \"\"Jeremiah Gottwald\"\", the memorable name of the man that made you taste defeat!"
+    },
+    {
+      "id": "quote_8197_1772287801284",
+      "character": "Nunnally Lamperouge",
+      "quote": "I see... You're taking things awfully fast, but like they say, \"\"to each his own\"\". I suppose that's just how you operate---*Lelouch drops a teacup on the ground*"
+    },
+    {
+      "id": "quote_8229_1772287801284",
+      "character": "Lelouch Lamperouge",
+      "quote": "Since that day, I've always been living a lie. The fact that I'm alive is a lie. My name is a lie, my background is a lie. It's full of lies. Fed up with the world that does not change at all, but I can't even let everything go because of this despair called \"\"lies\"\". But now I have in my hands...this power, therefore!"
     }
   ]
 }
