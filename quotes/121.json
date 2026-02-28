@@ -1,9 +1,9 @@
 {
   "name": "Fullmetal Alchemist",
   "anilistId": 121,
-  "totalQuotes": 159,
+  "totalQuotes": 169,
   "totalCharacters": 24,
-  "lastUpdated": "2025-08-20T15:30:14.843Z",
+  "lastUpdated": "2026-02-28T14:22:12.988Z",
   "quotes": [
     {
       "id": "quote_1518_1755663515440",
@@ -799,6 +799,56 @@
       "id": "quote_38_1755703814843",
       "character": "Maes Hughes",
       "quote": "Okay, here's the plan: We go in, start hitting people, and see where it takes us.\n\n"
+    },
+    {
+      "id": "quote_3687_1772288532988",
+      "character": "Greed",
+      "quote": "I long to see someone who died\"\", \"\"I want to be rich\"\", \"\"I want women\"\", \"\"I want to protect the world\"\"... They're all desires. In other words, wishes. If you ask me, there's neither \"\"right\"\" or \"\"wrong\"\" when it comes to greed. You humans go around ranking certain types of greed in order from good to bad, which makes you so hard to understand."
+    },
+    {
+      "id": "quote_3761_1772288532988",
+      "character": "Roy Mustang",
+      "quote": "Life that has been lost cannot be brought back again. That very truth is what shows us the meaning and value"
+    },
+    {
+      "id": "quote_3888_1772288532988",
+      "character": "Edward Elric",
+      "quote": "Everything we see, everyone we meet, is caught up in a great unseen flow. But it's bigger than that. It's the entire world, the entire universe even. And compared to something as big as that, Al, you and I are tiny, not even the size of ants. Only one small part within a much greater flow. Nothing more than a fraction of the whole. But by putting all those \"\"ones\"\" together, you get one great \"\"All\"\", just like Teacher said. The flow of this universe follows laws of such magnitude that you and I can't even imagine them."
+    },
+    {
+      "id": "quote_3905_1772288532988",
+      "character": "Edward Elric",
+      "quote": "I've been thinking about this for a long time. We put all our trust in alchemy but in the end... what is it? \"\"Alchemy is the science of understanding the flow of matter and its laws. The process of comprehension, deconstruction, and reconstruction. The world flows too. It must also follow laws. Everything circulates. Even death is a part of that circulation. You must accept the flow.\"\" Hmm, Teacher sure drummed that into our heads, didn't she? I thought I understood it. But I don't understand anything... Mom proves that. Now here I am again, trying desperately to figure out a way to do the impossible. I'm such a hopeless idiot. All this time and I haven't grown up one bit. I thought maybe the rain would wash away some of this gloom that's been following me... but right now, every drop that hits my face is even more depressing."
+    },
+    {
+      "id": "quote_4089_1772288532988",
+      "character": "King Bradley",
+      "quote": "Open your eyes. \"\"God\"\" is nothing more than a construct created by man to inspire fear and promote order."
+    },
+    {
+      "id": "quote_5372_1772288532988",
+      "character": "Solf J. Kimblee",
+      "quote": "Look straight at the people you kill"
+    },
+    {
+      "id": "quote_6292_1772288532988",
+      "character": "Maes Hughes",
+      "quote": "A normal guy like me isn't going to be part of some \"\"believe it or not\"\" episode with nutcases like you guys!"
+    },
+    {
+      "id": "quote_7189_1772288532988",
+      "character": "Solf J. Kimblee",
+      "quote": "I think you've got me all wrong. My motives aren't so sophisticated as \"\"revenge\"\" or \"\"honor\"\" or any of that... The reason I killed all of those men... was because I could. It's that simple."
+    },
+    {
+      "id": "quote_7208_1772288532988",
+      "character": "Edward Elric",
+      "quote": "AHA-HA-HA! Alchemists are scientists. We don't believe in unprovable concepts like \"\"God\"\". *Rose looks angry* We strive to uncover the principles of creation in the matter of the world, to pursue truth... *gazes at Leto statue* it's ironic that we scientists... who don't believe in God... are in a sense the closest things to him."
+    },
+    {
+      "id": "quote_8514_1772288532988",
+      "character": "Edward Elric",
+      "quote": "*Ed crawling through an air vent* Che. It's so tight, it makes me glad that I have a small body."
     }
   ]
 }
