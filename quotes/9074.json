@@ -1,13 +1,19 @@
 {
-  "name": "Arakawa under the Bridge × Bridge",
+  "name": "Arakawa Under the Bridge x Bridge",
   "anilistId": 9074,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
   "quotes": [
     {
       "id": "quote_1662_1755682013189",
       "character": "Kou Ichinomiya",
       "quote": "Waiting for you. Waiting for your knock. The only thing that stands between us is a single door. Shining\nmy shoes and placing a piece of eternally fresh bread in my pocket, I prepare for my journey.\nWhen you're ready, just look up at me.  Right now, I'm just waiting for you...Waiting for your knock."
+    },
+    {
+      "id": "quote_276_1772287195828",
+      "character": "Kou Ichinomiya",
+      "quote": "Waiting for you. Waiting for your knock. The only thing that stands between us is a single door. Shining"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:59:55.828Z"
 }
