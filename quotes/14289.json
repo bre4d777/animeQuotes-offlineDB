@@ -1,7 +1,7 @@
 {
-  "name": "Sukitte Ii Na Yo",
+  "name": "Say \"I love you\".",
   "anilistId": 14289,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 4,
   "quotes": [
     {
@@ -48,6 +48,12 @@
       "id": "quote_135_1755663427240",
       "character": "Mei Tachibana",
       "quote": "When you trust someone and get to know them, you eventually learn about their wounds too."
+    },
+    {
+      "id": "quote_2379_1772288435840",
+      "character": "Mei Tachibana",
+      "quote": "They'll use you as much as they want"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:20:35.841Z"
 }
