@@ -1,9 +1,9 @@
 {
   "name": "Dragon Ball",
   "anilistId": 223,
-  "totalQuotes": 49,
+  "totalQuotes": 50,
   "totalCharacters": 11,
-  "lastUpdated": "2025-08-20T15:29:55.501Z",
+  "lastUpdated": "2026-02-28T15:08:46.044Z",
   "quotes": [
     {
       "id": "quote_972_1755681835574",
@@ -249,6 +249,11 @@
       "id": "quote_23_1755703795501",
       "character": "Android 16",
       "quote": "Gohan, let it go. It is not a sin to fight for the right cause. There are those who words alone will not reach. "
+    },
+    {
+      "id": "quote_3683_1772291326044",
+      "character": "Piccolo",
+      "quote": "Gohan, you showed me that power is nothing without being guided without love."
     }
   ]
 }
