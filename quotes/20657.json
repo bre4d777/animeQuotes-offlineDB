@@ -1,9 +1,9 @@
 {
-  "name": "Saenai Heroine no Sodatekata",
+  "name": "Saekano: How to Raise a Boring Girlfriend",
   "anilistId": 20657,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:31:17.246Z",
+  "lastUpdated": "2026-02-28T14:03:20.414Z",
   "quotes": [
     {
       "id": "quote_47_1755685877246",
@@ -24,6 +24,11 @@
       "id": "quote_50_1755685877246",
       "character": "Tomoya Aki",
       "quote": "You're the idiot. 3D girls are way too much trouble. The first is \"the most beautiful girl in school\", which is a dating sim trope that doesn't exist in reality. The second is having two of the \"most beautiful girl in school\" is contradictory. And the third is the wildly mistaken notion that a 2D-only otaku like me could possibly have a 3D girlfriend."
+    },
+    {
+      "id": "quote_1205_1772287400414",
+      "character": "Tomoya Aki",
+      "quote": "You're the idiot. 3D girls are way too much trouble. The first is \"\"the most beautiful girl in school\"\", which is a dating sim trope that doesn't exist in reality. The second is having two of the \"\"most beautiful girl in school\"\" is contradictory. And the third is the wildly mistaken notion that a 2D-only otaku like me could possibly have a 3D girlfriend."
     }
   ]
 }
