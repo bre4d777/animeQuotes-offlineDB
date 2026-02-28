@@ -1,0 +1,4316 @@
+{
+  "totalQuotes": 9164,
+  "totalAnime": 718,
+  "totalCharacters": 2279,
+  "lastUpdated": "2026-02-28T15:00:44.335Z",
+  "anime": [
+    {
+      "name": "Naruto",
+      "anilistId": 20,
+      "quotes": 530,
+      "characters": 48
+    },
+    {
+      "name": "Bleach",
+      "anilistId": 269,
+      "quotes": 447,
+      "characters": 50
+    },
+    {
+      "name": "ONE PIECE",
+      "anilistId": 21,
+      "quotes": 229,
+      "characters": 41
+    },
+    {
+      "name": "Soul Eater",
+      "anilistId": 3588,
+      "quotes": 204,
+      "characters": 17
+    },
+    {
+      "name": "Fruits Basket",
+      "anilistId": 120,
+      "quotes": 199,
+      "characters": 18
+    },
+    {
+      "name": "Kuroshitsuji",
+      "anilistId": 4898,
+      "quotes": 189,
+      "characters": 14
+    },
+    {
+      "name": "Black Butler: Book of the Atlantic",
+      "anilistId": 21425,
+      "quotes": 186,
+      "characters": 14
+    },
+    {
+      "name": "Fairy Tail",
+      "anilistId": 6702,
+      "quotes": 175,
+      "characters": 32
+    },
+    {
+      "name": "Fullmetal Alchemist",
+      "anilistId": 121,
+      "quotes": 169,
+      "characters": 24
+    },
+    {
+      "name": "Gintama",
+      "anilistId": 918,
+      "quotes": 166,
+      "characters": 20
+    },
+    {
+      "name": "Death Note",
+      "anilistId": 1535,
+      "quotes": 124,
+      "characters": 10
+    },
+    {
+      "name": "Code Geass: Lelouch of the Rebellion",
+      "anilistId": 1575,
+      "quotes": 123,
+      "characters": 16
+    },
+    {
+      "name": "D.Gray-man",
+      "anilistId": 1482,
+      "quotes": 109,
+      "characters": 12
+    },
+    {
+      "name": "Yu Yu Hakusho: Ghostfiles",
+      "anilistId": 392,
+      "quotes": 105,
+      "characters": 11
+    },
+    {
+      "name": "My Teen Romantic Comedy SNAFU",
+      "anilistId": 14813,
+      "quotes": 89,
+      "characters": 4
+    },
+    {
+      "name": "Fate/Zero",
+      "anilistId": 10087,
+      "quotes": 83,
+      "characters": 17
+    },
+    {
+      "name": "REBORN!",
+      "anilistId": 1604,
+      "quotes": 83,
+      "characters": 18
+    },
+    {
+      "name": "Fate/stay night",
+      "anilistId": 356,
+      "quotes": 81,
+      "characters": 11
+    },
+    {
+      "name": "InuYasha",
+      "anilistId": 249,
+      "quotes": 80,
+      "characters": 9
+    },
+    {
+      "name": "Detective Conan",
+      "anilistId": 235,
+      "quotes": 79,
+      "characters": 13
+    },
+    {
+      "name": "PandoraHearts",
+      "anilistId": 5530,
+      "quotes": 78,
+      "characters": 13
+    },
+    {
+      "name": "Attack on Titan",
+      "anilistId": 16498,
+      "quotes": 77,
+      "characters": 20
+    },
+    {
+      "name": "Durarara!!",
+      "anilistId": 6746,
+      "quotes": 75,
+      "characters": 12
+    },
+    {
+      "name": "The Melancholy of Haruhi Suzumiya",
+      "anilistId": 849,
+      "quotes": 75,
+      "characters": 7
+    },
+    {
+      "name": "Bakemonogatari",
+      "anilistId": 5081,
+      "quotes": 72,
+      "characters": 8
+    },
+    {
+      "name": "Pokémon",
+      "anilistId": 527,
+      "quotes": 70,
+      "characters": 15
+    },
+    {
+      "name": "Kuroko's Basketball",
+      "anilistId": 11771,
+      "quotes": 69,
+      "characters": 16
+    },
+    {
+      "name": "Vampire Knight",
+      "anilistId": 3457,
+      "quotes": 67,
+      "characters": 5
+    },
+    {
+      "name": "Mobile Suit Gundam Seed",
+      "anilistId": 93,
+      "quotes": 66,
+      "characters": 13
+    },
+    {
+      "name": "Ouran High School Host Club",
+      "anilistId": 853,
+      "quotes": 63,
+      "characters": 7
+    },
+    {
+      "name": "Dragon Ball Z",
+      "anilistId": 813,
+      "quotes": 55,
+      "characters": 16
+    },
+    {
+      "name": "My Teen Romantic Comedy SNAFU TOO!",
+      "anilistId": 20698,
+      "quotes": 54,
+      "characters": 5
+    },
+    {
+      "name": "Rurouni Kenshin",
+      "anilistId": 45,
+      "quotes": 54,
+      "characters": 10
+    },
+    {
+      "name": "Berserk",
+      "anilistId": 33,
+      "quotes": 52,
+      "characters": 7
+    },
+    {
+      "name": "Angel Beats!",
+      "anilistId": 6547,
+      "quotes": 52,
+      "characters": 10
+    },
+    {
+      "name": "Trigun",
+      "anilistId": 6,
+      "quotes": 50,
+      "characters": 7
+    },
+    {
+      "name": "PSYCHO-PASS",
+      "anilistId": 13601,
+      "quotes": 49,
+      "characters": 11
+    },
+    {
+      "name": "Dragon Ball",
+      "anilistId": 223,
+      "quotes": 49,
+      "characters": 11
+    },
+    {
+      "name": "Tengen Toppa Gurren Laggan",
+      "anilistId": 2001,
+      "quotes": 48,
+      "characters": 6
+    },
+    {
+      "name": "Sailor Moon",
+      "anilistId": 530,
+      "quotes": 47,
+      "characters": 7
+    },
+    {
+      "name": "Tokyo Ghoul",
+      "anilistId": 20605,
+      "quotes": 44,
+      "characters": 14
+    },
+    {
+      "name": "Clannad",
+      "anilistId": 2167,
+      "quotes": 44,
+      "characters": 13
+    },
+    {
+      "name": "Baka and Test - Summon the Beasts",
+      "anilistId": 6347,
+      "quotes": 44,
+      "characters": 13
+    },
+    {
+      "name": "Cardcaptor Sakura",
+      "anilistId": 232,
+      "quotes": 42,
+      "characters": 12
+    },
+    {
+      "name": "Axis Powers: Hetalia",
+      "anilistId": 5060,
+      "quotes": 41,
+      "characters": 13
+    },
+    {
+      "name": "Your lie in April",
+      "anilistId": 20665,
+      "quotes": 40,
+      "characters": 5
+    },
+    {
+      "name": "Hellsing",
+      "anilistId": 270,
+      "quotes": 40,
+      "characters": 7
+    },
+    {
+      "name": "The World God Only Knows",
+      "anilistId": 8525,
+      "quotes": 40,
+      "characters": 6
+    },
+    {
+      "name": "Puella Magi Madoka Magica",
+      "anilistId": 9756,
+      "quotes": 40,
+      "characters": 8
+    },
+    {
+      "name": "Spice and Wolf",
+      "anilistId": 2966,
+      "quotes": 39,
+      "characters": 4
+    },
+    {
+      "name": "A Certain Magical Index",
+      "anilistId": 4654,
+      "quotes": 39,
+      "characters": 11
+    },
+    {
+      "name": "Umineko no Naku Koro ni",
+      "anilistId": 4896,
+      "quotes": 39,
+      "characters": 14
+    },
+    {
+      "name": "K-ON!",
+      "anilistId": 5680,
+      "quotes": 39,
+      "characters": 6
+    },
+    {
+      "name": "Steins;Gate",
+      "anilistId": 9253,
+      "quotes": 39,
+      "characters": 6
+    },
+    {
+      "name": "Natsume's Book of Friends",
+      "anilistId": 188619,
+      "quotes": 37,
+      "characters": 6
+    },
+    {
+      "name": "Cowboy Bebop",
+      "anilistId": 1,
+      "quotes": 35,
+      "characters": 8
+    },
+    {
+      "name": "Hunter X Hunter",
+      "anilistId": 136,
+      "quotes": 34,
+      "characters": 16
+    },
+    {
+      "name": "xxxHOLiC",
+      "anilistId": 861,
+      "quotes": 34,
+      "characters": 2
+    },
+    {
+      "name": "Zetsuen No Tempest",
+      "anilistId": 14075,
+      "quotes": 33,
+      "characters": 5
+    },
+    {
+      "name": "No Game, No Life",
+      "anilistId": 19815,
+      "quotes": 33,
+      "characters": 6
+    },
+    {
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "anilistId": 5114,
+      "quotes": 33,
+      "characters": 15
+    },
+    {
+      "name": "Sword Art Online",
+      "anilistId": 11757,
+      "quotes": 31,
+      "characters": 8
+    },
+    {
+      "name": "Nisekoi",
+      "anilistId": 18897,
+      "quotes": 31,
+      "characters": 12
+    },
+    {
+      "name": "Legend of the Galactic Heroes",
+      "anilistId": 820,
+      "quotes": 31,
+      "characters": 11
+    },
+    {
+      "name": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
+      "anilistId": 10947,
+      "quotes": 30,
+      "characters": 3
+    },
+    {
+      "name": "Inazuma Eleven",
+      "anilistId": 5231,
+      "quotes": 30,
+      "characters": 8
+    },
+    {
+      "name": "Danganronpa: The Animation",
+      "anilistId": 16592,
+      "quotes": 29,
+      "characters": 8
+    },
+    {
+      "name": "Claymore",
+      "anilistId": 1818,
+      "quotes": 29,
+      "characters": 8
+    },
+    {
+      "name": "ReLIFE",
+      "anilistId": 21049,
+      "quotes": 29,
+      "characters": 6
+    },
+    {
+      "name": "Hyouka",
+      "anilistId": 12189,
+      "quotes": 28,
+      "characters": 5
+    },
+    {
+      "name": "Tonari No Kaibutsu-kun",
+      "anilistId": 14227,
+      "quotes": 28,
+      "characters": 8
+    },
+    {
+      "name": "Hai to Gensou no Grimgar",
+      "anilistId": 21428,
+      "quotes": 28,
+      "characters": 8
+    },
+    {
+      "name": "Baccano!",
+      "anilistId": 2251,
+      "quotes": 28,
+      "characters": 7
+    },
+    {
+      "name": "Lovely Complex",
+      "anilistId": 2034,
+      "quotes": 27,
+      "characters": 2
+    },
+    {
+      "name": "Akame ga KILL!",
+      "anilistId": 20613,
+      "quotes": 27,
+      "characters": 13
+    },
+    {
+      "name": "Neon Genesis Evangelion",
+      "anilistId": 30,
+      "quotes": 27,
+      "characters": 10
+    },
+    {
+      "name": "Jinrui wa Suitai Shimashita",
+      "anilistId": 10357,
+      "quotes": 26,
+      "characters": 4
+    },
+    {
+      "name": "We Were There",
+      "anilistId": 1222,
+      "quotes": 26,
+      "characters": 4
+    },
+    {
+      "name": "Tsubasa RESERVoir CHRoNiCLE",
+      "anilistId": 177,
+      "quotes": 26,
+      "characters": 5
+    },
+    {
+      "name": "HAIKYU!!",
+      "anilistId": 20464,
+      "quotes": 26,
+      "characters": 9
+    },
+    {
+      "name": "Deadman Wonderland",
+      "anilistId": 6880,
+      "quotes": 26,
+      "characters": 10
+    },
+    {
+      "name": "The Garden of Sinners",
+      "anilistId": 6954,
+      "quotes": 26,
+      "characters": 5
+    },
+    {
+      "name": "The Fruit of Grisaia",
+      "anilistId": 17729,
+      "quotes": 25,
+      "characters": 3
+    },
+    {
+      "name": "Wolf's Rain",
+      "anilistId": 202,
+      "quotes": 25,
+      "characters": 8
+    },
+    {
+      "name": "Toradora!",
+      "anilistId": 4224,
+      "quotes": 25,
+      "characters": 4
+    },
+    {
+      "name": "Ao no Exorcist",
+      "anilistId": 9919,
+      "quotes": 25,
+      "characters": 10
+    },
+    {
+      "name": "Guilty Crown",
+      "anilistId": 10793,
+      "quotes": 24,
+      "characters": 9
+    },
+    {
+      "name": "Shaman King",
+      "anilistId": 154,
+      "quotes": 24,
+      "characters": 10
+    },
+    {
+      "name": "Samurai Champloo",
+      "anilistId": 205,
+      "quotes": 24,
+      "characters": 5
+    },
+    {
+      "name": "Denpa Kyoushi",
+      "anilistId": 21018,
+      "quotes": 24,
+      "characters": 3
+    },
+    {
+      "name": "Kaichou Wa Maid-Sama!",
+      "anilistId": 7054,
+      "quotes": 24,
+      "characters": 4
+    },
+    {
+      "name": "Sekai Ichi Hatsukoi",
+      "anilistId": 9926,
+      "quotes": 24,
+      "characters": 5
+    },
+    {
+      "name": "Mirai Nikki",
+      "anilistId": 10620,
+      "quotes": 23,
+      "characters": 7
+    },
+    {
+      "name": "Full Moon Wo Sagashite",
+      "anilistId": 122,
+      "quotes": 23,
+      "characters": 3
+    },
+    {
+      "name": "One-Punch Man",
+      "anilistId": 21087,
+      "quotes": 23,
+      "characters": 8
+    },
+    {
+      "name": "Kokoro Connect",
+      "anilistId": 11887,
+      "quotes": 22,
+      "characters": 4
+    },
+    {
+      "name": "Monster",
+      "anilistId": 124756,
+      "quotes": 22,
+      "characters": 7
+    },
+    {
+      "name": "Honey and Clover",
+      "anilistId": 16,
+      "quotes": 22,
+      "characters": 5
+    },
+    {
+      "name": "Saiyuki",
+      "anilistId": 4481,
+      "quotes": 22,
+      "characters": 5
+    },
+    {
+      "name": "Solanin",
+      "anilistId": 4731,
+      "quotes": 22,
+      "characters": 7
+    },
+    {
+      "name": "Monster",
+      "anilistId": 19,
+      "quotes": 22,
+      "characters": 7
+    },
+    {
+      "name": "Kamisama No Memochou",
+      "anilistId": 10568,
+      "quotes": 21,
+      "characters": 5
+    },
+    {
+      "name": "Sakurasou no Pet na Kanojo",
+      "anilistId": 13759,
+      "quotes": 21,
+      "characters": 9
+    },
+    {
+      "name": "Naruto: Shippuden",
+      "anilistId": 1735,
+      "quotes": 21,
+      "characters": 9
+    },
+    {
+      "name": "Ao Haru Ride",
+      "anilistId": 20596,
+      "quotes": 21,
+      "characters": 6
+    },
+    {
+      "name": "Junjou Romantica",
+      "anilistId": 3092,
+      "quotes": 21,
+      "characters": 7
+    },
+    {
+      "name": "Yu-Gi-Oh!",
+      "anilistId": 550,
+      "quotes": 21,
+      "characters": 7
+    },
+    {
+      "name": "07 Ghost",
+      "anilistId": 5525,
+      "quotes": 21,
+      "characters": 9
+    },
+    {
+      "name": "Nisemonogatari",
+      "anilistId": 11597,
+      "quotes": 20,
+      "characters": 10
+    },
+    {
+      "name": "Assassination Classroom Second Season",
+      "anilistId": 21170,
+      "quotes": 20,
+      "characters": 6
+    },
+    {
+      "name": "Gate: Jieitai Kanochi nite Kaku Tatakaeri",
+      "anilistId": 21364,
+      "quotes": 20,
+      "characters": 8
+    },
+    {
+      "name": "Mobile Suit Gundam 00",
+      "anilistId": 2581,
+      "quotes": 20,
+      "characters": 9
+    },
+    {
+      "name": "Air Gear",
+      "anilistId": 857,
+      "quotes": 20,
+      "characters": 7
+    },
+    {
+      "name": "Jormungand",
+      "anilistId": 12413,
+      "quotes": 19,
+      "characters": 5
+    },
+    {
+      "name": "Log Horizon",
+      "anilistId": 17265,
+      "quotes": 19,
+      "characters": 9
+    },
+    {
+      "name": "Akatsuki no Yona",
+      "anilistId": 20770,
+      "quotes": 19,
+      "characters": 9
+    },
+    {
+      "name": "Mawaru Penguindrum",
+      "anilistId": 10721,
+      "quotes": 18,
+      "characters": 7
+    },
+    {
+      "name": "NANA",
+      "anilistId": 877,
+      "quotes": 18,
+      "characters": 8
+    },
+    {
+      "name": "Gate",
+      "anilistId": 20994,
+      "quotes": 18,
+      "characters": 8
+    },
+    {
+      "name": "Little Busters!",
+      "anilistId": 13655,
+      "quotes": 17,
+      "characters": 8
+    },
+    {
+      "name": "Magi: The Labyrinth of Magic",
+      "anilistId": 14513,
+      "quotes": 17,
+      "characters": 9
+    },
+    {
+      "name": "Princess Mononoke",
+      "anilistId": 164,
+      "quotes": 17,
+      "characters": 4
+    },
+    {
+      "name": "Ghost in the Shell",
+      "anilistId": 43,
+      "quotes": 17,
+      "characters": 6
+    },
+    {
+      "name": "Assassination Classroom",
+      "anilistId": 20755,
+      "quotes": 16,
+      "characters": 4
+    },
+    {
+      "name": "LIAR GAME",
+      "anilistId": 197754,
+      "quotes": 16,
+      "characters": 4
+    },
+    {
+      "name": "Vinland Saga",
+      "anilistId": 101348,
+      "quotes": 15,
+      "characters": 7
+    },
+    {
+      "name": "Golden Time",
+      "anilistId": 102755,
+      "quotes": 15,
+      "characters": 4
+    },
+    {
+      "name": "Medaka Box",
+      "anilistId": 11761,
+      "quotes": 15,
+      "characters": 5
+    },
+    {
+      "name": "Welcome to the N-H-K",
+      "anilistId": 1210,
+      "quotes": 15,
+      "characters": 4
+    },
+    {
+      "name": "Devil Survivor 2",
+      "anilistId": 16512,
+      "quotes": 15,
+      "characters": 6
+    },
+    {
+      "name": "Devil May Cry",
+      "anilistId": 1726,
+      "quotes": 15,
+      "characters": 2
+    },
+    {
+      "name": "SERVAMP",
+      "anilistId": 21269,
+      "quotes": 15,
+      "characters": 7
+    },
+    {
+      "name": "Eureka Seven",
+      "anilistId": 237,
+      "quotes": 15,
+      "characters": 6
+    },
+    {
+      "name": "Shiki",
+      "anilistId": 7724,
+      "quotes": 15,
+      "characters": 8
+    },
+    {
+      "name": "Death Parade",
+      "anilistId": 20931,
+      "quotes": 15,
+      "characters": 6
+    },
+    {
+      "name": "Shiki",
+      "anilistId": 145834,
+      "quotes": 15,
+      "characters": 8
+    },
+    {
+      "name": "Monogatari Series: Second Season",
+      "anilistId": 17074,
+      "quotes": 14,
+      "characters": 9
+    },
+    {
+      "name": "Noragami",
+      "anilistId": 20447,
+      "quotes": 14,
+      "characters": 5
+    },
+    {
+      "name": "Sword Art Online II",
+      "anilistId": 20594,
+      "quotes": 14,
+      "characters": 5
+    },
+    {
+      "name": "Wolf Girl and Black Prince",
+      "anilistId": 20701,
+      "quotes": 14,
+      "characters": 3
+    },
+    {
+      "name": "Blood Blockade Battlefront",
+      "anilistId": 20727,
+      "quotes": 14,
+      "characters": 6
+    },
+    {
+      "name": "Sakamoto desu ga?",
+      "anilistId": 21595,
+      "quotes": 14,
+      "characters": 5
+    },
+    {
+      "name": "Jigoku Shoujo",
+      "anilistId": 228,
+      "quotes": 14,
+      "characters": 1
+    },
+    {
+      "name": "Nabari no Ou",
+      "anilistId": 3655,
+      "quotes": 14,
+      "characters": 10
+    },
+    {
+      "name": "Black Lagoon",
+      "anilistId": 889,
+      "quotes": 14,
+      "characters": 6
+    },
+    {
+      "name": "Space Brothers",
+      "anilistId": 12431,
+      "quotes": 13,
+      "characters": 7
+    },
+    {
+      "name": "Brynhildr in the Darkness",
+      "anilistId": 20534,
+      "quotes": 13,
+      "characters": 9
+    },
+    {
+      "name": "Kimi ni Todoke",
+      "anilistId": 6045,
+      "quotes": 13,
+      "characters": 4
+    },
+    {
+      "name": "Prince Of Tennis",
+      "anilistId": 6749,
+      "quotes": 13,
+      "characters": 6
+    },
+    {
+      "name": "Higurashi No Naku Koro Ni",
+      "anilistId": 934,
+      "quotes": 13,
+      "characters": 7
+    },
+    {
+      "name": "Re:ZERO -Starting Life in Another World-",
+      "anilistId": 21355,
+      "quotes": 13,
+      "characters": 4
+    },
+    {
+      "name": "Eyeshield 21",
+      "anilistId": 15,
+      "quotes": 12,
+      "characters": 4
+    },
+    {
+      "name": "FLCL",
+      "anilistId": 227,
+      "quotes": 12,
+      "characters": 4
+    },
+    {
+      "name": "Hellsing Ultimate",
+      "anilistId": 777,
+      "quotes": 12,
+      "characters": 3
+    },
+    {
+      "name": "Another",
+      "anilistId": 11111,
+      "quotes": 11,
+      "characters": 4
+    },
+    {
+      "name": "Chihayafuru 2",
+      "anilistId": 14397,
+      "quotes": 11,
+      "characters": 8
+    },
+    {
+      "name": "K",
+      "anilistId": 14467,
+      "quotes": 11,
+      "characters": 6
+    },
+    {
+      "name": "Kenichi: The Mightiest Disciple",
+      "anilistId": 1559,
+      "quotes": 11,
+      "characters": 7
+    },
+    {
+      "name": "The Perfect Insider",
+      "anilistId": 21190,
+      "quotes": 11,
+      "characters": 2
+    },
+    {
+      "name": "ERASED",
+      "anilistId": 21234,
+      "quotes": 11,
+      "characters": 4
+    },
+    {
+      "name": "Elfen Lied",
+      "anilistId": 226,
+      "quotes": 11,
+      "characters": 4
+    },
+    {
+      "name": "Shugo Chara",
+      "anilistId": 2923,
+      "quotes": 11,
+      "characters": 5
+    },
+    {
+      "name": "D.N.Angel",
+      "anilistId": 61,
+      "quotes": 11,
+      "characters": 5
+    },
+    {
+      "name": "Gakuen Alice",
+      "anilistId": 74,
+      "quotes": 11,
+      "characters": 7
+    },
+    {
+      "name": "Denpa Onna to Seishun Otoko",
+      "anilistId": 9379,
+      "quotes": 11,
+      "characters": 5
+    },
+    {
+      "name": "Chihayafuru",
+      "anilistId": 10800,
+      "quotes": 10,
+      "characters": 5
+    },
+    {
+      "name": "Black Rock Shooter",
+      "anilistId": 11285,
+      "quotes": 10,
+      "characters": 4
+    },
+    {
+      "name": "Code:Breaker",
+      "anilistId": 11703,
+      "quotes": 10,
+      "characters": 2
+    },
+    {
+      "name": "Accel World",
+      "anilistId": 11759,
+      "quotes": 10,
+      "characters": 3
+    },
+    {
+      "name": "Natsuyuki Rendezvous",
+      "anilistId": 13585,
+      "quotes": 10,
+      "characters": 3
+    },
+    {
+      "name": "Say \"I love you\".",
+      "anilistId": 14289,
+      "quotes": 10,
+      "characters": 4
+    },
+    {
+      "name": "Hataraku Maou-sama!",
+      "anilistId": 15809,
+      "quotes": 10,
+      "characters": 7
+    },
+    {
+      "name": "Lucky Star",
+      "anilistId": 1887,
+      "quotes": 10,
+      "characters": 2
+    },
+    {
+      "name": "The World Is Still Beautiful",
+      "anilistId": 20599,
+      "quotes": 10,
+      "characters": 3
+    },
+    {
+      "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+      "anilistId": 20920,
+      "quotes": 10,
+      "characters": 8
+    },
+    {
+      "name": "My Love Story!!",
+      "anilistId": 20946,
+      "quotes": 10,
+      "characters": 2
+    },
+    {
+      "name": "My Hero Academia",
+      "anilistId": 21459,
+      "quotes": 10,
+      "characters": 4
+    },
+    {
+      "name": "Kino No Tabi",
+      "anilistId": 3466,
+      "quotes": 10,
+      "characters": 2
+    },
+    {
+      "name": "Princess Tutu",
+      "anilistId": 721,
+      "quotes": 10,
+      "characters": 4
+    },
+    {
+      "name": "Arakawa Under the Bridge",
+      "anilistId": 7647,
+      "quotes": 10,
+      "characters": 2
+    },
+    {
+      "name": "Bakuman.",
+      "anilistId": 7674,
+      "quotes": 10,
+      "characters": 4
+    },
+    {
+      "name": "Highschool Of The Dead",
+      "anilistId": 8074,
+      "quotes": 10,
+      "characters": 4
+    },
+    {
+      "name": "AGAINST",
+      "anilistId": 104337,
+      "quotes": 10,
+      "characters": 4
+    },
+    {
+      "name": "Spirited Away",
+      "anilistId": 199,
+      "quotes": 9,
+      "characters": 3
+    },
+    {
+      "name": "Hamatora: The Animation",
+      "anilistId": 20521,
+      "quotes": 9,
+      "characters": 3
+    },
+    {
+      "name": "Parasyte -the maxim-",
+      "anilistId": 20623,
+      "quotes": 9,
+      "characters": 3
+    },
+    {
+      "name": "Alice in Borderland",
+      "anilistId": 20952,
+      "quotes": 9,
+      "characters": 4
+    },
+    {
+      "name": "Rokka -Braves of the Six Flowers-",
+      "anilistId": 20955,
+      "quotes": 9,
+      "characters": 4
+    },
+    {
+      "name": "School Rumble",
+      "anilistId": 24,
+      "quotes": 9,
+      "characters": 4
+    },
+    {
+      "name": "Paradise Kiss",
+      "anilistId": 322,
+      "quotes": 9,
+      "characters": 3
+    },
+    {
+      "name": "Gantz",
+      "anilistId": 384,
+      "quotes": 9,
+      "characters": 4
+    },
+    {
+      "name": "Mushishi",
+      "anilistId": 457,
+      "quotes": 9,
+      "characters": 4
+    },
+    {
+      "name": "ARIA The ANIMATION",
+      "anilistId": 477,
+      "quotes": 9,
+      "characters": 3
+    },
+    {
+      "name": "Slayers",
+      "anilistId": 534,
+      "quotes": 9,
+      "characters": 3
+    },
+    {
+      "name": "Kore wa Zombie Desu ka?",
+      "anilistId": 8841,
+      "quotes": 9,
+      "characters": 2
+    },
+    {
+      "name": "LOVE and LIES",
+      "anilistId": 98320,
+      "quotes": 9,
+      "characters": 4
+    },
+    {
+      "name": "Shinsekai Yori",
+      "anilistId": 13125,
+      "quotes": 8,
+      "characters": 4
+    },
+    {
+      "name": "Blood+",
+      "anilistId": 150,
+      "quotes": 8,
+      "characters": 5
+    },
+    {
+      "name": "Ghost Hunt",
+      "anilistId": 1571,
+      "quotes": 8,
+      "characters": 1
+    },
+    {
+      "name": "Kamisama no Inai Nichiyoubi",
+      "anilistId": 16009,
+      "quotes": 8,
+      "characters": 3
+    },
+    {
+      "name": "Nagi no Asukara",
+      "anilistId": 16067,
+      "quotes": 8,
+      "characters": 4
+    },
+    {
+      "name": "Tamako Market",
+      "anilistId": 16417,
+      "quotes": 8,
+      "characters": 2
+    },
+    {
+      "name": "Nodame Cantabile",
+      "anilistId": 1698,
+      "quotes": 8,
+      "characters": 3
+    },
+    {
+      "name": "Hajime no Ippo",
+      "anilistId": 19647,
+      "quotes": 8,
+      "characters": 3
+    },
+    {
+      "name": "The Irregular at Magic High School",
+      "anilistId": 20458,
+      "quotes": 8,
+      "characters": 2
+    },
+    {
+      "name": "Kagerou Days",
+      "anilistId": 20541,
+      "quotes": 8,
+      "characters": 6
+    },
+    {
+      "name": "Koutetsujou no Kabaneri",
+      "anilistId": 21196,
+      "quotes": 8,
+      "characters": 4
+    },
+    {
+      "name": "Great Teacher Onizuka",
+      "anilistId": 245,
+      "quotes": 8,
+      "characters": 1
+    },
+    {
+      "name": "Serial Experiments Lain",
+      "anilistId": 339,
+      "quotes": 8,
+      "characters": 5
+    },
+    {
+      "name": "Revolutionary Girl Utena",
+      "anilistId": 440,
+      "quotes": 8,
+      "characters": 5
+    },
+    {
+      "name": "One Outs",
+      "anilistId": 5040,
+      "quotes": 8,
+      "characters": 1
+    },
+    {
+      "name": "Bungaku Shoujo",
+      "anilistId": 6408,
+      "quotes": 8,
+      "characters": 5
+    },
+    {
+      "name": "Ergo Proxy",
+      "anilistId": 790,
+      "quotes": 8,
+      "characters": 4
+    },
+    {
+      "name": "Bungaku Shoujo",
+      "anilistId": 111993,
+      "quotes": 8,
+      "characters": 5
+    },
+    {
+      "name": "Uta No Prince Sama",
+      "anilistId": 10321,
+      "quotes": 7,
+      "characters": 4
+    },
+    {
+      "name": "Kyoukai Senjou No Horizon",
+      "anilistId": 10456,
+      "quotes": 7,
+      "characters": 3
+    },
+    {
+      "name": "Boku wa Tomodachi ga Sukunai",
+      "anilistId": 10719,
+      "quotes": 7,
+      "characters": 3
+    },
+    {
+      "name": "5 Centimeters per Second",
+      "anilistId": 1689,
+      "quotes": 7,
+      "characters": 3
+    },
+    {
+      "name": "Whistle!",
+      "anilistId": 183,
+      "quotes": 7,
+      "characters": 5
+    },
+    {
+      "name": "Black Bullet",
+      "anilistId": 20457,
+      "quotes": 7,
+      "characters": 5
+    },
+    {
+      "name": "Aldnoah.Zero",
+      "anilistId": 20632,
+      "quotes": 7,
+      "characters": 5
+    },
+    {
+      "name": "Bungou Stray Dogs",
+      "anilistId": 21311,
+      "quotes": 7,
+      "characters": 4
+    },
+    {
+      "name": "Bungou Stray Dogs 2nd Season",
+      "anilistId": 21679,
+      "quotes": 7,
+      "characters": 3
+    },
+    {
+      "name": "Violet Evergarden",
+      "anilistId": 21827,
+      "quotes": 7,
+      "characters": 4
+    },
+    {
+      "name": "Kyo kara Maoh!",
+      "anilistId": 251,
+      "quotes": 7,
+      "characters": 5
+    },
+    {
+      "name": "Sayonara Zetsubou Sensei",
+      "anilistId": 2605,
+      "quotes": 7,
+      "characters": 3
+    },
+    {
+      "name": "Skip Beat!",
+      "anilistId": 4722,
+      "quotes": 7,
+      "characters": 2
+    },
+    {
+      "name": "Casshern Sins",
+      "anilistId": 4981,
+      "quotes": 7,
+      "characters": 3
+    },
+    {
+      "name": "Chrono Crusade",
+      "anilistId": 60,
+      "quotes": 7,
+      "characters": 3
+    },
+    {
+      "name": "Gosick",
+      "anilistId": 8425,
+      "quotes": 7,
+      "characters": 2
+    },
+    {
+      "name": "Ano Hi Mita Hana No Namae Wo Bokutachi Wa Mada Shiranai",
+      "anilistId": 9989,
+      "quotes": 7,
+      "characters": 3
+    },
+    {
+      "name": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+      "anilistId": 199748,
+      "quotes": 7,
+      "characters": 4
+    },
+    {
+      "name": "No.6",
+      "anilistId": 10161,
+      "quotes": 6,
+      "characters": 2
+    },
+    {
+      "name": "Kimi To Boku.",
+      "anilistId": 10460,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Blood-C",
+      "anilistId": 10490,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Un-Go",
+      "anilistId": 10798,
+      "quotes": 6,
+      "characters": 2
+    },
+    {
+      "name": "Eden*",
+      "anilistId": 109217,
+      "quotes": 6,
+      "characters": 5
+    },
+    {
+      "name": "Kanon",
+      "anilistId": 144,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Maoyuu Maou Yuusha",
+      "anilistId": 14833,
+      "quotes": 6,
+      "characters": 2
+    },
+    {
+      "name": "Gekkou",
+      "anilistId": 150202,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Love Live! School idol project",
+      "anilistId": 15051,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Hentai Ouji To Warawanai Neko",
+      "anilistId": 15225,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Mondaji-tachi ga Isekai kara Kuru Sou Desu yo?",
+      "anilistId": 15315,
+      "quotes": 6,
+      "characters": 2
+    },
+    {
+      "name": "Vagabond",
+      "anilistId": 155625,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Date A Live",
+      "anilistId": 15583,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Kyoukai No Kanata",
+      "anilistId": 18153,
+      "quotes": 6,
+      "characters": 5
+    },
+    {
+      "name": "Kill la Kill",
+      "anilistId": 18679,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Isshūkan Friends",
+      "anilistId": 20527,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Yu-Gi-Oh! Arc-V",
+      "anilistId": 20552,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Black Butler: Book of Circus",
+      "anilistId": 20606,
+      "quotes": 6,
+      "characters": 2
+    },
+    {
+      "name": "Inou Battle wa Nichijou-kei no Naka de",
+      "anilistId": 20646,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Donten ni Warau",
+      "anilistId": 20817,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Tokyo Ghoul √A",
+      "anilistId": 20850,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Gunslinger Stratos: The Animation",
+      "anilistId": 20979,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Grisaia no Rakuen",
+      "anilistId": 21006,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Akagami no Shirayukihime",
+      "anilistId": 21058,
+      "quotes": 6,
+      "characters": 2
+    },
+    {
+      "name": "Aoharu x Machinegun",
+      "anilistId": 21078,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Haibane Renmei",
+      "anilistId": 387,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Final Fantasy VIII",
+      "anilistId": 408,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Howl's Moving Castle",
+      "anilistId": 431,
+      "quotes": 6,
+      "characters": 2
+    },
+    {
+      "name": "Aquarion",
+      "anilistId": 478,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Mobile Suit Gundam Wing",
+      "anilistId": 90,
+      "quotes": 6,
+      "characters": 3
+    },
+    {
+      "name": "Hanasaku Iroha",
+      "anilistId": 9289,
+      "quotes": 6,
+      "characters": 4
+    },
+    {
+      "name": "Beelzebub",
+      "anilistId": 9513,
+      "quotes": 6,
+      "characters": 5
+    },
+    {
+      "name": "Air",
+      "anilistId": 101,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Nichijou",
+      "anilistId": 10165,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Tower of God",
+      "anilistId": 115230,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "Nerawareta Gakuen",
+      "anilistId": 14293,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Chuunibyo Demo Koi ga Shitai!",
+      "anilistId": 14741,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Nanatsu no Taizai",
+      "anilistId": 154174,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Karneval",
+      "anilistId": 16033,
+      "quotes": 5,
+      "characters": 5
+    },
+    {
+      "name": "Kimi no Iru Machi",
+      "anilistId": 17741,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "Houkago no Pleiades",
+      "anilistId": 17919,
+      "quotes": 5,
+      "characters": 3
+    },
+    {
+      "name": "Darker than Black",
+      "anilistId": 2025,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Ryuugajou Nanana No Maizoukin",
+      "anilistId": 20556,
+      "quotes": 5,
+      "characters": 3
+    },
+    {
+      "name": "Amagi Brilliant Park",
+      "anilistId": 20602,
+      "quotes": 5,
+      "characters": 3
+    },
+    {
+      "name": "Durarara!! X2",
+      "anilistId": 20652,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "Saekano: How to Raise a Boring Girlfriend",
+      "anilistId": 20657,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "Barakamon",
+      "anilistId": 20722,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Plastic Memories",
+      "anilistId": 20872,
+      "quotes": 5,
+      "characters": 3
+    },
+    {
+      "name": "Durarara!!×2 Ten",
+      "anilistId": 20879,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "Ana Satsujin",
+      "anilistId": 20908,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "The Heroic Legend of Arslan",
+      "anilistId": 20935,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Yamada-kun to 7-nin no Majo",
+      "anilistId": 20966,
+      "quotes": 5,
+      "characters": 5
+    },
+    {
+      "name": "Monster Musume: Everyday Life With Monster Girls",
+      "anilistId": 21093,
+      "quotes": 5,
+      "characters": 1
+    },
+    {
+      "name": "Alderamin on the Sky",
+      "anilistId": 21410,
+      "quotes": 5,
+      "characters": 1
+    },
+    {
+      "name": "Kimi no Na wa",
+      "anilistId": 21519,
+      "quotes": 5,
+      "characters": 3
+    },
+    {
+      "name": "Akashic Records of Bastard Magic Instructor",
+      "anilistId": 21700,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "Gankutsuou: The Count of Monte Cristo",
+      "anilistId": 239,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "A Thousand & One Nights",
+      "anilistId": 3038,
+      "quotes": 5,
+      "characters": 1
+    },
+    {
+      "name": "Final Fantasy VII: Advent Children",
+      "anilistId": 317,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Special A",
+      "anilistId": 3470,
+      "quotes": 5,
+      "characters": 4
+    },
+    {
+      "name": "Shakugan no Shana",
+      "anilistId": 355,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "The Big O",
+      "anilistId": 567,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "Full Metal Panic!",
+      "anilistId": 71,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "Aoi Bungaku Series",
+      "anilistId": 7193,
+      "quotes": 5,
+      "characters": 2
+    },
+    {
+      "name": "The Tatami Galaxy",
+      "anilistId": 7785,
+      "quotes": 5,
+      "characters": 3
+    },
+    {
+      "name": "Suntory Minami Alps no Tennen Mizu",
+      "anilistId": 97962,
+      "quotes": 5,
+      "characters": 3
+    },
+    {
+      "name": "Toriko",
+      "anilistId": 10033,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Kaiji - Against All Rules",
+      "anilistId": 10271,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Kingdom Hearts",
+      "anilistId": 103441,
+      "quotes": 4,
+      "characters": 1
+    },
+    {
+      "name": "The Legend Of Zelda",
+      "anilistId": 130696,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Loveless",
+      "anilistId": 149,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "RDG: Red Data Girl",
+      "anilistId": 14921,
+      "quotes": 4,
+      "characters": 4
+    },
+    {
+      "name": "Nekomonogatari Black",
+      "anilistId": 15689,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "The Gamer",
+      "anilistId": 1596,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Valvrave the Liberator",
+      "anilistId": 16668,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Kaze no Stigma",
+      "anilistId": 1691,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Silver Spoon",
+      "anilistId": 16918,
+      "quotes": 4,
+      "characters": 4
+    },
+    {
+      "name": "Vandread",
+      "anilistId": 180,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Zero no Tsukaima: Futatsuki no Kishi",
+      "anilistId": 1840,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Free!",
+      "anilistId": 18507,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Walkure Romanze",
+      "anilistId": 19151,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Fate/stay night: Unlimited Blade Works",
+      "anilistId": 19603,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Hayate no Gotoku!",
+      "anilistId": 2026,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Psycho-Pass 2",
+      "anilistId": 20513,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Seiken Tsukai no World Break",
+      "anilistId": 20627,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Terror in Resonance",
+      "anilistId": 20661,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "World Trigger",
+      "anilistId": 20729,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Charlotte",
+      "anilistId": 20997,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Grisaia no Meikyuu",
+      "anilistId": 21005,
+      "quotes": 4,
+      "characters": 1
+    },
+    {
+      "name": "Sakurako-san no Ashioto ni wa Shitai ga Umatteiru",
+      "anilistId": 21066,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Kiznaiver",
+      "anilistId": 21421,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Food Wars! Shokugeki no Soma OVA",
+      "anilistId": 21691,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Voices of a Distant Star",
+      "anilistId": 256,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Trinity Blood",
+      "anilistId": 27,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Boogiepop Phantom",
+      "anilistId": 369,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Excel Saga",
+      "anilistId": 379,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Outlaw Star",
+      "anilistId": 400,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Porco Rosso",
+      "anilistId": 416,
+      "quotes": 4,
+      "characters": 1
+    },
+    {
+      "name": "Tales of the Abyss",
+      "anilistId": 4884,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Phantom: Requiem For The Phantom",
+      "anilistId": 5682,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Rozen Maiden",
+      "anilistId": 64,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Azumanga Daioh",
+      "anilistId": 66,
+      "quotes": 4,
+      "characters": 1
+    },
+    {
+      "name": "Broken Blade",
+      "anilistId": 6772,
+      "quotes": 4,
+      "characters": 4
+    },
+    {
+      "name": "Psychic Detective Yakumo",
+      "anilistId": 7662,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Karigurashi no Arrietty",
+      "anilistId": 7711,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Ore No Imouto Ga Konna Ni Kawaii Wake Ga Nai",
+      "anilistId": 8769,
+      "quotes": 4,
+      "characters": 3
+    },
+    {
+      "name": "Shingeki no Kyojin: Lost Girls",
+      "anilistId": 99634,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Kingdom",
+      "anilistId": 12031,
+      "quotes": 4,
+      "characters": 2
+    },
+    {
+      "name": "Tokyo Ghoul:re",
+      "anilistId": 100240,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Major",
+      "anilistId": 100306,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Winter Cup Highlights Episode 3 – Winter Cup Highlights -Crossing the Door-",
+      "anilistId": 102839,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "Hotarubi no Mori e",
+      "anilistId": 10408,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Is this A Zombie? of the Dead",
+      "anilistId": 10790,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Inu X Boku SS",
+      "anilistId": 11013,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Code Geass: Boukoku No Akito",
+      "anilistId": 15197,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Final Fantasy XIII",
+      "anilistId": 156571,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "La Corda D'Oro: Primo Passo",
+      "anilistId": 1579,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Uchouten Kazoku",
+      "anilistId": 17909,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "Strike the Blood",
+      "anilistId": 18277,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Diamond No Ace",
+      "anilistId": 18689,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Love Hina",
+      "anilistId": 189,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Galilei Donna",
+      "anilistId": 19367,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "JoJo's Bizarre Adventure: Stardust Crusaders",
+      "anilistId": 20474,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "HaNaYaMaTa",
+      "anilistId": 20575,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Hanamonogatari",
+      "anilistId": 20593,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "Magi: Adventure of Sinbad (OVA)",
+      "anilistId": 20609,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "SHONEN HOLLYWOOD -HOLLY STAGE FOR 49-",
+      "anilistId": 20648,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Monthly Girls' Nozaki-kun",
+      "anilistId": 20668,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Shinmai Maou no Testament",
+      "anilistId": 20678,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Persona 3",
+      "anilistId": 20737,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Shirobako",
+      "anilistId": 20812,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Overlord",
+      "anilistId": 20832,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Aldnoah.Zero 2nd Season",
+      "anilistId": 20853,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Hibike! Euphonium",
+      "anilistId": 20912,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Koe no Katachi",
+      "anilistId": 20954,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "Kokoro ga Sakebitagatterunda.",
+      "anilistId": 20968,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "KONOSUBA -God's blessing on this wonderful world!",
+      "anilistId": 21202,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "True Tears",
+      "anilistId": 2129,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Tanaka-kun wa Itsumo Kedaruge",
+      "anilistId": 21495,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "WATAMOTE",
+      "anilistId": 21686,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "Rave Master",
+      "anilistId": 246,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Neo Angelique Abyss",
+      "anilistId": 3615,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Higurashi no Naku Koro ni Rei",
+      "anilistId": 3652,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "Ghost in the Shell 2: Innocence",
+      "anilistId": 468,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Mouryou No Hako",
+      "anilistId": 4879,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "Aah! Megami-Sama",
+      "anilistId": 49,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "CANAAN",
+      "anilistId": 5356,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Beck",
+      "anilistId": 57,
+      "quotes": 3,
+      "characters": 3
+    },
+    {
+      "name": "Katanagatari",
+      "anilistId": 6594,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "JoJo's Bizarre Adventure",
+      "anilistId": 666,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Black Cat",
+      "anilistId": 68,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Sora no Otoshimono: Forte",
+      "anilistId": 8407,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "The Breaker",
+      "anilistId": 8514,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Sket Dance",
+      "anilistId": 9863,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!",
+      "anilistId": 16742,
+      "quotes": 3,
+      "characters": 1
+    },
+    {
+      "name": "Major S6",
+      "anilistId": 7655,
+      "quotes": 3,
+      "characters": 2
+    },
+    {
+      "name": "Subarashii Sekai",
+      "anilistId": 103789,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Mashiroiro Symphony - The color of lovers",
+      "anilistId": 10397,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Hana Yori Dango",
+      "anilistId": 106,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Hunter x Hunter 2011",
+      "anilistId": 11061,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Spiral",
+      "anilistId": 111314,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Brave 10",
+      "anilistId": 11241,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Yaojing Zhongzhi Shouce",
+      "anilistId": 114959,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Sankarea",
+      "anilistId": 11499,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Blood Lad",
+      "anilistId": 11633,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Danshi Koukousei no Nichijou",
+      "anilistId": 11843,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Fushigi Yuugi",
+      "anilistId": 123,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Sakamichi no Apollon",
+      "anilistId": 12531,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Hagure Yuusha No Estetica",
+      "anilistId": 13161,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Getbackers",
+      "anilistId": 132,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Tari Tari",
+      "anilistId": 13333,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Rakuen Tsuihō - Expelled from Paradise",
+      "anilistId": 13391,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Kannazuki no Miko",
+      "anilistId": 143,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "RWBY",
+      "anilistId": 146668,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Kamisama Hajimemashita",
+      "anilistId": 14713,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Boku wa Tomodachi ga Sukunai NEXT",
+      "anilistId": 14967,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Kotoura-san",
+      "anilistId": 15379,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Ojojojo",
+      "anilistId": 154454,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "X",
+      "anilistId": 155,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Love Lab",
+      "anilistId": 16353,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "RahXephon",
+      "anilistId": 165,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Suisei no Gargantia",
+      "anilistId": 16524,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "The Garden of Words",
+      "anilistId": 16782,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Scryed",
+      "anilistId": 168,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Makai Ouji : Devils And Realist",
+      "anilistId": 16890,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Shinkyoku Soukai Polyphonica",
+      "anilistId": 1727,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Servant X Service",
+      "anilistId": 18119,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Gatchaman Crowds",
+      "anilistId": 18229,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "White Album 2",
+      "anilistId": 18245,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Senyuu. 2",
+      "anilistId": 18523,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Warau Kanoko-sama",
+      "anilistId": 18753,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "BlazBlue: Alter Memory",
+      "anilistId": 18767,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Paprika",
+      "anilistId": 1943,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Baby Steps",
+      "anilistId": 20510,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Tamako Love Story",
+      "anilistId": 20519,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Bokura wa Minna Kawaisou",
+      "anilistId": 20529,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "The Disappearance of Nagato Yuki-chan",
+      "anilistId": 20566,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Ushinawareta Mirai wo Motomete",
+      "anilistId": 20591,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Free! Eternal Summer",
+      "anilistId": 20614,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Rokujouma no Shinryakusha!?",
+      "anilistId": 20638,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Kuroshitsuji: Book of Murder",
+      "anilistId": 20670,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Gakkou Gurashi!",
+      "anilistId": 20754,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Absolute Duo",
+      "anilistId": 20785,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Working!!",
+      "anilistId": 20819,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Owari no Seraph",
+      "anilistId": 20829,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Nanbaka",
+      "anilistId": 21051,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Owarimonogatari",
+      "anilistId": 21262,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Terraformars",
+      "anilistId": 21300,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Last Game",
+      "anilistId": 21377,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Rewrite",
+      "anilistId": 21382,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Mayoiga",
+      "anilistId": 21567,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Youjo Senki",
+      "anilistId": 21613,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+      "anilistId": 21825,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Days TV",
+      "anilistId": 2476,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Sunabouzu",
+      "anilistId": 25,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Terra E",
+      "anilistId": 2560,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Da Capo II",
+      "anilistId": 2595,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Texhnolyze",
+      "anilistId": 26,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Hajime no Ippo: The Fighting! - Champion Road",
+      "anilistId": 264,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Noir",
+      "anilistId": 272,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "ef - a tale of memories",
+      "anilistId": 2924,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Rosario Vampire",
+      "anilistId": 2993,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "JoJo's Bizarre Adventure: Phantom Blood",
+      "anilistId": 3603,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Yu-Gi-Oh 5Ds",
+      "anilistId": 3972,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Samurai X: Trust & Betrayal",
+      "anilistId": 44,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": ".hack SIGN",
+      "anilistId": 48,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Yu-Gi-Oh! GX",
+      "anilistId": 482,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "8 Man",
+      "anilistId": 5052,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Yami no Matsuei",
+      "anilistId": 553,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Eden of the East",
+      "anilistId": 5630,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Mimi wo Sumaseba",
+      "anilistId": 585,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Infinite Ryvius",
+      "anilistId": 593,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Princess Lover!",
+      "anilistId": 6201,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "A Certain Scientific Railgun",
+      "anilistId": 6213,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Mobile Suit Gundam UC",
+      "anilistId": 6336,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Darker than Black: Gemini of the Meteor",
+      "anilistId": 6573,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Dance in the Vampire Bund",
+      "anilistId": 6747,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Shakugan no Shana III",
+      "anilistId": 6773,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Sora No Woto",
+      "anilistId": 6802,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Yokai Rise Of The Nura Clan",
+      "anilistId": 7592,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Haiyore! Nyaruko-san",
+      "anilistId": 7596,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Giant Killing",
+      "anilistId": 7661,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Disgaea",
+      "anilistId": 860,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Panty And Stocking With Gaterbelt",
+      "anilistId": 8795,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Tamayura",
+      "anilistId": 9055,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Princess Princess",
+      "anilistId": 907,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Arakawa Under the Bridge x Bridge",
+      "anilistId": 9074,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Kakegurui",
+      "anilistId": 98314,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Takane to Hana",
+      "anilistId": 99556,
+      "quotes": 2,
+      "characters": 1
+    },
+    {
+      "name": "Code Geass: Akito the Exiled - To Beloved Ones",
+      "anilistId": 21178,
+      "quotes": 2,
+      "characters": 2
+    },
+    {
+      "name": "Sugar Dark",
+      "anilistId": 100641,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Seven Days",
+      "anilistId": 101610,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Royal Space Force: The Wings of Honneamise",
+      "anilistId": 1034,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Kino",
+      "anilistId": 104348,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Yuru Yuri",
+      "anilistId": 10495,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Gintama' TV 2012",
+      "anilistId": 10531,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Persona 4",
+      "anilistId": 10588,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "R-15",
+      "anilistId": 10611,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tough",
+      "anilistId": 1065,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Jing: King of Bandits",
+      "anilistId": 107,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Muv-Luv Alternative: Total Eclipse",
+      "anilistId": 11021,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Life is Money",
+      "anilistId": 111656,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ano Natsu de Matteru",
+      "anilistId": 11433,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Noblesse",
+      "anilistId": 116005,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Senki Zesshō Symphogear",
+      "anilistId": 11751,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Zetman",
+      "anilistId": 11837,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Queen's Blade: Rebellion",
+      "anilistId": 11859,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Subarashiki Kono Sekai",
+      "anilistId": 120376,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Acchi Kocchi",
+      "anilistId": 12291,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Shining Hearts",
+      "anilistId": 12367,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Dusk maiden of Amnesia",
+      "anilistId": 12445,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Saint Seiya",
+      "anilistId": 1254,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Hajimete no Aku",
+      "anilistId": 125785,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Polar Bear's Café",
+      "anilistId": 12815,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Gunslinger Girl",
+      "anilistId": 134,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Binbougami Ga!",
+      "anilistId": 13535,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "To Love-Ru Darkness",
+      "anilistId": 13663,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!",
+      "anilistId": 14199,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Btooom!",
+      "anilistId": 14345,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Persona 3 The Movie #1 Spring of Birth",
+      "anilistId": 14407,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "His and Her Circumstances",
+      "anilistId": 145,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Medaka Box Abnormal",
+      "anilistId": 14527,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+      "anilistId": 14749,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Initial D: Fifth Stage",
+      "anilistId": 15059,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Aikatsu!",
+      "anilistId": 15061,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Aoi Sekai no Chuushin de",
+      "anilistId": 15133,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Hetalia The Beautiful World",
+      "anilistId": 15195,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Busou Renkin",
+      "anilistId": 1536,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Living for the Day After Tomorrow",
+      "anilistId": 1554,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Cardfight!! Vanguard: Link Joker Hen",
+      "anilistId": 15611,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Senki Zesshō Symphogear G",
+      "anilistId": 15793,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tokyo Ravens",
+      "anilistId": 16011,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Kekkaishi",
+      "anilistId": 1606,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Dansai Bunri no Crime Edge",
+      "anilistId": 16355,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Space Battleship Yamato",
+      "anilistId": 1650,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Arata Kangatari",
+      "anilistId": 16518,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Inferno Cop",
+      "anilistId": 16774,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "The Last -Naruto the Movie-",
+      "anilistId": 16870,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Shingetsutan Tsukihime",
+      "anilistId": 169,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Bokurano",
+      "anilistId": 1690,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "K: Missing Kings",
+      "anilistId": 16904,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Final Fantasy IX",
+      "anilistId": 169581,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Assassins",
+      "anilistId": 1696,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Romeo x Juliet",
+      "anilistId": 1699,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Slam Dunk",
+      "anilistId": 170,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Da Capo III",
+      "anilistId": 17020,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Koi Dano Ai Dano",
+      "anilistId": 174427,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Mushibugyou",
+      "anilistId": 17505,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Golgo 13",
+      "anilistId": 1760,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Neko no Machi no Ko",
+      "anilistId": 176158,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Arslan Senki",
+      "anilistId": 1762,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Stella Jogakuin Koutou-ka C³-bu",
+      "anilistId": 17821,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Magi - The Kingdom of Magic",
+      "anilistId": 18115,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Yowamushi Pedal",
+      "anilistId": 18179,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "The Vision of Escaflowne",
+      "anilistId": 182,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Seirei No Moribito",
+      "anilistId": 1827,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Pochama ni",
+      "anilistId": 182772,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tales from Earthsea",
+      "anilistId": 1829,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Genshiken: Second Generation",
+      "anilistId": 18465,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Masquerade",
+      "anilistId": 188,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Nani made nara Koroseru",
+      "anilistId": 189113,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Love Live! School Idol Project 2nd Season",
+      "anilistId": 19111,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Akuma no Riddle",
+      "anilistId": 19429,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Arashi no Yoru ni",
+      "anilistId": 1961,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Neppu Kairiku Bushi Road",
+      "anilistId": 19653,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Magical Warfare",
+      "anilistId": 19769,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "El Cazador de la Bruja",
+      "anilistId": 2030,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Inari Kon Kon",
+      "anilistId": 20488,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Kiniro no Corda: Blue♪Sky",
+      "anilistId": 20492,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
+      "anilistId": 20506,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Nobunaga The Fool",
+      "anilistId": 20509,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "The Comic Artist and His Assistants",
+      "anilistId": 20537,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Kantai Collection: KanColle",
+      "anilistId": 20553,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Shingeki no Bahamut: Genesis",
+      "anilistId": 20590,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Mushishi Zoku Shou",
+      "anilistId": 20595,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+      "anilistId": 20603,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ping Pong The Animation",
+      "anilistId": 20607,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Gugure! Kokkuri-san",
+      "anilistId": 20656,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Record of Lodoss War",
+      "anilistId": 207,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Taimadou Gakuen 35 Shiken Shoutai",
+      "anilistId": 20704,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Boys Over Flowers",
+      "anilistId": 2071,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Selector Spread Wixoss",
+      "anilistId": 20714,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Yowamushi Pedal Grande Road",
+      "anilistId": 20723,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "High School DxD BorN",
+      "anilistId": 20745,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Girl Friends",
+      "anilistId": 20757,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Juuou Mujin no Fafnir",
+      "anilistId": 20758,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "The Seven Deadly Sins",
+      "anilistId": 20789,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "NG Knight Ramune & 40",
+      "anilistId": 2084,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Cardfight!! Vanguard G",
+      "anilistId": 20921,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Mikagura School Suite",
+      "anilistId": 20983,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Himouto! Umaru-chan",
+      "anilistId": 20987,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ranma ½",
+      "anilistId": 210,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Jitsu wa Watashi wa",
+      "anilistId": 21033,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Rakudai Kishi no Cavalry",
+      "anilistId": 21092,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Classroom Crisis",
+      "anilistId": 21112,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Gakusen Toshi Asterisk",
+      "anilistId": 21131,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tokyo Ghoul: Jack",
+      "anilistId": 21132,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Dragon Ball Super",
+      "anilistId": 21175,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Super Lovers",
+      "anilistId": 21177,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "anilistId": 21268,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Joker Game",
+      "anilistId": 21291,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "3-gatsu no Lion",
+      "anilistId": 21366,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Reikenzan: Hoshikuzu-tachi no Utage",
+      "anilistId": 21497,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Renai Boukun",
+      "anilistId": 21517,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Shokugeki no Sōma: Ni no Sara",
+      "anilistId": 21518,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Koyomimonogatari",
+      "anilistId": 21520,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Big Windup!",
+      "anilistId": 2159,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Seishun Forget!",
+      "anilistId": 21599,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "The Skull Man",
+      "anilistId": 2161,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Orange",
+      "anilistId": 21647,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Amaama to Inazuma",
+      "anilistId": 21659,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Fune wo Amu",
+      "anilistId": 21703,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Final Fantasy XV",
+      "anilistId": 21728,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru",
+      "anilistId": 21769,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Magic-Kyun! Renaissance",
+      "anilistId": 21850,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "The Girl Who Leapt Through Time",
+      "anilistId": 2236,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Kodomo no Jikan",
+      "anilistId": 2403,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Zombie-Loan",
+      "anilistId": 2404,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Sword of the Stranger",
+      "anilistId": 2418,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Madlax",
+      "anilistId": 252,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ghost Hound",
+      "anilistId": 2596,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Adventures of Sinbad",
+      "anilistId": 2825,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Argento Soma",
+      "anilistId": 285,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Comic Party",
+      "anilistId": 289,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Myself ; Yourself",
+      "anilistId": 2926,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": ".hack//Liminality",
+      "anilistId": 299,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ah! My Goddess: The Movie",
+      "anilistId": 304,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Psyren",
+      "anilistId": 3043,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Zettai Shonen",
+      "anilistId": 308,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Giant Robo",
+      "anilistId": 3146,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Kanashimi no Belladonna",
+      "anilistId": 3220,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Major",
+      "anilistId": 3226,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Pet Shop of Horrors",
+      "anilistId": 326,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Aria the Origination",
+      "anilistId": 3297,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Rin ~Daughters of Mnemosyne~",
+      "anilistId": 3342,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Rose of Versailles",
+      "anilistId": 338,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "To Love-Ru",
+      "anilistId": 3455,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tenshi Nanka ja Nai",
+      "anilistId": 3512,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Macross Frontier",
+      "anilistId": 3572,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Monochrome Factor",
+      "anilistId": 3656,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Zero no Tsukaima: Princess no Rondo",
+      "anilistId": 3712,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Itazura na Kiss",
+      "anilistId": 3731,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Evangelion: 2.0 You Can Not Advance",
+      "anilistId": 3784,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Bastard",
+      "anilistId": 404,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Sekirei",
+      "anilistId": 4063,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Trigun: Badlands Rumble",
+      "anilistId": 4106,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "My Neighbors the Yamadas",
+      "anilistId": 415,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Bounen No Zamned",
+      "anilistId": 4177,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Clannad After Story",
+      "anilistId": 4181,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Magic Knight Rayearth",
+      "anilistId": 435,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Perfect Blue",
+      "anilistId": 437,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Naruto Shippūden: Kizuna",
+      "anilistId": 4437,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": ".hack//GIFT",
+      "anilistId": 454,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Neo Angelique Abyss -Second Age-",
+      "anilistId": 4662,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ghost in the Shell: Stand Alone Complex",
+      "anilistId": 467,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ga-Rei:Zero",
+      "anilistId": 4725,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Bakuretsu Hunters",
+      "anilistId": 495,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Asu No Yoichi",
+      "anilistId": 4999,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Cowboy Bebop: The Movie",
+      "anilistId": 5,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Doraemon",
+      "anilistId": 501,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Le Portrait de Petit Cossette",
+      "anilistId": 514,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Hatsukoi Limited",
+      "anilistId": 5150,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Denpa teki na Kanojo",
+      "anilistId": 5177,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tales Of Symphonia",
+      "anilistId": 5306,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Gundam 00",
+      "anilistId": 5351,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Sengoku Basara",
+      "anilistId": 5355,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Steel Angel Kurumi",
+      "anilistId": 554,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Sakura Taisen",
+      "anilistId": 561,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Bubblegum Crisis: Tokyo 2040",
+      "anilistId": 568,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Summer Wars",
+      "anilistId": 5681,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Chobits",
+      "anilistId": 59,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tales Of Vesperia",
+      "anilistId": 6046,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Rainbow: Nisha Rokubou no Shichinin",
+      "anilistId": 6114,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Saint Seiya: The Lost Canvas",
+      "anilistId": 6171,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Mobile Suit Gundam 00: A Wakening of the Trailblazer",
+      "anilistId": 6288,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Jubei-Chan 2: The Counterattack of Siberia Yagyu",
+      "anilistId": 636,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Fullmetal Alchemist: Brotherhood OAV",
+      "anilistId": 6421,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tegami Bachi",
+      "anilistId": 6444,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Seikon no Qwaser",
+      "anilistId": 6500,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Touhai Densetsu Akagi: Yami Ni Maiorita Tensai",
+      "anilistId": 658,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "King Of Thorns",
+      "anilistId": 6610,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Black Butler II",
+      "anilistId": 6707,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Welcome to Irabu's Office",
+      "anilistId": 6774,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Uragiri Wa Boku No Namae Wo Shitteiru",
+      "anilistId": 7058,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Demon King Daimao",
+      "anilistId": 7088,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Ai no Kusabi",
+      "anilistId": 719,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Darker than Black - Kuro no Keiyakusha: Gaiden",
+      "anilistId": 7338,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Mahou Shoujo Lyrical Nanoha",
+      "anilistId": 76,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Okami-san And Her Seven Companions",
+      "anilistId": 7769,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Shinigami no Ballad",
+      "anilistId": 789,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Shuffle!",
+      "anilistId": 79,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "The Legend of the Legendary Heroes",
+      "anilistId": 8086,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Kuragehime",
+      "anilistId": 8129,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Bleach the Movie: Hell Verse",
+      "anilistId": 8247,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Magic Kaito",
+      "anilistId": 8310,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Dengeki Daisy",
+      "anilistId": 8360,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Hourou Musuko",
+      "anilistId": 8426,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Utawarerumono",
+      "anilistId": 856,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Digimon Savers",
+      "anilistId": 859,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Hidan no Aria",
+      "anilistId": 8630,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Star Driver",
+      "anilistId": 8934,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Fractale",
+      "anilistId": 9314,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Appleseed",
+      "anilistId": 937,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Mobile Suit Gundam Seed Destiny",
+      "anilistId": 94,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Coppelion",
+      "anilistId": 9479,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Gunbuster",
+      "anilistId": 949,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Cardfight!! Vanguard",
+      "anilistId": 9539,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "The Story of Saiunkoku",
+      "anilistId": 957,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Aria The Natural",
+      "anilistId": 962,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Fist of the North Star",
+      "anilistId": 967,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tsubasa Reservoir Chronicles",
+      "anilistId": 969,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "A Channel",
+      "anilistId": 9776,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Fate Grand Order",
+      "anilistId": 97815,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Citrus",
+      "anilistId": 97832,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Oushitsu Kyoushi Haine",
+      "anilistId": 97932,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Boruto: Naruto Next Generations",
+      "anilistId": 97938,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "anilistId": 98659,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Touhou Project",
+      "anilistId": 9875,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Croisée in a Foreign Labyrinth - The Animation",
+      "anilistId": 9938,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Tiger & Bunny",
+      "anilistId": 9941,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Starry Sky",
+      "anilistId": 9957,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Blue Seed",
+      "anilistId": 998,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Phi Brain: Kami No Puzzle",
+      "anilistId": 9981,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "CARDFIGHT!! VANGUARD",
+      "anilistId": 101594,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "PSYЯEN",
+      "anilistId": 204011,
+      "quotes": 1,
+      "characters": 1
+    },
+    {
+      "name": "Space Battleship Yamato",
+      "anilistId": 711,
+      "quotes": 1,
+      "characters": 1
+    }
+  ]
+}
