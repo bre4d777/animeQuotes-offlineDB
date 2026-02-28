@@ -1,9 +1,9 @@
 {
   "name": "Angel Beats!",
   "anilistId": 6547,
-  "totalQuotes": 51,
+  "totalQuotes": 52,
   "totalCharacters": 10,
-  "lastUpdated": "2025-08-20T15:31:03.347Z",
+  "lastUpdated": "2026-02-28T14:20:43.961Z",
   "quotes": [
     {
       "id": "quote_1121_1755663490365",
@@ -259,6 +259,11 @@
       "id": "quote_1171_1755663490365",
       "character": "Yuri Nakamura",
       "quote": "I, Yuri Nakamura, hereby solemnly affirm..."
+    },
+    {
+      "id": "quote_3928_1772288443961",
+      "character": "Yuzuru Otonashi",
+      "quote": "One person needed courage to face the past."
     }
   ]
 }
