@@ -1,9 +1,9 @@
 {
   "name": "The World God Only Knows",
   "anilistId": 8525,
-  "totalQuotes": 40,
+  "totalQuotes": 41,
   "totalCharacters": 6,
-  "lastUpdated": "2026-02-28T14:15:02.980Z",
+  "lastUpdated": "2026-02-28T15:08:48.043Z",
   "quotes": [
     {
       "id": "quote_738_1755663450740",
@@ -204,6 +204,11 @@
       "id": "quote_1729_1772288102980",
       "character": "Keima Katsuragi",
       "quote": "The \"\"tsun\"\" personality is an armor that protects purity. An iron virgin."
+    },
+    {
+      "id": "quote_4720_1772291328043",
+      "character": "Keima Katsuragi",
+      "quote": "In the first place, the logic that says \"\"those who play games are kids\"\" is itself an allusion, therefore one might say that shoehorning reality into your stubborn dualism is already a criticism of the self. In short, humans can only recognize reality through the filter called \"\"me\"\" and so they are unable to escape the constraints of their uncanny existence."
     }
   ]
 }
