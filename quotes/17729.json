@@ -1,9 +1,9 @@
 {
-  "name": "Grisaia no Kajitsu",
+  "name": "The Fruit of Grisaia",
   "anilistId": 17729,
-  "totalQuotes": 20,
+  "totalQuotes": 25,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T14:39:29.995Z",
+  "lastUpdated": "2026-02-28T13:55:06.408Z",
   "quotes": [
     {
       "id": "quote_1946_1755682086269",
@@ -104,6 +104,31 @@
       "id": "quote_215_1755700769994",
       "character": "Yuuji Kazami",
       "quote": "This is something my master used to say. \"Kids who are too obedient and never think of themselves are the hardest to watch.\" "
+    },
+    {
+      "id": "quote_1871_1772286906408",
+      "character": "Kazuki Kazami",
+      "quote": "I believe that \"\"I could have done something\"\" is the most frustrating regret of them all."
+    },
+    {
+      "id": "quote_1873_1772286906408",
+      "character": "Kazuki Kazami",
+      "quote": "That makes four time. Listen. The more you say, \"\"I'm sorry\"\", the lesser it's worth."
+    },
+    {
+      "id": "quote_1886_1772286906408",
+      "character": "Yuuji Kazami",
+      "quote": "This is something my master used to say. \"\"Kids who are too obedient and never think of themselves are the hardest to watch.\"\""
+    },
+    {
+      "id": "quote_1887_1772286906408",
+      "character": "Makina Irisu",
+      "quote": "When cats are near death, they leave their owner's side, right? I'm sure that's exactly how I feel. I want to disappear while they can think, \"\"What a noisy, stupid girl she was, I wonder if she's doing okay."
+    },
+    {
+      "id": "quote_2585_1772286906408",
+      "character": "Yuuji Kazami",
+      "quote": "According to my master, when you're a kid, just being a fast runner makes you popular. In middle school, it's holding your own in a fight. After that, brains make you popular. Her point seemed to be, \"\"Run fast, hit hard, and read books."
     }
   ]
 }
