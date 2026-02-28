@@ -1,13 +1,19 @@
 {
-  "name": "Octave",
+  "name": "8 Man",
   "anilistId": 5052,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
   "quotes": [
     {
       "id": "quote_222_1755681663562",
       "character": "Yukino Miyashita",
       "quote": "Someone told me this: \"Nothing is \"forever\" in human relationships\". That might be true, but it sounds awfully lonely. But I realized today... If there really is no such thing as \"forever\"... Then having someone important is the happiest thing one can attain in life."
+    },
+    {
+      "id": "quote_158_1772286908410",
+      "character": "Yukino Miyashita",
+      "quote": "Someone told me this: \"\"Nothing is \"\"forever\"\" in human relationships\"\". That might be true, but it sounds awfully lonely. But I realized today... If there really is no such thing as \"\"forever\"\"... Then having someone important is the happiest thing one can attain in life."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:55:08.410Z"
 }
