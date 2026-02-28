@@ -1,9 +1,9 @@
 {
   "name": "Black Butler: Book of Circus",
   "anilistId": 20606,
-  "totalQuotes": 5,
+  "totalQuotes": 6,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:48:12.127Z",
+  "lastUpdated": "2026-02-28T14:24:18.995Z",
   "quotes": [
     {
       "id": "quote_2210_1755663584230",
@@ -29,6 +29,11 @@
       "id": "quote_1_1755686892127",
       "character": "Sebastian Michaelis",
       "quote": "The hungrier one is, the more satisfying one's dinner."
+    },
+    {
+      "id": "quote_1486_1772288658995",
+      "character": "Ciel Phantomhive",
+      "quote": "Don't cry"
     }
   ]
 }
