@@ -1,9 +1,9 @@
 {
   "name": "Soul Eater",
   "anilistId": 3588,
-  "totalQuotes": 200,
+  "totalQuotes": 204,
   "totalCharacters": 17,
-  "lastUpdated": "2025-08-20T15:31:08.242Z",
+  "lastUpdated": "2026-02-28T13:47:43.463Z",
   "quotes": [
     {
       "id": "quote_2237_1755663599100",
@@ -1004,6 +1004,26 @@
       "id": "quote_2436_1755663599100",
       "character": "Excalibur",
       "quote": "Excalibur! Excalibur! From the United K! I'm looking for heaven! I'm going to California!"
+    },
+    {
+      "id": "quote_3160_1772286463462",
+      "character": "Asura",
+      "quote": "Sitting there in the dark, I had the chance to think about a lot of things, including the nature of the world itself. And after lengthy consideration, I realized something"
+    },
+    {
+      "id": "quote_3161_1772286463462",
+      "character": "Franken Stein",
+      "quote": "There is no inherent right or wrong in this world, those labels are just artificial constructs. Right and wrong are held by positions of authority. That is the way it's always been, so how then could anyone know this truth you speak of? Don't you see the reality is that truth long ago became nothing more than a shadow of itself"
+    },
+    {
+      "id": "quote_5123_1772286463462",
+      "character": "Little Demon",
+      "quote": "You are calm and composed. You are able to see through things clearly at this age. You are outstanding. And... Always being able to make the correct judgments, not falling into darkness. Outstanding. \"\"That won't do\"\", \"\"This is wrong\"\". You reject any number of paths... Choosing your path with cynicism. What do you want to do? How are you going to do it? What is your motive? Where do you want to move forward to? Say it. Hmm? Fine. Then stick to the ground forever to move forward, you creep. You little coward who can only move forward by using the method of elimination. Until you found something to reject... You shall just lie on the ground helplessly."
+    },
+    {
+      "id": "quote_5730_1772286463462",
+      "character": "Excalibur",
+      "quote": "SILENCE! This is number 349 of the 1,000 provisions you must observe. Meisters should eat everything regardless of personal likes and dislikes. Never say anything as selfish as \"\"I don't like carrots.\"\" again."
     }
   ]
 }
