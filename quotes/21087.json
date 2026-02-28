@@ -1,7 +1,7 @@
 {
   "name": "One-Punch Man",
   "anilistId": 21087,
-  "totalQuotes": 22,
+  "totalQuotes": 23,
   "totalCharacters": 8,
   "quotes": [
     {
@@ -113,6 +113,12 @@
       "id": "quote_110_1755682423555",
       "character": "Saitama",
       "quote": "The true power of us human beings is that we can change ourselves on our own."
+    },
+    {
+      "id": "quote_461_1772287193673",
+      "character": "Saitama",
+      "quote": "Heroes and the police don't do their jobs because someone says \"\"please\"\". Right?"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:59:53.673Z"
 }
