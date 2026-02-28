@@ -1,9 +1,9 @@
 {
   "name": "Durarara!!",
   "anilistId": 6746,
-  "totalQuotes": 71,
+  "totalQuotes": 75,
   "totalCharacters": 12,
-  "lastUpdated": "2025-08-20T15:30:44.072Z",
+  "lastUpdated": "2026-02-28T13:53:08.701Z",
   "quotes": [
     {
       "id": "quote_88_1755681743754",
@@ -359,6 +359,26 @@
       "id": "quote_46_1755703844072",
       "character": "Celty Sturluson",
       "quote": "The world isn't as bad as you think. "
+    },
+    {
+      "id": "quote_1261_1772286788701",
+      "character": "Izaya Orihara",
+      "quote": "Have you ever thought about why you're so good and your parents are so bad? If you'd so kindly let me give away the answer"
+    },
+    {
+      "id": "quote_3410_1772286788701",
+      "character": "Shizuo Heiwajima",
+      "quote": "I really hate violence ..."
+    },
+    {
+      "id": "quote_8343_1772286788701",
+      "character": "Izaya Orihara",
+      "quote": "I've heard that stalkers don't realize they're stalking. Apparently, they believe that they're \"\"protecting\"\"."
+    },
+    {
+      "id": "quote_8351_1772286788701",
+      "character": "Shizuo Heiwajima",
+      "quote": "What is life?\"\", \"\"Why do people live?\"\". Someone asked me that and I beat him within an inch of his life..."
     }
   ]
 }
