@@ -1,9 +1,9 @@
 {
-  "name": "Psycho-Pass",
+  "name": "PSYCHO-PASS",
   "anilistId": 13601,
-  "totalQuotes": 45,
+  "totalQuotes": 49,
   "totalCharacters": 11,
-  "lastUpdated": "2025-08-21T12:18:11.170Z",
+  "lastUpdated": "2026-02-28T13:53:21.049Z",
   "quotes": [
     {
       "id": "quote_1668_1755682021860",
@@ -229,6 +229,26 @@
       "id": "quote_24_1755778691170",
       "character": "Akane Tsunemori",
       "quote": "I was the only one who got an A ranking for the Public Safety Bureau. There were more than 500 students and I was the only one. So I thought that there must have been something that only I could do at the Bureau. If I went there, I thought I could find my purpose in life... I thought I'd be able to find out why I was born here and now! "
+    },
+    {
+      "id": "quote_868_1772286801049",
+      "character": "Makishima Shougo",
+      "quote": "Like God, you mean? That might be pleasurable in its own way, but unfortunately I'm not into being an umpire or a referee, as I can't genuinely enjoy the game unless I'm part of it. And I love this game that people call \"\"life\"\" from the bottom of my heart. That's why I'd like to continue to participate in it as a player, forever and ever."
+    },
+    {
+      "id": "quote_3437_1772286801049",
+      "character": "Oryou Rikako",
+      "quote": "Chastity and grace - traditional virtues that have been lost. They comprise the educational ideology of Ousou Academy. They're priorities that are not valued in boys, only in girls. After having them instilled in us, we're shipped out as brand-name product, refined, sheltered maidens, and purchased by men who seek a classic piece of furniture called \"\"a good wife and mother\"\" in a formality known as marriage. Students in this school are all components that will be processed into an artwork called \"\"the lady\"\". They are rough stones waiting to be polished and finished up. They live sad and boring lives, even though there are many other possible ways they could bloom."
+    },
+    {
+      "id": "quote_3699_1772286801049",
+      "character": "Makishima Shougo",
+      "quote": "I love this game that people call \"\"life\"\" from the bottom of my heart."
+    },
+    {
+      "id": "quote_3760_1772286801049",
+      "character": "Akane Tsunemori",
+      "quote": "It's not the final judgement of \"\"good\"\" and \"\"evil\"\" that's important. What matters is that you come to that decision yourself. That you agonize over it and eventually accept it."
     }
   ]
 }
