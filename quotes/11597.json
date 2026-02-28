@@ -1,7 +1,7 @@
 {
   "name": "Nisemonogatari",
   "anilistId": 11597,
-  "totalQuotes": 19,
+  "totalQuotes": 20,
   "totalCharacters": 10,
   "quotes": [
     {
@@ -98,6 +98,12 @@
       "id": "quote_2003_1755663558774",
       "character": "Mayoi Hachikuji",
       "quote": "Sharing your secret with someone means you involve them in your problems. It may make things easier for you, but your family could end up suffering for it too."
+    },
+    {
+      "id": "quote_1177_1772287489272",
+      "character": "Koyomi Araragi",
+      "quote": "It isn't just \"\"others\"\". Not \"\"others\"\". It's my Family. I'll force my ideals on my family. And since they're family, I'll lie to them. I'll deceive them. I'll cause them trouble. I'll make them worry. I'll owe them things, things I'll never be able to repay. However, I think that's okay. If you say that being an impostor is evil, then I will shoulder the burden of that evil. If lying is a bad thing, then I'm fine being the bad person. I don't need them to like me. I'm fine with being the worst kind of person."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:04:49.272Z"
 }
