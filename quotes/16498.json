@@ -1,9 +1,9 @@
 {
-  "name": "Shingeki no Kyojin",
+  "name": "Attack on Titan",
   "anilistId": 16498,
-  "totalQuotes": 76,
+  "totalQuotes": 77,
   "totalCharacters": 20,
-  "lastUpdated": "2025-08-21T12:18:25.622Z",
+  "lastUpdated": "2026-02-28T13:56:16.732Z",
   "quotes": [
     {
       "id": "quote_819_1755681815147",
@@ -384,6 +384,11 @@
       "id": "quote_32_1755778705622",
       "character": "Eren Jaeger",
       "quote": "I want to see and understand the world outside. I don't want to die inside these walls without knowing what's out there! "
+    },
+    {
+      "id": "quote_3580_1772286976732",
+      "character": "Armin Arlelt",
+      "quote": "I don't like the terms \"\"good person\"\" or \"\"bad person\"\" because it's impossible to be entirely good to everyone or entirely bad to everyone. To some, you are a good person, while to others, you are a bad person."
     }
   ]
 }
