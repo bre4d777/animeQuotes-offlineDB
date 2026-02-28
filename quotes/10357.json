@@ -1,9 +1,9 @@
 {
   "name": "Jinrui wa Suitai Shimashita",
   "anilistId": 10357,
-  "totalQuotes": 26,
+  "totalQuotes": 28,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T15:37:01.446Z",
+  "lastUpdated": "2026-02-28T15:07:29.317Z",
   "quotes": [
     {
       "id": "quote_2220_1755682191954",
@@ -134,6 +134,16 @@
       "id": "quote_98_1755704221446",
       "character": "Watashi",
       "quote": "The devil made me do it. It was all his fault. Yup, all him. Look at them shake. I don't blame them. The second I spotted them, I put a lid on the tin and ran away. In other words, I kidnapped them. Is there any way to spin this? I mean, any way to solve the problem? "
+    },
+    {
+      "id": "quote_5039_1772291249317",
+      "character": "UNESCO Director",
+      "quote": "A politician in the past once said: \"\"My secretaries did it all."
+    },
+    {
+      "id": "quote_5040_1772291249317",
+      "character": "Watashi",
+      "quote": "And so... I have written down the lesson I've learned from this vital experience in form of a title suitable for a business reference book: \"\"Never hold meetings. The outcome is determined before the meeting begins."
     }
   ]
 }
