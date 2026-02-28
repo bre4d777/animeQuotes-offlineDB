@@ -1,7 +1,7 @@
 {
   "name": "Medaka Box",
   "anilistId": 11761,
-  "totalQuotes": 14,
+  "totalQuotes": 15,
   "totalCharacters": 5,
   "quotes": [
     {
@@ -73,6 +73,12 @@
       "id": "quote_1317_1755681919413",
       "character": "Kouki Akune",
       "quote": "If you're going to make a wish, you must put forth the effort to ensure that it comes true!"
+    },
+    {
+      "id": "quote_1386_1772288340678",
+      "character": "Medaka Kurokami",
+      "quote": "To enjoy what one loves to do\"\". Those words come easily from the mouth. But it's another thing to help them grow."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:19:00.678Z"
 }
