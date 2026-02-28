@@ -1,9 +1,9 @@
 {
   "name": "Vampire Knight",
   "anilistId": 3457,
-  "totalQuotes": 67,
+  "totalQuotes": 71,
   "totalCharacters": 5,
-  "lastUpdated": "2025-08-20T15:29:53.149Z",
+  "lastUpdated": "2026-02-28T15:01:17.385Z",
   "quotes": [
     {
       "id": "quote_6_1755682457030",
@@ -339,6 +339,26 @@
       "id": "quote_983_1755700874917",
       "character": "Yuki Kuran",
       "quote": "The world is dyed with the color of blood. It will never be able to go back to the way it was before..."
+    },
+    {
+      "id": "quote_7521_1772290877385",
+      "character": "Zero Kiriyuu",
+      "quote": "Listen up, brats! Get the hell back to your dorms! Why do I have to deal with you running around screaming \"\"Kyaa! Kyaa!\"\" every damn day?! Why?!"
+    },
+    {
+      "id": "quote_7523_1772290877385",
+      "character": "Zero Kiriyuu",
+      "quote": "Former humans eventually fall into the Level E category, Yuki. They gradually lose their sanity, reaching their \"\"end\"\" - their destruction."
+    },
+    {
+      "id": "quote_7549_1772290877385",
+      "character": "Kaien Cross",
+      "quote": "I still think about protecting you two...even if it's considered as an act of taboo by \"\"humans\"\"."
+    },
+    {
+      "id": "quote_7634_1772290877385",
+      "character": "Zero Kiriyuu",
+      "quote": "That's why for you, you have the right to be cruel to me. No matter how much you make me worry or how much danger you put me in, just as much as you like. But these are not enough \"\"compensation\"\". Even if I have to sacrifice my left over life for you, I would not utter a word of complaint."
     }
   ]
 }
