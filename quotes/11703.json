@@ -1,7 +1,7 @@
 {
   "name": "Code:Breaker",
   "anilistId": 11703,
-  "totalQuotes": 8,
+  "totalQuotes": 10,
   "totalCharacters": 2,
   "quotes": [
     {
@@ -43,6 +43,17 @@
       "id": "quote_2480_1755682307934",
       "character": "Ogami Rei",
       "quote": "Death is to good for trash like you. This is your punishment which is even harder than death. Atone for your sin by living... A life of fulfillment."
+    },
+    {
+      "id": "quote_729_1772287712473",
+      "character": "Ogami Rei",
+      "quote": "Don`t you... decide everything by yourself!! I don`t care about being pathetic or getting anything in return... People cannot possibly choose their own birthplace, but they can choose their own death that's why I became a \"\"Code Breaker\"\".  I`ll burn down all evil as long as I`m still alive... to the very last second of my life... nothing more than that!!"
+    },
+    {
+      "id": "quote_3583_1772287712473",
+      "character": "Ogami Rei",
+      "quote": "Giving into the pain and thinking you want to die just means you've been spoiled by life. If you don't want to die, then don't act spoiled. Suffer through life"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:08:32.474Z"
 }
