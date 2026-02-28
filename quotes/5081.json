@@ -1,9 +1,9 @@
 {
   "name": "Bakemonogatari",
   "anilistId": 5081,
-  "totalQuotes": 67,
+  "totalQuotes": 72,
   "totalCharacters": 8,
-  "lastUpdated": "2025-08-20T15:33:34.227Z",
+  "lastUpdated": "2026-02-28T14:03:32.649Z",
   "quotes": [
     {
       "id": "quote_1118_1755681877781",
@@ -339,6 +339,31 @@
       "id": "quote_58_1755704014227",
       "character": "Shinobu Oshino",
       "quote": "The sun is my enemy, but the moon has been good to me. "
+    },
+    {
+      "id": "quote_6374_1772287412649",
+      "character": "Senjougahara Hitagi",
+      "quote": "I told you, anything is OK, like saying you want me to end all my sentences with \"\"nyu\"\" for a week. Or that you want me to not wear underwear to school for a week. Or that you want me to wake you up every morning for a week, wearing nothing but an apron."
+    },
+    {
+      "id": "quote_6376_1772287412649",
+      "character": "Senjougahara Hitagi",
+      "quote": "Don't call me \"\"this chick\"\"."
+    },
+    {
+      "id": "quote_6391_1772287412649",
+      "character": "Senjougahara Hitagi",
+      "quote": "Is that so? Then I'll just use \"\"pathetic\"\" next time."
+    },
+    {
+      "id": "quote_6392_1772287412649",
+      "character": "Koyomi Araragi",
+      "quote": "The word \"\"ignorant\"\" has a nice ring to it, so I don't mind being called that, but \"\"incompetent\"\" is going just a bit too far..."
+    },
+    {
+      "id": "quote_6394_1772287412649",
+      "character": "Senjougahara Hitagi",
+      "quote": "Copper, 40g"
     }
   ]
 }
