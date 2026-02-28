@@ -1,9 +1,9 @@
 {
-  "name": "Akuma To Love Song",
+  "name": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
   "anilistId": 10947,
-  "totalQuotes": 27,
+  "totalQuotes": 30,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T15:35:30.336Z",
+  "lastUpdated": "2026-02-28T14:48:56.247Z",
   "quotes": [
     {
       "id": "quote_1772_1755663529158",
@@ -139,6 +139,21 @@
       "id": "quote_1798_1755663529158",
       "character": "Kawai Maria",
       "quote": "You're not God, nor are you a sister. But it's because I feel that you're much closer to me than God, I'm much more afraid of being hated by you."
+    },
+    {
+      "id": "quote_2573_1772290136247",
+      "character": "Kawai Maria",
+      "quote": "I do want to be useful for something and to be of help to people, but I want to decide what that \"\"something\"\" is by myself."
+    },
+    {
+      "id": "quote_2660_1772290136247",
+      "character": "Kawai Maria",
+      "quote": "Those who believe will be saved\"\". It's just that I wanted to find out whether you'll be saved if you believed. If such a thing were true, I feel like I can change myself too."
+    },
+    {
+      "id": "quote_2662_1772290136247",
+      "character": "Shin Meguro",
+      "quote": "If you're friends with everyone, you become a popular guy in return"
     }
   ]
 }
