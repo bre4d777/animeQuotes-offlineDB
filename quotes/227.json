@@ -1,9 +1,9 @@
 {
   "name": "FLCL",
   "anilistId": 227,
-  "totalQuotes": 12,
+  "totalQuotes": 13,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T15:34:09.178Z",
+  "lastUpdated": "2026-02-28T15:07:20.984Z",
   "quotes": [
     {
       "id": "quote_73_1755685459374",
@@ -64,6 +64,11 @@
       "id": "quote_84_1755685459374",
       "character": "Haruko Haruhara",
       "quote": "It takes an idiot to do cool things. That's why it's cool."
+    },
+    {
+      "id": "quote_3409_1772291240984",
+      "character": "Haruko Haruhara",
+      "quote": "Yeah I lied"
     }
   ]
 }
