@@ -1,9 +1,9 @@
 {
   "name": "SERVAMP",
   "anilistId": 21269,
-  "totalQuotes": 12,
+  "totalQuotes": 15,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T14:37:54.861Z",
+  "lastUpdated": "2026-02-28T13:58:32.910Z",
   "quotes": [
     {
       "id": "quote_2179_1755682168345",
@@ -64,6 +64,21 @@
       "id": "quote_103_1755700674861",
       "character": "Lawless",
       "quote": "You don't know anything. What the hell is up with you? Trying to be the hero? Feel like some all-powerful main character? So annoying! Why? When? Where? What? How will you do and just who will you become? You're just pretending by spouting your ideals! You have nothing! You won't become someone. \n"
+    },
+    {
+      "id": "quote_538_1772287112910",
+      "character": "Watanuki Sakuya",
+      "quote": "I don't want to lie anymore. The words \"\"I believe in you\"\" is a curse. No, it's a spell. If the one who hears it feels cursed, they are."
+    },
+    {
+      "id": "quote_580_1772287112910",
+      "character": "Shirota Tooru",
+      "quote": "Reaching out to someone is simple.  All you need is the resolve to say, \"\"I'm your ally no matter what.\"\" \"\"I believe in you.\"\" That's all the resolve you need. It's okay to make mistakes. I grew up by making mistakes. Don't have any regrets. Your justice may be completely different from someone else's. You are completely different people after all. But you still live on together. People always look for ways to do just that."
+    },
+    {
+      "id": "quote_733_1772287112910",
+      "character": "Shirota Mahiru",
+      "quote": "I was curious. Mikuni-san and Tsuyuki-senpai are the same. You say you'll \"\"destroy\"\" vampires. You never say \"\"kill\"\". Senpai. You've never seen a vampire playing games while lazing around the house, have you? A vampire crying that they're \"\"sorry for lying\"\" and regretting... A really bothersome NEET vampire who fought to protect a human he had just met too! I've seen a lot more than just their bad sides. They're all my comrades. You know, it'd be good if you just talked about what's bothering you too. Neither humans nor vampires need reasons to want to protect or save something. If they find C3 is weakening, the balance between humans and non-humans will collapse. If we suffer major damage from Tsubaki's side and asked you all for help, can you guarantee that none of the other vampires would attack C3? I don't really know... what the situation between vampires and C3 is, but, simply put, we need to protect it all, so that nobody gets hurt!"
     }
   ]
 }
