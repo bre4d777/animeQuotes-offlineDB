@@ -1,9 +1,9 @@
 {
   "name": "Gankutsuou: The Count of Monte Cristo",
   "anilistId": 239,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:47:10.936Z",
+  "lastUpdated": "2026-02-28T14:16:58.948Z",
   "quotes": [
     {
       "id": "quote_51_1755682367776",
@@ -24,6 +24,11 @@
       "id": "quote_207_1755686830936",
       "character": "The Count of Monte Cristo",
       "quote": "I no longer even dream, for I no longer sleep. So I had this golden enclosed garden made. However, now the only place where I can be myself is in this room. And my wealth is just this one glass of water."
+    },
+    {
+      "id": "quote_3911_1772288218948",
+      "character": "Gankutsuou",
+      "quote": "Everyone has a sword within their hearts"
     }
   ]
 }
