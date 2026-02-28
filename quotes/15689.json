@@ -1,7 +1,7 @@
 {
-  "name": "Nekomonogatari: Kuro",
+  "name": "Nekomonogatari Black",
   "anilistId": 15689,
-  "totalQuotes": 3,
+  "totalQuotes": 4,
   "totalCharacters": 2,
   "quotes": [
     {
@@ -18,6 +18,12 @@
       "id": "quote_1892_1755682065078",
       "character": "Meme Oshino",
       "quote": "It's not like people only look for help by saying \"please help me.\" In similiar vein, it's not like you're only in love with someone if you say \"I love you.\" Everyone has things they can't say on impulse."
+    },
+    {
+      "id": "quote_177_1772286469782",
+      "character": "Meme Oshino",
+      "quote": "It's not like people only look for help by saying \"\"please help me.\"\" In similiar vein, it's not like you're only in love with someone if you say \"\"I love you.\"\" Everyone has things they can't say on impulse."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:47:49.782Z"
 }
