@@ -1,9 +1,9 @@
 {
   "name": "Fairy Tail",
   "anilistId": 6702,
-  "totalQuotes": 165,
+  "totalQuotes": 175,
   "totalCharacters": 32,
-  "lastUpdated": "2025-08-20T15:33:26.306Z",
+  "lastUpdated": "2026-02-28T13:49:03.955Z",
   "quotes": [
     {
       "id": "quote_175_1755681749594",
@@ -829,6 +829,56 @@
       "id": "quote_55_1755704006306",
       "character": "Gray Fullbuster",
       "quote": "It's not the goodbyes that hurt, it's the flashbacks that follow...\r\n"
+    },
+    {
+      "id": "quote_36_1772286543955",
+      "character": "Gildarts Clive",
+      "quote": "Fear is \"\"evil\"\", it tells your weakness. If you can know your weakness, people become strong and gentle."
+    },
+    {
+      "id": "quote_3305_1772286543955",
+      "character": "Natsu Dragneel",
+      "quote": "Maybe we can't help feeling scared alone! But we're all right here, together! We've got out friends close by!"
+    },
+    {
+      "id": "quote_3306_1772286543955",
+      "character": "Natsu Dragneel",
+      "quote": "We know our weakness. Now what will we do?"
+    },
+    {
+      "id": "quote_3343_1772286543955",
+      "character": "Erza Scarlet",
+      "quote": "Time\"\" is proof that people have lived. Every person lives the time that has been given to them... that is life."
+    },
+    {
+      "id": "quote_3345_1772286543955",
+      "character": "Natsu Dragneel",
+      "quote": "Your so called \"\"hope\"\" is to throw the past into despair?"
+    },
+    {
+      "id": "quote_4069_1772286543955",
+      "character": "Ultear Milkovich",
+      "quote": "The time known as \"\"LIFE\"\", cannot be rewound."
+    },
+    {
+      "id": "quote_4381_1772286543955",
+      "character": "Wendy Marvell",
+      "quote": "If I haven't had fear, then I also wouldn't have been able to know what it's like to have bravery in my heart."
+    },
+    {
+      "id": "quote_5013_1772286543955",
+      "character": "Lucy Heartfilia",
+      "quote": "*To Gajeel Redfox* You guys are complete idiots! I feel so sorry for you, I think I\\'m tearing up. Phantom Lord? The spirit ruler? What a joke"
+    },
+    {
+      "id": "quote_5197_1772286543955",
+      "character": "Makarov Dreyar",
+      "quote": "Weaklings will stay weak forever. But weakness is not evil, since human beings are weak creatures to begin with. Alone, you feel nothing but insecurity"
+    },
+    {
+      "id": "quote_6432_1772286543955",
+      "character": "Lucy Heartfilia",
+      "quote": "Stellar Spirits are not \"\"Shields\"\"."
     }
   ]
 }
