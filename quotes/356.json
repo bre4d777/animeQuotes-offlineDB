@@ -1,9 +1,9 @@
 {
   "name": "Fate/stay night",
   "anilistId": 356,
-  "totalQuotes": 75,
+  "totalQuotes": 81,
   "totalCharacters": 11,
-  "lastUpdated": "2025-08-20T15:30:07.520Z",
+  "lastUpdated": "2026-02-28T14:06:45.033Z",
   "quotes": [
     {
       "id": "quote_597_1755681790745",
@@ -379,6 +379,36 @@
       "id": "quote_26_1755701011684",
       "character": "Archer",
       "quote": "Drown in your ideals and die!"
+    },
+    {
+      "id": "quote_3925_1772287605033",
+      "character": "Archer",
+      "quote": "You can certainly fulfill your wish to \"\"save someone\"\". But a wish for you to save yourself, does not exist. You will embrace a borrowed ideal that is not yours, and you will probably pursue it until you die."
+    },
+    {
+      "id": "quote_3955_1772287605033",
+      "character": "Archer",
+      "quote": "Emiya Shirou! Listen, you are not \"\"one who fights\"\". You are nothing more than \"\"one who creates\"\". Don't think of irrelevant things. There is only one thing you can do, master that one thing. Do not forget. The thing you image is always \"\"your strongest self.\"\" You don't need any other enemies. The opponent you have to fight is none other than \"\"your own image\"\"."
+    },
+    {
+      "id": "quote_6242_1772287605033",
+      "character": "Lancer",
+      "quote": "#NAVN?"
+    },
+    {
+      "id": "quote_6250_1772287605033",
+      "character": "Archer",
+      "quote": "Yes, the seats are limited. There are always fewer seats called \"\"happiness\"\" than there are people to fill them."
+    },
+    {
+      "id": "quote_6261_1772287605033",
+      "character": "Archer",
+      "quote": "I am the bone of my sword. Steel is my body, and fire is my blood. I have created over a thousand blades. Unknown to death. Nor known to life. Have withstood pain to create many weapons. Yet, those hands will never hold anything. So as I pray,"
+    },
+    {
+      "id": "quote_6262_1772287605033",
+      "character": "Archer",
+      "quote": "The things we can't obtain are the most beautiful ones."
     }
   ]
 }
