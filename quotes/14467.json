@@ -1,9 +1,9 @@
 {
-  "name": "K Project",
+  "name": "K",
   "anilistId": 14467,
-  "totalQuotes": 10,
+  "totalQuotes": 11,
   "totalCharacters": 6,
-  "lastUpdated": "2025-08-21T12:17:28.032Z",
+  "lastUpdated": "2026-02-28T14:24:04.502Z",
   "quotes": [
     {
       "id": "quote_1270_1755681907532",
@@ -54,6 +54,11 @@
       "id": "quote_17_1755778648032",
       "character": "Yashiro Isana",
       "quote": "Well, it's not a big deal or anything... but I was almost killed. "
+    },
+    {
+      "id": "quote_2213_1772288644502",
+      "character": "Yashiro Isana",
+      "quote": "Regardless of who I was in the past or what I did, I feel like \"\"me\"\" of the present should take responsibility."
     }
   ]
 }
