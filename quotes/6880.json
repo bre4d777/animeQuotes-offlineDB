@@ -1,9 +1,9 @@
 {
   "name": "Deadman Wonderland",
   "anilistId": 6880,
-  "totalQuotes": 22,
+  "totalQuotes": 26,
   "totalCharacters": 10,
-  "lastUpdated": "2025-08-20T15:34:39.098Z",
+  "lastUpdated": "2026-02-28T14:10:27.940Z",
   "quotes": [
     {
       "id": "quote_1242_1755681901666",
@@ -114,6 +114,26 @@
       "id": "quote_1263_1755681901666",
       "character": "Kiyomasa Senji",
       "quote": "If you are weak, don't bare your fangs."
+    },
+    {
+      "id": "quote_1844_1772287827940",
+      "character": "Madoka Shishito",
+      "quote": "This is the law of conservation of mass. Somebody's \"\"happiness\"\" is somebody else's \"\"unhappiness\"\". That's why I tried to be a \"\"rubbish bin\"\" for those guys who played othello on my back using white and black thumbtacks. My crying and screaming meant something, 'cause they were laughing... But I was wrong. It doesn't make sense, does it? If I enjoy being unhappy, that \"\"happiness\"\" will make someone else \"\"unhappy\"\"!"
+    },
+    {
+      "id": "quote_2291_1772287827940",
+      "character": "Nagi Kengamine",
+      "quote": "Everyone's fighting for their own kind of freedom. It seems small"
+    },
+    {
+      "id": "quote_3702_1772287827940",
+      "character": "Ikazuchi Akatsuki",
+      "quote": "The world consists of \"\"choices\"\", in other words, it consists of continual gamble. Other guys are not aware of this. Thus they moved about in confusion."
+    },
+    {
+      "id": "quote_3948_1772287827940",
+      "character": "Mitsuzaki Yosuga",
+      "quote": "People fear death because they don't \"\"understand\"\" it, and we're afraid of strangers because we don't \"\"know\"\" them. Not being able to understand the one you love... is the worst fear of all."
     }
   ]
 }
