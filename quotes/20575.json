@@ -1,7 +1,7 @@
 {
-  "name": "Hanayamata",
+  "name": "HaNaYaMaTa",
   "anilistId": 20575,
-  "totalQuotes": 2,
+  "totalQuotes": 3,
   "totalCharacters": 2,
   "quotes": [
     {
@@ -13,6 +13,12 @@
       "id": "quote_2418_1755682275494",
       "character": "Masaru Ōfuna",
       "quote": "Coming together and working hard with everyone is a really fun thing!"
+    },
+    {
+      "id": "quote_2683_1772290733751",
+      "character": "Hana N. Fontainestand",
+      "quote": "See, \"\"empty\"\" just means you have plenty of room to take in all kinds of new things. Fun things, precious things, painful things, things you've never seen before!"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:58:53.751Z"
 }
