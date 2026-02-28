@@ -1,9 +1,9 @@
 {
-  "name": "Rokka no Yuusha",
+  "name": "Rokka -Braves of the Six Flowers-",
   "anilistId": 20955,
-  "totalQuotes": 8,
+  "totalQuotes": 9,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:30:58.062Z",
+  "lastUpdated": "2026-02-28T14:06:32.730Z",
   "quotes": [
     {
       "id": "quote_11_1755685858062",
@@ -44,6 +44,11 @@
       "id": "quote_18_1755685858062",
       "character": "Fremy Speedraw",
       "quote": "Liars always say the same things. \"I'll believe in you. I'll protect you. I care about you.\" I'll never believe that again... No one will ever protect me. I won't even think about it. I'll fight alone, live alone, and die alone. I know... I've felt it on my skin and in my body... That it's better not to believe in anyone than believe and be betrayed!"
+    },
+    {
+      "id": "quote_608_1772287592730",
+      "character": "Fremy Speedraw",
+      "quote": "Liars always say the same things. \"\"I'll believe in you. I'll protect you. I care about you.\"\" I'll never believe that again... No one will ever protect me. I won't even think about it. I'll fight alone, live alone, and die alone. I know... I've felt it on my skin and in my body... That it's better not to believe in anyone than believe and be betrayed!"
     }
   ]
 }
