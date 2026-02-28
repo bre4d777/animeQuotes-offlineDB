@@ -1,7 +1,7 @@
 {
-  "name": "Sousei no Aquarion",
+  "name": "Aquarion",
   "anilistId": 478,
-  "totalQuotes": 5,
+  "totalQuotes": 6,
   "totalCharacters": 3,
   "quotes": [
     {
@@ -28,6 +28,12 @@
       "id": "quote_2485_1755682310817",
       "character": "Gen Fudou",
       "quote": "A misty moonlight night washes over the land and though darkness ebbs with the glow of the full moon, shadows still remain. They conceal an evil which exists just beyond our grasp. Sides are chosen. Lines are drawn, ones that we dare not cross. But in the distance a ray of light shines to expose our path. It is then that we realize that some things in life are better left unseen."
+    },
+    {
+      "id": "quote_2378_1772290731722",
+      "character": "Toma Epanort",
+      "quote": "On that day twelve thousand years ago, on the summit of clouds reaching the stratosphere, remember that evening when we watched the prominence rise from the sunspot together…"
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:58:51.722Z"
 }
