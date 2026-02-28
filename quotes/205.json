@@ -1,9 +1,9 @@
 {
   "name": "Samurai Champloo",
   "anilistId": 205,
-  "totalQuotes": 24,
+  "totalQuotes": 26,
   "totalCharacters": 5,
-  "lastUpdated": "2025-08-20T15:30:12.398Z",
+  "lastUpdated": "2026-02-28T15:03:43.669Z",
   "quotes": [
     {
       "id": "quote_1900_1755682073965",
@@ -124,6 +124,16 @@
       "id": "quote_25_1755701009326",
       "character": "Mugen",
       "quote": "If living means that I must bow down to you guys, I will happily stand tall and die!"
+    },
+    {
+      "id": "quote_2701_1772291023668",
+      "character": "Monk Zuikou",
+      "quote": "Freedom, isn’t something earned through suffering or pushing yourself. You must accept yourself just as you are and live according to the flow of things"
+    },
+    {
+      "id": "quote_6227_1772291023668",
+      "character": "Kasumi Fuu",
+      "quote": "They say \"\"there's always room for dessert\"\", but for me, it's more like \"\"there's always room if someone else is paying\"\"."
     }
   ]
 }
