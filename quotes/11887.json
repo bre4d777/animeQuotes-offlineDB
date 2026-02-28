@@ -1,7 +1,7 @@
 {
   "name": "Kokoro Connect",
   "anilistId": 11887,
-  "totalQuotes": 20,
+  "totalQuotes": 22,
   "totalCharacters": 4,
   "quotes": [
     {
@@ -103,6 +103,17 @@
       "id": "quote_880_1755663467207",
       "character": "Himeko Inaba",
       "quote": "Never forget that kindness can hurt instead of help."
+    },
+    {
+      "id": "quote_1226_1772288415259",
+      "character": "Iori Nagase",
+      "quote": "What are people? What is the \"\"self\"\"? So long as you look like someone else, no one can't tell who's really on the inside."
+    },
+    {
+      "id": "quote_3051_1772288415259",
+      "character": "Iori Nagase",
+      "quote": "Even if I’m not perfect… Even if I’m not the ideal me… He says that I’m still my own person."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:20:15.259Z"
 }
