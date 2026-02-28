@@ -1,14 +1,19 @@
 {
-  "name": "Teen Spirit",
+  "name": "Yaojing Zhongzhi Shouce",
   "anilistId": 114959,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:44:57.012Z",
+  "lastUpdated": "2026-02-28T13:56:43.461Z",
   "quotes": [
     {
       "id": "quote_120_1755686697012",
       "character": "Shin Woo Baek",
       "quote": "You can become happy right now.\" I won't say these types of absurd lies. However, if you get through these current hardships and survive - a time where you can be happy will come."
+    },
+    {
+      "id": "quote_190_1772287003461",
+      "character": "Shin Woo Baek",
+      "quote": "You can become happy right now.\"\" I won't say these types of absurd lies. However, if you get through these current hardships and survive - a time where you can be happy will come."
     }
   ]
 }
