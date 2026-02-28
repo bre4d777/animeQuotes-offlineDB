@@ -1,9 +1,9 @@
 {
   "name": "Spice and Wolf",
   "anilistId": 2966,
-  "totalQuotes": 37,
+  "totalQuotes": 39,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T15:36:29.546Z",
+  "lastUpdated": "2026-02-28T13:54:33.516Z",
   "quotes": [
     {
       "id": "quote_736_1755681806372",
@@ -189,6 +189,16 @@
       "id": "quote_772_1755681806372",
       "character": "Horo",
       "quote": "When a person lies, what is important is not the lie itself. No, it is their reason. Their why."
+    },
+    {
+      "id": "quote_3011_1772286873516",
+      "character": "Kraft Lawrence",
+      "quote": "The important thing is to think of something nobody else is thinking of. \"\"Ignorance is a sin\"\" is not about knowledge - it's about wisdom."
+    },
+    {
+      "id": "quote_3977_1772286873516",
+      "character": "Kraft Lawrence",
+      "quote": "We do not live in a fairy-tale world. We cannot simply take revenge on those who have betrayed us and say \"\"the end\"\". We have to live on after this. And taking revenge for betrayal only invites more revenge."
     }
   ]
 }
