@@ -1,9 +1,9 @@
 {
-  "name": "Tsubasa Reservoir Chronicle",
+  "name": "Tsubasa RESERVoir CHRoNiCLE",
   "anilistId": 177,
-  "totalQuotes": 25,
+  "totalQuotes": 26,
   "totalCharacters": 5,
-  "lastUpdated": "2025-08-20T15:31:05.809Z",
+  "lastUpdated": "2026-02-28T14:06:36.879Z",
   "quotes": [
     {
       "id": "quote_714_1755663448022",
@@ -129,6 +129,11 @@
       "id": "quote_104_1755700677534",
       "character": "Fay D. Flourite",
       "quote": "People do peculiar things when it comes to love... Our own safety doesn't seem so important.\n"
+    },
+    {
+      "id": "quote_7248_1772287596879",
+      "character": "Sakura Kinomoto",
+      "quote": "In my room at the palace, right before I go to sleep... I always think to myself, \"\"What's Syaoran doing right now? Is he thinking about me?\"\"."
     }
   ]
 }
