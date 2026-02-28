@@ -1,9 +1,9 @@
 {
   "name": "Claymore",
   "anilistId": 1818,
-  "totalQuotes": 28,
+  "totalQuotes": 29,
   "totalCharacters": 8,
-  "lastUpdated": "2025-08-20T15:33:29.094Z",
+  "lastUpdated": "2026-02-28T14:20:13.184Z",
   "quotes": [
     {
       "id": "quote_2594_1755663623163",
@@ -144,6 +144,11 @@
       "id": "quote_2621_1755663623163",
       "character": "Ophelia",
       "quote": "The idea that you can't die yet because you still have something to protect... that is the foolish illusion of the weak."
+    },
+    {
+      "id": "quote_6460_1772288413184",
+      "character": "Ophelia",
+      "quote": "This is called the \"\"Rippling Sword\"\". \"\"Rippling Ophelia\"\"... Great name, don't you think? But it's not too well known yet. Because most of the people who've seen it are dead."
     }
   ]
 }
