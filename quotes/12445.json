@@ -1,14 +1,19 @@
 {
-  "name": "Dusk maiden of Amnesia",
+  "name": "Dusk Maiden of Amnesia",
   "anilistId": 12445,
-  "totalQuotes": 1,
-  "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:48:56.901Z",
+  "totalQuotes": 2,
+  "totalCharacters": 2,
+  "lastUpdated": "2026-02-28T15:09:04.731Z",
   "quotes": [
     {
       "id": "quote_21_1755686936901",
       "character": "Kirie Kanoe",
       "quote": "Saying that people's personalities are products of their pasts isn't totally wrong. The way people live depends on their experiences."
+    },
+    {
+      "id": "quote_4751_1772291344731",
+      "character": "Kanoe Yuuko",
+      "quote": "People don't realize they aren't able to choose whether or not to believe something. If they subconsciously believe something, therein lies the potential for a curse."
     }
   ]
 }
