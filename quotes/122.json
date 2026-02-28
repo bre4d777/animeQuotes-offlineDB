@@ -1,9 +1,9 @@
 {
   "name": "Full Moon Wo Sagashite",
   "anilistId": 122,
-  "totalQuotes": 23,
+  "totalQuotes": 24,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T15:30:29.440Z",
+  "lastUpdated": "2026-02-28T15:10:27.649Z",
   "quotes": [
     {
       "id": "quote_1280_1755700903608",
@@ -119,6 +119,11 @@
       "id": "quote_1302_1755700903608",
       "character": "Meroko Yui",
       "quote": "When you die an early death or of suicide, you forget everything you did in life and become a shinigami as punishment. However if you remember your life when you were alive, your spirit gets pulled back to this world and and becomes a ghost, because you have no body to return to..."
+    },
+    {
+      "id": "quote_8494_1772291427649",
+      "character": "Meroko Yui",
+      "quote": "If I'm always going to end up feeling this way, I'd much rather never fall in love again.\"\" That's what I thought, but before I realized it, Takuto... I fell in love with him."
     }
   ]
 }
