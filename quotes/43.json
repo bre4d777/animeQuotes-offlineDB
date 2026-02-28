@@ -1,9 +1,9 @@
 {
   "name": "Ghost in the Shell",
   "anilistId": 43,
-  "totalQuotes": 16,
+  "totalQuotes": 17,
   "totalCharacters": 6,
-  "lastUpdated": "2025-08-20T15:35:27.815Z",
+  "lastUpdated": "2026-02-28T14:50:35.421Z",
   "quotes": [
     {
       "id": "quote_689_1755681796647",
@@ -84,6 +84,11 @@
       "id": "quote_82_1755704127815",
       "character": "Batou",
       "quote": "I guess once you start doubting, there's no end to it.\n\n\n\n"
+    },
+    {
+      "id": "quote_5396_1772290235421",
+      "character": "Batou",
+      "quote": "That's all it is: information. Even a simulated experience or a dream"
     }
   ]
 }
