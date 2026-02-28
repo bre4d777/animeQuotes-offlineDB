@@ -1,9 +1,9 @@
 {
-  "name": "Subete ga F ni Naru",
+  "name": "The Perfect Insider",
   "anilistId": 21190,
-  "totalQuotes": 8,
+  "totalQuotes": 11,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:37:58.707Z",
+  "lastUpdated": "2026-02-28T13:49:05.594Z",
   "quotes": [
     {
       "id": "quote_38_1755686278707",
@@ -44,6 +44,21 @@
       "id": "quote_45_1755686278707",
       "character": "Souhei Saikawa",
       "quote": "Seeing nature and thinking it's beautiful is what's unnatural. That means the life you lead is an unclean one. If you can cut yourself off from mother nature and still survive, doesn't it mean you have enough inner beauty to allow you to do that?"
+    },
+    {
+      "id": "quote_762_1772286545594",
+      "character": "Souhei Saikawa",
+      "quote": "Whenever I get up in the morning, I always think to myself, \"\"Am I really the same person I was yesterday?\"\" For example, just as a computer loads its OS into memory and boots up each time it restarts, is it possible I'm just booting up the person called \"\"Saikawa Sohuei\"\" each morning and trying to play that role?"
+    },
+    {
+      "id": "quote_975_1772286545594",
+      "character": "Magata Shiki",
+      "quote": "It is right for me, but not for you. Either way, the concept of \"\"right\"\" means no more than that."
+    },
+    {
+      "id": "quote_984_1772286545594",
+      "character": "Magata Shiki",
+      "quote": "Every individual human affects the surrounding environment. But humans do not exist for the things and people around them. Often, they mistakenly think that they wish to exist for the sake of others, or to help everyone. They can not accept that they don't know why they exist, yes? They always want an answer. That is the nature of the animals called \"\"humans\"\"."
     }
   ]
 }
