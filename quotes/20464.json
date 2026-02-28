@@ -1,7 +1,7 @@
 {
-  "name": "Haikyuu!!",
+  "name": "HAIKYU!!",
   "anilistId": 20464,
-  "totalQuotes": 24,
+  "totalQuotes": 26,
   "totalCharacters": 9,
   "quotes": [
     {
@@ -123,6 +123,17 @@
       "id": "quote_87_1755681740889",
       "character": "Yuu Nishinoya",
       "quote": "I kept the ball in the air, it’s not your place to give up."
+    },
+    {
+      "id": "quote_696_1772287394172",
+      "character": "Ittetsu Takeda",
+      "quote": "Is \"\"defeat\"\" proof that you are weak? Isn't \"\"defeat\"\" more like a trial to overcome? Of whether you can stand up and walk again after falling to you knees? If you remain on your knees like that, then it would be a sign of weakness."
+    },
+    {
+      "id": "quote_1002_1772287394172",
+      "character": "Shōyō Hinata",
+      "quote": "But now we can fight. Even if they read us or catch up to us..."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:03:14.172Z"
 }
