@@ -1,9 +1,9 @@
 {
-  "name": "Assassination Classroom 2nd Season",
+  "name": "Assassination Classroom Second Season",
   "anilistId": 21170,
-  "totalQuotes": 18,
+  "totalQuotes": 20,
   "totalCharacters": 6,
-  "lastUpdated": "2025-08-20T14:37:37.345Z",
+  "lastUpdated": "2026-02-28T14:08:18.193Z",
   "quotes": [
     {
       "id": "quote_1287_1755681916508",
@@ -94,6 +94,16 @@
       "id": "quote_95_1755700657345",
       "character": "Korosensei",
       "quote": "You must not hope for society to change for you. Do not reject society. To put it bluntly, that is simply a waste of time."
+    },
+    {
+      "id": "quote_703_1772287698193",
+      "character": "Karasuma Tadaomi",
+      "quote": "Every experience is a tool to clear your path.\"\" It was none other than those students who taught me that."
+    },
+    {
+      "id": "quote_831_1772287698193",
+      "character": "Korosensei",
+      "quote": "As you go through life, the might current of society is bound to get in your way and there will certainly be times that things don't go as you'd hoped. When this happens, don't look to society for a cause. Do not renounce society. Frankly, you'd be wasting your time. Instead just say, \"\"That's life!\"\" and muddle your way through with frustration. Once you're past it, consider: If society's swift current is tossing you around, how should you be swimming there in it's midst. You should have learned how, here in the E class, in this assassination classroom. You don't always have to stand and face it head-on. You can run and you can hide. If it's not against the rules, you can try a sneak attack. You can use unconventional weapons. Stay determined - not impatient nor discouraged - and with repeated trial and error, you're bound to reach a splendid outcome eventually."
     }
   ]
 }
