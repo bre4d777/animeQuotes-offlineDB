@@ -1,9 +1,9 @@
 {
   "name": "Kenichi: The Mightiest Disciple",
   "anilistId": 1559,
-  "totalQuotes": 10,
+  "totalQuotes": 11,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T15:36:17.001Z",
+  "lastUpdated": "2026-02-28T14:27:19.055Z",
   "quotes": [
     {
       "id": "quote_1663_1755682016141",
@@ -54,6 +54,11 @@
       "id": "quote_2378_1755682254283",
       "character": "Akisame Koetsuji",
       "quote": "You cannot go into battle believing you will lose."
+    },
+    {
+      "id": "quote_1601_1772288839055",
+      "character": "Natsu Tanimoto",
+      "quote": "Justice? Truth? More than anything else existing in this world, those things are a burden! The things that are needed are \"\"acting\"\" to deceive people and \"\"power\"\" to control others."
     }
   ]
 }
