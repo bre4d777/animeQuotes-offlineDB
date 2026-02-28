@@ -1,14 +1,19 @@
 {
   "name": "The Garden of Words",
   "anilistId": 16782,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:45:40.438Z",
+  "lastUpdated": "2026-02-28T14:25:50.101Z",
   "quotes": [
     {
       "id": "quote_153_1755686740438",
       "character": "Yukari Yukino",
       "quote": "A faint clap of thunder, clouded skies; perhaps rain comes. If so, will you stay here with me?"
+    },
+    {
+      "id": "quote_1555_1772288750101",
+      "character": "Yukari Yukino",
+      "quote": "A faint clap of thunder, clouded skies"
     }
   ]
 }
