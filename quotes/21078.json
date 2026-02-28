@@ -1,7 +1,7 @@
 {
-  "name": "Aoharu x Kikanjuu",
+  "name": "Aoharu x Machinegun",
   "anilistId": 21078,
-  "totalQuotes": 5,
+  "totalQuotes": 6,
   "totalCharacters": 3,
   "quotes": [
     {
@@ -28,6 +28,12 @@
       "id": "quote_1657_1755682007306",
       "character": "Tachibana Hotaru",
       "quote": "I may not be able to beat you, even if we play a hundred more games. But if I have a chance of beating you the 101st time, I'll challenge you again and again."
+    },
+    {
+      "id": "quote_28_1772286544782",
+      "character": "Tachibana Hotaru",
+      "quote": "... Although this won't happen instantly, as long as you have the thought, you will have a chance. Because at the moment you want to change, you have already taken the first step to changing."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:49:04.782Z"
 }
