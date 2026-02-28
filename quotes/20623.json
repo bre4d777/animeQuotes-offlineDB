@@ -1,7 +1,7 @@
 {
   "name": "Parasyte -the maxim-",
   "anilistId": 20623,
-  "totalQuotes": 7,
+  "totalQuotes": 9,
   "totalCharacters": 3,
   "quotes": [
     {
@@ -38,6 +38,17 @@
       "id": "quote_2425_1755682278488",
       "character": "Shinichi Izumi",
       "quote": "When you feel your life's on the line, your true nature surfaces."
+    },
+    {
+      "id": "quote_1500_1772288661051",
+      "character": "Shinichi Izumi",
+      "quote": "In the end, I couldn't see things from the parasites' perspective, never mind from Migi's. Of course not. It wasn't possible from the beginning. As two different species, we may at times take advantage of each other and kill each other, but it's impossible to understand each other. Actually, you shouldn't even think that you've figured out another species based on your standards. I think it's human arrogance to think we understand how other life forms feel. There may be no other life forms that are truly a \"\"friend\"\" to man. Still, even if we can't comprehend them, they are, without a doubt, neighbors deserving of our respect. We protect other species because humans themselves are lonely creatures. We protect the environment because humans themselves don't want to go extinct. What drives us is simply self-gratification. But I think that's fine, and that it's really all there is to it. There's no point in despising humans by human standards. That's right. So in the end, it's hypocritical for us to love Earth without loving ourselves."
+    },
+    {
+      "id": "quote_1759_1772288661051",
+      "character": "Tamura Reiko",
+      "quote": "You all underestimate humans. Individually, they may appear weak, but that is not the case. What we need to recognize is that humans are a single life-form comprised of millions of individuals. Besides their individual brains, humans possess a different \"\"brain\"\" of enormous magnitude. The moment we act in opposition to that brain, we will lose."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T14:24:21.051Z"
 }
