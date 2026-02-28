@@ -1,9 +1,9 @@
 {
-  "name": "Naruto Shippuuden",
+  "name": "Naruto: Shippuden",
   "anilistId": 1735,
-  "totalQuotes": 20,
+  "totalQuotes": 21,
   "totalCharacters": 9,
-  "lastUpdated": "2025-08-20T10:38:44.511Z",
+  "lastUpdated": "2026-02-28T13:49:02.407Z",
   "quotes": [
     {
       "id": "quote_1711_1755682024788",
@@ -104,6 +104,11 @@
       "id": "quote_116_1755686324511",
       "character": "Pain",
       "quote": "Even innocent foolish children will grow up in the face of pain, until their thoughts and beliefs are the same as their doubts."
+    },
+    {
+      "id": "quote_22_1772286542407",
+      "character": "Sasuke Uchiha",
+      "quote": "No man chooses evil because it is evil"
     }
   ]
 }
