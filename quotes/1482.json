@@ -1,9 +1,9 @@
 {
   "name": "D.Gray-man",
   "anilistId": 1482,
-  "totalQuotes": 107,
+  "totalQuotes": 109,
   "totalCharacters": 12,
-  "lastUpdated": "2025-08-20T15:29:43.574Z",
+  "lastUpdated": "2026-02-28T14:22:00.634Z",
   "quotes": [
     {
       "id": "quote_1_1755686264216",
@@ -539,6 +539,16 @@
       "id": "quote_94_1755700654923",
       "character": "Tyki Mikk",
       "quote": "Having a light side and a dark side is what makes life interesting."
+    },
+    {
+      "id": "quote_7345_1772288520634",
+      "character": "Miranda Lotto",
+      "quote": "I've never had anyone say \"\"thank you\"\" to me. That means I've never been helpful to anyone. I wanted somebody to say \"\"thank you\"\" to me and I wanted them to accept me."
+    },
+    {
+      "id": "quote_7395_1772288520634",
+      "character": "Lavi",
+      "quote": "*beating his hammer in the sand* It's just like whack-a-mole and of course \"\"Strike\"\"!"
     }
   ]
 }
