@@ -1,9 +1,9 @@
 {
   "name": "Mobile Suit Gundam Seed",
   "anilistId": 93,
-  "totalQuotes": 64,
+  "totalQuotes": 66,
   "totalCharacters": 13,
-  "lastUpdated": "2025-08-20T15:29:29.148Z",
+  "lastUpdated": "2026-02-28T14:48:48.093Z",
   "quotes": [
     {
       "id": "quote_2518_1755663614674",
@@ -324,6 +324,16 @@
       "id": "quote_4_1755703769148",
       "character": "Rau Le Creuset",
       "quote": "No matter what we learn, no matter what we obtain, nothing ever changes! People are amazing that way! They become envious, hate each other, and destroy each other! If that's what they truly desire, why don't they simply exterminate each other!? "
+    },
+    {
+      "id": "quote_5845_1772290128093",
+      "character": "Rau Le Creuset",
+      "quote": "Why torment yourself saying, \"\"Eventually, someday?\"\" How long have you been fighting with your thoughts clouded by that brand of sweet poison?"
+    },
+    {
+      "id": "quote_5855_1772290128093",
+      "character": "Rau Le Creuset",
+      "quote": "If it's my fate to be shot down by you, I thought this place would be appropriate... However, it doesn't look like there's any chance of that happening. After all, how could the \"\"child\"\" ever hope to defeat the \"\"parent\"\"?"
     }
   ]
 }
