@@ -2,5 +2,6 @@
 !quotes/
 !quotes/**
 !stats.json
+!main.json
 !.gitignore
 !anilist_cache.json
