@@ -1,9 +1,9 @@
 {
-  "name": "Inuyasha",
+  "name": "InuYasha",
   "anilistId": 249,
-  "totalQuotes": 79,
+  "totalQuotes": 80,
   "totalCharacters": 9,
-  "lastUpdated": "2025-08-20T15:31:12.985Z",
+  "lastUpdated": "2026-02-28T14:01:28.739Z",
   "quotes": [
     {
       "id": "quote_486_1755681778348",
@@ -399,6 +399,11 @@
       "id": "quote_564_1755681778348",
       "character": "Kagome Higurashi",
       "quote": "Someone the exact opposite of Inuyasha.  That's the perfect guy for me."
+    },
+    {
+      "id": "quote_1676_1772287288739",
+      "character": "Inuyasha",
+      "quote": "Neither one nor the other, not a demon, but not a human either, no place no belong… I thought the only way was to carve out your own place, by force"
     }
   ]
 }
