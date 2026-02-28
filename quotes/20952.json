@@ -1,9 +1,9 @@
 {
-  "name": "Imawa no Kuni no Alice",
+  "name": "Alice in Borderland",
   "anilistId": 20952,
-  "totalQuotes": 8,
+  "totalQuotes": 9,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T10:27:37.987Z",
+  "lastUpdated": "2026-02-28T14:10:09.417Z",
   "quotes": [
     {
       "id": "quote_157_1755685657987",
@@ -44,6 +44,11 @@
       "id": "quote_164_1755685657987",
       "character": "Shuntarou Chishiya",
       "quote": "Do you know the origin of the word \"utopia\"? The English philosopher, Thomas More, created this word with intense irony in mind. In Greek, it means \"A place that does not exist\"."
+    },
+    {
+      "id": "quote_1015_1772287809417",
+      "character": "Shuntarou Chishiya",
+      "quote": "Do you know the origin of the word \"\"utopia\"\"? The English philosopher, Thomas More, created this word with intense irony in mind. In Greek, it means \"\"A place that does not exist\"\"."
     }
   ]
 }
