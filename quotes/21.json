@@ -1,9 +1,9 @@
 {
-  "name": "One Piece",
+  "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 217,
+  "totalQuotes": 229,
   "totalCharacters": 41,
-  "lastUpdated": "2025-08-20T15:29:38.789Z",
+  "lastUpdated": "2026-02-28T13:51:29.835Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1089,6 +1089,66 @@
       "id": "quote_16_1755703778789",
       "character": "Crocodile",
       "quote": "\"If I do this, I can stop the rebellion”, “if I do that, I can stop the rebellion”... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!\n"
+    },
+    {
+      "id": "quote_1070_1772286689835",
+      "character": "Brook",
+      "quote": "Loneliness\"\" is no longer part of my vocabulary."
+    },
+    {
+      "id": "quote_3320_1772286689835",
+      "character": "Donquixote Doflamingo",
+      "quote": "I lost my mother when I was 8...and killed my father when I was 10. Those with the title of \"\"Executive\"\" or above...are my \"\"family\"\", with whom I've shared my joys and sorrows. They're the only thing I have! I won't forgive anyone that laughs at my family. Understood?"
+    },
+    {
+      "id": "quote_3331_1772286689835",
+      "character": "Kuzan",
+      "quote": "The thing called \"\"justice\"\" changes its shape... Depending on where you stand."
+    },
+    {
+      "id": "quote_3336_1772286689835",
+      "character": "Whitebeard",
+      "quote": "About Whitebeard \"\"Even in death, his body did not fall. His figure, taking down enemies while losing half of his head, was truly monstrous. The total number of sword wounds he received in this battle was 267. He was shot by 152 bullets. And was hit by 46 cannonballs. And despite all this, his proud back, over the course of his entire life as a pirate, never received a single scar from running away!"
+    },
+    {
+      "id": "quote_3420_1772286689835",
+      "character": "Eustass Kid",
+      "quote": "Compared to the \"\"righteous\"\" greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born."
+    },
+    {
+      "id": "quote_3724_1772286689835",
+      "character": "Crocodile",
+      "quote": "If I do this, I can stop the rebellion\"\", \"\"if I do that, I can stop the rebellion\"\"... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!"
+    },
+    {
+      "id": "quote_4646_1772286689835",
+      "character": "Crocodile",
+      "quote": "If I do this, I can stop the rebellion”, “if I do that, I can stop the rebellion”... Open your eyes, princess! Your zealous idealism disgusts me! Ideals can only be spoken by those powerful enough to carry them out. And that excludes you!"
+    },
+    {
+      "id": "quote_4696_1772286689835",
+      "character": "Sanji",
+      "quote": "Leave this guy's key to me, I'll do what you cant do"
+    },
+    {
+      "id": "quote_6478_1772286689835",
+      "character": "Nico Robin",
+      "quote": "They call me the \"\"demon child\"\"."
+    },
+    {
+      "id": "quote_8075_1772286689835",
+      "character": "Monkey D. Luffy",
+      "quote": "It's not like \"\"thanks\"\" are something I can eat."
+    },
+    {
+      "id": "quote_8080_1772286689835",
+      "character": "Roronoa Zoro",
+      "quote": "Well, how about this. My \"\"luck\"\" versus this thing's \"\"curse\"\". Wanna see what's stronger..? If I lose, then I'm just that much of a man anyways..."
+    },
+    {
+      "id": "quote_8145_1772286689835",
+      "character": "Usopp",
+      "quote": "*after his \"\"5 ton's hammer\"\" breaks* Of course it was fake! I can't lift five tons! I quit after five pounds!"
     }
   ]
 }
