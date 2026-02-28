@@ -1,7 +1,7 @@
 {
   "name": "Kamisama no Inai Nichiyoubi",
   "anilistId": 16009,
-  "totalQuotes": 8,
+  "totalQuotes": 9,
   "totalCharacters": 3,
   "quotes": [
     {
@@ -43,6 +43,12 @@
       "id": "quote_1806_1755663531993",
       "character": "Hampnie Hambart",
       "quote": "I do want to die. But I want to die happily. Like I have for others, I want someone to wave me off. My friends, my wife, and my children... Making them mourn for me, making them long for me, and leaving things that I should have done behind... That is how I want to die."
+    },
+    {
+      "id": "quote_3578_1772291238892",
+      "character": "Hampnie Hambart",
+      "quote": "Remember this. The only words that can keep you alive are \"\"I want to live."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T15:07:18.892Z"
 }
