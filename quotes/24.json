@@ -1,9 +1,9 @@
 {
   "name": "School Rumble",
   "anilistId": 24,
-  "totalQuotes": 8,
+  "totalQuotes": 9,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-21T12:16:59.340Z",
+  "lastUpdated": "2026-02-28T14:48:45.976Z",
   "quotes": [
     {
       "id": "quote_2160_1755682157028",
@@ -44,6 +44,11 @@
       "id": "quote_4_1755778619340",
       "character": "Imadori Kyousuke",
       "quote": "I CAN DO THAT TOO!\" *He takes out a banana and squishes it, giggling evilly* "
+    },
+    {
+      "id": "quote_4905_1772290125975",
+      "character": "Imadori Kyousuke",
+      "quote": "I CAN DO THAT TOO!\"\" *He takes out a banana and squishes it, giggling evilly*"
     }
   ]
 }
