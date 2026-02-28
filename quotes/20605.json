@@ -1,7 +1,7 @@
 {
   "name": "Tokyo Ghoul",
   "anilistId": 20605,
-  "totalQuotes": 41,
+  "totalQuotes": 44,
   "totalCharacters": 14,
   "quotes": [
     {
@@ -208,6 +208,22 @@
       "id": "quote_1494_1755681957856",
       "character": "Kaneki Ken",
       "quote": "What's wrong isn't me, what's wrong is the world!"
+    },
+    {
+      "id": "quote_162_1772286912480",
+      "character": "Kaneki Ken",
+      "quote": "You're wrong. It's not the world that's messed up"
+    },
+    {
+      "id": "quote_2383_1772286912480",
+      "character": "Shuu Tsukiyama",
+      "quote": "Isn't it arrogant to put a price on whether life is \"\"higher\"\" or \"\"lower\"\", Kaneki? We are just bags of meat. The weak bow down and the strong devour them. Rather, if you compared them to all living things, it's humans who have shaved away the most lives. We are different than them."
+    },
+    {
+      "id": "quote_2400_1772286912480",
+      "character": "Kaneki Ken",
+      "quote": "My severe injuries had healed and the sweet taste of blood coated my mouth. I kept walking, my goal vague...trying to dispel the building unease in my chest... Upon entering an open area was the scent of rotting flowers and in the middle of the flowerbed, he stood... Without anyone saying a thing, without his name given, like an unsolved puzzle falling into place by itself, just by seeing that figure, I--understood exactly who I faced. The CCG's reaper. The undefeated ghoul investigator. A cold, vivid gaze. There, stood the God of Death. Why was it that I was seeing beauty in death rather than life? Strangely, I thought he was beautiful... Disoriented, I had failed to comprehend the scene before my eyes. It was not anything like flowers but a large amount of \"\"Death\"\". Had he done this alone?... It's a lie... Koma...Irimi...After all that... No matter how I tried to rouse my will to fight with hatred, more than sorrow, more than rage, the emotion that arose within me was despair."
     }
-  ]
+  ],
+  "lastUpdated": "2026-02-28T13:55:12.480Z"
 }
