@@ -1,9 +1,9 @@
 {
   "name": "Shakugan no Shana",
   "anilistId": 355,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:24:09.999Z",
+  "lastUpdated": "2026-02-28T14:12:09.166Z",
   "quotes": [
     {
       "id": "quote_48_1755685449999",
@@ -24,6 +24,11 @@
       "id": "quote_51_1755685449999",
       "character": "Shana",
       "quote": "Friendship is unnecessary, like philosophy, like art. It has no survival value. Rather it is one of those things that give value to survival."
+    },
+    {
+      "id": "quote_3686_1772287929166",
+      "character": "Shana",
+      "quote": "Those who rely on \"\"someday\"\" will only grow weaker and lowlier."
     }
   ]
 }
