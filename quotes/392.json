@@ -1,9 +1,9 @@
 {
-  "name": "Yu Yu Hakusho",
+  "name": "Yu Yu Hakusho: Ghostfiles",
   "anilistId": 392,
-  "totalQuotes": 103,
+  "totalQuotes": 105,
   "totalCharacters": 11,
-  "lastUpdated": "2025-08-20T15:33:41.825Z",
+  "lastUpdated": "2026-02-28T14:54:16.385Z",
   "quotes": [
     {
       "id": "quote_2074_1755663572930",
@@ -519,6 +519,16 @@
       "id": "quote_62_1755704021825",
       "character": "Yu Yu Hakusho",
       "quote": "And so it all begins. This boy's name is Yusuke. He's 14 years old and is supposed to be the hero of the story... but oddly enough, he's dead.\n\n\n"
+    },
+    {
+      "id": "quote_4451_1772290456385",
+      "character": "Kurama",
+      "quote": "It most certainly isn't pleasant being called a \"\"traitor\"\" by creatures you've never met."
+    },
+    {
+      "id": "quote_4567_1772290456385",
+      "character": "Touya",
+      "quote": "It's simple. Even the strongest tree will die if left in the dark. I find that to be the best way to describe us. A giant oak, crashing through a dark soil, bringing order to an otherwise chaotic land. The Shinobi have done their job for centuries, and done it well. But in recent years, we have caught glimpses of the outside world, and asked: \"\"Why not us? Have we not earned the privilege others take for free?\"\"."
     }
   ]
 }
