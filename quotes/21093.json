@@ -1,9 +1,9 @@
 {
-  "name": "Monster Musume no Iru Nichijou",
+  "name": "Monster Musume: Everyday Life With Monster Girls",
   "anilistId": 21093,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:41:41.869Z",
+  "lastUpdated": "2026-02-28T14:09:48.965Z",
   "quotes": [
     {
       "id": "quote_67_1755686501869",
@@ -24,6 +24,11 @@
       "id": "quote_70_1755686501869",
       "character": "Rachnera Arachnera",
       "quote": "Pretending to get along is just hypocritical. If you don't like me, that's fine. People are free to like and hate what they want."
+    },
+    {
+      "id": "quote_739_1772287788965",
+      "character": "Rachnera Arachnera",
+      "quote": "So you're trying to accept everyone and their feelings, aren't you? I think you already know this, but if you keep trying to do this \"\"accepting\"\" thing with everyone, you're liable to be torn to bits."
     }
   ]
 }
