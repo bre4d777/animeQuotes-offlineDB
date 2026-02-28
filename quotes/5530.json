@@ -1,9 +1,9 @@
 {
-  "name": "Pandora Hearts",
+  "name": "PandoraHearts",
   "anilistId": 5530,
-  "totalQuotes": 75,
+  "totalQuotes": 78,
   "totalCharacters": 13,
-  "lastUpdated": "2025-08-20T15:30:58.447Z",
+  "lastUpdated": "2026-02-28T14:03:10.091Z",
   "quotes": [
     {
       "id": "quote_3022_1755663651403",
@@ -379,6 +379,21 @@
       "id": "quote_919_1755700872521",
       "character": "Gilbert Nightray",
       "quote": "Young Master!"
+    },
+    {
+      "id": "quote_2830_1772287390091",
+      "character": "Elliot Nightray",
+      "quote": "Your so-called \"\"self-sacrifice\"\" only satisfies yourself. Do you think you can save people with it? You're only protecting yourself! You don't know the suffering endured by those left alive. With your childish actions, you're only pushing the pain onto other people!"
+    },
+    {
+      "id": "quote_4714_1772287390091",
+      "character": "Xerxes Break",
+      "quote": "Aah... I said I'd \"\"answer you\"\" ... Not that I'd \"\"give you a straight answer\"\"."
+    },
+    {
+      "id": "quote_7491_1772287390091",
+      "character": "Oz Vessalius",
+      "quote": "I want to know what it is, this \"\"sin\"\" they say I've committed."
     }
   ]
 }
