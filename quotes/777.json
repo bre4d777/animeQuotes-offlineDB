@@ -1,9 +1,9 @@
 {
   "name": "Hellsing Ultimate",
   "anilistId": 777,
-  "totalQuotes": 11,
+  "totalQuotes": 12,
   "totalCharacters": 3,
-  "lastUpdated": "2025-08-20T14:37:47.475Z",
+  "lastUpdated": "2026-02-28T14:17:03.004Z",
   "quotes": [
     {
       "id": "quote_2584_1755663620451",
@@ -59,6 +59,11 @@
       "id": "quote_100_1755700667475",
       "character": "Alucard",
       "quote": "We ruin the countries we govern and the people in our care. We slaughter our enemies and sacrifice all our allies. We’ll keep killing till there’s nothing left but to destroy ourselves. It will never be enough."
+    },
+    {
+      "id": "quote_2646_1772288223004",
+      "character": "Alexander Anderson",
+      "quote": "I want nothing more than to be a bayonet"
     }
   ]
 }
