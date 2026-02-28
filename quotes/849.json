@@ -1,9 +1,9 @@
 {
   "name": "The Melancholy of Haruhi Suzumiya",
   "anilistId": 849,
-  "totalQuotes": 72,
+  "totalQuotes": 75,
   "totalCharacters": 7,
-  "lastUpdated": "2025-08-20T15:30:17.351Z",
+  "lastUpdated": "2026-02-28T13:49:13.087Z",
   "quotes": [
     {
       "id": "quote_2695_1755663634427",
@@ -364,6 +364,21 @@
       "id": "quote_773_1755700865390",
       "character": "Haruhi Suzumiya",
       "quote": "Even I get in the mood for that stuff now and then. I am a healthy girl, my body has its urges. But I won't let a momentary slip up leave me with a burden."
+    },
+    {
+      "id": "quote_4873_1772286553087",
+      "character": "Haruhi Suzumiya",
+      "quote": "I thought that everyone in Japan had to be packed in there. So I turned to my dad and asked him,\"\"Do you know how many people are here right now\"\"? He said probably fifty thousand, since the stadium was full. I was only one little person in that big crowded stadium filled with people, and there were so many people there, but it was just a handful out of the entire population. Up till then, I always thought that I was, I don't know, kind of a special person. It was fun to be with my family. I had fun with my classmates. And the school that I was going to, it had just about the most interesting people anywhere. But that night, I realized it wasn't true. All the stuff we did during class that I thought was so fun and cool, was probably happening just like that in classes in other schools all over Japan. There was nothing special about my school at all."
+    },
+    {
+      "id": "quote_7312_1772286553087",
+      "character": "Haruhi Suzumiya",
+      "quote": "Anyone accepting defeat will be punished by running ten laps around the school, naked! And you'll have to yell \"\"Green Martians are chasing me!\"\" for the whole ten laps!"
+    },
+    {
+      "id": "quote_7321_1772286553087",
+      "character": "Itsuki Koizumi",
+      "quote": "The top brass at the organization is seriously panicked, right now. Nobody knows what will happen to the \"\"real world\"\", now that we've lost our Deity. If Miss Suzimiya is feeling merciful, we might get to keep on living, on this side of the bubble."
     }
   ]
 }
