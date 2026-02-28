@@ -1,9 +1,9 @@
 {
-  "name": "Kami Nomi zo Shiru Sekai",
+  "name": "The World God Only Knows",
   "anilistId": 8525,
-  "totalQuotes": 37,
+  "totalQuotes": 40,
   "totalCharacters": 6,
-  "lastUpdated": "2025-08-20T15:36:49.184Z",
+  "lastUpdated": "2026-02-28T14:15:02.980Z",
   "quotes": [
     {
       "id": "quote_738_1755663450740",
@@ -189,6 +189,21 @@
       "id": "quote_97_1755704209184",
       "character": "Keima Katsuragi",
       "quote": "You keep imposing your ideals on them. Don't worry about other people. You only need to do what you think is right. \r\n"
+    },
+    {
+      "id": "quote_1156_1772288102980",
+      "character": "Keima Katsuragi",
+      "quote": "There's no use in just creating \"\"Love\"\". Empty hearts filled with \"\"Love\"\" tend to be unstable."
+    },
+    {
+      "id": "quote_1726_1772288102980",
+      "character": "Keima Katsuragi",
+      "quote": "I've no interest in a \"\"Reality\"\"."
+    },
+    {
+      "id": "quote_1729_1772288102980",
+      "character": "Keima Katsuragi",
+      "quote": "The \"\"tsun\"\" personality is an armor that protects purity. An iron virgin."
     }
   ]
 }
