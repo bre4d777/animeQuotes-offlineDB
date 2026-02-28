@@ -1,9 +1,9 @@
 {
-  "name": "Rokudenashi Majutsu Koushi to Akashic Records",
+  "name": "Akashic Records of Bastard Magic Instructor",
   "anilistId": 21700,
-  "totalQuotes": 4,
+  "totalQuotes": 5,
   "totalCharacters": 2,
-  "lastUpdated": "2025-08-20T10:32:36.155Z",
+  "lastUpdated": "2026-02-28T13:53:19.109Z",
   "quotes": [
     {
       "id": "quote_108_1755685956155",
@@ -24,6 +24,11 @@
       "id": "quote_111_1755685956155",
       "character": "Glenn Radars",
       "quote": "It's easy to say \"choose so that you'll have no regrets,\" but that's impossible. No matter how hard you've agonized over your path, you'll always regret something about it later. That's just how we humans are made. Which is why I think our true feelings are important. If you choose your path based on your true feelings, it'll hurt just a little less when you feel the same regret, right?"
+    },
+    {
+      "id": "quote_157_1772286799109",
+      "character": "Glenn Radars",
+      "quote": "It's easy to say \"\"choose so that you'll have no regrets,\"\" but that's impossible. No matter how hard you've agonized over your path, you'll always regret something about it later. That's just how we humans are made. Which is why I think our true feelings are important. If you choose your path based on your true feelings, it'll hurt just a little less when you feel the same regret, right?"
     }
   ]
 }
