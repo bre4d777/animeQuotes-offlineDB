@@ -1,14 +1,19 @@
 {
   "name": "Darker than Black: Gemini of the Meteor",
   "anilistId": 6573,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:55:14.655Z",
+  "lastUpdated": "2026-02-28T13:51:41.093Z",
   "quotes": [
     {
       "id": "quote_53_1755687314655",
       "character": "Lebanon",
       "quote": "\"Isn't it okay? Even if you and someone meet for just a moment, that moment passes by...You might meet again somewhere, isn't that okay?\""
+    },
+    {
+      "id": "quote_80_1772286701093",
+      "character": "Lebanon",
+      "quote": "Isn't it okay? Even if you and someone meet for just a moment, that moment passes by...You might meet again somewhere, isn't that okay?"
     }
   ]
 }
