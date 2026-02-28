@@ -1,9 +1,9 @@
 {
   "name": "Princess Tutu",
   "anilistId": 721,
-  "totalQuotes": 9,
+  "totalQuotes": 10,
   "totalCharacters": 4,
-  "lastUpdated": "2025-08-20T15:35:49.909Z",
+  "lastUpdated": "2026-02-28T14:05:16.058Z",
   "quotes": [
     {
       "id": "quote_963_1755681832694",
@@ -49,6 +49,11 @@
       "id": "quote_971_1755681832694",
       "character": "Ahiru Arima",
       "quote": "My name is Duck. Yes, like the bird. Take it up with my parents. They never loved me!"
+    },
+    {
+      "id": "quote_2105_1772287516058",
+      "character": "Edel",
+      "quote": "The beginning of a story is a sudden event"
     }
   ]
 }
