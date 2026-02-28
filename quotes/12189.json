@@ -1,9 +1,9 @@
 {
   "name": "Hyouka",
   "anilistId": 12189,
-  "totalQuotes": 26,
+  "totalQuotes": 28,
   "totalCharacters": 5,
-  "lastUpdated": "2025-08-20T15:36:39.537Z",
+  "lastUpdated": "2026-02-28T13:47:50.564Z",
   "quotes": [
     {
       "id": "quote_418_1755681761025",
@@ -134,6 +134,16 @@
       "id": "quote_443_1755681761025",
       "character": "Oreki Houtarou",
       "quote": "Don't care anything and do not do anything that's a waste of energy."
+    },
+    {
+      "id": "quote_3047_1772286470564",
+      "character": "Oreki Houtarou",
+      "quote": "People remember their high school days as the high point of their lives. People say these things because everyone holds fond memories of their time in high school"
+    },
+    {
+      "id": "quote_3048_1772286470564",
+      "character": "Satoshi Fukube",
+      "quote": "People who are confident in themselves never talk about expectations. \"\"Expectation\"\" is a word rooted in giving up. It leaves you with no other choice. It makes it obvious that you're powerless."
     }
   ]
 }
