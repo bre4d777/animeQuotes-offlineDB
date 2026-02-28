@@ -1,14 +1,19 @@
 {
-  "name": "Hajime no Ippo - Champion Road",
+  "name": "Hajime no Ippo: The Fighting! - Champion Road",
   "anilistId": 264,
-  "totalQuotes": 1,
+  "totalQuotes": 2,
   "totalCharacters": 1,
-  "lastUpdated": "2025-08-20T10:48:01.012Z",
+  "lastUpdated": "2026-02-28T14:59:26.686Z",
   "quotes": [
     {
       "id": "quote_228_1755686881012",
       "character": "Takamura Mamoru",
       "quote": "For a man to stand up again, he needs one thing... \"To make excuses\"."
+    },
+    {
+      "id": "quote_2497_1772290766686",
+      "character": "Takamura Mamoru",
+      "quote": "For a man to stand up again, he needs one thing... \"\"To make excuses\"\"."
     }
   ]
 }
